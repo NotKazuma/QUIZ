@@ -1,5 +1,11 @@
 // Komponen asas gaya shadcn: ikon, kad tindakan, lencana, bar kemajuan.
+import AnimatedContent from './bits/AnimatedContent.jsx';
+import GlareHover from './bits/GlareHover.jsx';
 import SpotlightCard from './bits/SpotlightCard.jsx';
+import StarBorder from './bits/StarBorder.jsx';
+
+// Pengguna yang minta kurang animasi tidak akan nampak kesan masuk/latar bergerak.
+export const REDUCED_MOTION = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 // Ikon gaya Lucide (laluan SVG 24x24).
 const ICONS = {
@@ -60,10 +66,14 @@ export function PageHead({ badge, title }) {
 // `icon` boleh jadi nama ikon atau teks pendek (cth. nombor subjek, tahun).
 export function ActionCard({ icon, title, desc, onClick, disabled, soon, className = '' }) {
   const iconNode = ICONS[icon] ? <Icon name={icon} /> : icon;
+  // Kilauan melintas bila disentuh (GlareHover) + cahaya ikut jari (SpotlightCard).
   return (
+    <GlareHover className={'glare-wrap' + (disabled ? ' is-disabled' : '')} width="100%" height="auto"
+      background="transparent" borderColor="transparent" borderRadius="calc(var(--radius) + 4px)"
+      glareColor="#ffffff" glareOpacity={0.35} glareSize={300} transitionDuration={800}>
     <SpotlightCard
       className={'card action-card ' + (disabled ? 'is-disabled ' : '') + className}
-      spotlightColor="rgba(20, 184, 166, 0.22)"
+      spotlightColor="rgba(20, 184, 166, 0.25)"
     >
       <button className="card-button" onClick={onClick} disabled={disabled}>
         <span className={'card-icon' + (disabled ? ' icon-muted' : '')} aria-hidden="true">{iconNode}</span>
@@ -74,5 +84,28 @@ export function ActionCard({ icon, title, desc, onClick, disabled, soon, classNa
         {soon ? <Badge variant="outline">Akan datang</Badge> : <Icon name="chevron" className="chevron" />}
       </button>
     </SpotlightCard>
+    </GlareHover>
+  );
+}
+
+// Kandungan muncul dari bawah secara berperingkat (React Bits AnimatedContent).
+export function Reveal({ children, index = 0, distance = 40, className, ...rest }) {
+  if (REDUCED_MOTION) return <div className={className}>{children}</div>;
+  return (
+    <AnimatedContent distance={distance} duration={0.6} delay={index * 0.07}
+      threshold={0} className={className} {...rest}>
+      {children}
+    </AnimatedContent>
+  );
+}
+
+// Butang utama dengan bintang beredar di bingkai (React Bits StarBorder).
+export function GlowButton({ children, onClick, className = '' }) {
+  return (
+    <StarBorder as="button" className={'glow-button ' + className} onClick={onClick}
+      color="#fde68a" speed="3s" thickness={3}
+      backgroundColor="var(--primary)" textColor="var(--primary-foreground)" borderColor="transparent">
+      {children}
+    </StarBorder>
   );
 }

@@ -54,6 +54,18 @@ export function prepareQuestion(q) {
   };
 }
 
+// Soalan objektif semua subjek bagi satu peperiksaan: { idSubjek: [...] }, null jika gagal dimuat.
+export async function loadExamQuestions(exam) {
+  const entries = await Promise.all(exam.subjects.map(s =>
+    loadQuestions(s.file).then(qs => [s.id, objectiveOnly(qs)]).catch(() => [s.id, null])));
+  return Object.fromEntries(entries);
+}
+
+// Tapis soalan mengikut tahun (null = semua tahun).
+export function filterByYear(questions, year) {
+  return year ? questions.filter(q => yearOf(q) === year) : questions;
+}
+
 // Ambil tahun daripada medan `source` (cth. "UPKK 2024" -> "2024").
 export function yearOf(q) {
   const m = String(q.source || '').match(/\d{4}/);

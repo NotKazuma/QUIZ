@@ -1,34 +1,44 @@
 import { useEffect, useState } from 'react';
-import { ActionCard, BackButton, PageHead } from '../components/ui.jsx';
-import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
+import CountUp from '../components/bits/CountUp.jsx';
+import { ActionCard, BackButton, PageHead, Reveal } from '../components/ui.jsx';
+import { filterByYear, loadExamQuestions } from '../lib/quiz.js';
 
-export default function SubjectSelect({ exam, onBack, onSelect }) {
-  // Bilangan soalan bagi setiap subjek, dimuat di belakang tabir.
-  const [counts, setCounts] = useState({});
+// Pilih subjek; bilangan soalan mengikut tahun yang dipilih (null = semua tahun).
+export default function SubjectSelect({ exam, year, onBack, onSelect }) {
+  const [bySubject, setBySubject] = useState(null);
 
   useEffect(() => {
     let alive = true;
-    exam.subjects.forEach(s => {
-      loadQuestions(s.file)
-        .then(qs => {
-          const n = objectiveOnly(qs).length;
-          if (alive) setCounts(c => ({ ...c, [s.id]: n ? n + ' soalan' : 'Tiada soalan lagi' }));
-        })
-        .catch(() => { if (alive) setCounts(c => ({ ...c, [s.id]: 'Ralat memuat soalan' })); });
-    });
+    loadExamQuestions(exam).then(r => { if (alive) setBySubject(r); });
     return () => { alive = false; };
   }, [exam]);
 
   return (
     <section className="screen">
       <BackButton onClick={onBack} />
-      <PageHead badge={exam.name} title="Pilih subjek" />
+      <PageHead badge={exam.name + ' · ' + (year ? 'Tahun ' + year : 'Semua tahun')} title="Pilih subjek" />
       <div className="card-list">
-        {exam.subjects.map((s, i) => (
-          <ActionCard key={s.id} icon={String(i + 1)} title={s.name}
-            desc={counts[s.id] || 'Memuatkan…'} onClick={() => onSelect(s)} />
-        ))}
+        {exam.subjects.map((s, i) => {
+          const qs = bySubject?.[s.id];
+          const selected = qs ? filterByYear(qs, year) : null;
+          return (
+            <Reveal key={s.id} index={i}>
+              <ActionCard icon={String(i + 1)} title={s.name}
+                desc={describe(bySubject, qs, selected)}
+                disabled={!!bySubject && !selected?.length}
+                onClick={() => onSelect(s, selected)} />
+            </Reveal>
+          );
+        })}
       </div>
     </section>
   );
+}
+
+// Bilangan soalan dikira naik (React Bits CountUp).
+function describe(loaded, qs, selected) {
+  if (!loaded) return 'Memuatkan…';
+  if (qs === null) return 'Ralat memuat soalan';
+  if (!selected.length) return qs.length ? 'Tiada soalan tahun ini' : 'Tiada soalan lagi';
+  return <><CountUp to={selected.length} duration={1} /> soalan</>;
 }

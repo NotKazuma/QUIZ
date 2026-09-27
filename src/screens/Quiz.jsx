@@ -1,6 +1,8 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
+import BlurText from '../components/bits/BlurText.jsx';
 import ClickSpark from '../components/bits/ClickSpark.jsx';
-import { Badge, Icon, Progress } from '../components/ui.jsx';
+import Counter from '../components/bits/Counter.jsx';
+import { Badge, GlowButton, Icon, Progress, Reveal } from '../components/ui.jsx';
 import {
   KEYS_ARABIC, KEYS_RUMI, assetUrl, isArabicScript, prepareQuestion, scriptProps, shuffle,
 } from '../lib/quiz.js';
@@ -51,7 +53,7 @@ export default function Quiz({ questions, onQuit, onFinish }) {
   const progress = ((current + (answered ? 1 : 0)) / total) * 100;
 
   return (
-    <section className="screen" key={current}>
+    <section className="screen">
       <div className="quiz-header">
         <button className="btn btn-ghost btn-icon" onClick={quit} aria-label="Berhenti">
           <Icon name="x" />
@@ -60,11 +62,24 @@ export default function Quiz({ questions, onQuit, onFinish }) {
         <Badge variant="secondary">{current + 1}/{total}</Badge>
       </div>
 
-      <div className="card question-card">
-        <p className="eyebrow">{q.exam} · {q.subject}{year && ' · ' + year}</p>
-        <div className={'question ' + script.className} dir={script.dir}>{q.question}</div>
-        {q.image && <img className="question-image" src={assetUrl(q.image)} alt="Gambar soalan" />}
+      {/* Markah semasa bergolek seperti odometer (React Bits Counter) */}
+      <div className="score-row" aria-label={'Markah ' + score}>
+        <span className="muted">Markah</span>
+        <span className={'score-pill' + (answered && correct ? ' bump' : '')}>
+          <Counter value={score} places={score >= 100 ? [100, 10, 1] : score >= 10 ? [10, 1] : [1]} fontSize={18}
+            padding={4} gap={0} horizontalPadding={0} fontWeight={800}
+            gradientFrom="transparent" gradientTo="transparent" />
+        </span>
       </div>
+
+      <div key={current}>
+      <Reveal distance={30}>
+        <div className="card question-card">
+          <p className="eyebrow">{q.exam} · {q.subject}{year && ' · ' + year}</p>
+          <div className={'question ' + script.className} dir={script.dir}>{q.question}</div>
+          {q.image && <img className="question-image" src={assetUrl(q.image)} alt="Gambar soalan" />}
+        </div>
+      </Reveal>
 
       <div className={'options ' + script.className} dir={script.dir}>
         {q.options.map((text, i) => {
@@ -82,13 +97,17 @@ export default function Quiz({ questions, onQuit, onFinish }) {
             </button>
           );
           // Percikan (React Bits ClickSpark) hanya bila jawapan betul ditekan.
-          return i === q.answer ? (
-            <div className="spark-wrap" key={i}>
-              <ClickSpark sparkColor="#22c55e" sparkSize={12} sparkRadius={40} sparkCount={12} duration={500}>
-                {button}
-              </ClickSpark>
-            </div>
-          ) : <div key={i}>{button}</div>;
+          return (
+            <Reveal key={i} index={i + 1} distance={24}>
+              {i === q.answer ? (
+                <div className="spark-wrap">
+                  <ClickSpark sparkColor="#22c55e" sparkSize={14} sparkRadius={55} sparkCount={16} duration={600}>
+                    {button}
+                  </ClickSpark>
+                </div>
+              ) : button}
+            </Reveal>
+          );
         })}
       </div>
 
@@ -96,7 +115,8 @@ export default function Quiz({ questions, onQuit, onFinish }) {
         <div ref={feedbackRef} className={'feedback ' + (correct ? 'correct' : 'wrong')}>
           <span className="feedback-icon"><Icon name={correct ? 'check' : 'x'} /></span>
           <div className="feedback-body">
-            <p className="feedback-title">{correct ? 'Betul! Syabas.' : 'Salah'}</p>
+            <BlurText text={correct ? 'Betul! Syabas.' : 'Salah, cuba lagi nanti.'}
+              className="feedback-title" delay={60} animateBy="words" direction="top" />
             <p dir="auto" className={q.script !== 'rumi' ? 'script-mixed' : ''}>
               {q.explanation && q.explanation.trim() ? q.explanation : 'Jawapan betul: ' + q.options[q.answer]}
             </p>
@@ -104,11 +124,13 @@ export default function Quiz({ questions, onQuit, onFinish }) {
         </div>
       )}
 
+      </div>
+
       <div className="sticky-action">
         {answered && (
-          <button className="btn btn-primary btn-lg" onClick={next}>
+          <GlowButton className="glow-lg" onClick={next}>
             {current < total - 1 ? 'Seterusnya' : 'Lihat markah'}
-          </button>
+          </GlowButton>
         )}
       </div>
     </section>

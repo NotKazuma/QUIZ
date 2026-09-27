@@ -1,4 +1,4 @@
-import { ActionCard, BackButton, PageHead } from '../components/ui.jsx';
+import { ActionCard, BackButton, PageHead, Reveal } from '../components/ui.jsx';
 
 export default function ModeSelect({ exam, onBack, onPractice }) {
   return (
@@ -6,10 +6,14 @@ export default function ModeSelect({ exam, onBack, onPractice }) {
       <BackButton onClick={onBack} />
       <PageHead badge={exam?.name} title="Pilih mod" />
       <div className="card-list">
-        <ActionCard icon="pencil" title="Latihan"
-          desc="Jawab soalan dan terus lihat jawapan betul" onClick={onPractice} />
-        <ActionCard icon="clock" title="Ujian Bermasa"
-          desc="Seperti peperiksaan sebenar" disabled soon />
+        <Reveal index={0}>
+          <ActionCard icon="pencil" title="Latihan"
+            desc="Jawab soalan dan terus lihat jawapan betul" onClick={onPractice} />
+        </Reveal>
+        <Reveal index={1}>
+          <ActionCard icon="clock" title="Ujian Bermasa"
+            desc="Seperti peperiksaan sebenar" disabled soon />
+        </Reveal>
       </div>
     </section>
   );
