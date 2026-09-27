@@ -161,10 +161,10 @@ export default function App() {
   }
 
   // Cabaran: soalan dikocok (maks mengikut config), kolam tebusan = semua soalan subjek.
-  async function startChallenge(subject, questions, all = false) {
+  async function startChallenge(subject, questions, all = false, fixedPool = null) {
     const count = all ? questions.length : subject.test?.questions || 20;
     const chosen = shuffle(questions).slice(0, count).map(q => prepareQuestion(q));
-    const pool = objectiveOnly(await loadQuestions(subject.file));
+    const pool = fixedPool || objectiveOnly(await loadQuestions(subject.file));
     setSubjectId(subject.id);
     setQuizSource(questions);
     setChallenge({ questions: chosen, pool });
@@ -185,6 +185,8 @@ export default function App() {
       chosen: null,
       wrongIds: [],
       assignment: hw ? { id: hw.id, classId: hw.classId, title: hw.title, dueAt: hw.dueAt ?? null } : null,
+      // Soalan set cikgu tiada dalam fail subjek, jadi salinannya disimpan untuk disambung kemudian.
+      snapshot: hw?.questions ? questions : null,
       savedAt: new Date().toISOString(),
     };
     saveSession(user.uid, raw);
@@ -201,15 +203,15 @@ export default function App() {
     const raw = savedRef.current;
     const e = config?.exams.find(x => x.id === raw?.examId);
     const subject = e?.subjects.find(x => x.id === raw.subjectId);
-    if (!subject) return;
+    if (!subject && !raw?.snapshot) return;
     try {
-      const all = objectiveOnly(await loadQuestions(subject.file));
+      const all = raw.snapshot ? objectiveOnly(raw.snapshot) : objectiveOnly(await loadQuestions(subject.file));
       const questions = rebuildQuestions(all, raw.order);
       if (!questions.length) throw new Error('kosong');
       const byId = new Map(all.map(q => [q.id, q]));
-      setExam(e);
+      setExam(e ?? null);
       setYear(raw.year ?? null);
-      setSubjectId(subject.id);
+      setSubjectId(raw.subjectId);
       setQuizSource(raw.order.map(o => byId.get(o.id)).filter(Boolean));
       setAssignment(raw.assignment || null);
       setSession({ ...raw, current: Math.min(raw.current, questions.length - 1), questions });
@@ -271,6 +273,17 @@ export default function App() {
 
   // Mula kerja rumah: soalan tetap yang dipilih cikgu, dalam mod Latihan atau Cabaran.
   async function startHomework(a) {
+    // Kerja rumah daripada set cikgu membawa salinan soalannya sendiri.
+    if (a.questions?.length) {
+      const questions = objectiveOnly(a.questions);
+      const pseudo = { id: a.setId || 'set', test: { questions: questions.length } };
+      setExam(null);
+      setYear(null);
+      setAssignment(a);
+      if (a.mode === 'challenge') startChallenge(pseudo, questions, true, questions);
+      else startQuiz(pseudo, questions, a);
+      return;
+    }
     const e = config?.exams.find(x => x.id === a.examId);
     const subject = e?.subjects.find(x => x.id === a.subjectId);
     if (!subject) return alert('Subjek kerja rumah ini tidak dijumpai.');

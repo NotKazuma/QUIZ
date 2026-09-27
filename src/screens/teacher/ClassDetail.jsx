@@ -90,7 +90,7 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
           <div className="user-list">
             {members.map(m => {
               const s = m.summary || {};
-              const acc = s.answered ? Math.round((s.correct / s.answered) * 100) : 0;
+              const acc = s.answered ? Math.round(((s.correct || 0) / s.answered) * 100) : 0;
               const subjects = Object.entries(m.subjects || {}).sort((a, b) => a[1] - b[1]);
               const expanded = openStudent === m.uid;
               return (

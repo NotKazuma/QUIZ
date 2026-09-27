@@ -3,10 +3,12 @@ import { useState } from 'react';
 import { BackButton, PageHead } from '../../components/ui.jsx';
 import AdminQuestions from './AdminQuestions.jsx';
 import AdminUsers from './AdminUsers.jsx';
+import MySets from '../teacher/MySets.jsx';
 
 const TABS = [
   { id: 'users', label: '👥 Pengguna' },
-  { id: 'questions', label: '📝 Soalan' },
+  { id: 'questions', label: '📝 Bank rasmi' },
+  { id: 'sets', label: '✍️ Soalan cikgu' },
 ];
 
 export default function Admin({ user, config, onBack }) {
@@ -25,6 +27,7 @@ export default function Admin({ user, config, onBack }) {
       </div>
       {tab === 'users' && <AdminUsers me={user} />}
       {tab === 'questions' && <AdminQuestions me={user} config={config} />}
+      {tab === 'sets' && <MySets user={user} config={config} allSets />}
     </section>
   );
 }

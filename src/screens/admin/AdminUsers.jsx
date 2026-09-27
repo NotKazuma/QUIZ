@@ -5,11 +5,33 @@ import {
 } from '../../lib/firebase.js';
 import { ADMIN_EMAILS, TEACHER_EMAIL_PATTERN } from '../../lib/roles.js';
 
+const activity = u => u.lastActive || u.updatedAt || '';
+const accuracy = u => (u.stats?.answered ? (u.stats.correct || 0) / u.stats.answered : -1);
+const SORTS = {
+  aktif: { label: 'Aktif terkini', fn: (a, b) => activity(b).localeCompare(activity(a)) },
+  nama: { label: 'Nama (A–Z)', fn: (a, b) => (a.profile?.name || '~').localeCompare(b.profile?.name || '~', 'ms') },
+  jawab: { label: 'Paling banyak menjawab', fn: (a, b) => (b.stats?.answered || 0) - (a.stats?.answered || 0) },
+  tepat: { label: 'Ketepatan tertinggi', fn: (a, b) => accuracy(b) - accuracy(a) },
+  lemah: { label: 'Ketepatan terendah', fn: (a, b) => (accuracy(a) < 0 ? 2 : accuracy(a)) - (accuracy(b) < 0 ? 2 : accuracy(b)) },
+  mata: { label: 'Mata cabaran tertinggi', fn: (a, b) => (b.stats?.bestPoints || 0) - (a.stats?.bestPoints || 0) },
+};
+
+// Kategori peranan untuk tapisan.
+function roleOf(u) {
+  const email = u.profile?.email?.toLowerCase();
+  if (email && ADMIN_EMAILS.includes(email)) return 'admin';
+  if (u.role === 'teacher' || (email && TEACHER_EMAIL_PATTERN.test(email))) return 'cikgu';
+  if (!u.profile || u.profile.isGuest) return 'tetamu';
+  return 'murid';
+}
+
 export default function AdminUsers({ me }) {
   const [users, setUsers] = useState(null);
   const [error, setError] = useState('');
   const [search, setSearch] = useState('');
-  const [showGuests, setShowGuests] = useState(true);
+  const [roleFilter, setRoleFilter] = useState('');
+  const [sort, setSort] = useState('aktif');
+  const [selected, setSelected] = useState(() => new Set());
   const [busy, setBusy] = useState('');
   const [requests, setRequests] = useState([]);
 
@@ -35,13 +57,47 @@ export default function AdminUsers({ me }) {
     };
   }, [users]);
 
-  const shown = (users || []).filter(u => {
-    // Tetamu (atau dokumen lama tanpa profil) boleh disembunyikan.
-    if (!showGuests && (u.profile?.isGuest || !u.profile)) return false;
+  const shown = useMemo(() => (users || []).filter(u => {
+    if (roleFilter && roleOf(u) !== roleFilter) return false;
     const q = search.trim().toLowerCase();
     if (!q) return true;
     return [u.profile?.name, u.profile?.email, u.uid].some(x => x && x.toLowerCase().includes(q));
-  });
+  }).sort(SORTS[sort].fn), [users, roleFilter, search, sort]);
+
+  // Pengguna yang boleh dipilih (bukan diri sendiri).
+  const selectable = shown.filter(u => u.uid !== me.uid);
+  const allSelected = selectable.length > 0 && selectable.every(u => selected.has(u.uid));
+  const selectedUsers = (users || []).filter(u => selected.has(u.uid));
+  function toggleSel(uid) {
+    setSelected(s => { const n = new Set(s); if (n.has(uid)) n.delete(uid); else n.add(uid); return n; });
+  }
+  function toggleAll() {
+    setSelected(s => { const n = new Set(s); selectable.forEach(u => (allSelected ? n.delete(u.uid) : n.add(u.uid))); return n; });
+  }
+
+  // Tindakan pukal: jadikan/buang cikgu (akaun Google sahaja) atau padam data.
+  async function bulk(action) {
+    const targets = action === 'delete' ? selectedUsers
+      : selectedUsers.filter(u => u.profile && !u.profile.isGuest && roleOf(u) !== 'admin');
+    if (!targets.length) return alert('Tiada pengguna yang sesuai untuk tindakan ini (tetamu tidak boleh jadi cikgu).');
+    const label = { teacher: 'Jadikan cikgu', unteacher: 'Buang peranan cikgu', delete: 'PADAM SEMUA DATA' }[action];
+    if (!confirm(`${label} untuk ${targets.length} pengguna?`)) return;
+    setBusy('bulk');
+    const done = [];
+    for (const u of targets) {
+      try {
+        if (action === 'delete') await deleteUserData(u.uid);
+        else await setUserRole(u.uid, action === 'teacher' ? 'teacher' : null);
+        done.push(u.uid);
+      } catch { /* teruskan yang lain */ }
+    }
+    setUsers(list => (action === 'delete'
+      ? list.filter(x => !done.includes(x.uid))
+      : list.map(x => (done.includes(x.uid) ? { ...x, role: action === 'teacher' ? 'teacher' : null } : x))));
+    setSelected(new Set());
+    setBusy('');
+    if (done.length < targets.length) alert(`${targets.length - done.length} gagal. Cuba lagi.`);
+  }
 
   async function toggleTeacher(u) {
     const makeTeacher = u.role !== 'teacher';
@@ -117,24 +173,48 @@ export default function AdminUsers({ me }) {
       <div className="admin-toolbar">
         <input className="input" type="search" placeholder="Cari nama atau emel…" value={search}
           onChange={e => setSearch(e.target.value)} />
-        <label className="check">
-          <input type="checkbox" checked={showGuests} onChange={e => setShowGuests(e.target.checked)} />
-          Tunjuk tetamu
-        </label>
+        <select className="input input-auto" value={roleFilter} onChange={e => setRoleFilter(e.target.value)} aria-label="Tapis peranan">
+          <option value="">Semua peranan</option>
+          <option value="murid">Murid (Google)</option>
+          <option value="tetamu">Tetamu</option>
+          <option value="cikgu">Cikgu</option>
+          <option value="admin">Admin</option>
+        </select>
+        <select className="input input-auto" value={sort} onChange={e => setSort(e.target.value)} aria-label="Susun">
+          {Object.entries(SORTS).map(([k, v]) => <option key={k} value={k}>↕ {v.label}</option>)}
+        </select>
         <button className="btn btn-outline" onClick={load}>Muat semula</button>
       </div>
 
-      <p className="muted small">{shown.length} daripada {summary.total} pengguna</p>
+      <div className="qbank-selectbar">
+        <label className="check">
+          <input type="checkbox" checked={allSelected} onChange={toggleAll} disabled={!selectable.length} />
+          Pilih semua yang dipapar ({selectable.length})
+        </label>
+        <span className="muted small">{shown.length} daripada {summary.total} pengguna</span>
+      </div>
+
+      {selected.size > 0 && (
+        <div className="bulk-bar" role="toolbar" aria-label="Tindakan pukal">
+          <span className="bulk-count">{selected.size} dipilih</span>
+          <button className="btn btn-primary btn-sm" disabled={busy === 'bulk'} onClick={() => bulk('teacher')}>Jadikan cikgu</button>
+          <button className="btn btn-outline btn-sm" disabled={busy === 'bulk'} onClick={() => bulk('unteacher')}>Buang cikgu</button>
+          <button className="btn btn-ghost btn-sm btn-danger" disabled={busy === 'bulk'} onClick={() => bulk('delete')}>Padam data</button>
+          <button className="link-btn" onClick={() => setSelected(new Set())}>Nyahpilih</button>
+        </div>
+      )}
 
       <div className="user-list">
         {shown.map(u => {
           const s = u.stats || {};
-          const acc = s.answered ? Math.round((s.correct / s.answered) * 100) : 0;
+          const acc = s.answered ? Math.round(((s.correct || 0) / s.answered) * 100) : 0;
           const admin = u.profile?.email && ADMIN_EMAILS.includes(u.profile.email.toLowerCase());
           const self = u.uid === me.uid;
           return (
-            <div key={u.uid} className="card user-row">
+            <div key={u.uid} className={'card user-row' + (selected.has(u.uid) ? ' is-selected' : '')}>
               <div className="user-main">
+                {!self && <input type="checkbox" className="q-check" checked={selected.has(u.uid)}
+                  onChange={() => toggleSel(u.uid)} aria-label={'Pilih ' + (u.profile?.name || u.uid)} />}
                 {u.profile?.photo
                   ? <img className="avatar" src={u.profile.photo} alt="" width={40} height={40} referrerPolicy="no-referrer" />
                   : <span className="avatar" style={{ width: 40, height: 40, fontSize: 18 }}>{(u.profile?.name || '?').charAt(0).toUpperCase()}</span>}

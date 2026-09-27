@@ -25,6 +25,8 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
   const orderKey = race ? JSON.stringify(race.order) : '';
   useEffect(() => {
     if (!race || questions) return;
+    // Perlumbaan daripada set cikgu membawa salinan soalannya sendiri.
+    if (race.questions) return setQuestions(rebuildQuestions(objectiveOnly(race.questions), race.order));
     const subject = config?.exams.find(e => e.id === race.examId)?.subjects.find(s => s.id === race.subjectId);
     if (!subject) return;
     loadQuestions(subject.file).then(qs => setQuestions(rebuildQuestions(objectiveOnly(qs), race.order)));

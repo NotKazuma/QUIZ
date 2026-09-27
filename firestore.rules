@@ -90,6 +90,17 @@ service cloud.firestore {
       }
     }
 
+    // Set soalan cikgu (berasingan daripada bank rasmi). Pemilik & admin sahaja.
+    // Murid menerima salinan soalan melalui kerja rumah / perlumbaan, bukan terus dari sini.
+    match /teacherSets/{sid} {
+      allow read: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+      allow create: if canTeach() && request.resource.data.ownerUid == request.auth.uid;
+      allow update: if isAdmin()
+        || (signedIn() && resource.data.ownerUid == request.auth.uid
+            && request.resource.data.ownerUid == request.auth.uid);
+      allow delete: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+    }
+
     // Kod kelas -> id kelas. Boleh dibaca satu-satu (bukan disenaraikan).
     match /classCodes/{code} {
       allow get: if signedIn();

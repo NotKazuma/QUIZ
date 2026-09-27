@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { ActionCard, BackButton, GlowButton, PageHead, Reveal } from '../../components/ui.jsx';
 import { createClass, listTeacherClasses } from '../../lib/classes.js';
 import ClassDetail from './ClassDetail.jsx';
+import MySets from './MySets.jsx';
 
 export default function Teacher({ user, config, onBack, onHostRace }) {
   const [classes, setClasses] = useState(null);
@@ -10,6 +11,7 @@ export default function Teacher({ user, config, onBack, onHostRace }) {
   const [name, setName] = useState('');
   const [busy, setBusy] = useState(false);
   const [open, setOpen] = useState(null);
+  const [tab, setTab] = useState('classes');
 
   async function load() {
     try {
@@ -48,6 +50,14 @@ export default function Teacher({ user, config, onBack, onHostRace }) {
     <section className="screen">
       <BackButton onClick={onBack} />
       <PageHead badge="Cikgu" title="Panel Cikgu" />
+      <div className="tabs" role="tablist">
+        <button role="tab" aria-selected={tab === 'classes'} className={'tab' + (tab === 'classes' ? ' is-active' : '')}
+          onClick={() => setTab('classes')}>🏫 Kelas</button>
+        <button role="tab" aria-selected={tab === 'sets'} className={'tab' + (tab === 'sets' ? ' is-active' : '')}
+          onClick={() => setTab('sets')}>📝 Soalan saya</button>
+      </div>
+
+      {tab === 'sets' ? <MySets user={user} config={config} /> : <>
 
       <Reveal>
         <form className="card form-card" onSubmit={create}>
@@ -74,6 +84,7 @@ export default function Teacher({ user, config, onBack, onHostRace }) {
           </Reveal>
         ))}
       </div>
+      </>}
     </section>
   );
 }

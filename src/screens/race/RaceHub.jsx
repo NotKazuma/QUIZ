@@ -3,6 +3,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { BackButton, GlowButton, PageHead, Reveal } from '../../components/ui.jsx';
 import { filterByYear, loadQuestions, objectiveOnly, prepareQuestion, shuffle, yearOf } from '../../lib/quiz.js';
 import { createRace, joinRace, raceReady } from '../../lib/race.js';
+import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 import RaceRoom from './RaceRoom.jsx';
 
 export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd }) {
@@ -22,6 +23,15 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
   const [year, setYear] = useState('');
   const [count, setCount] = useState(10);
   const [hostPlays, setHostPlays] = useState(!teacher && !presetClass);
+  const [source, setSource] = useState('official'); // 'official' | 'set' (cikgu sahaja)
+  const [sets, setSets] = useState(null);
+  const [setId, setSetId] = useState('');
+  const chosenSet = sets?.find(s => s.id === setId);
+
+  useEffect(() => {
+    if (source !== 'set' || sets) return;
+    listMySets(user.uid).then(list => { setSets(list); setSetId(list[0]?.id || ''); }).catch(() => setSets([]));
+  }, [source, sets, user.uid]);
 
   useEffect(() => {
     if (!subject) return;
@@ -29,7 +39,9 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
     loadQuestions(subject.file).then(qs => setQuestions(objectiveOnly(qs))).catch(() => setQuestions([]));
   }, [subject]);
   const years = useMemo(() => [...new Set((questions || []).map(yearOf))].sort().reverse(), [questions]);
-  const available = questions ? filterByYear(questions, year || null) : [];
+  const available = source === 'set'
+    ? objectiveOnly(chosenSet?.questions || [])
+    : questions ? filterByYear(questions, year || null) : [];
   const n = Math.min(count, available.length);
 
   if (!raceReady) {
@@ -72,14 +84,18 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
     setBusy(true);
     setError('');
     try {
-      const picked = shuffle(available).slice(0, n).map(q => prepareQuestion(q));
+      const originals = shuffle(available).slice(0, n);
+      const picked = originals.map(q => prepareQuestion(q));
+      const base = source === 'set'
+        ? {
+          examId: null, examName: SET_EXAM_LABEL, subjectId: null, subjectName: chosenSet.title, year: null,
+          // Salinan soalan set cikgu (tanpa medan undefined — Realtime Database tidak menerimanya).
+          questions: JSON.parse(JSON.stringify(originals)),
+        }
+        : { examId: exam.id, examName: exam.name, subjectId: subject.id, subjectName: subject.name, year: year || null };
       const newPin = await createRace(user, {
+        ...base,
         classId: presetClass?.id || null,
-        examId: exam.id,
-        examName: exam.name,
-        subjectId: subject.id,
-        subjectName: subject.name,
-        year: year || null,
         order: picked.map(q => ({ id: q.id, perm: q.perm })),
       });
       if (hostPlays) await joinRace(newPin, user, name);
@@ -112,6 +128,24 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
       <Reveal index={1}>
         <form className="card form-card" onSubmit={host}>
           <p className="field-label">{presetClass ? 'Hos perlumbaan untuk kelas' : 'Cipta perlumbaan & cabar kawan'}</p>
+          {teacher && (
+            <div className="chips" role="radiogroup" aria-label="Sumber soalan">
+              <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}>📚 Bank rasmi</button>
+              <button type="button" className={'chip' + (source === 'set' ? ' is-active' : '')} onClick={() => setSource('set')}>📝 Set soalan saya</button>
+            </div>
+          )}
+          {source === 'set' ? (
+            sets === null ? <p className="muted small">Memuatkan set…</p> : !sets.length ? (
+              <p className="alert">Belum ada set soalan. Cipta di Panel Cikgu → Soalan saya.</p>
+            ) : (
+              <label className="field">
+                <span className="field-hint">Set soalan</span>
+                <select className="input" value={setId} onChange={e => setSetId(e.target.value)}>
+                  {sets.map(s => <option key={s.id} value={s.id}>{s.title} ({objectiveOnly(s.questions).length} soalan)</option>)}
+                </select>
+              </label>
+            )
+          ) : (
           <div className="field-row">
             <label className="field">
               <span className="field-hint">Peperiksaan</span>
@@ -130,14 +164,15 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
               </select>
             </label>
           </div>
+          )}
           <div className="field-row">
-            <label className="field">
+            {source !== 'set' && <label className="field">
               <span className="field-hint">Tahun</span>
               <select className="input" value={year} onChange={e => setYear(e.target.value)}>
                 <option value="">Semua tahun</option>
                 {years.map(y => <option key={y} value={y}>{y}</option>)}
               </select>
-            </label>
+            </label>}
             <label className="field">
               <span className="field-hint">Bilangan soalan</span>
               <select className="input" value={count} onChange={e => setCount(Number(e.target.value))}>

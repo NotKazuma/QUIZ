@@ -11,6 +11,7 @@ export default function AssignmentReport({ cls, assignment: a, members, config, 
 
   useEffect(() => {
     listSubmissions(cls.id, a.id).then(setSubs).catch(() => setSubs([]));
+    if (a.questions) setQuestions(Object.fromEntries(a.questions.map(q => [q.id, q])));
     const subject = config?.exams.find(e => e.id === a.examId)?.subjects.find(s => s.id === a.subjectId);
     if (subject) loadQuestions(subject.file).then(qs => setQuestions(Object.fromEntries(qs.map(q => [q.id, q])))).catch(() => {});
   }, [cls.id, a.id, a.examId, a.subjectId, config]);

@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { BackButton, GlowButton, PageHead } from '../../components/ui.jsx';
 import { createAssignment } from '../../lib/classes.js';
 import { filterByYear, loadQuestions, objectiveOnly, shuffle, yearOf } from '../../lib/quiz.js';
+import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 
 // Tarikh akhir lalai: 7 hari dari sekarang, jam 9 malam (format input datetime-local).
 function defaultDue() {
@@ -25,6 +26,10 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
   const [mode, setMode] = useState('practice');
   const [due, setDue] = useState(defaultDue);
   const [title, setTitle] = useState('');
+  const [source, setSource] = useState('official'); // 'official' | 'set'
+  const [sets, setSets] = useState(null);
+  const [setId, setSetId] = useState('');
+  const chosenSet = sets?.find(s => s.id === setId);
   const [busy, setBusy] = useState(false);
 
   useEffect(() => {
@@ -33,8 +38,16 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
     loadQuestions(subject.file).then(qs => setQuestions(objectiveOnly(qs))).catch(() => setQuestions([]));
   }, [subject]);
 
+  // Set soalan cikgu sendiri (dimuat bila dipilih).
+  useEffect(() => {
+    if (source !== 'set' || sets) return;
+    listMySets(cls.teacherUid).then(list => { setSets(list); setSetId(list[0]?.id || ''); }).catch(() => setSets([]));
+  }, [source, sets, cls.teacherUid]);
+
   const years = useMemo(() => [...new Set((questions || []).map(yearOf))].sort().reverse(), [questions]);
-  const available = questions ? filterByYear(questions, year || null) : [];
+  const available = source === 'set'
+    ? objectiveOnly(chosenSet?.questions || [])
+    : questions ? filterByYear(questions, year || null) : [];
   const n = count === 'all' ? available.length : Math.min(count, available.length);
 
   async function submit(e) {
@@ -43,7 +56,23 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
     setBusy(true);
     try {
       const picked = shuffle(available).slice(0, n);
-      const a = await createAssignment(cls.id, {
+      // Set cikgu: salinan soalan disimpan dalam kerja rumah (murid tidak perlu akses kepada set).
+      const details = source === 'set' ? {
+        title: title.trim() || chosenSet.title,
+        examId: null,
+        examName: SET_EXAM_LABEL,
+        subjectId: null,
+        subjectName: chosenSet.title,
+        setId: chosenSet.id,
+        year: null,
+        questions: picked,
+      } : null;
+      const a = await createAssignment(cls.id, details ? {
+        ...details,
+        questionIds: picked.map(q => q.id),
+        mode,
+        dueAt: due ? new Date(due).toISOString() : null,
+      } : {
         title: title.trim() || `${exam.name} ${subject.name}${year ? ' ' + year : ''}`,
         examId: exam.id,
         examName: exam.name,
@@ -72,6 +101,22 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
           <input className="input" value={title} maxLength={60} placeholder={`${exam?.name ?? ''} ${subject?.name ?? ''}`}
             onChange={e => setTitle(e.target.value)} />
         </label>
+        <div className="chips" role="radiogroup" aria-label="Sumber soalan">
+          <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}>📚 Bank rasmi</button>
+          <button type="button" className={'chip' + (source === 'set' ? ' is-active' : '')} onClick={() => setSource('set')}>📝 Set soalan saya</button>
+        </div>
+        {source === 'set' ? (
+          sets === null ? <p className="muted small">Memuatkan set…</p> : !sets.length ? (
+            <p className="alert">Belum ada set soalan. Cipta di Panel Cikgu → Soalan saya.</p>
+          ) : (
+            <label className="field">
+              <span className="field-label">Set soalan</span>
+              <select className="input" value={setId} onChange={e => setSetId(e.target.value)}>
+                {sets.map(s => <option key={s.id} value={s.id}>{s.title} ({objectiveOnly(s.questions).length} soalan)</option>)}
+              </select>
+            </label>
+          )
+        ) : (
         <div className="field-row">
           <label className="field">
             <span className="field-label">Peperiksaan</span>
@@ -97,6 +142,7 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
             </select>
           </label>
         </div>
+        )}
         <div className="field-row">
           <label className="field">
             <span className="field-label">Bilangan soalan</span>
@@ -118,7 +164,7 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
           <input className="input" type="datetime-local" value={due} onChange={e => setDue(e.target.value)} />
         </label>
         <p className="muted small">
-          {questions ? `${n} soalan akan dipilih secara rawak daripada ${available.length} soalan yang ada.` : 'Memuatkan soalan…'}
+          {source === 'set' || questions ? `${n} soalan akan dipilih secara rawak daripada ${available.length} soalan yang ada.` : 'Memuatkan soalan…'}
         </p>
         <GlowButton className="glow-lg" type="submit" disabled={busy || !n}>{busy ? 'Menyimpan…' : 'Beri kerja rumah'}</GlowButton>
       </form>

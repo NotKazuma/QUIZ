@@ -114,6 +114,22 @@ await expect('bukan admin senaraikan permohonan', false, () => getDocs(query(col
 await expect('admin luluskan permohonan', true, () => updateDoc(doc(admin.db, 'users', delimaM.uid), { role: 'teacher', 'teacherRequest.status': 'approved' }));
 await expect('pemohon diluluskan cipta kelas', true, () => setDoc(doc(collection(delimaM.db, 'classes')), { name: 'K', teacherUid: delimaM.uid, code: 'DLM005' }));
 
+console.log('--- set soalan cikgu');
+const setRef = doc(collection(delimaG.db, 'teacherSets'));
+await expect('cikgu cipta set soalan', true, () => setDoc(setRef, { ownerUid: delimaG.uid, title: 'Set A', questions: [], updatedAt: '2026' }));
+await expect('murid cipta set soalan', false, () => setDoc(doc(collection(carol.db, 'teacherSets')), { ownerUid: carol.uid, title: 'X', questions: [] }));
+await expect('cikgu cipta set atas nama orang lain', false, () => setDoc(doc(collection(delimaG.db, 'teacherSets')), { ownerUid: delimaM.uid, title: 'X', questions: [] }));
+await expect('cikgu kemas kini set sendiri', true, () => updateDoc(setRef, { questions: [{ id: 'q1' }], updatedAt: '2027' }));
+await expect('cikgu pindah milik set', false, () => updateDoc(setRef, { ownerUid: delimaM.uid }));
+await expect('cikgu lain baca set orang', false, () => getDoc(doc(delimaM.db, 'teacherSets', setRef.id)));
+await expect('cikgu lain ubah set orang', false, () => updateDoc(doc(delimaM.db, 'teacherSets', setRef.id), { title: 'Hack' }));
+await expect('murid baca set cikgu', false, () => getDoc(doc(carol.db, 'teacherSets', setRef.id)));
+await expect('cikgu senaraikan set sendiri', true, () => getDocs(query(collection(delimaG.db, 'teacherSets'), where('ownerUid', '==', delimaG.uid))));
+await expect('cikgu senaraikan semua set', false, () => getDocs(collection(delimaG.db, 'teacherSets')));
+await expect('admin senaraikan semua set', true, () => getDocs(collection(admin.db, 'teacherSets')));
+await expect('admin sunting set cikgu', true, () => updateDoc(doc(admin.db, 'teacherSets', setRef.id), { title: 'Disemak admin' }));
+await expect('cikgu padam set sendiri', true, () => deleteDoc(setRef));
+
 console.log('--- lain-lain');
 await expect('tulis koleksi tidak dikenali', false, () => setDoc(doc(admin.db, 'random', 'x'), { a: 1 }));
 

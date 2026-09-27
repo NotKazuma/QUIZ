@@ -170,7 +170,7 @@ function ResumeCard({ saved, config, onResume, onDiscard }) {
     <Reveal className="resume">
       <ActionCard className="resume-card" icon="play"
         title="Sambung latihan"
-        desc={`${exam?.name ?? '?'} · ${subject?.name ?? '?'}${saved.year ? ' · ' + saved.year : ''} · ${done}/${total} dijawab · markah ${saved.score}`}
+        desc={`${exam && subject ? `${exam.name} · ${subject.name}` : saved.assignment?.title || 'Soalan Cikgu'}${saved.year ? ' · ' + saved.year : ''} · ${done}/${total} dijawab · markah ${saved.score}`}
         onClick={onResume} />
       <div className="resume-meta">
         <span className="muted">Disimpan {when}</span>
