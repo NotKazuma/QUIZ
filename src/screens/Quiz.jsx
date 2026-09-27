@@ -13,11 +13,12 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
   const [current, setCurrent] = useState(session.current || 0);
   const [score, setScore] = useState(session.score || 0);
   const [chosen, setChosen] = useState(session.chosen ?? null); // indeks pilihan dijawab, null = belum
+  const [wrongIds, setWrongIds] = useState(session.wrongIds || []); // untuk laporan kerja rumah
   const feedbackRef = useRef(null);
 
   // Autosave: simpan kedudukan setiap kali pengguna menjawab atau ke soalan seterusnya.
   useEffect(() => {
-    onProgress({ current, score, chosen });
+    onProgress({ current, score, chosen, wrongIds });
   }, [current, score, chosen]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const q = prepared[current];
@@ -37,6 +38,7 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
     if (answered) return;
     setChosen(i);
     if (i === q.answer) setScore(s => s + 1);
+    else setWrongIds(w => [...w, q.id]);
     onAnswer(i === q.answer);
   }
 
@@ -45,7 +47,7 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
       setCurrent(c => c + 1);
       setChosen(null);
     } else {
-      onFinish({ score, total, exam: q.exam, subject: q.subject });
+      onFinish({ score, total, wrongIds, exam: q.exam, subject: q.subject });
     }
   }
 

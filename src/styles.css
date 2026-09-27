@@ -1039,3 +1039,29 @@ p { margin: 0; }
 .option-edit input[type=radio] { width: 20px; height: 20px; accent-color: var(--correct); flex-shrink: 0; }
 .editor-actions { display: grid; gap: 8px; }
 .q-editor .btn-back { justify-self: start; }
+
+/* ===== Kelas & cikgu ===== */
+.teacher-card .card-icon, .class-card .card-icon { background: #ede9fe; color: #6d28d9; }
+.classes-card .card-icon { background: #dbeafe; color: #1d4ed8; }
+@media (prefers-color-scheme: dark) {
+  .teacher-card .card-icon, .class-card .card-icon { background: #2e1065; color: #c4b5fd; }
+  .classes-card .card-icon { background: #172554; color: #93c5fd; }
+}
+.section-title { margin: 22px 0 10px; font-size: 1.05rem; font-weight: 800; }
+.input-code { text-transform: uppercase; letter-spacing: 0.35em; font-weight: 800; font-size: 1.3rem; text-align: center; }
+.class-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 14px 16px; }
+.class-code { display: grid; justify-items: center; gap: 2px; width: 100%; padding: 18px; margin-bottom: 12px; font: inherit; color: inherit; cursor: pointer; }
+.class-code-value { font-size: 2.4rem; font-weight: 800; letter-spacing: 0.25em; color: var(--primary); font-variant-numeric: tabular-nums; }
+.host-race-btn { margin-bottom: 14px; }
+.student-main { display: grid; gap: 4px; padding: 0; font: inherit; color: inherit; text-align: start; background: none; border: 0; cursor: pointer; }
+.student-main .progress { margin-top: 4px; }
+.weak { font-size: 0.78rem; color: var(--wrong); font-weight: 600; }
+.student-detail { display: grid; gap: 8px; padding-top: 8px; border-top: 1px dashed var(--border); }
+.subject-bars { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.subject-bars li { display: grid; grid-template-columns: 1fr 90px 42px; align-items: center; gap: 8px; font-size: 0.82rem; }
+.subject-bars b { text-align: end; }
+.delete-class { display: flex; margin: 28px auto 0; }
+.report-row .progress { margin: 2px 0; }
+.homework-card.is-done { opacity: 0.75; }
+.homework-card.is-late.card-spotlight.action-card { border-color: var(--wrong); }
+.homework-card .card-desc { font-size: 0.8rem; }

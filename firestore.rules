@@ -16,6 +16,24 @@ service cloud.firestore {
         && request.auth.token.email in ['aimanskspp@gmail.com'];
     }
 
+    // Cikgu = peranan 'teacher' dalam dokumen pengguna (ditetapkan admin). Admin juga boleh mengajar.
+    function isTeacher() {
+      return signedIn()
+        && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.get('role', null) == 'teacher';
+    }
+    function canTeach() {
+      return isAdmin() || isTeacher();
+    }
+    function classData(cid) {
+      return get(/databases/$(database)/documents/classes/$(cid)).data;
+    }
+    function ownsClass(cid) {
+      return signedIn() && classData(cid).teacherUid == request.auth.uid;
+    }
+    function isMember(cid) {
+      return signedIn() && exists(/databases/$(database)/documents/classes/$(cid)/members/$(request.auth.uid));
+    }
+
     // Data pengguna: users/{uid}. Pengguna urus dokumen sendiri, tetapi tidak boleh ubah `role`.
     match /users/{uid} {
       allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
@@ -30,6 +48,45 @@ service cloud.firestore {
     match /subjects/{id} {
       allow read: if true;
       allow write: if isAdmin();
+    }
+
+    // Kelas: cikgu pemilik urus segalanya; murid (ahli) boleh baca kelas & kerja rumah.
+    match /classes/{cid} {
+      allow read: if isAdmin()
+        || (signedIn() && resource.data.teacherUid == request.auth.uid)
+        || isMember(cid);
+      allow create: if canTeach() && request.resource.data.teacherUid == request.auth.uid;
+      allow update: if (ownsClass(cid) && request.resource.data.teacherUid == request.auth.uid) || isAdmin();
+      allow delete: if ownsClass(cid) || isAdmin();
+
+      // Murid menyertai dengan menyertakan kod kelas yang betul.
+      match /members/{uid} {
+        allow read: if ownsClass(cid) || isAdmin() || (signedIn() && request.auth.uid == uid);
+        allow create: if signedIn() && request.auth.uid == uid
+          && request.resource.data.code == classData(cid).code;
+        allow update: if signedIn() && request.auth.uid == uid
+          && request.resource.data.code == resource.data.code;
+        allow delete: if ownsClass(cid) || isAdmin() || (signedIn() && request.auth.uid == uid);
+      }
+
+      match /assignments/{aid} {
+        allow read: if ownsClass(cid) || isAdmin() || isMember(cid);
+        allow write: if ownsClass(cid) || isAdmin();
+
+        match /submissions/{uid} {
+          allow read: if ownsClass(cid) || isAdmin() || (signedIn() && request.auth.uid == uid);
+          allow create, update: if signedIn() && request.auth.uid == uid && isMember(cid);
+          allow delete: if ownsClass(cid) || isAdmin();
+        }
+      }
+    }
+
+    // Kod kelas -> id kelas. Boleh dibaca satu-satu (bukan disenaraikan).
+    match /classCodes/{code} {
+      allow get: if signedIn();
+      allow list: if false;
+      allow create: if canTeach() && ownsClass(request.resource.data.classId);
+      allow delete: if signedIn() && (ownsClass(resource.data.classId) || isAdmin());
     }
 
     match /{document=**} {

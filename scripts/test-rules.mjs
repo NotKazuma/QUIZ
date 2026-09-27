@@ -59,13 +59,48 @@ await expect('pengguna padam dokumen sendiri', false, () => deleteDoc(doc(alice.
 await expect('admin padam data pengguna', true, () => deleteDoc(doc(admin.db, 'users', alice.uid)));
 
 console.log('--- subjects/{id}');
-await expect('admin simpan soalan', true, () => setDoc(doc(admin.db, 'subjects', 'upkk__aqidah'), { questions: [] }));
-await expect('tanpa log masuk baca soalan', true, () => getDoc(doc(outsider.db, 'subjects', 'upkk__aqidah')));
-await expect('pengguna biasa ubah soalan', false, () => setDoc(doc(bob.db, 'subjects', 'upkk__aqidah'), { questions: [1] }));
+await expect('admin simpan soalan', true, () => setDoc(doc(admin.db, 'subjects', 'ujian__rules'), { questions: [] }));
+await expect('tanpa log masuk baca soalan', true, () => getDoc(doc(outsider.db, 'subjects', 'ujian__rules')));
+await expect('pengguna biasa ubah soalan', false, () => setDoc(doc(bob.db, 'subjects', 'ujian__rules'), { questions: [1] }));
+
+console.log('--- kelas');
+const carol = await client('anon');   // murid
+const dave = await client('anon');    // bukan ahli
+const cls = doc(collection(bob.db, 'classes'));
+await expect('pengguna biasa cipta kelas', false, () => setDoc(doc(collection(carol.db, 'classes')), { name: 'X', teacherUid: carol.uid, code: 'AAAAAA' }));
+await expect('cikgu cipta kelas', true, () => setDoc(cls, { name: '6 Bestari', teacherUid: bob.uid, code: 'TEST42', createdAt: '2026' }));
+await expect('cikgu cipta kelas atas nama orang lain', false, () => setDoc(doc(collection(bob.db, 'classes')), { name: 'X', teacherUid: carol.uid, code: 'B' }));
+await expect('cikgu daftar kod kelas', true, () => setDoc(doc(bob.db, 'classCodes', 'TEST42'), { classId: cls.id }));
+await expect('pengguna daftar kod untuk kelas orang', false, () => setDoc(doc(carol.db, 'classCodes', 'HACK99'), { classId: cls.id }));
+await expect('murid baca kod kelas', true, () => getDoc(doc(carol.db, 'classCodes', 'TEST42')));
+await expect('murid senaraikan semua kod kelas', false, () => getDocs(collection(carol.db, 'classCodes')));
+await expect('murid baca kelas sebelum sertai', false, () => getDoc(doc(carol.db, 'classes', cls.id)));
+await expect('murid sertai dengan kod salah', false, () => setDoc(doc(carol.db, 'classes', cls.id, 'members', carol.uid), { name: 'Carol', code: 'SALAH1' }));
+await expect('murid sertai dengan kod betul', true, () => setDoc(doc(carol.db, 'classes', cls.id, 'members', carol.uid), { name: 'Carol', code: 'TEST42' }));
+await expect('murid daftarkan orang lain', false, () => setDoc(doc(carol.db, 'classes', cls.id, 'members', dave.uid), { name: 'Dave', code: 'TEST42' }));
+await expect('murid baca kelas selepas sertai', true, () => getDoc(doc(carol.db, 'classes', cls.id)));
+await expect('murid kemas kini ringkasan sendiri', true, () => updateDoc(doc(carol.db, 'classes', cls.id, 'members', carol.uid), { summary: { answered: 3 } }));
+await expect('murid senaraikan ahli kelas', false, () => getDocs(collection(carol.db, 'classes', cls.id, 'members')));
+await expect('cikgu senaraikan ahli kelas', true, () => getDocs(collection(bob.db, 'classes', cls.id, 'members')));
+await expect('murid ubah nama kelas', false, () => updateDoc(doc(carol.db, 'classes', cls.id), { name: 'Hack' }));
+const asg = doc(collection(bob.db, 'classes', cls.id, 'assignments'));
+await expect('cikgu cipta kerja rumah', true, () => setDoc(asg, { title: 'KR1', questionIds: ['a'], createdAt: '2026' }));
+await expect('murid cipta kerja rumah', false, () => setDoc(doc(collection(carol.db, 'classes', cls.id, 'assignments')), { title: 'X' }));
+await expect('murid baca kerja rumah', true, () => getDocs(collection(carol.db, 'classes', cls.id, 'assignments')));
+await expect('bukan ahli baca kerja rumah', false, () => getDocs(collection(dave.db, 'classes', cls.id, 'assignments')));
+await expect('murid hantar kerja rumah sendiri', true, () => setDoc(doc(carol.db, 'classes', cls.id, 'assignments', asg.id, 'submissions', carol.uid), { bestScore: 5 }));
+await expect('bukan ahli hantar kerja rumah', false, () => setDoc(doc(dave.db, 'classes', cls.id, 'assignments', asg.id, 'submissions', dave.uid), { bestScore: 9 }));
+await expect('murid hantar bagi pihak orang lain', false, () => setDoc(doc(carol.db, 'classes', cls.id, 'assignments', asg.id, 'submissions', dave.uid), { bestScore: 9 }));
+await expect('murid lihat hantaran orang lain', false, () => getDocs(collection(carol.db, 'classes', cls.id, 'assignments', asg.id, 'submissions')));
+await expect('cikgu lihat semua hantaran', true, () => getDocs(collection(bob.db, 'classes', cls.id, 'assignments', asg.id, 'submissions')));
+await expect('cikgu keluarkan murid', true, () => deleteDoc(doc(bob.db, 'classes', cls.id, 'members', carol.uid)));
+await expect('murid dikeluarkan baca kelas', false, () => getDoc(doc(carol.db, 'classes', cls.id)));
+await expect('admin baca kelas cikgu', true, () => getDoc(doc(admin.db, 'classes', cls.id)));
+await expect('cikgu padam kod & kelas', true, async () => { await deleteDoc(doc(bob.db, 'classCodes', 'TEST42')); await deleteDoc(cls); });
 
 console.log('--- lain-lain');
 await expect('tulis koleksi tidak dikenali', false, () => setDoc(doc(admin.db, 'random', 'x'), { a: 1 }));
 
-for (const c of [alice, bob, admin, outsider]) await deleteApp(c.app);
+for (const c of [alice, bob, admin, outsider, carol, dave]) await deleteApp(c.app);
 console.log(failed ? `\n${failed} ujian GAGAL` : '\nSemua ujian lulus');
 process.exit(failed ? 1 : 0);

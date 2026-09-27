@@ -6,11 +6,13 @@ import RotatingText from '../components/bits/RotatingText.jsx';
 import ShinyText from '../components/bits/ShinyText.jsx';
 import { ActionCard, LinkReminder, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
 import { ACHIEVEMENTS } from '../lib/achievements.js';
+import HomeworkList from './classes/HomeworkList.jsx';
 import { useMediaQuery } from '../lib/useMediaQuery.js';
 import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 
 export default function Home({
-  config, error, user, saved, unlockedCount, admin, onAdmin, onResume, onDiscard, onLink, onAchievements, onSelectExam,
+  config, error, user, saved, unlockedCount, admin, teacher, myClasses, onAdmin, onTeacher, onClasses, onStartHomework,
+  onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
   const dark = useMediaQuery('(prefers-color-scheme: dark)');
   const [total, setTotal] = useState(0);
@@ -72,6 +74,20 @@ export default function Home({
       {/* Peringatan tetamu: sentiasa dipaparkan sehingga akaun Google dipautkan */}
       {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} /></Reveal>}
 
+      {teacher && (
+        <Reveal className="spaced">
+          <ActionCard className="teacher-card" icon="users" title="Panel Cikgu"
+            desc="Kelas, laporan murid, kerja rumah & perlumbaan" onClick={onTeacher} />
+        </Reveal>
+      )}
+
+      {/* Kerja rumah yang belum dibuat (daripada kelas yang disertai) */}
+      {myClasses.length > 0 && (
+        <div className="spaced">
+          <HomeworkList user={user} myClasses={myClasses} onStart={onStartHomework} limit={3} />
+        </div>
+      )}
+
       {admin && (
         <Reveal className="spaced">
           <ActionCard className="admin-card" icon="shield" title="Panel Admin"
@@ -115,6 +131,13 @@ export default function Home({
             <ActionCard className="achievement-card" icon="trophy" title="Pencapaian"
               desc={`${unlockedCount}/${ACHIEVEMENTS.length} dibuka · lihat statistik anda`}
               onClick={onAchievements} />
+          </Reveal>
+        )}
+        {config && (
+          <Reveal index={config.exams.length + 2}>
+            <ActionCard className="classes-card" icon="users" title="Kelas saya"
+              desc={myClasses.length ? `${myClasses.length} kelas · kerja rumah & sertai kelas` : 'Sertai kelas cikgu dengan kod kelas'}
+              onClick={onClasses} />
           </Reveal>
         )}
       </div>

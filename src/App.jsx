@@ -1,10 +1,11 @@
 // Navigasi antara skrin: Log masuk → Utama → Mod → Tahun → Subjek → Kuiz → Keputusan (+ Pencapaian).
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { Suspense, lazy, useCallback, useEffect, useRef, useState } from 'react';
 import {
   loadConfig, loadQuestions, objectiveOnly, prepareQuestion, rebuildQuestions, shuffle,
 } from './lib/quiz.js';
 import {
-  authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveProfile, saveProgress, saveSession,
+  authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveMyClasses, saveProfile, saveProgress,
+  saveSession,
   signOutUser, watchUser,
 } from './lib/firebase.js';
 import { emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd } from './lib/achievements.js';
@@ -14,8 +15,12 @@ import GradientText from './components/bits/GradientText.jsx';
 import Particles from './components/bits/Particles.jsx';
 import Toasts from './components/Toasts.jsx';
 import Achievements from './screens/Achievements.jsx';
-import Admin from './screens/admin/Admin.jsx';
 import { isAdmin, isTeacher } from './lib/roles.js';
+import { submitAssignment, updateMemberSummary } from './lib/classes.js';
+import MyClasses from './screens/classes/MyClasses.jsx';
+// Panel admin & cikgu hanya dimuat turun bila dibuka (kebanyakan pengguna ialah murid).
+const Admin = lazy(() => import('./screens/admin/Admin.jsx'));
+const Teacher = lazy(() => import('./screens/teacher/Teacher.jsx'));
 import Home from './screens/Home.jsx';
 import Login from './screens/Login.jsx';
 import ModeSelect from './screens/ModeSelect.jsx';
@@ -44,6 +49,8 @@ export default function App() {
   const [stats, setStats] = useState(emptyStats);
   const [unlocked, setUnlocked] = useState({});
   const [role, setRole] = useState(null);         // 'teacher' atau null (ditetapkan admin)
+  const [myClasses, setMyClasses] = useState([]); // kelas yang disertai: [{ id, name, code }]
+  const [assignment, setAssignment] = useState(null); // kerja rumah yang sedang dibuat
   const [toasts, setToasts] = useState([]);
 
   const [session, setSession] = useState(null);  // sesi kuiz semasa (dengan soalan penuh)
@@ -74,6 +81,7 @@ export default function App() {
     setStats(emptyStats());
     setUnlocked({});
     setRole(null);
+    setMyClasses([]);
     setScreen('home');
     if (!user) return;
     let alive = true;
@@ -83,6 +91,7 @@ export default function App() {
       setStats(d.stats);
       setUnlocked(d.unlocked);
       setRole(d.role);
+      setMyClasses((d.classes || []).map(c => (typeof c === 'string' ? { id: c, name: user.name } : c)));
       setDataReady(true);
     });
     return () => { alive = false; };
@@ -145,8 +154,8 @@ export default function App() {
   }
 
   // Cabaran: soalan dikocok (maks mengikut config), kolam tebusan = semua soalan subjek.
-  async function startChallenge(subject, questions) {
-    const count = subject.test?.questions || 20;
+  async function startChallenge(subject, questions, all = false) {
+    const count = all ? questions.length : subject.test?.questions || 20;
     const chosen = shuffle(questions).slice(0, count).map(q => prepareQuestion(q));
     const pool = objectiveOnly(await loadQuestions(subject.file));
     setSubjectId(subject.id);
@@ -156,17 +165,19 @@ export default function App() {
     go('challenge');
   }
 
-  function startQuiz(subject, questions) {
+  function startQuiz(subject, questions, hw = null) {
     if (savedRef.current && !confirm('Anda ada latihan yang belum selesai. Mula latihan baharu dan buang simpanan itu?')) return;
     const prepared = shuffle(questions).map(q => prepareQuestion(q));
     const raw = {
-      examId: exam?.id ?? null,
+      examId: hw?.examId ?? exam?.id ?? null,
       subjectId: subject.id,
-      year,
+      year: hw ? hw.year || null : year,
       order: prepared.map(q => ({ id: q.id, perm: q.perm })),
       current: 0,
       score: 0,
       chosen: null,
+      wrongIds: [],
+      assignment: hw ? { id: hw.id, classId: hw.classId, title: hw.title, dueAt: hw.dueAt ?? null } : null,
       savedAt: new Date().toISOString(),
     };
     saveSession(user.uid, raw);
@@ -193,6 +204,7 @@ export default function App() {
       setYear(raw.year ?? null);
       setSubjectId(subject.id);
       setQuizSource(raw.order.map(o => byId.get(o.id)).filter(Boolean));
+      setAssignment(raw.assignment || null);
       setSession({ ...raw, current: Math.min(raw.current, questions.length - 1), questions });
       setQuizRun(n => n + 1);
       go('quiz');
@@ -225,14 +237,50 @@ export default function App() {
     clearSession(user.uid);
     setSaved(null);
     updateStats(recordQuizEnd(statsRef.current, { examId: exam?.id, subjectId, score: r.score, total: r.total }));
+    afterQuiz(r);
     setResult(r);
     go('result');
   }
 
   function finishChallenge(r) {
     updateStats(recordQuizEnd(statsRef.current, { ...r, examId: exam?.id, subjectId }));
+    afterQuiz(r);
     setResult(r);
     go('result');
+  }
+
+  // Selepas latihan: hantar kerja rumah (jika ada) dan kemas kini ringkasan murid untuk cikgu.
+  function afterQuiz(r) {
+    if (assignment) {
+      const cls = myClasses.find(c => c.id === assignment.classId);
+      submitAssignment(assignment, user, cls?.name || user.name, r)
+        .then(() => pushToast({ type: 'info', emoji: '📬', title: 'Kerja rumah dihantar!', desc: assignment.title }))
+        .catch(() => alert('Kerja rumah gagal dihantar. Semak sambungan internet dan cuba lagi.'));
+      setAssignment(null);
+    }
+    // statsRef dikemas kini serta-merta oleh updateStats di atas.
+    myClasses.forEach(c => updateMemberSummary(c.id, user.uid, statsRef.current).catch(() => {}));
+  }
+
+  // Mula kerja rumah: soalan tetap yang dipilih cikgu, dalam mod Latihan atau Cabaran.
+  async function startHomework(a) {
+    const e = config?.exams.find(x => x.id === a.examId);
+    const subject = e?.subjects.find(x => x.id === a.subjectId);
+    if (!subject) return alert('Subjek kerja rumah ini tidak dijumpai.');
+    const all = objectiveOnly(await loadQuestions(subject.file));
+    const ids = new Set(a.questionIds);
+    const questions = all.filter(q => ids.has(q.id));
+    if (!questions.length) return alert('Soalan kerja rumah ini sudah tiada. Beritahu cikgu anda.');
+    setExam(e);
+    setYear(a.year || null);
+    setAssignment(a);
+    if (a.mode === 'challenge') startChallenge(subject, questions, true);
+    else startQuiz(subject, questions, a);
+  }
+
+  function changeClasses(list) {
+    setMyClasses(list);
+    saveMyClasses(user.uid, list);
   }
 
   const loggedIn = user && dataReady;
@@ -280,16 +328,25 @@ export default function App() {
       {/* Percikan kecil pada setiap sentuhan (React Bits ClickSpark) */}
       <ClickSpark sparkColor="#14b8a6" sparkSize={8} sparkRadius={22} sparkCount={8} duration={400}>
       <main className="container">
+        <Suspense fallback={<p className="alert">Memuatkan…</p>}>
         {(user === undefined || (user && !dataReady)) && <p className="alert">Memuatkan…</p>}
         {user === null && <Login />}
         {loggedIn && screen === 'home' && (
           <Home config={config} error={error} user={user} saved={saved}
-            admin={isAdmin(user)} teacher={isTeacher(user, role)}
-            onAdmin={() => go('admin')}
+            admin={isAdmin(user)} teacher={isTeacher(user, role)} myClasses={myClasses}
+            onAdmin={() => go('admin')} onTeacher={() => go('teacher')} onClasses={() => go('classes')}
+            onStartHomework={startHomework}
             unlockedCount={Object.keys(unlocked).length}
             onResume={resumeQuiz} onDiscard={() => discardSaved()} onLink={link}
             onAchievements={() => go('achievements')}
             onSelectExam={e => { setExam(e); go('mode'); }} />
+        )}
+        {loggedIn && screen === 'classes' && (
+          <MyClasses user={user} myClasses={myClasses} config={config} onChange={changeClasses}
+            onStartHomework={startHomework} onBack={() => go('home')} />
+        )}
+        {loggedIn && screen === 'teacher' && isTeacher(user, role) && (
+          <Teacher user={user} config={config} onBack={() => go('home')} />
         )}
         {loggedIn && screen === 'admin' && isAdmin(user) && (
           <Admin user={user} config={config} onBack={() => go('home')} />
@@ -320,7 +377,7 @@ export default function App() {
         {loggedIn && screen === 'challenge' && challenge && (
           <Challenge key={quizRun} questions={challenge.questions} pool={challenge.pool}
             onAnswer={correct => updateStats(recordAnswer(statsRef.current, correct))}
-            onQuit={() => go('subjects')}
+            onQuit={() => { setAssignment(null); go(exam && !assignment ? 'subjects' : 'home'); }}
             onFinish={finishChallenge} />
         )}
         {loggedIn && screen === 'result' && result && (
@@ -331,6 +388,7 @@ export default function App() {
             onSubjects={() => go(exam ? 'subjects' : 'home')}
             onHome={() => go('home')} />
         )}
+        </Suspense>
       </main>
       </ClickSpark>
 

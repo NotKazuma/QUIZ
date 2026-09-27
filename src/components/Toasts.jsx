@@ -22,9 +22,17 @@ function Toast({ toast, onClose, onLink }) {
       exit={{ opacity: 0, y: -20, scale: 0.95 }}
       transition={{ type: 'spring', damping: 20, stiffness: 300 }}
       role="status"
-      onClick={toast.type === 'achievement' ? onClose : undefined}
+      onClick={toast.type !== 'remind' ? onClose : undefined}
     >
-      {toast.type === 'achievement' ? (
+      {toast.type === 'info' ? (
+        <>
+          <span className="toast-emoji" aria-hidden="true">{toast.emoji}</span>
+          <div className="toast-body">
+            <p className="toast-title">{toast.title}</p>
+            {toast.desc && <p className="toast-desc">{toast.desc}</p>}
+          </div>
+        </>
+      ) : toast.type === 'achievement' ? (
         <>
           <motion.span className="toast-emoji" aria-hidden="true"
             initial={{ rotate: -30, scale: 0.4 }} animate={{ rotate: 0, scale: 1 }}

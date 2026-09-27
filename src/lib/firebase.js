@@ -22,6 +22,7 @@ export const firebaseReady = Boolean(config.apiKey && config.projectId);
 
 let auth = null;
 let db = null;
+export const getDb = () => db;
 if (firebaseReady) {
   const app = initializeApp(config);
   auth = getAuth(app);
@@ -174,7 +175,9 @@ export async function loadUserData(uid) {
   const stats = mergeStats(localProgress.stats, remote?.stats);
   const unlocked = mergeUnlocked(localProgress.unlocked, remote?.unlocked);
   writeLocal(progressKey(uid), { stats, unlocked });
-  return { session, stats, unlocked, role: remote?.role ?? null };
+  const classes = remote?.classes ?? readLocal('kuiz.classes.' + uid) ?? [];
+  writeLocal('kuiz.classes.' + uid, classes);
+  return { session, stats, unlocked, role: remote?.role ?? null, classes };
 }
 
 const pending = new Map(); // uid -> { timer, data }
@@ -265,4 +268,10 @@ export function saveSubjectDoc(id, questions, by) {
     updatedAt: new Date().toISOString(),
     updatedBy: by || null,
   });
+}
+
+// Senarai id kelas yang disertai pengguna (disimpan dalam dokumen pengguna sendiri).
+export function saveMyClasses(uid, classes) {
+  writeLocal('kuiz.classes.' + uid, classes);
+  return queue(uid, { classes }, true);
 }

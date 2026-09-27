@@ -16,6 +16,7 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
   const [phase, setPhase] = useState('question'); // question | feedback | redeem | redeem-feedback
   const [points, setPoints] = useState(0);
   const [correctCount, setCorrectCount] = useState(0);
+  const [wrongIds, setWrongIds] = useState([]);
   const [streak, setStreak] = useState(0);
   const [bestStreak, setBestStreak] = useState(0);
   const [last, setLast] = useState(null);           // keputusan soalan utama terakhir
@@ -35,6 +36,7 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
     setStreak(nextStreak);
     setBestStreak(b => Math.max(b, nextStreak));
     if (r.correct) setCorrectCount(c => c + 1);
+    else setWrongIds(w => [...w, q.id]);
     setPoints(p => p + pts.total);
     setLast({ ...r, pts, streak: nextStreak });
     onAnswer(r.correct);
@@ -68,7 +70,7 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
       setPhase('question');
     } else {
       onFinish({
-        mode: 'challenge', score: correctCount, total, points, bestStreak, redeem: redeemStats,
+        mode: 'challenge', score: correctCount, total, points, wrongIds, bestStreak, redeem: redeemStats,
         exam: q.exam, subject: q.subject,
       });
     }
