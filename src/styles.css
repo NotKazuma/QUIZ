@@ -156,9 +156,31 @@ p { margin: 0; }
 
 /* ===== Hero & kepala halaman ===== */
 .hero {
+  position: relative;
   padding: 20px 4px 24px;
   display: grid;
   gap: 6px;
+}
+/* Latar aurora (React Bits Aurora) di belakang tajuk, pudar ke bawah */
+.hero-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 380px;
+  z-index: -1;
+  pointer-events: none;
+  opacity: 0.55;
+  -webkit-mask-image: linear-gradient(to bottom, #000 30%, transparent);
+  mask-image: linear-gradient(to bottom, #000 30%, transparent);
+}
+.hero-bg canvas { width: 100% !important; height: 100% !important; }
+.hero-title {
+  font-size: 2.1rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  margin: 0;
 }
 .page-head {
   display: grid;
@@ -232,6 +254,8 @@ p { margin: 0; }
 }
 
 .card-button {
+  position: relative;
+  z-index: 1;
   display: flex;
   align-items: center;
   gap: 14px;
@@ -241,13 +265,27 @@ p { margin: 0; }
   font: inherit;
   color: inherit;
   text-align: start;
+  background: transparent;
+  border: 0;
+  border-radius: inherit;
   cursor: pointer;
-  transition: border-color 0.15s, transform 0.1s, box-shadow 0.15s;
+  transition: transform 0.1s;
   -webkit-tap-highlight-color: transparent;
 }
-.card-button:hover:not(:disabled) { border-color: var(--primary); }
 .card-button:active:not(:disabled) { transform: scale(0.99); }
-.card-button:disabled { cursor: not-allowed; opacity: 0.6; box-shadow: none; }
+.card-button:disabled { cursor: not-allowed; }
+
+/* Kad tindakan = React Bits SpotlightCard, ditindih dengan token laman */
+.card-spotlight.action-card {
+  padding: 0;
+  background-color: var(--card);
+  border: 1px solid var(--border);
+  border-radius: calc(var(--radius) + 4px);
+  transition: border-color 0.15s;
+}
+.card-spotlight.action-card:hover:not(.is-disabled) { border-color: var(--primary); }
+.card-spotlight.action-card.is-disabled { opacity: 0.6; box-shadow: none; }
+.card-spotlight.action-card.is-disabled::before { display: none; }
 
 .card-icon {
   display: grid;
@@ -455,7 +493,7 @@ p { margin: 0; }
   gap: 2px;
   margin: 12px 0 8px;
 }
-#done-percent {
+.result-percent {
   font-size: 3.2rem;
   font-weight: 800;
   letter-spacing: -0.03em;
@@ -477,3 +515,7 @@ p { margin: 0; }
 .script-mixed {
   font-family: var(--font-rumi), var(--font-arabic);
 }
+
+/* Kanvas percikan (React Bits ClickSpark) di atas butang pilihan */
+.spark-wrap canvas { z-index: 2; }
+.option-key svg { width: 18px; height: 18px; stroke-width: 3; }
