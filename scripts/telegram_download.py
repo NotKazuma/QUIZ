@@ -11,6 +11,7 @@ Sediakan sekali:
 Jalankan (dalam terminal, bukan dalam Claude):
   python scripts/telegram_download.py
   python scripts/telegram_download.py --group "Nama Group" --since 2023-01-01
+  python scripts/telegram_download.py --group SOALAN --sort   # muat turun + terus susun ke soalan/DARJAH …
 
 Kali pertama, Telegram akan hantar kod log masuk ke aplikasi Telegram anda. Sesi disimpan di
 ~/.telegram-soalan/ supaya tidak perlu log masuk lagi. Fail disimpan dalam soalan/telegram/<group>/
@@ -31,6 +32,9 @@ try:
     from telethon.tl.types import MessageMediaDocument, MessageMediaPhoto
 except ImportError:
     sys.exit('Pasang dahulu: pip install telethon')
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import sort_soalan  # noqa: E402  (manifest & penyusunan fail)
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_ROOT = ROOT / 'soalan' / 'telegram'
@@ -102,6 +106,7 @@ async def main():
     ap.add_argument('--since', help='Hanya mesej selepas tarikh ini (YYYY-MM-DD)')
     ap.add_argument('--no-photos', action='store_true', help='Langkau gambar, ambil dokumen sahaja')
     ap.add_argument('--dry-run', action='store_true', help='Senaraikan fail sahaja, jangan muat turun')
+    ap.add_argument('--sort', action='store_true', help='Selepas muat turun, susun fail ke soalan/DARJAH …')
     args = ap.parse_args()
 
     api_id, api_hash = load_credentials()
@@ -112,6 +117,16 @@ async def main():
         out_dir.mkdir(parents=True, exist_ok=True)
         since = dt.datetime.fromisoformat(args.since).replace(tzinfo=dt.timezone.utc) if args.since else None
         print(f'\nMengimbas "{group.name}" -> {out_dir}\n')
+
+        # Manifest id mesej yang sudah dimuat turun — supaya fail yang sudah disusun (dipindah keluar
+        # dari folder ini oleh sort_soalan.py) tidak dimuat turun semula.
+        manifest = sort_soalan.load_manifest()
+        done_ids = set(manifest.get(out_dir.name, []))
+
+        def remember(msg_id):
+            done_ids.add(msg_id)
+            manifest[out_dir.name] = sorted(done_ids)
+            sort_soalan.save_manifest(manifest)
 
         found = downloaded = skipped = 0
         async for msg in client.iter_messages(group, reverse=True, offset_date=since):
@@ -128,7 +143,7 @@ async def main():
                 continue
             found += 1
             target = out_dir / name
-            if target.exists():
+            if msg.id in done_ids or target.exists():
                 skipped += 1
                 continue
             if args.dry_run:
@@ -136,10 +151,15 @@ async def main():
                 continue
             print(f'  muat turun [{msg.date:%Y-%m-%d}] {name}')
             await client.download_media(msg, file=str(target))
+            remember(msg.id)
             downloaded += 1
 
         print(f'\nSelesai: {found} fail soalan dijumpai, {downloaded} dimuat turun, {skipped} sudah ada.')
         print(f'Folder: {out_dir}')
+
+    if args.sort and not args.dry_run:
+        print('\nMenyusun fail ke folder DARJAH …\n')
+        sort_soalan.run(apply=True)
 
 
 if __name__ == '__main__':
