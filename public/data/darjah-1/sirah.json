@@ -424,6 +424,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-sirah-ppt2023-01",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيرة ڤد بهاس اياله قيصه يڠ ___.",
+  "options": [
+   "بنر",
+   "ڤلسو",
+   "دوستا"
+  ],
+  "answer": 0,
+  "explanation": "سيرة ڤد بهاس اياله قيصه يڠ بنر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-02",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري سجاره اياله ___.",
+  "options": [
+   "تتڤ",
+   "تڤت",
+   "براوبه"
+  ],
+  "answer": 0,
+  "explanation": "سجاره يڠ تله برلاكو تتڤ دان تيدق براوبه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-03",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اخلاق نبي محمد ﷺ اياله ___.",
+  "options": [
+   "دوستا",
+   "ترڤوجي",
+   "سومبوڠ"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ ممڤوڽاءي اخلاق يڠ ترڤوجي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-04",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ اداله انسان ___.",
+  "options": [
+   "ترچلا",
+   "ترڤيليه",
+   "تربوروق"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ اياله انسان ترڤيليه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-05",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قربان ݢنتي نذر عبد الله اياله ___.",
+  "options": [
+   "اونتا",
+   "كيبس",
+   "كمبيڠ"
+  ],
+  "answer": 0,
+  "explanation": "100 ايكور اونتا دقربانكن سباݢاي ݢنتي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-06",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سومبر رجوعن سيرة اياله القرءان دان حديث.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دان حديث اياله سومبر سيرة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-07",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي اسماعيل انق كڤد نبي ابراهيم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي اسماعيل اياله انق نبي ابراهيم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-08",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ساره اياله بوندا نبي اسماعيل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "بوندا نبي اسماعيل اياله هاجر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-09",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: آمنة اياله ايستري عبد الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة اياله ايستري عبد الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-10",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبد الله بكرجا سباݢاي ڤتاني.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله سأورڠ ڤنياݢ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-11",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤريستيوا تيدق براوبه اياله ___.",
+  "options": [
+   "سيرة",
+   "بارو",
+   "سلامت"
+  ],
+  "answer": 0,
+  "explanation": "سيرة اياله ڤريستيوا يڠ تيدق براوبه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-12",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نبي محمد ﷺ ايكوتن ___.",
+  "options": [
+   "ترچلا",
+   "ترباءيق",
+   "تربوروق"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ اياله ايكوتن ترباءيق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-13",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نبي ابراهيم بركتورونن نبي ___.",
+  "options": [
+   "ادم",
+   "نوح",
+   "هود"
+  ],
+  "answer": 1,
+  "explanation": "نبي ابراهيم درڤد كتورونن نبي نوح.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-14",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: بوندا نبي اسحاق اياله ___.",
+  "options": [
+   "ساره",
+   "امينه",
+   "هاجر"
+  ],
+  "answer": 0,
+  "explanation": "بوندا نبي اسحاق اياله ساره.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-15",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: داتوق عبد الله اياله ___.",
+  "options": [
+   "وهب",
+   "هاشم",
+   "عباس"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله بن عبد المطلب بن هاشم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-16",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سجاره دتفسيركن سچارا ___.",
+  "options": [
+   "صبر",
+   "بربيذا",
+   "موليا",
+   "23 تاهون",
+   "نبي اسماعيل"
+  ],
+  "answer": 1,
+  "explanation": "سجاره بوليه دتفسيركن سچارا بربيذا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-17",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت نبي اسماعيل كتيك بردعوه اياله ___.",
+  "options": [
+   "صبر",
+   "بربيذا",
+   "موليا",
+   "23 تاهون",
+   "نبي اسماعيل"
+  ],
+  "answer": 0,
+  "explanation": "نبي اسماعيل صبر كتيك بردعوه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-18",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ لاهير درڤد كتورونن ___.",
+  "options": [
+   "صبر",
+   "بربيذا",
+   "موليا",
+   "23 تاهون",
+   "نبي اسماعيل"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ لاهير درڤد كتورونن يڠ موليا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-19",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انق نبي ابراهيم اياله ___.",
+  "options": [
+   "صبر",
+   "بربيذا",
+   "موليا",
+   "23 تاهون",
+   "نبي اسماعيل"
+  ],
+  "answer": 4,
+  "explanation": "نبي اسماعيل اياله انق نبي ابراهيم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-20",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبد الله بركهوين كتيك برعمور ___.",
+  "options": [
+   "صبر",
+   "بربيذا",
+   "موليا",
+   "23 تاهون",
+   "نبي اسماعيل"
+  ],
+  "answer": 3,
+  "explanation": "مڠيكوت كرتس اين، عبد الله بركهوين كتيك برعمور 23 تاهون.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-21",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيرة ڤد ايستيله اياله ___.",
+  "options": [
+   "چريتا",
+   "هيبورن",
+   "ڤريستيوا"
+  ],
+  "answer": 2,
+  "explanation": "سيرة منچريتاكن ڤريستيوا كهيدوڤن نبي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-22",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ اداله انسان ___.",
+  "options": [
+   "ڤماره",
+   "موليا",
+   "سومبوڠ"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ اياله انسان يڠ موليا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-23",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن انق نبي اسماعيل؟",
+  "options": [
+   "12 اورڠ",
+   "15 اورڠ",
+   "17 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "نبي اسماعيل ممڤوڽاءي 12 اورڠ انق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-24",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت ترڤوجي هاجر اياله ___.",
+  "options": [
+   "طاعة",
+   "ظاليم",
+   "ڤمالس"
+  ],
+  "answer": 0,
+  "explanation": "هاجر طاعة كڤد الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2023-25",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نسب كتورونن نبي محمد بن عبد الله بن ___.",
+  "options": [
+   "ابو بكر",
+   "ابو طالب",
+   "عبد المطلب"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد بن عبد الله بن عبد المطلب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-sirah-pat2023-01",
   "exam": "Darjah 1",
   "subject": "Sirah",

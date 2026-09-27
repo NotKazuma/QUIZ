@@ -471,6 +471,450 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-jawi-ppt2023-01",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف تيدق برتيتيق اياله ___.",
+  "options": [
+   "ش",
+   "ف",
+   "ل"
+  ],
+  "answer": 2,
+  "explanation": "حروف ل تيدق برتيتيق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-02",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف سام بنتوق دڠن \"ت\" اياله ___.",
+  "options": [
+   "ڤ",
+   "ث",
+   "ج"
+  ],
+  "answer": 1,
+  "explanation": "ث سام بنتوق دڠن ت.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-03",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دڤرمولاءن كليمة يڠ براوبه بنتوق اياله ___.",
+  "options": [
+   "ص",
+   "ذ",
+   "د"
+  ],
+  "answer": 0,
+  "explanation": "حروف ص براوبه بنتوق اڤابيلا برسامبوڠ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-04",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دتڠه كليمة يڠ تيدق براوبه بنتوق اياله ___.",
+  "options": [
+   "د",
+   "ج",
+   "ڠ"
+  ],
+  "answer": 0,
+  "explanation": "حروف د تيدق براوبه بنتوق دتڠه كليمة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-05",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دتڠه كليمة يڠ براوبه بنتوق اياله ___.",
+  "options": [
+   "ر",
+   "و",
+   "ع"
+  ],
+  "answer": 2,
+  "explanation": "حروف ع براوبه بنتوق دتڠه كليمة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-06",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف جاوي توڠݢل = س، ص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "س دان ص اياله حروف جاوي توڠݢل.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-07",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف دڤرمولاءن كليمة \"كتم\" اياله \"ك\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كتم دمولاكن دڠن حروف ك.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-08",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: د + و + س + ا = روسا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "د + و + س + ا = دوسا، بوكن روسا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-09",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف دتڠه كليمة \"تڠݢ\" اياله \"ڠ\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حروف ڠ براد دتڠه كليمة تڠݢ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-10",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ برمولا دڠن حروف برتيتيق دوا اياله ___.",
+  "options": [
+   "تيرم",
+   "فيري",
+   "چاون"
+  ],
+  "answer": 0,
+  "explanation": "تيرم دمولاكن دڠن حروف ت يڠ برتيتيق دوا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-11",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ برمولا دڠن حروف \"ج\" اياله ___.",
+  "options": [
+   "كجم",
+   "راج",
+   "جم"
+  ],
+  "answer": 2,
+  "explanation": "جم دمولاكن دڠن حروف ج.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-12",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ حروف ڤرتامان براوبه بنتوق اياله ___.",
+  "options": [
+   "دادا",
+   "تاير",
+   "رودا"
+  ],
+  "answer": 1,
+  "explanation": "حروف ت براوبه بنتوق اڤابيلا برسامبوڠ دأول كليمة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-13",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ برمولا دڠن حروف \"ع\" اياله ___.",
+  "options": [
+   "عقل",
+   "طمع",
+   "طاعة"
+  ],
+  "answer": 0,
+  "explanation": "عقل دمولاكن دڠن حروف ع.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-14",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2023-kerusi.jpg",
+  "options": [
+   "تيڠكڤ",
+   "الماري",
+   "كروسي"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله كروسي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-15",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ا، ب، ت، ث، ج اياله ___.",
+  "options": [
+   "حروف توڠݢل",
+   "ة",
+   "ص - ض",
+   "س",
+   "ر"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله حروف جاوي توڠݢل.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-16",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ سام بنتوق اياله ___.",
+  "options": [
+   "حروف توڠݢل",
+   "ة",
+   "ص - ض",
+   "س",
+   "ر"
+  ],
+  "answer": 2,
+  "explanation": "ص دان ض سام بنتوق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-17",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ سام بنتوق دڠن \"ه\" اياله ___.",
+  "options": [
+   "حروف توڠݢل",
+   "ة",
+   "ص - ض",
+   "س",
+   "ر"
+  ],
+  "answer": 1,
+  "explanation": "ة سام بنتوق دڠن ه، بيذاڽ اد دوا تيتيق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-18",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ تيدق براوبه بنتوق دتڠه كليمة \"كرڤو\" اياله ___.",
+  "options": [
+   "حروف توڠݢل",
+   "ة",
+   "ص - ض",
+   "س",
+   "ر"
+  ],
+  "answer": 4,
+  "explanation": "حروف ر تيدق براوبه بنتوق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-19",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دتڠه كليمة \"لڠست\" يڠ براوبه بنتوق اياله ___.",
+  "options": [
+   "حروف توڠݢل",
+   "ة",
+   "ص - ض",
+   "س",
+   "ر"
+  ],
+  "answer": 3,
+  "explanation": "حروف س براوبه بنتوق دتڠه كليمة لڠست.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-20",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله حروف جاوي توڠݢل اياله ___.",
+  "options": [
+   "27",
+   "37",
+   "47"
+  ],
+  "answer": 1,
+  "explanation": "حروف جاوي توڠݢل برجومله 37.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-21",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ برسامبوڠ دتڠه كليمة \"ميجا\" اياله ___.",
+  "options": [
+   "ي - خ",
+   "ي - ح",
+   "ي - ج"
+  ],
+  "answer": 2,
+  "explanation": "دالم ميجا، حروف ي دان ج برسامبوڠ دتڠه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-22",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق حروف \"ه\" دأول كليمة اياله ___.",
+  "options": [
+   "ـه",
+   "هـ",
+   "ـهـ"
+  ],
+  "answer": 1,
+  "explanation": "حروف ه دأول كليمة دتوليس هـ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2023-23",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ تيدق براوبه بنتوق دتڠه كليمة \"كاكي\" اياله ___.",
+  "options": [
+   "ا",
+   "ݢ",
+   "خ"
+  ],
+  "answer": 0,
+  "explanation": "حروف ا تيدق براوبه بنتوق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-jawi-pat2023-01",
   "exam": "Darjah 1",
   "subject": "Jawi",

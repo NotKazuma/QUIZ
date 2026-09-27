@@ -481,6 +481,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-akhlak-ppt2023-01",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مريحتكن ديري دڠن چارا ___.",
+  "options": [
+   "تيدور",
+   "برلاري",
+   "ملومڤت"
+  ],
+  "answer": 0,
+  "explanation": "تيدور مريحتكن ديري.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-02",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدور داڤت منجاݢ ___.",
+  "options": [
+   "كأمانن",
+   "كصيحتن",
+   "كسلامتن"
+  ],
+  "answer": 1,
+  "explanation": "تيدور يڠ چوكوڤ منجاݢ كصيحتن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-03",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باڠون تيدور، كيت ___.",
+  "options": [
+   "ݢوسوق ݢيݢي",
+   "باسوه تندس",
+   "سوسون سليڤر"
+  ],
+  "answer": 0,
+  "explanation": "سلڤس باڠون تيدور كيت مڠݢوسوق ݢيݢي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-04",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كواجيڤن اورڠ إسلام اياله ___.",
+  "options": [
+   "ممبواڠ ماس",
+   "منجاݢ كبرسيهن",
+   "برموسوهن"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ إسلام واجب منجاݢ كبرسيهن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-05",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب مندي اياله ___.",
+  "options": [
+   "برنية",
+   "ممبذير",
+   "برچاكڤ-چاكڤ"
+  ],
+  "answer": 0,
+  "explanation": "كيت برنية سبلوم مندي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-06",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: رسول الله ﷺ تيدور مڠهادڤ كأره قبلة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "رسول الله ﷺ تيدور مڠهادڤ قبلة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-07",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كيت اكن دبركتي الله جك تيدور مڠيكوت سنة رسول الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مڠيكوت سنة رسول الله ممباوا بركة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-08",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كبرسيهن ايت سبهاݢين درڤد ايمان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كبرسيهن اياله سبهاݢين درڤد ايمان.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-09",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ݢوناكن اوبت ݢيݢي يڠ تيدق حلال.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت مستي مڠݢوناكن اوبت ݢيݢي يڠ حلال.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-10",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اورڠ يڠ مندي موده دجڠكيتي ڤڽاكيت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "مندي منجاݢ كبرسيهن دان مڠيلقكن ڤڽاكيت.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-11",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ت ي د و ر = ___",
+  "options": [
+   "تيدور",
+   "تودور",
+   "تودير"
+  ],
+  "answer": 0,
+  "explanation": "حروف٢ اين دسوسون منجادي تيدور.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-12",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ب ر س و ݢ ي = ___",
+  "options": [
+   "بروسݢي",
+   "بوسرݢي",
+   "برسوݢي"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي برسوݢي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-13",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ف ا ت ح ة = ___",
+  "options": [
+   "فتحة",
+   "فاتحة",
+   "فتاحة"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي فاتحة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-14",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ب ر ش ك و ر = ___",
+  "options": [
+   "شكور",
+   "برشكور",
+   "برشاكور"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي برشكور.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-15",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ت و ن ت و ت ن = ___",
+  "options": [
+   "تونتوت",
+   "تونتون",
+   "تونتوتن"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي تونتوتن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-16",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبلوم تيدور كيت مستيله ممباچ ___.",
+  "options": [
+   "تناݢ",
+   "باءيق",
+   "دعاء",
+   "سوݢي",
+   "سنة"
+  ],
+  "answer": 2,
+  "explanation": "كيت ممباچ دعاء سبلوم تيدور.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-17",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠمباليكن ___ اداله توجوان تيدور.",
+  "options": [
+   "تناݢ",
+   "باءيق",
+   "دعاء",
+   "سوݢي",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "تيدور مڠمباليكن تناݢ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-18",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ الحمد لله اڤابيلا برميمڤي يڠ ___.",
+  "options": [
+   "تناݢ",
+   "باءيق",
+   "دعاء",
+   "سوݢي",
+   "سنة"
+  ],
+  "answer": 1,
+  "explanation": "اڤابيلا برميمڤي باءيق كيت ممباچ الحمد لله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-19",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كصيحتن ترݢڠݢو عاقبة تيدور تيدق مڠيكوت ___.",
+  "options": [
+   "تناݢ",
+   "باءيق",
+   "دعاء",
+   "سوݢي",
+   "سنة"
+  ],
+  "answer": 4,
+  "explanation": "تيدور تيدق مڠيكوت سنة بوليه مڠݢڠݢو كصيحتن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-20",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠݢوسوق ݢيݢي سباءيقڽ مڠݢوناكن كايو ___.",
+  "options": [
+   "تناݢ",
+   "باءيق",
+   "دعاء",
+   "سوݢي",
+   "سنة"
+  ],
+  "answer": 3,
+  "explanation": "كايو سوݢي اياله الت برسوݢي يڠ سنة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-21",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدور مروڤاكن تندا كبسرن الله كڤد ___.",
+  "options": [
+   "ميجا",
+   "ماءنسي",
+   "كروسي"
+  ],
+  "answer": 1,
+  "explanation": "تيدور اياله نعمت الله كڤد ماءنسي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-22",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ سورة الإخلاص، الفلق دان ___ سبلوم تيدور.",
+  "options": [
+   "الناس",
+   "الماعون",
+   "الكافرون"
+  ],
+  "answer": 0,
+  "explanation": "سنة ممباچ سورة الإخلاص، الفلق دان الناس سبلوم تيدور.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-23",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠمس تمڤت تيدور ___ باڠون تيدور.",
+  "options": [
+   "سبلوم",
+   "سلڤس",
+   "سماس"
+  ],
+  "answer": 1,
+  "explanation": "كيت مڠمس تمڤت تيدور سلڤس باڠون.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-24",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توبوه بادن اكن ___ جك تيدور تيدق مڠيكوت سنة.",
+  "options": [
+   "لمه",
+   "قوات",
+   "چرݢس"
+  ],
+  "answer": 0,
+  "explanation": "تيدور تيدق مڠيكوت سنة ملمهكن بادن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2023-25",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كيت هندقله مڠݢوناكن بروس ݢيݢي ميليق ___.",
+  "options": [
+   "راكن",
+   "سنديري",
+   "ايبو باڤ"
+  ],
+  "answer": 1,
+  "explanation": "كيت مڠݢوناكن بروس ݢيݢي سنديري.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-akhlak-pat2023-01",
   "exam": "Darjah 1",
   "subject": "Akhlak",

@@ -480,6 +480,490 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-ibadat-ppt2023-01",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي عبادات اياله ___.",
+  "options": [
+   "شكور",
+   "ڤاتوه",
+   "اخلاص"
+  ],
+  "answer": 1,
+  "explanation": "عبادات برمعنا ڤاتوه كڤد الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-02",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيڤتاءن الله اياله ___.",
+  "options": [
+   "باجو",
+   "روماه",
+   "ماءنسي"
+  ],
+  "answer": 2,
+  "explanation": "ماءنسي دچيڤتا اوليه الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-03",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي لاݢي مڽوچيكن اياله اءير ___.",
+  "options": [
+   "مُطْلَق",
+   "مُتَنَجِّس",
+   "مُسْتَعْمَل"
+  ],
+  "answer": 0,
+  "explanation": "اءير مطلق سوچي لاݢي مڽوچيكن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-04",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي اِسْتِنْجَاء اياله ___.",
+  "options": [
+   "برتيمم",
+   "بروضوء",
+   "برچيبوق"
+  ],
+  "answer": 2,
+  "explanation": "استنجاء برمعنا برچيبوق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-05",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم براِسْتِنْجَاء اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "استنجاء اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-06",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كيت واجب برعبادات كڤد الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برعبادة كڤد الله اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-07",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الله سوک كڤد اورڠ يڠ برسيه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله مڽوكاءي اورڠ يڠ منجاݢ كبرسيهن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-08",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اءير تربهاݢي كڤد ليم بهاݢين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اءير تربهاݢي كڤد امڤت بهاݢين.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-09",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حکوم مڠݢوناكن اءير مُشَمَّس اداله مكروه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مڠݢوناكن اءير مشمس اياله مكروه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-10",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اومت إسلام تيدق دتونتوت اونتوق براستنجاء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اومت إسلام دواجبكن براستنجاء.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-11",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اڤاكه عبادة دالم ݢمبر اين؟",
+  "image": "images/darjah-1/ibadat-ppt2023-solat.jpg",
+  "options": [
+   "مندي",
+   "صلاة",
+   "وضوء"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين منونجوقكن صلاة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-12",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ارتي طهارة اياله ___.",
+  "options": [
+   "بردعاء",
+   "برسوچي",
+   "برذيكير"
+  ],
+  "answer": 1,
+  "explanation": "طهارة برمعنا برسوچي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-13",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اڤاكه عبادة دالم ݢمبر اين؟",
+  "image": "images/darjah-1/ibadat-ppt2023-tawaf.jpg",
+  "options": [
+   "تيمم",
+   "صلاة",
+   "طواف"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين منونجوقكن اورڠ برطواف مڠليليڠي كعبة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-14",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/ibadat-ppt2023-perigi.jpg",
+  "options": [
+   "كولم",
+   "ڤريݢي",
+   "سوڠاي"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله ڤريݢي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-15",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اءير مشمس اياله اءير يڠ ترجمور دباوه ___.",
+  "image": "images/darjah-1/ibadat-ppt2023-matahari.jpg",
+  "options": [
+   "بولن",
+   "بينتڠ",
+   "ماتاهاري"
+  ],
+  "answer": 2,
+  "explanation": "اءير مشمس ترجمور دباوه ڤانس ماتاهاري.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-16",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منجاݢ كبرسيهن ديري اياله ___.",
+  "options": [
+   "اءير متنجس",
+   "اءير هوجن",
+   "اءير مستعمل",
+   "واجب",
+   "استنجاء"
+  ],
+  "answer": 3,
+  "explanation": "منجاݢ كبرسيهن ديري اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-17",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي تتاڤي تيدق مڽوچيكن يڠ لاءين اياله ___.",
+  "options": [
+   "اءير متنجس",
+   "اءير هوجن",
+   "اءير مستعمل",
+   "واجب",
+   "استنجاء"
+  ],
+  "answer": 2,
+  "explanation": "اءير مستعمل سوچي تتاڤي تيدق مڽوچيكن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-18",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ تله برچمڤور دڠن نجيس اياله ___.",
+  "options": [
+   "اءير متنجس",
+   "اءير هوجن",
+   "اءير مستعمل",
+   "واجب",
+   "استنجاء"
+  ],
+  "answer": 0,
+  "explanation": "اءير متنجس اياله اءير يڠ ترکنا نجيس.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-19",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير مطلق يڠ تورون دري لاڠيت اياله ___.",
+  "options": [
+   "اءير متنجس",
+   "اءير هوجن",
+   "اءير مستعمل",
+   "واجب",
+   "استنجاء"
+  ],
+  "answer": 1,
+  "explanation": "اءير هوجن اياله اءير مطلق يڠ تورون دري لاڠيت.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-20",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ دتونتوت سلڤس ممبواڠ اءير بسر اياله ___.",
+  "options": [
+   "اءير متنجس",
+   "اءير هوجن",
+   "اءير مستعمل",
+   "واجب",
+   "استنجاء"
+  ],
+  "answer": 4,
+  "explanation": "كيت واجب براستنجاء سلڤس ممبواڠ اءير.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-21",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه اءير مُطْلَق اياله ___.",
+  "options": [
+   "اءير ليماو",
+   "اءير هوجن",
+   "اءير مات"
+  ],
+  "answer": 1,
+  "explanation": "اءير هوجن اياله اءير مطلق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-22",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ كورڠ درڤد دوا كوله دان ترکنا نجيس اياله ___.",
+  "options": [
+   "اءير مُشَمَّس",
+   "اءير مُطْلَق",
+   "اءير مُتَنَجِّس"
+  ],
+  "answer": 2,
+  "explanation": "اءير كورڠ دوا كوله يڠ ترکنا نجيس اياله اءير متنجس.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-23",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠݢوناكن اءير مُشَمَّس اياله ___.",
+  "options": [
+   "سنة",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "مڠݢوناكن اءير مشمس اياله مكروه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-24",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم براِسْتِنْجَاء اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "براستنجاء اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2023-25",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ دݢوناكن اونتوق براِسْتِنْجَاء اياله ___.",
+  "options": [
+   "اءير",
+   "كاچ",
+   "بوكو"
+  ],
+  "answer": 0,
+  "explanation": "اءير دݢوناكن اونتوق براستنجاء.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-ibadat-pat2023-01",
   "exam": "Darjah 1",
   "subject": "Ibadat",

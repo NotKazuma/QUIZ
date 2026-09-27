@@ -480,6 +480,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-tauhid-ppt2023-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم بلاجر ركن إسلام اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 1,
+  "explanation": "ممڤلاجري ركن إسلام اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انق كونچي شرݢ اياله ___.",
+  "options": [
+   "زكاة",
+   "القرءان",
+   "كليمة شهادة"
+  ],
+  "answer": 2,
+  "explanation": "كليمة شهادة اياله انق كونچي شرݢ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام كدوا اياله ___.",
+  "options": [
+   "صلاة",
+   "ڤواسا",
+   "شهادة"
+  ],
+  "answer": 0,
+  "explanation": "ركن إسلام كدوا اياله منديريكن صلاة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠلواركن سبهاݢين هرتا دڤڠݢيل ___.",
+  "options": [
+   "عامل",
+   "زكاة",
+   "مكلف"
+  ],
+  "answer": 1,
+  "explanation": "زكاة اياله مڠلواركن سبهاݢين هرتا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام ڤرتام اياله ___.",
+  "options": [
+   "فطرة",
+   "إسلام",
+   "شهادة"
+  ],
+  "answer": 2,
+  "explanation": "ركن إسلام ڤرتام اياله مڠوچڤ دوا كليمة شهادة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ركن ارتيڽ اساس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ركن برمعنا اساس.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ اداله چونتوه ايكوتن يڠ باءيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله چونتوه ايكوتن يڠ تربايق.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اورڠ إسلام تيدق واجب صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "صلاة واجب اتس سموا اورڠ إسلام يڠ مكلف.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: زكاة بوليه داݢيهكن كڤد اورڠ كافير.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "زكاة دبريكن كڤد اصناف اورڠ إسلام.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: إسلام اݢام يڠ بنر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم مڠوچڤ شهادة اياله ___.",
+  "options": [
+   "هاروس",
+   "مكروه",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "مڠوچڤ شهادة اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نبي ڤسوروه الله اياله ___.",
+  "options": [
+   "زيد",
+   "علي",
+   "محمد"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ اياله ڤسوروه الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: مندكتكن ديري كڤد الله دڠن ___.",
+  "options": [
+   "صلاة",
+   "تيدور",
+   "برلاري"
+  ],
+  "answer": 0,
+  "explanation": "صلاة مندكتكن ديري كڤد الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اݢام يڠ بنر اياله ___.",
+  "options": [
+   "سلم",
+   "إسلم",
+   "إسلام"
+  ],
+  "answer": 2,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: بهاݢين زكاة اد ___.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "ساتو"
+  ],
+  "answer": 0,
+  "explanation": "زكاة تربهاݢي كڤد دوا: زكاة فطرة دان زكاة هرتا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ديريكنله صلاة دان كلواركن ___.",
+  "options": [
+   "الله",
+   "سلام",
+   "زكاة",
+   "رسول",
+   "طاعة"
+  ],
+  "answer": 2,
+  "explanation": "كيت منديريكن صلاة دان مڠلواركن زكاة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة صلاة دأخيري دڠن ___.",
+  "options": [
+   "الله",
+   "سلام",
+   "زكاة",
+   "رسول",
+   "طاعة"
+  ],
+  "answer": 1,
+  "explanation": "صلاة دأخيري دڠن سلام.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة شهادة مڠاكو الله دان ___.",
+  "options": [
+   "الله",
+   "سلام",
+   "زكاة",
+   "رسول",
+   "طاعة"
+  ],
+  "answer": 3,
+  "explanation": "كليمة شهادة مڠاكو الله دان رسولڽ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ ايت ڤسوروه ___.",
+  "options": [
+   "الله",
+   "سلام",
+   "زكاة",
+   "رسول",
+   "طاعة"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله ڤسوروه الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملقساناكن حق٢ الله اياله ___.",
+  "options": [
+   "الله",
+   "سلام",
+   "زكاة",
+   "رسول",
+   "طاعة"
+  ],
+  "answer": 4,
+  "explanation": "ملقساناكن حق الله اياله طاعة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠلواركن زكاة اكن منداڤت ___.",
+  "options": [
+   "دوسا",
+   "ميسكين",
+   "هرتا بركة"
+  ],
+  "answer": 2,
+  "explanation": "زكاة منجاديكن هرتا بركة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللهِ اياله لفظ ___.",
+  "options": [
+   "شهادة",
+   "نية صلاة",
+   "تكبير"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله لفظ دوا كليمة شهادة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠلواركن زكاة اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "مڠلواركن زكاة اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڽرهن ديري كڤد الله اياله ___.",
+  "options": [
+   "إسلام",
+   "ايمان",
+   "حج"
+  ],
+  "answer": 0,
+  "explanation": "إسلام برمعنا ڤڽرهن ديري كڤد الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2023-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واجب برڤواسا دبولن ___.",
+  "options": [
+   "شوال",
+   "رمضان",
+   "محرم"
+  ],
+  "answer": 1,
+  "explanation": "واجب برڤواسا دبولن رمضان.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-pat2023-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",
