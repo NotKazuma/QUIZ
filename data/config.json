@@ -1,0 +1,142 @@
+{
+  "exams": [
+    {
+      "id": "upkk",
+      "name": "UPKK",
+      "subjects": [
+        {
+          "id": "ibadah",
+          "name": "Ibadah",
+          "file": "data/upkk/ibadah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "aqidah",
+          "name": "Aqidah",
+          "file": "data/upkk/aqidah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "sirah",
+          "name": "Sirah",
+          "file": "data/upkk/sirah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "adab",
+          "name": "Adab",
+          "file": "data/upkk/adab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "jawi",
+          "name": "Jawi",
+          "file": "data/upkk/jawi.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "arab",
+          "name": "Bahasa Arab",
+          "file": "data/upkk/arab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdea",
+      "name": "SDEA",
+      "subjects": [
+        {
+          "id": "ibadat",
+          "name": "Ibadat dan Faraid",
+          "file": "data/sdea/ibadat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "tafsir",
+          "name": "Tafsir dan Hadith",
+          "file": "data/sdea/tafsir.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "tajwid",
+          "name": "Tajwid",
+          "file": "data/sdea/tajwid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "tauhid",
+          "name": "Tauhid",
+          "file": "data/sdea/tauhid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "akhlak",
+          "name": "Akhlak dan Tasawuf",
+          "file": "data/sdea/akhlak.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "sirah",
+          "name": "Sirah",
+          "file": "data/sdea/sirah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "arab",
+          "name": "Bahasa Arab",
+          "file": "data/sdea/arab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        },
+        {
+          "id": "munakahat",
+          "name": "Munakahat, Muamalat dan Jinayat",
+          "file": "data/sdea/munakahat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 30
+          }
+        }
+      ]
+    }
+  ]
+}

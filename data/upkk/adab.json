@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "upkk-adab-001",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nكيت هندقله ___ لارڠن الله ﷻ.",
+    "image": null,
+    "options": [
+      "منيڠݢلكن",
+      "ملاكوكن"
+    ],
+    "answer": 0,
+    "explanation": "كيت هندقله منيڠݢلكن لارڠن الله ﷻ.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-002",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nلقمان سنتياس ___ كڤد الله ﷻ.",
+    "image": null,
+    "options": [
+      "لوڤا",
+      "بردعاء"
+    ],
+    "answer": 1,
+    "explanation": "لقمان سنتياس بردعاء كڤد الله ﷻ.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-003",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nمڠحرمتي كدوا-دوا ايبو باڤ اكن منداڤت بالسن ___.",
+    "image": null,
+    "options": [
+      "باءيق",
+      "بوروق"
+    ],
+    "answer": 0,
+    "explanation": "مڠحرمتي ايبو باڤ اكن منداڤت بالسن باءيق.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-004",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nسنتياس بربوات باءيق اكن منداڤت سيقساءن درڤد الله ﷻ.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 1,
+    "explanation": "بربوات باءيق اكن منداڤت ڤهالا، بوكن سيقساءن.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-005",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nمندرهاكاءي ايبو باڤ اكن منداڤت كموركاءن الله ﷻ.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "درهاك كڤد ايبو باڤ منداڤت كموركاءن الله ﷻ.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-006",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nكيت منداڤت بالسن بوروق د دنيا جک تيدق برادب دڠن ايبو باڤ.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "تيدق برادب دڠن ايبو باڤ منداڤت بالسن بوروق د دنيا لاݢي.",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Kertas mungkin tidak menganggap ini 'di dunia'. Sila sahkan."
+  },
+  {
+    "id": "upkk-adab-007",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "سوايكن ڤد جاواڤن يڠ بتول:\nجاڠن مڠهيرديق مريک",
+    "image": null,
+    "options": [
+      "ادب دڠن كلوارݢ",
+      "عاقبت تيدق برادب دڠن كلوارݢ"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-008",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "سوايكن ڤد جاواڤن يڠ بتول:\nكلوارݢ تيدق بهاݢيا",
+    "image": null,
+    "options": [
+      "ادب دڠن كلوارݢ",
+      "عاقبت تيدق برادب دڠن كلوارݢ"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-009",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "سوايكن ڤد جاواڤن يڠ بتول:\nبرتوتور دڠن لمه لمبوت",
+    "image": null,
+    "options": [
+      "ادب دڠن كلوارݢ",
+      "عاقبت تيدق برادب دڠن كلوارݢ"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-010",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "سوايكن ڤد جاواڤن يڠ بتول:\nهوبوڠن منجادي رڠݢڠ",
+    "image": null,
+    "options": [
+      "ادب دڠن كلوارݢ",
+      "عاقبت تيدق برادب دڠن كلوارݢ"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-011",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "اليف ___ دڠن ايبو باڤاڽ سبلوم كلوار رومه.",
+    "image": null,
+    "options": [
+      "برمسرا",
+      "برسلامن",
+      "برݢوراو",
+      "تابيق حرمت"
+    ],
+    "answer": 1,
+    "explanation": "برسلامن دڠن ايبو باڤ سبلوم كلوار رومه اياله ادب يڠ باءيق.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-012",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "توجوان برتامو اداله اونتوق ___.",
+    "image": null,
+    "options": [
+      "مڠرتكن صلة الرحيم",
+      "مڽيڠݢوڠ ڤراساءن",
+      "مندعاكن كسجهتراءن",
+      "مرڠݢڠكن هوبوڠن"
+    ],
+    "answer": 0,
+    "explanation": "برتامو برتوجوان مڠرتكن صلة الرحيم.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-013",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "اڤاكه يڠ ڤرلو دلاكوكن كتيک بلاجر؟",
+    "image": null,
+    "options": [
+      "مڠݢڠݢو راكن",
+      "كورڠ فوكوس",
+      "ممبري ڤرهاتين",
+      "سماڠت برڤاسوقن"
+    ],
+    "answer": 2,
+    "explanation": "كتيک بلاجر، كيت ڤرلو ممبري ڤرهاتين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-014",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "انتارا برايكوت، يڠ ماناكه ادب منزيارهي اورڠ ساكيت؟",
+    "image": null,
+    "options": [
+      "ترلالو لام",
+      "ماس يڠ سسواي",
+      "بركلاكوان تيدق سوڤن",
+      "مڠݢمبيراكن هاتي ڤساكيت"
+    ],
+    "answer": 1,
+    "explanation": "منزيارهي اورڠ ساكيت ڤد ماس يڠ سسواي.",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Pilihan د (menggembirakan hati pesakit) juga kelihatan betul. Sila sahkan jawapan dengan skema."
+  },
+  {
+    "id": "upkk-adab-015",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "برايكوت اياله كلبيهن مڠعملكن ادب كتيک منزيارهي قبور كچوالي",
+    "image": null,
+    "options": [
+      "مڠورڠكن تكنن ايموسي",
+      "منيمبولكن راس انصاف",
+      "مڠاباءيكن حق مسلم",
+      "اعتبار دالم كهيدوڤن"
+    ],
+    "answer": 2,
+    "explanation": "مڠاباءيكن حق مسلم بوكن كلبيهن.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-016",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "«ممبري تمڤت دودوق كڤد اورڠ يڠ لبيه ممرلوكن.»\nڤرناتاءن دأتس بركاءيتن دڠن ادب ___.",
+    "image": null,
+    "options": [
+      "ملاوت ڤساكيت",
+      "منزيارهي كماتين",
+      "مڠونجوڠي ساودارا-مارا",
+      "مڠحاضيري مجليس كراماين"
+    ],
+    "answer": 3,
+    "explanation": "ممبري تمڤت دودوق كڤد اورڠ يڠ ممرلوكن اياله ادب دمجليس كراماين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-017",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "كيت دلارڠ ___ ملالوءي ميديا سوسيال.",
+    "image": null,
+    "options": [
+      "مڽيبركن فتنه",
+      "ملواسكن دعوه",
+      "مڽمڤايكن بريتا",
+      "منجاݢ عاءيب"
+    ],
+    "answer": 0,
+    "explanation": "مڽيبركن فتنه ملالوءي ميديا سوسيال اداله دلارڠ.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-018",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "اڤاكه عاقبت تيدق مڠعملكن ادب كتيک مڠݢوناكن هرتا بندا عوام؟",
+    "image": null,
+    "options": [
+      "برلاكو ڤمبازيرن",
+      "مڠورڠكن كوس ڤڽلڠݢاراءن",
+      "منيڠكتكن ايميج نݢارا",
+      "تيدق داڤت مڽلسايكن كرجا"
+    ],
+    "answer": 0,
+    "explanation": "تيدق برادب دڠن هرتا عوام مڽببكن ڤمبازيرن.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-019",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "انتارا يڠ برايكوت، ماناكه ادب مماسوقي مسجد؟\ni. ملڠكه دڠن كاكي كانن\nii. مڠتوق ڤينتو\niii. ممبري سلام\niv. ممباچ دعاء",
+    "image": null,
+    "options": [
+      "i دان ii",
+      "ii دان iii",
+      "iii دان iv",
+      "i دان iv"
+    ],
+    "answer": 3,
+    "explanation": "ماسوق مسجد دڠن كاكي كانن دان ممباچ دعاء.",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Memberi salam (iii) juga adab; sila sahkan."
+  },
+  {
+    "id": "upkk-adab-020",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ڤيليه عاقبت تيدق مڠعملكن ادب كتيک ماسوق دان كلوار مسجد.\ni. دبنچي اوليه كلوارݢ\nii. اورڠ لاءين مراس تيدق تنڠ\niii. مڠورڠكن جماعه\niv. كحاضيرن تيدق دالو-الوكن",
+    "image": null,
+    "options": [
+      "i دان ii",
+      "ii دان iii",
+      "iii دان iv",
+      "i دان iv"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Claude tidak pasti: ii dan iv kelihatan paling tepat tetapi gabungan itu tiada. Jawapan 'ii dan iii' ialah tekaan; sila sahkan."
+  },
+  {
+    "id": "upkk-adab-021",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ تڤت.\nجاڠن ___ سوارا دڠن اورڠ توا.",
+    "image": null,
+    "options": [
+      "منيڠكتكن",
+      "منيڠݢيكن"
+    ],
+    "answer": 1,
+    "explanation": "جاڠن منيڠݢيكن سوارا دڠن اورڠ توا.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-022",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ تڤت.\nاميره دودوق دڠن ___ كتيک ممباچ القرءان.",
+    "image": null,
+    "options": [
+      "سوڤن",
+      "تليتي"
+    ],
+    "answer": 0,
+    "explanation": "دودوق دڠن سوڤن كتيک ممباچ القرءان.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-023",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ تڤت.\nسيتي برسيكڤ ___ ترهادڤ نينيقڽ.",
+    "image": null,
+    "options": [
+      "لمه لمبوت",
+      "لمه لوڠلاي"
+    ],
+    "answer": 0,
+    "explanation": "برسيكڤ لمه لمبوت ترهادڤ اورڠ توا.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-024",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ تڤت.\nسنتياس ملاكوكن ڤربواتن يڠ ___ هاتي اورڠ توا.",
+    "image": null,
+    "options": [
+      "منتنترمكن",
+      "مڽاكيتكن"
+    ],
+    "answer": 0,
+    "explanation": "لاكوكن ڤربواتن يڠ منتنترمكن هاتي اورڠ توا.",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Perkataan kedua dalam kertas kabur (kelihatan seperti 'مپنڠكن'); Claude menulis 'مڽاكيتكن'. Sila semak ejaan asal."
+  },
+  {
+    "id": "upkk-adab-025",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ تڤت.\nالله ﷻ اكن ممبري ___ كڤد اورڠ يڠ ممولياكن القرءان دأخرة.",
+    "image": null,
+    "options": [
+      "كرضاءن",
+      "شفاعة"
+    ],
+    "answer": 1,
+    "explanation": "القرءان اكن ممبري شفاعة كڤد اورڠ يڠ ممولياكنڽ.",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Sila sahkan: 'keredhaan' juga munasabah."
+  },
+  {
+    "id": "upkk-adab-026",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ايسي تمڤت كوسوڠ (1):\nتتامو اياله اورڠ يڠ داتڠ ___(1) اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان ___(2) صلة الرحيم، مڠاداكن ___(3)، برحاجتكن ___(4) دان سباݢاين.",
+    "image": null,
+    "options": [
+      "برتانداڠ",
+      "ڤربينچڠن",
+      "ڤركوڠسين",
+      "ڤرتولوڠن",
+      "مراڤتكن"
+    ],
+    "answer": 0,
+    "explanation": "تتامو اياله اورڠ يڠ داتڠ برتانداڠ اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان مراڤتكن صلة الرحيم، مڠاداكن ڤربينچڠن، برحاجتكن ڤرتولوڠن دان سباݢاين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-027",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ايسي تمڤت كوسوڠ (2):\nتتامو اياله اورڠ يڠ داتڠ ___(1) اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان ___(2) صلة الرحيم، مڠاداكن ___(3)، برحاجتكن ___(4) دان سباݢاين.",
+    "image": null,
+    "options": [
+      "برتانداڠ",
+      "ڤربينچڠن",
+      "ڤركوڠسين",
+      "ڤرتولوڠن",
+      "مراڤتكن"
+    ],
+    "answer": 4,
+    "explanation": "تتامو اياله اورڠ يڠ داتڠ برتانداڠ اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان مراڤتكن صلة الرحيم، مڠاداكن ڤربينچڠن، برحاجتكن ڤرتولوڠن دان سباݢاين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-028",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ايسي تمڤت كوسوڠ (3):\nتتامو اياله اورڠ يڠ داتڠ ___(1) اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان ___(2) صلة الرحيم، مڠاداكن ___(3)، برحاجتكن ___(4) دان سباݢاين.",
+    "image": null,
+    "options": [
+      "برتانداڠ",
+      "ڤربينچڠن",
+      "ڤركوڠسين",
+      "ڤرتولوڠن",
+      "مراڤتكن"
+    ],
+    "answer": 1,
+    "explanation": "تتامو اياله اورڠ يڠ داتڠ برتانداڠ اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان مراڤتكن صلة الرحيم، مڠاداكن ڤربينچڠن، برحاجتكن ڤرتولوڠن دان سباݢاين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "(3) boleh jadi 'perbincangan' atau 'perkongsian'; sila sahkan."
+  },
+  {
+    "id": "upkk-adab-029",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ايسي تمڤت كوسوڠ (4):\nتتامو اياله اورڠ يڠ داتڠ ___(1) اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان ___(2) صلة الرحيم، مڠاداكن ___(3)، برحاجتكن ___(4) دان سباݢاين.",
+    "image": null,
+    "options": [
+      "برتانداڠ",
+      "ڤربينچڠن",
+      "ڤركوڠسين",
+      "ڤرتولوڠن",
+      "مراڤتكن"
+    ],
+    "answer": 3,
+    "explanation": "تتامو اياله اورڠ يڠ داتڠ برتانداڠ اتاو منزيارهي كرومه سام اد سأورڠ اتاو رامأي باݢي توجوان مراڤتكن صلة الرحيم، مڠاداكن ڤربينچڠن، برحاجتكن ڤرتولوڠن دان سباݢاين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-030",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ڤادنكن دڠن جاواڤن يڠ بتول:\nمڠاباءيكن اهلي كلوارݢ راكن",
+    "image": null,
+    "options": [
+      "برادب",
+      "تيدق برادب"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-031",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ڤادنكن دڠن جاواڤن يڠ بتول:\nممينتا ايذين اونتوق ماسوق كرومه",
+    "image": null,
+    "options": [
+      "برادب",
+      "تيدق برادب"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-032",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ڤادنكن دڠن جاواڤن يڠ بتول:\nبراد درومه راكن ترلالو لام",
+    "image": null,
+    "options": [
+      "برادب",
+      "تيدق برادب"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-033",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ڤادنكن دڠن جاواڤن يڠ بتول:\nمنجاݢ ڤندڠن سماس براد درومه",
+    "image": null,
+    "options": [
+      "برادب",
+      "تيدق برادب"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-034",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "ڤادنكن دڠن جاواڤن يڠ بتول:\nمرندهكن سوارا كتيک برچاكڤ",
+    "image": null,
+    "options": [
+      "برادب",
+      "تيدق برادب"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-035",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nامير برماءين-ماءين دكاوسن تانه ڤركوبورن.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 1,
+    "explanation": "كيت تيدق بوليه برماءين دكاوسن ڤركوبورن.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-036",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nسموا ماءنسي ڤرلو برسديا مڠهادڤي كماتين.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-037",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nكيت دݢالقكن بردعاء كڤد جنازه كتيک منزيارهين.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-038",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nسنتياس ممبري موتيۏاسي كڤد كلوارݢ سي ماتي.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-039",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nمنزيارهي قبور داڤت ملوڤاكن كيت تنتڠ كماتين.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 1,
+    "explanation": "منزيارهي قبور ممبوات كيت إڠت اكن كماتين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-040",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nملقساناكن ___ ڤوكوق اونتوق منجاݢ عالم سكيتر.",
+    "image": null,
+    "options": [
+      "ڤنانمن",
+      "ڤرتومبوهن"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-041",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nكيت ڤرلو ___ دالم مڠݢوناكن سومبر اءير.",
+    "image": null,
+    "options": [
+      "جوجور",
+      "برهيمه"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-042",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nكمودهن عوام يڠ روسق بوليه مڠاقبتكن ___.",
+    "image": null,
+    "options": [
+      "كچاچتن",
+      "كچدراءن"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-043",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nعمر ملاڤوركن كڤد ڤيهق بركواس اڤابيلا برلاكو ___.",
+    "image": null,
+    "options": [
+      "ڤنچمرن",
+      "ڤمبازيرن"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true,
+    "nota_semak": "Kedua-dua pilihan munasabah; sila sahkan."
+  },
+  {
+    "id": "upkk-adab-044",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بولتكن جاواڤن يڠ بتول.\nبكرجا سچارا تراتور داڤت منچاڤاي ___ يڠ دتتڤكن.",
+    "image": null,
+    "options": [
+      "اوبجيكتيف",
+      "فوكوس"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-045",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nحاكيم ماسوق كدالم رومه نعيم تنڤا دجمڤوت.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 1,
+    "explanation": "تيدق بوليه ماسوق رومه اورڠ تنڤا ايذين.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-046",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nفضلي منزيارهي نيظم اونتوق مڠرتكن صلة الرحيم.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-047",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nاورڠ يڠ منجاݢ ايكتن ڤرساوداراءن اكن درحمتي الله ﷻ.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-048",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nسيتي مڠهيدڠكن ماكنن كڤد تتامو دڠن ڤيڠݢن يڠ كوتور.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-049",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nزيد بركونجوڠ كرومه ݢوروڽ ڤد ليوت مالم.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 1,
+    "explanation": "تيدق ملاوت ڤد ليوت مالم.",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-050",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "objektif",
+    "script": "jawi",
+    "question": "بتول اتاو ساله؟\nكيت ڤرلو ملاين تتامو دڠن باءيق.",
+    "image": null,
+    "options": [
+      "بتول (✓)",
+      "ساله (✗)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-051",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "جلسكن دوا ادب دمجليس كراماين.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "مان-مان دوا: ممبري سلام، ممبري تمڤت دودوق كڤد اورڠ لاءين، ماكن دڠن تاڠن كانن، برچاكڤ دڠن سوڤن.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-052",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "توليس دوا عاقبت تيدق مڠعملكن ادب كتيک منزيارهي ساودارا-مارا.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "مان-مان دوا: هوبوڠن منجادي رڠݢڠ، تيدق دسنڠي، مڽيڠݢوڠ ڤراساءن توان رومه.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-053",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "توليس لارڠن كتيک بركوتوڠ-رويوڠ دان عاقبت تيدق برادب كتيک بركوتوڠ-رويوڠ.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "لارڠن: برماءين-ماءين/برݢوراو كتيک بكرجا، مڠاباءيكن توݢسن.\nعاقبت: كرجا تيدق سلساي، برلاكو ڤرسليسيهن.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-054",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "توليس دوا ادب كتيک براعتكاف ددالم مسجد.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "مان-مان دوا: برنية اعتكاف، بردزيكير، ممباچ القرءان، تيدق برچاكڤ ڤركارا سيا٢.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-055",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "توليس حكمه مڠعملكن ادب كتيک براعتكاف ددالم مسجد.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "منداڤت ڤهالا دان مندكتكن ديري كڤد الله ﷻ.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-056",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "توليس دوا ادب كتيک براد دالم مجليس علمو.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "مان-مان دوا: مندڠر دڠن تليتي، دودوق دڠن سوڤن، تيدق ممتوڠ چاكڤ ݢورو.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-057",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "جلسكن ڤرلاكوان تيدق برادب كتيک صلاة جمعة.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "برچاكڤ سماس خطيب مڽمڤايكن خطبة / ملڠكاه بهو اورڠ لاءين.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  },
+  {
+    "id": "upkk-adab-058",
+    "exam": "UPKK",
+    "subject": "Adab",
+    "topic": "Adab",
+    "type": "subjektif",
+    "script": "jawi",
+    "question": "ڽاتاكن دوا كلبيهن مڠعملكن ادب مڠݢوناكن كمودهن دمسجد.",
+    "image": null,
+    "options": [],
+    "answer": null,
+    "answer_text": "مان-مان دوا: كمودهن تاهن لام، مسجد برسيه دان سليسا، منداڤت ڤهالا.",
+    "explanation": "",
+    "source": "UPKK 2024",
+    "perlu_semak": true
+  }
+]
