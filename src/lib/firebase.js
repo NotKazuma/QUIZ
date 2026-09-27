@@ -20,11 +20,13 @@ const config = EMULATOR
 // Jika config belum diisi, laman masih boleh digunakan sebagai tetamu dalam peranti ini sahaja.
 export const firebaseReady = Boolean(config.apiKey && config.projectId);
 
+let app = null;
 let auth = null;
 let db = null;
 export const getDb = () => db;
+export const getFirebaseApp = () => app;
 if (firebaseReady) {
-  const app = initializeApp(config);
+  app = initializeApp(config);
   auth = getAuth(app);
   auth.languageCode = 'ms';
   db = getFirestore(app);

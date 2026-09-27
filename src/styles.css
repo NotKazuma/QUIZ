@@ -1065,3 +1065,52 @@ p { margin: 0; }
 .homework-card.is-done { opacity: 0.75; }
 .homework-card.is-late.card-spotlight.action-card { border-color: var(--wrong); }
 .homework-card .card-desc { font-size: 0.8rem; }
+
+/* =========================================================
+   Perlumbaan langsung
+   ========================================================= */
+.race-card .card-icon { background: #fee2e2; color: #dc2626; }
+@media (prefers-color-scheme: dark) { .race-card .card-icon { background: #450a0a; color: #fca5a5; } }
+.race-header { display: flex; align-items: center; gap: 8px; margin: 0 0 14px -8px; }
+.race-title { flex: 1; min-width: 0; font-weight: 800; font-size: 0.95rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.race-pin { display: grid; justify-items: center; gap: 4px; padding: 22px 16px; text-align: center; }
+.race-pin-value { font-size: 3.2rem; font-weight: 800; letter-spacing: 0.08em; color: var(--primary); font-variant-numeric: tabular-nums; line-height: 1.1; }
+.lobby-players { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+.lobby-chip { padding: 8px 14px; border-radius: 999px; font-weight: 800; background: var(--card); border: 2px solid var(--border); }
+.lobby-chip.is-me { border-color: var(--primary); color: var(--primary); }
+.waiting { animation: pulse-soft 1.6s ease-in-out infinite; }
+@keyframes pulse-soft { 50% { opacity: 0.6; } }
+.race-rank { font-weight: 800; color: var(--muted-foreground); }
+.race-next { margin-top: 10px; background: rgb(255 255 255 / 0.2); color: #fff; border: 2px solid rgb(255 255 255 / 0.6); width: auto; }
+.race-done { display: grid; justify-items: center; gap: 4px; padding: 20px; margin-bottom: 14px; text-align: center; }
+.race-end-btn { margin-top: 16px; }
+.race-end-title { text-align: center; margin: 4px 0 12px; }
+.race-balls { height: 160px; margin: -8px -16px 0; pointer-events: none; }
+
+.leaderboard { list-style: none; margin: 0 0 16px; padding: 0; display: grid; gap: 8px; }
+.lb-row {
+  display: flex; align-items: center; gap: 10px; padding: 10px 14px;
+  border-radius: calc(var(--radius) + 2px); border: 1px solid var(--border);
+  background: color-mix(in srgb, var(--card) 88%, transparent);
+}
+.lb-row.is-me { border: 2px solid var(--primary); background: color-mix(in srgb, var(--primary-soft) 60%, var(--card)); }
+.lb-rank { width: 28px; text-align: center; font-weight: 800; font-size: 1.1rem; }
+.lb-main { flex: 1; min-width: 0; display: grid; gap: 6px; }
+.lb-name { font-weight: 800; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.lb-track { position: relative; height: 10px; border-radius: 999px; background: color-mix(in srgb, var(--primary) 15%, transparent); }
+.lb-track-bar { position: absolute; inset: 0 auto 0 0; border-radius: inherit; background: linear-gradient(90deg, var(--primary), var(--accent)); transition: width 0.5s ease; }
+.lb-runner { position: absolute; top: -9px; font-size: 1.1rem; line-height: 1; transition: left 0.5s ease; }
+.lb-score { font-weight: 800; font-variant-numeric: tabular-nums; }
+
+.podium { display: grid; grid-template-columns: repeat(3, 1fr); align-items: end; gap: 8px; margin: 8px 0 18px; }
+.podium-col { display: grid; justify-items: center; gap: 2px; text-align: center; }
+.podium-name { font-weight: 800; font-size: 0.9rem; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.podium-score { font-size: 0.8rem; color: var(--muted-foreground); font-weight: 700; }
+.podium-block {
+  display: grid; place-items: start center; width: 100%; padding-top: 10px; font-size: 2rem;
+  border-radius: var(--radius) var(--radius) 0 0; color: #fff;
+}
+.place-1 .podium-block { background: linear-gradient(#fbbf24, #d97706); }
+.place-2 .podium-block { background: linear-gradient(#cbd5e1, #64748b); }
+.place-3 .podium-block { background: linear-gradient(#fdba74, #c2410c); }
+.lb-track { margin-right: 16px; }

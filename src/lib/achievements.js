@@ -19,6 +19,9 @@ export function emptyStats() {
     bestPoints: 0,     // mata tertinggi dalam satu cabaran
     redeemed: 0,       // soalan tebusan yang berjaya
     redeemedHard: 0,   // soalan tebusan Susah yang berjaya
+    races: 0,          // perlumbaan langsung yang ditamatkan
+    raceWins: 0,       // tempat pertama (sekurang-kurangnya 3 pemain)
+    racePodiums: 0,    // 3 teratas (sekurang-kurangnya 3 pemain)
   };
 }
 
@@ -91,6 +94,15 @@ export function recordQuizEnd(stats, { examId, subjectId, score, total, mode, po
   return s;
 }
 
+// Kemas kini bila perlumbaan langsung tamat.
+export function recordRaceEnd(stats, { rank, players }) {
+  const s = { ...emptyStats(), ...stats };
+  s.races += 1;
+  if (players >= 3 && rank === 1) s.raceWins += 1;
+  if (players >= 3 && rank >= 1 && rank <= 3) s.racePodiums += 1;
+  return s;
+}
+
 // Subjek paling banyak ditamatkan dalam satu peperiksaan: [siap, jumlah].
 function bestExamCoverage(stats, config) {
   let best = [0, 1];
@@ -123,6 +135,9 @@ export const ACHIEVEMENTS = [
   { id: 'redeem', emoji: '🎯', title: 'Bangkit Semula', desc: 'Berjaya menjawab soalan tebusan', progress: s => [s.redeemed || 0, 1] },
   { id: 'redeem-hard', emoji: '💪', title: 'Berani Susah', desc: 'Berjaya menjawab soalan tebusan Susah', progress: s => [s.redeemedHard || 0, 1] },
   { id: 'points-10k', emoji: '💎', title: '10,000 Mata', desc: 'Kumpul 10,000 mata dalam satu Cabaran', progress: s => [s.bestPoints || 0, 10000] },
+  { id: 'race-first', emoji: '🏎️', title: 'Pelumba', desc: 'Tamatkan satu perlumbaan langsung', progress: s => [s.races || 0, 1] },
+  { id: 'race-podium', emoji: '🥉', title: 'Naik Podium', desc: 'Tiga teratas dalam perlumbaan (min. 3 pemain)', progress: s => [s.racePodiums || 0, 1] },
+  { id: 'race-win', emoji: '🥇', title: 'Juara Perlumbaan', desc: 'Tempat pertama dalam perlumbaan (min. 3 pemain)', progress: s => [s.raceWins || 0, 1] },
   { id: 'linked', emoji: '🔐', title: 'Akaun Selamat', desc: 'Pautkan akaun Google', progress: (s, ctx) => [ctx.user && !ctx.user.isGuest ? 1 : 0, 1] },
 ];
 

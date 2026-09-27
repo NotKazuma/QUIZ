@@ -8,7 +8,7 @@ import {
   saveSession,
   signOutUser, watchUser,
 } from './lib/firebase.js';
-import { emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd } from './lib/achievements.js';
+import { emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd, recordRaceEnd } from './lib/achievements.js';
 import { Avatar, GoogleButton, Icon, REDUCED_MOTION } from './components/ui.jsx';
 import ClickSpark from './components/bits/ClickSpark.jsx';
 import GradientText from './components/bits/GradientText.jsx';
@@ -21,6 +21,8 @@ import MyClasses from './screens/classes/MyClasses.jsx';
 // Panel admin & cikgu hanya dimuat turun bila dibuka (kebanyakan pengguna ialah murid).
 const Admin = lazy(() => import('./screens/admin/Admin.jsx'));
 const Teacher = lazy(() => import('./screens/teacher/Teacher.jsx'));
+// Perlumbaan memerlukan SDK Realtime Database; dimuat turun hanya bila dibuka.
+const RaceHub = lazy(() => import('./screens/race/RaceHub.jsx'));
 import Home from './screens/Home.jsx';
 import Login from './screens/Login.jsx';
 import ModeSelect from './screens/ModeSelect.jsx';
@@ -51,6 +53,7 @@ export default function App() {
   const [role, setRole] = useState(null);         // 'teacher' atau null (ditetapkan admin)
   const [myClasses, setMyClasses] = useState([]); // kelas yang disertai: [{ id, name, code }]
   const [assignment, setAssignment] = useState(null); // kerja rumah yang sedang dibuat
+  const [raceClass, setRaceClass] = useState(null);   // kelas yang dipilih cikgu untuk perlumbaan
   const [toasts, setToasts] = useState([]);
 
   const [session, setSession] = useState(null);  // sesi kuiz semasa (dengan soalan penuh)
@@ -335,6 +338,7 @@ export default function App() {
           <Home config={config} error={error} user={user} saved={saved}
             admin={isAdmin(user)} teacher={isTeacher(user, role)} myClasses={myClasses}
             onAdmin={() => go('admin')} onTeacher={() => go('teacher')} onClasses={() => go('classes')}
+            onRace={() => { setRaceClass(null); go('race'); }}
             onStartHomework={startHomework}
             unlockedCount={Object.keys(unlocked).length}
             onResume={resumeQuiz} onDiscard={() => discardSaved()} onLink={link}
@@ -346,7 +350,13 @@ export default function App() {
             onStartHomework={startHomework} onBack={() => go('home')} />
         )}
         {loggedIn && screen === 'teacher' && isTeacher(user, role) && (
-          <Teacher user={user} config={config} onBack={() => go('home')} />
+          <Teacher user={user} config={config} onBack={() => go('home')}
+            onHostRace={cls => { setRaceClass(cls); go('race'); }} />
+        )}
+        {loggedIn && screen === 'race' && (
+          <RaceHub user={user} config={config} presetClass={raceClass} teacher={isTeacher(user, role)}
+            onBack={() => go(raceClass ? 'teacher' : 'home')}
+            onRaceEnd={r => updateStats(recordRaceEnd(statsRef.current, r))} />
         )}
         {loggedIn && screen === 'admin' && isAdmin(user) && (
           <Admin user={user} config={config} onBack={() => go('home')} />

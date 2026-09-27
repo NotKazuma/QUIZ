@@ -11,7 +11,7 @@ import { useMediaQuery } from '../lib/useMediaQuery.js';
 import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 
 export default function Home({
-  config, error, user, saved, unlockedCount, admin, teacher, myClasses, onAdmin, onTeacher, onClasses, onStartHomework,
+  config, error, user, saved, unlockedCount, admin, teacher, myClasses, onAdmin, onTeacher, onClasses, onRace, onStartHomework,
   onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
   const dark = useMediaQuery('(prefers-color-scheme: dark)');
@@ -131,6 +131,12 @@ export default function Home({
             <ActionCard className="achievement-card" icon="trophy" title="Pencapaian"
               desc={`${unlockedCount}/${ACHIEVEMENTS.length} dibuka · lihat statistik anda`}
               onClick={onAchievements} />
+          </Reveal>
+        )}
+        {config && (
+          <Reveal index={config.exams.length}>
+            <ActionCard className="race-card" icon="flag" title="Perlumbaan"
+              desc="Berlumba secara langsung dengan kawan atau kelas guna PIN" onClick={onRace} />
           </Reveal>
         )}
         {config && (

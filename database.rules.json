@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "races": {
+      "$pin": {
+        ".read": "auth != null",
+        ".write": "auth != null && ((!data.exists() && newData.child('hostUid').val() === auth.uid) || data.child('hostUid').val() === auth.uid)",
+        ".validate": "!newData.exists() || newData.hasChildren(['hostUid', 'status'])",
+        "players": {
+          "$uid": {
+            ".write": "auth != null && auth.uid === $uid && data.parent().parent().exists() && (data.exists() || data.parent().parent().child('status').val() !== 'ended')",
+            ".validate": "!newData.exists() || (newData.child('name').isString() && newData.child('name').val().length <= 30 && newData.child('score').isNumber())"
+          }
+        }
+      }
+    }
+  }
+}
