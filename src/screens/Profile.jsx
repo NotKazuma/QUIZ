@@ -6,18 +6,17 @@ import Emoji from '../components/Emoji.jsx';
 import CountUp from '../components/bits/CountUp.jsx';
 import { BackButton, GlowButton, LinkReminder, Reveal } from '../components/ui.jsx';
 import { ACHIEVEMENTS } from '../lib/achievements.js';
-import { THEME_COLORS } from '../lib/shop.js';
+import { cardProps, cardTheme } from '../lib/shop.js';
 import { coins } from '../lib/wallet.js';
 
 export default function Profile({ user, stats, unlocked, avatar, prefs, onSavePrefs, onWardrobe, onShop, onAchievements, onAvatar, onLink, onBack }) {
   const [editing, setEditing] = useState(false);
   const [name, setName] = useState(prefs.displayName || '');
   const [title, setTitle] = useState(prefs.title || '');
-  const [theme, setTheme] = useState(prefs.theme || 'oren');
   const [isPublic, setIsPublic] = useState(prefs.public !== false);
   const [themeMode, setThemeMode] = useState(prefs.themeMode || 'auto');
 
-  const color = THEME_COLORS.find(t => t.id === (prefs.theme || 'oren'))?.color || '#ff9600';
+  const card = cardProps(cardTheme(avatar, prefs.theme), 'profile-card');
   const shownName = prefs.displayName || (user.isGuest ? 'Tetamu' : user.name);
   const titleBadge = ACHIEVEMENTS.find(a => a.id === prefs.title && unlocked[a.id]);
   const mine = ACHIEVEMENTS.filter(a => unlocked[a.id]).sort((a, b) => unlocked[b.id].localeCompare(unlocked[a.id]));
@@ -25,7 +24,7 @@ export default function Profile({ user, stats, unlocked, avatar, prefs, onSavePr
 
   function save(e) {
     e.preventDefault();
-    onSavePrefs({ ...prefs, displayName: name.trim().slice(0, 24) || prefs.displayName, title, theme, public: isPublic, themeMode });
+    onSavePrefs({ ...prefs, displayName: name.trim().slice(0, 24) || prefs.displayName, title, public: isPublic, themeMode });
     setEditing(false);
   }
 
@@ -33,7 +32,7 @@ export default function Profile({ user, stats, unlocked, avatar, prefs, onSavePr
     <section className="screen profile">
       <BackButton onClick={onBack} />
 
-      <div className="profile-card" style={{ '--pc': color }}>
+      <div {...card}>
         <button className="avatar-open" onClick={onAvatar} aria-label="Lihat avatar badan penuh">
           <AnimalAvatar avatar={avatar} size={132} mood="happy" />
         </button>
@@ -63,15 +62,7 @@ export default function Profile({ user, stats, unlocked, avatar, prefs, onSavePr
               {mine.map(a => <option key={a.id} value={a.id}>{a.title}</option>)}
             </select>
           </label>
-          <div className="field">
-            <span className="field-label">Warna tema</span>
-            <div className="theme-swatches">
-              {THEME_COLORS.map(t => (
-                <button key={t.id} type="button" aria-label={t.id} className={'swatch' + (theme === t.id ? ' is-on' : '')}
-                  style={{ background: t.color }} onClick={() => setTheme(t.id)} />
-              ))}
-            </div>
-          </div>
+          <p className="field-hint"><Emoji e="🪪" /> Tema kad profil kini dipilih di kedai (slot "Tema kad").</p>
           <div className="field">
             <span className="field-label">Paparan</span>
             <div className="chips" role="radiogroup" aria-label="Tema">

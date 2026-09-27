@@ -5,7 +5,7 @@ import AnimalAvatar from './AnimalAvatar.jsx';
 import Emoji from './Emoji.jsx';
 import { ACHIEVEMENTS } from '../lib/achievements.js';
 import { getPublicProfile } from '../lib/publicProfile.js';
-import { THEME_COLORS } from '../lib/shop.js';
+import { cardProps, cardTheme } from '../lib/shop.js';
 
 export default function PublicProfileSheet({ uid, fallbackName, onClose }) {
   const [profile, setProfile] = useState(undefined); // undefined = memuat, null = peribadi/tiada
@@ -16,7 +16,6 @@ export default function PublicProfileSheet({ uid, fallbackName, onClose }) {
     getPublicProfile(uid).then(setProfile).catch(() => setProfile(null));
   }, [uid]);
 
-  const color = THEME_COLORS.find(t => t.id === profile?.theme)?.color || '#ff9600';
   const title = ACHIEVEMENTS.find(a => a.id === profile?.title);
   const s = profile?.stats || {};
   const accuracy = s.answered ? Math.round((s.correct / s.answered) * 100) : 0;
@@ -37,7 +36,7 @@ export default function PublicProfileSheet({ uid, fallbackName, onClose }) {
               </div>
             ) : (
               <>
-                <div className="profile-card small" style={{ '--pc': color }}>
+                <div {...cardProps(cardTheme(profile.avatar, profile.theme), 'profile-card small')}>
                   <AnimalAvatar avatar={profile.avatar} size={104} />
                   <h2 className="profile-name">{profile.name}</h2>
                   {title && <span className="profile-title"><Emoji e={title.emoji} /> {title.title}</span>}

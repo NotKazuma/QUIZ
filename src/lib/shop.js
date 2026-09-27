@@ -116,6 +116,26 @@ export const ITEMS = [
   I('bingkai-bintang', 'frame', 'Bingkai Bintang', 'epik', 550),
   I('bingkai-pelangi', 'frame', 'Bingkai Pelangi', 'legenda', 1200),
   I('bingkai-api', 'frame', 'Bingkai Api', 'legenda', 1500),
+
+  // ---- tema kad profil (kind = kelas CSS ct-<kind>, color = warna asas & bayang)
+  I('tema-oren', 'card', 'Oren', 'biasa', 0, 'solid', '#ff9600'),
+  I('tema-hijau', 'card', 'Hijau', 'biasa', 0, 'solid', '#58cc02'),
+  I('tema-biru', 'card', 'Biru', 'biasa', 0, 'solid', '#1cb0f6'),
+  I('tema-ungu', 'card', 'Ungu', 'biasa', 0, 'solid', '#ce82ff'),
+  I('tema-merah', 'card', 'Merah', 'biasa', 0, 'solid', '#ff4b4b'),
+  I('tema-kuning', 'card', 'Kuning', 'biasa', 0, 'solid', '#ffc800'),
+  I('tema-merah-jambu', 'card', 'Merah Jambu', 'biasa', 60, 'solid', '#ff7eb6'),
+  I('tema-malam', 'card', 'Biru Malam', 'biasa', 60, 'solid', '#2f5d9e'),
+  I('tema-senja', 'card', 'Senja', 'jarang', 180, 'senja', '#ff6f61'),
+  I('tema-lautan', 'card', 'Lautan', 'jarang', 180, 'lautan', '#119fc4'),
+  I('tema-hutan', 'card', 'Hutan', 'jarang', 200, 'hutan', '#3f9b2f'),
+  I('tema-gula', 'card', 'Gula-gula', 'jarang', 220, 'gula', '#d77be8'),
+  I('tema-aurora', 'card', 'Aurora', 'epik', 550, 'aurora', '#2f8fc9'),
+  I('tema-neon', 'card', 'Neon', 'epik', 600, 'neon', '#2a1454'),
+  I('tema-pelangi', 'card', 'Pelangi', 'epik', 700, 'pelangi', '#ff7a45'),
+  I('tema-galaksi', 'card', 'Galaksi', 'legenda', 1500, 'galaksi', '#231552'),
+  I('tema-api', 'card', 'Api Juara', 'legenda', 1800, 'api', '#e64a19'),
+  I('tema-emas', 'card', 'Emas Diraja', 'legenda', 2200, 'emas', '#c99400'),
 ];
 
 export const SLOTS = [
@@ -128,6 +148,7 @@ export const SLOTS = [
   { id: 'hand', label: 'Pegang', emoji: '🎈' },
   { id: 'background', label: 'Latar', emoji: '🖼️' },
   { id: 'frame', label: 'Bingkai', emoji: '⭕' },
+  { id: 'card', label: 'Tema kad', emoji: '🪪' },
 ];
 
 // Kuasa semasa Cabaran & Perlumbaan.
@@ -141,7 +162,7 @@ export const POWERUPS = [
 
 export const DEFAULT_AVATAR = {
   animal: 'harimau', color: 'oren', hat: 'songkok', glasses: null, outfit: null,
-  shoes: null, hand: null, background: 'latar-langit', frame: null,
+  shoes: null, hand: null, background: 'latar-langit', frame: null, card: 'tema-oren',
 };
 
 // Warna tema kad profil.
@@ -151,6 +172,15 @@ export const THEME_COLORS = [
 ];
 
 export const itemById = id => ITEMS.find(i => i.id === id) || ANIMALS.find(a => a.id === id);
+
+// Tema kad profil yang dipakai (warna lama dalam prefs.theme dipetakan ke tema percuma).
+export function cardTheme(avatar, legacyTheme) {
+  return itemById(avatar?.card) || itemById('tema-' + (legacyTheme || 'oren')) || itemById('tema-oren');
+}
+export const cardProps = (item, base = '') => ({
+  className: `${base} ct ct-${item.kind} ct-${item.rarity}`,
+  style: { '--pc': item.color },
+});
 
 // Susun ikut kelangkaan (biasa dahulu), kemudian harga.
 export const byRarity = (a, b) => RARITY[a.rarity].order - RARITY[b.rarity].order || a.price - b.price;

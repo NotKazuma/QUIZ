@@ -133,7 +133,7 @@ export default function App() {
       setUnlocked(d.unlocked);
       setRole(d.role);
       setTeacherRequest(d.teacherRequest);
-      setAvatar(d.avatar);
+      setAvatar(d.avatar && !d.avatar.card ? { ...d.avatar, card: 'tema-' + (d.prefs?.theme || 'oren') } : d.avatar); // warna tema lama → tema kad
       setPrefs(d.prefs || {});
       if (d.prefs?.themeMode) applyTheme(d.prefs.themeMode);
       setMyClasses((d.classes || []).map(c => (typeof c === 'string' ? { id: c, name: user.name } : c)));

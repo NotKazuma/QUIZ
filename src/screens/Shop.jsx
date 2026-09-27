@@ -4,7 +4,7 @@ import { motion } from 'motion/react';
 import AnimalAvatar from '../components/AnimalAvatar.jsx';
 import Emoji from '../components/Emoji.jsx';
 import { BackButton, PageHead } from '../components/ui.jsx';
-import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, RARITY, RARITY_ORDER, SLOTS, byRarity } from '../lib/shop.js';
+import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, RARITY, RARITY_ORDER, SLOTS, byRarity, cardProps } from '../lib/shop.js';
 import { buyItem, buyPowerup, coins, formatCoins, isUnlimited, owns, powerupCount } from '../lib/wallet.js';
 
 export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onBack, initialTab = 'avatar' }) {
@@ -38,7 +38,7 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
       const animal = ANIMALS.find(a => a.id === id);
       setDraft(d => ({ ...d, animal: id, color: animal.colors.includes(d.color) ? d.color : animal.colors[0] }));
     } else {
-      setDraft(d => ({ ...d, [slot]: d[slot] === id && slot !== 'background' ? null : id }));
+      setDraft(d => ({ ...d, [slot]: d[slot] === id && slot !== 'background' && slot !== 'card' ? null : id }));
     }
   }
 
@@ -117,7 +117,9 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
                 <button key={o.id} className={'item-card rarity-' + o.rarity + (on ? ' is-on' : '') + (mine ? '' : ' is-locked')}
                   style={{ '--r': RARITY[o.rarity].color }}
                   onClick={() => (slot === 'color' ? setDraft(d => ({ ...d, color: o.id })) : choose(o.id, o.name, o.price))}>
-                  <AnimalAvatar avatar={preview} size={fullPreview ? 60 : 78} full={fullPreview} />
+                  {slot === 'card'
+                    ? <span {...cardProps(o, 'card-swatch')}><AnimalAvatar avatar={draft} size={44} /></span>
+                    : <AnimalAvatar avatar={preview} size={fullPreview ? 60 : 78} full={fullPreview} />}
                   <span className="item-name">{o.name}</span>
                   {slot !== 'color' && <span className="rarity-tag">{RARITY[o.rarity].label}</span>}
                   {mine
