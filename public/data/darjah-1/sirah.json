@@ -478,5 +478,485 @@
   "explanation": "امينة سأورڠ ايبو يڠ ڤڽايڠ.",
   "source": "PAT 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-01",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رجوعن سيرة يڠ ڤاليڠ بنر اياله ___.",
+  "options": [
+   "بوكو",
+   "مجله",
+   "القرءان"
+  ],
+  "answer": 2,
+  "explanation": "القرءان اياله رجوعن سيرة يڠ ڤاليڠ بنر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-02",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انق نبي ابراهيم عليه السلام اياله ___.",
+  "options": [
+   "اسماعيل عليه السلام",
+   "محمد ﷺ",
+   "عبد الله"
+  ],
+  "answer": 0,
+  "explanation": "نبي اسماعيل اياله انق نبي ابراهيم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-03",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوترا عبد الله بن عبد المطلب اياله ___.",
+  "options": [
+   "ابراهيم عليه السلام",
+   "اسماعيل عليه السلام",
+   "محمد ﷺ"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ اياله ڤوترا عبد الله بن عبد المطلب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-04",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو نبي محمد ﷺ اياله ___.",
+  "options": [
+   "هاجر",
+   "آمنة",
+   "سارة"
+  ],
+  "answer": 1,
+  "explanation": "ايبو نبي محمد ﷺ اياله آمنة بنت وهب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-05",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢلرن نبي محمد ﷺ اياله ___.",
+  "options": [
+   "الأمين",
+   "ايمان",
+   "احمد"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ دݢلر الأمين (يڠ داڤت دڤرچايا).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-06",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤڠرتين نسب اياله ___.",
+  "options": [
+   "كتورونن",
+   "كلوارݢ",
+   "بڠسا"
+  ],
+  "answer": 0,
+  "explanation": "نسب برمعنا كتورونن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-07",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: باڤ نبي محمد ﷺ اياله ___.",
+  "options": [
+   "هاشم",
+   "اسحاق",
+   "عبد الله"
+  ],
+  "answer": 2,
+  "explanation": "باڤ نبي محمد ﷺ اياله عبد الله بن عبد المطلب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-08",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ݢنتي قربان نذر عبد المطلب اياله ___.",
+  "options": [
+   "لمبو",
+   "اونتا",
+   "كمبيڠ"
+  ],
+  "answer": 1,
+  "explanation": "عبد المطلب مڠوربانكن 100 ايكور اونتا سباݢاي ݢنتي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-09",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: كتورونن آمنة اياله ___.",
+  "options": [
+   "هاشم",
+   "عرب",
+   "قريش"
+  ],
+  "answer": 2,
+  "explanation": "آمنة درڤد كتورونن قريش.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-10",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: مشاركت جاهلية برصيفت ___.",
+  "options": [
+   "جاهيل",
+   "ڤندأي",
+   "راجين"
+  ],
+  "answer": 0,
+  "explanation": "مشاركت جاهلية اياله مشاركت يڠ جاهيل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-11",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سيرة دچريتاكن سچارا تڤت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سيرة اياله قيصه بنر يڠ دچريتاكن سچارا تڤت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-12",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي صالح عليه السلام ترماسوق ݢولوڠن أولوالعزم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "أولوالعزم اياله نوح، ابراهيم، موسى، عيسى دان محمد ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-13",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبد الله برنياݢ ك نݢري ايندي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله برنياݢ ك نݢري شام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-14",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: آمنة ݢاديس براخلاق موليا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة سأورڠ ݢاديس يڠ براخلاق موليا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-15",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ ممبيمبيڠ ماءنسي ك جالن يڠ بنر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ دهانتر اونتوق ممبيمبيڠ ماءنسي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-16",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باڤ نبي اسماعيل عليه السلام اياله ___.",
+  "options": [
+   "هاجر",
+   "باءيق",
+   "ابراهيم عليه السلام",
+   "عرب",
+   "همبا الله"
+  ],
+  "answer": 2,
+  "explanation": "باڤ نبي اسماعيل اياله نبي ابراهيم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-17",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو نبي اسماعيل عليه السلام اياله ___.",
+  "options": [
+   "هاجر",
+   "باءيق",
+   "ابراهيم عليه السلام",
+   "عرب",
+   "همبا الله"
+  ],
+  "answer": 0,
+  "explanation": "ايبو نبي اسماعيل اياله سيتي هاجر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-18",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي عبد الله اياله ___.",
+  "options": [
+   "هاجر",
+   "باءيق",
+   "ابراهيم عليه السلام",
+   "عرب",
+   "همبا الله"
+  ],
+  "answer": 4,
+  "explanation": "عبد الله برمعنا همبا الله.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-19",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريبادي ايبو نبي محمد ﷺ اياله ___.",
+  "options": [
+   "هاجر",
+   "باءيق",
+   "ابراهيم عليه السلام",
+   "عرب",
+   "همبا الله"
+  ],
+  "answer": 1,
+  "explanation": "آمنة ممڤوڽاءي ڤريبادي يڠ باءيق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-20",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتورونن نبي محمد ﷺ اياله ___.",
+  "options": [
+   "هاجر",
+   "باءيق",
+   "ابراهيم عليه السلام",
+   "عرب",
+   "همبا الله"
+  ],
+  "answer": 3,
+  "explanation": "نبي محمد ﷺ بركتورونن عرب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-21",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اصل كتورونن نبي محمد ﷺ اياله ___.",
+  "options": [
+   "نبي موسى عليه السلام",
+   "نبي اسماعيل عليه السلام",
+   "نبي عيسى عليه السلام"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ درڤد كتورونن نبي اسماعيل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-22",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي اسماعيل عليه السلام ممڤوڽاءي صيفت ___.",
+  "options": [
+   "صبر",
+   "تاكوت",
+   "ڤوتوس اس"
+  ],
+  "answer": 0,
+  "explanation": "نبي اسماعيل ساڠت صبر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-23",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه قيصه عبد الله بن عبد المطلب اياله ___.",
+  "options": [
+   "لمه",
+   "براني",
+   "بيمبڠ"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله سأورڠ يڠ براني.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-24",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت ترڤوجي آمنة بنت وهب اياله ___.",
+  "options": [
+   "ڤماره",
+   "ڤڽايڠ",
+   "ڤمبوهوڠ"
+  ],
+  "answer": 1,
+  "explanation": "آمنة سأورڠ ايبو يڠ ڤڽايڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2025-25",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريبادي موليا نبي محمد ﷺ اياله ___.",
+  "options": [
+   "امانه",
+   "دوستا",
+   "بخيل"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ سأورڠ يڠ امانه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
  }
 ]
