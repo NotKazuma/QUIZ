@@ -960,6 +960,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-ibadat-ppt2024-01",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي عبادات اياله ___.",
+  "options": [
+   "ايڠكر",
+   "طاعة",
+   "ماره"
+  ],
+  "answer": 1,
+  "explanation": "عبادات برمعنا طاعة كڤد الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-02",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه عبادات اياله ___.",
+  "options": [
+   "صلاة",
+   "ماكن",
+   "چاكڤ"
+  ],
+  "answer": 0,
+  "explanation": "صلاة اياله عبادة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-03",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "طهارة برمعنا ___.",
+  "options": [
+   "بوسوق",
+   "برسيه",
+   "كوتور"
+  ],
+  "answer": 1,
+  "explanation": "طهارة برمعنا برسيه اتاو سوچي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-04",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم طهارة اياله ___.",
+  "options": [
+   "مكروه",
+   "حرام",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "طهارة اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-05",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين اءير اد ___.",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 0,
+  "explanation": "اءير تربهاݢي كڤد امڤت جنيس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-06",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برسوچي اكن منداڤت ڤهالا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برسوچي منداڤت ڤهالا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-07",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: چونتوه اءير مطلق اياله اءير هوجن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اءير هوجن اياله اءير مطلق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-08",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اءير مستعمل ترماسوق بهاݢين اءير.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اءير مستعمل اياله ساله ساتو بهاݢين اءير.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-09",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اءير ميلو دݢوناكن اونتوق بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "وضوء مستيله مڠݢوناكن اءير مطلق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-10",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اءير امبون اياله اءير متنجس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اءير امبون اياله اءير مطلق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-11",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم عبادات اياله ___.",
+  "options": [
+   "واجب",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "عبادة كڤد الله اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-12",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اءير سوڠاي اياله اءير ___.",
+  "options": [
+   "مُشَمَّس",
+   "مُطْلَق",
+   "مُتَنَجِّس"
+  ],
+  "answer": 1,
+  "explanation": "اءير سوڠاي اياله اءير مطلق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-13",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: استنجاء ارتيڽ ___.",
+  "options": [
+   "بواڠ",
+   "چيبوق",
+   "مندي"
+  ],
+  "answer": 1,
+  "explanation": "استنجاء برمعنا برچيبوق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-14",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: الت استنجاء اياله ___.",
+  "options": [
+   "تيسو",
+   "تانه",
+   "كايو"
+  ],
+  "answer": 0,
+  "explanation": "تيسو بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-15",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: بوكن الت استنجاء اياله ___.",
+  "options": [
+   "كاچ",
+   "كاءين",
+   "كرتس"
+  ],
+  "answer": 0,
+  "explanation": "كاچ ليچين، تيدق بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-16",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برڤواسا مروڤاكن چونتوه ___.",
+  "options": [
+   "واجب",
+   "طهارة",
+   "عبادات",
+   "اءير مطلق",
+   "استنجاء"
+  ],
+  "answer": 2,
+  "explanation": "برڤواسا اياله چونتوه عبادات.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-17",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسوچي درڤد حدث اياله مقصود ___.",
+  "options": [
+   "واجب",
+   "طهارة",
+   "عبادات",
+   "اءير مطلق",
+   "استنجاء"
+  ],
+  "answer": 1,
+  "explanation": "طهارة اياله برسوچي درڤد حدث دان نجس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-18",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم استنجاء اياله ___.",
+  "options": [
+   "واجب",
+   "طهارة",
+   "عبادات",
+   "اءير مطلق",
+   "استنجاء"
+  ],
+  "answer": 0,
+  "explanation": "استنجاء اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-19",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سابون كلاڤ اياله الت ___.",
+  "options": [
+   "واجب",
+   "طهارة",
+   "عبادات",
+   "اءير مطلق",
+   "استنجاء"
+  ],
+  "answer": 4,
+  "explanation": "سابون كلاڤ بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-20",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا استنجاء يڠ ڤاليڠ باءيق دڠن ___.",
+  "options": [
+   "واجب",
+   "طهارة",
+   "عبادات",
+   "اءير مطلق",
+   "استنجاء"
+  ],
+  "answer": 3,
+  "explanation": "براستنجاء دڠن اءير مطلق اياله يڠ ڤاليڠ باءيق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-21",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم منجاݢ كبرسيهن؟",
+  "options": [
+   "واجب",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "منجاݢ كبرسيهن اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-22",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه اءير مطلق؟",
+  "options": [
+   "اءير لاءوت",
+   "اءير تبو",
+   "اءير سيرڤ"
+  ],
+  "answer": 0,
+  "explanation": "اءير لاءوت اياله اءير مطلق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-23",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت الت استنجاء اياله ___.",
+  "options": [
+   "ليچين",
+   "كست",
+   "تاجم"
+  ],
+  "answer": 1,
+  "explanation": "الت استنجاء مستيله كست.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-24",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ تيدق بوليه دݢوناكن اونتوق براستنجاء اياله ___.",
+  "options": [
+   "باتو",
+   "تولڠ",
+   "سابوت"
+  ],
+  "answer": 1,
+  "explanation": "تولڠ تيدق بوليه دݢوناكن اونتوق براستنجاء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2024-25",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براستنجاء مڠݢوناكن بندا كست سكورڠ-كورڠڽ ___.",
+  "options": [
+   "ساتو كالي",
+   "دوا كالي",
+   "تيݢ كالي"
+  ],
+  "answer": 2,
+  "explanation": "استنجاء دڠن بندا كست سكورڠ-كورڠڽ تيݢ كالي سافو.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-ibadat-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Ibadat",

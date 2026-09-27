@@ -960,6 +960,470 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-tauhid-ppt2024-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ركن اياله ___.",
+  "options": [
+   "داسر",
+   "ڤاتوه",
+   "توندوق"
+  ],
+  "answer": 0,
+  "explanation": "ركن برمعنا داسر اتاو اساس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اݢام يڠ بنر اياله ___.",
+  "options": [
+   "ايمان",
+   "إسلام",
+   "احسان"
+  ],
+  "answer": 1,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام اد ___ ڤركارا.",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "ركن إسلام اد ليم ڤركارا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠوچڤ شهادة اياله ___.",
+  "options": [
+   "ركن ڤرتام",
+   "ركن كدوا",
+   "ركن كتيݢ"
+  ],
+  "answer": 0,
+  "explanation": "مڠوچڤ دوا كليمة شهادة اياله ركن إسلام يڠ ڤرتام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام كتيݢ اياله ___.",
+  "options": [
+   "صلاة",
+   "زكاة",
+   "حج"
+  ],
+  "answer": 1,
+  "explanation": "ركن إسلام كتيݢ اياله مڠلواركن زكاة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: انق كونچي شرݢ اياله شهادة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دوا كليمة شهادة اياله انق كونچي شرݢ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: منديريكن صلاة ركن إسلام كدوا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "منديريكن صلاة اياله ركن إسلام كدوا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مكلف اياله اورڠ يڠ برعقل سمڤورنا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مكلف اياله اورڠ إسلام يڠ بالغ دان برعقل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ركن إسلام كامڤت اياله مڠلواركن زكاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ركن إسلام كامڤت اياله برڤواسا دبولن رمضان.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: منوجو كمدينة ركن إسلام كليما.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ركن إسلام كليم اياله منونايكن حج دمكه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ملاكوكن ڤرينته الله اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "ايڠكر",
+   "درهاک"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ ملاكوكن ڤرينته الله اياله اورڠ يڠ ڤاتوه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ركن اد ليم ڤركارا اياله ركن ___.",
+  "options": [
+   "إسلام",
+   "ايمان",
+   "صلاة"
+  ],
+  "answer": 0,
+  "explanation": "ركن إسلام اد ليم ڤركارا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤسوروه الله اياله نبي ___.",
+  "options": [
+   "مالك",
+   "منكر",
+   "محمد"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ اياله ڤسوروه الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: كليمة شهادة اد ___.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "اد دوا كليمة شهادة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ممڤلاجري ركن إسلام اياله ___.",
+  "options": [
+   "برڤواسا دبولن رمضان",
+   "صلاة",
+   "واجب",
+   "مسلم",
+   "مؤلف"
+  ],
+  "answer": 2,
+  "explanation": "ممڤلاجري ركن إسلام اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو ركن إسلام اياله ___.",
+  "options": [
+   "برڤواسا دبولن رمضان",
+   "صلاة",
+   "واجب",
+   "مسلم",
+   "مؤلف"
+  ],
+  "answer": 0,
+  "explanation": "برڤواسا دبولن رمضان اياله ركن إسلام كامڤت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربيذاءن انتارا مسلم دڠن كافير اياله ___.",
+  "options": [
+   "برڤواسا دبولن رمضان",
+   "صلاة",
+   "واجب",
+   "مسلم",
+   "مؤلف"
+  ],
+  "answer": 1,
+  "explanation": "صلاة اياله ڤمبيذا انتارا مسلم دان كافير.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط واجب زكاة فطرة اياله ___.",
+  "options": [
+   "برڤواسا دبولن رمضان",
+   "صلاة",
+   "واجب",
+   "مسلم",
+   "مؤلف"
+  ],
+  "answer": 3,
+  "explanation": "زكاة فطرة واجب اتس اورڠ مسلم.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن يڠ برحق منريما زكاة اياله ___.",
+  "options": [
+   "برڤواسا دبولن رمضان",
+   "صلاة",
+   "واجب",
+   "مسلم",
+   "مؤلف"
+  ],
+  "answer": 4,
+  "explanation": "مؤلف اياله ساله ساتو اصناف زكاة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢمبر اين منونجوقكن عبادة ___.",
+  "image": "images/darjah-1/tauhid-ppt2024-kaabah.jpg",
+  "options": [
+   "حج",
+   "صلاة",
+   "زكاة"
+  ],
+  "answer": 0,
+  "explanation": "كعبة اياله تمڤت منونايكن حج.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢمبر اين اياله لفظ ___.",
+  "image": "images/darjah-1/tauhid-ppt2024-syahadah.jpg",
+  "options": [
+   "دعاء",
+   "شهادة",
+   "ذيكير"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله دوا كليمة شهادة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢمبر اين منونجوقكن عبادة ___.",
+  "image": "images/darjah-1/tauhid-ppt2024-solat.jpg",
+  "options": [
+   "صلاة",
+   "وضوء",
+   "تيمم"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين منونجوقكن اورڠ سدڠ صلاة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠلواركن زكاة اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 1,
+  "explanation": "مڠلواركن زكاة اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2024-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بولن ڤواسا اياله ___.",
+  "options": [
+   "رجب",
+   "محرم",
+   "رمضان"
+  ],
+  "answer": 2,
+  "explanation": "اومت إسلام برڤواسا دبولن رمضان.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",

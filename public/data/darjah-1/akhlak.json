@@ -962,6 +962,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-akhlak-ppt2024-01",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم تيدور اياله ___.",
+  "options": [
+   "برماءين",
+   "برسوݢي",
+   "برسوكن"
+  ],
+  "answer": 1,
+  "explanation": "كيت دسنتكن برسوݢي سبلوم تيدور.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-02",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبرسيهكن ديري دڠن چارا ___.",
+  "options": [
+   "مندي",
+   "ماكن",
+   "دودوق"
+  ],
+  "answer": 0,
+  "explanation": "مندي ممبرسيهكن ديري.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-03",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريبادي مسلم اياله ___.",
+  "options": [
+   "كجي",
+   "برسيه",
+   "كوتور"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ مسلم سنتياس منجاݢ كبرسيهن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-04",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واجب بروضوء سبلوم ___.",
+  "options": [
+   "صلاة",
+   "ڤواسا",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "بروضوء واجب سبلوم صلاة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-05",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سلڤس ماكن اياله ___.",
+  "options": [
+   "بردعاء",
+   "برماءين",
+   "برݢوراو"
+  ],
+  "answer": 0,
+  "explanation": "كيت بردعاء سلڤس ماكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-06",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيدور بوليه مريحتكن بادن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تيدور مريحتكن بادن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-07",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مندي دتمڤت تربوک.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت مندي دتمڤت يڠ ترتوتوڤ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-08",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: واجب مڽمڤورناكن وضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت واجب مڽمڤورناكن وضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-09",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برديري كتيك ماكن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت ماكن سمبيل دودوق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-10",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيدق ممبذير ماكنن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت تيدق بوليه ممبذيركن ماكنن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-11",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اره تيدور رسول الله ﷺ اياله ___.",
+  "options": [
+   "بارت",
+   "قبلة",
+   "مسجد"
+  ],
+  "answer": 1,
+  "explanation": "رسول الله ﷺ تيدور مڠهادڤ قبلة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-12",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم منجاݢ كبرسيهن اياله ___.",
+  "options": [
+   "واجب",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "منجاݢ كبرسيهن اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-13",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب سلڤس بروضوء اياله ___.",
+  "options": [
+   "بردعاء",
+   "برچاكڤ",
+   "برݢوراو"
+  ],
+  "answer": 0,
+  "explanation": "كيت ممباچ دعاء سلڤس بروضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-14",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم بروضوء دالم تندس اياله ___.",
+  "options": [
+   "سنة",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "بروضوء دالم تندس اياله مكروه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-15",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب سماس مڠمبيل ماكنن اياله ___.",
+  "options": [
+   "سوڤن",
+   "جالن",
+   "بربوت"
+  ],
+  "answer": 0,
+  "explanation": "كيت مڠمبيل ماكنن دڠن سوڤن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-16",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدور بوليه مريحتكن ___.",
+  "options": [
+   "مالس",
+   "نجيس",
+   "ڤهالا",
+   "ديري",
+   "حلال"
+  ],
+  "answer": 3,
+  "explanation": "تيدور مريحتكن ديري.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-17",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كورڠ تيدور مڽببكن ___.",
+  "options": [
+   "مالس",
+   "نجيس",
+   "ڤهالا",
+   "ديري",
+   "حلال"
+  ],
+  "answer": 0,
+  "explanation": "كورڠ تيدور ممبواتكن كيت لمه دان مالس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-18",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسوݢي دڠن اوبت ݢيݢي يڠ ___.",
+  "options": [
+   "مالس",
+   "نجيس",
+   "ڤهالا",
+   "ديري",
+   "حلال"
+  ],
+  "answer": 4,
+  "explanation": "كيت مڠݢوناكن اوبت ݢيݢي يڠ حلال.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-19",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسيهكن ديري درڤد ___.",
+  "options": [
+   "مالس",
+   "نجيس",
+   "ڤهالا",
+   "ديري",
+   "حلال"
+  ],
+  "answer": 1,
+  "explanation": "كيت ممبرسيهكن ديري درڤد نجيس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-20",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماكن برادب منداڤت ___.",
+  "options": [
+   "مالس",
+   "نجيس",
+   "ڤهالا",
+   "ديري",
+   "حلال"
+  ],
+  "answer": 2,
+  "explanation": "ماكن دڠن برادب منداڤت ڤهالا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-21",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"اَللّٰهُمَّ بِاسْمِكَ أَحْيَا وَأَمُوتُ\" اداله دعاء ___.",
+  "options": [
+   "هندق تيدور",
+   "ناءيق كريتا",
+   "ماسوق تندس"
+  ],
+  "answer": 0,
+  "explanation": "دعاء اين دباچ سبلوم تيدور.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-22",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فاءيده برسوݢي اياله ___.",
+  "options": [
+   "برڤڽاكيت",
+   "مولوت برباو",
+   "ميندا چرداس"
+  ],
+  "answer": 2,
+  "explanation": "برسوݢي ممبري فاءيده كڤد ميندا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-23",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سماس بروضوء اياله ___.",
+  "options": [
+   "برلاري لاجو",
+   "برماءين-ماءين",
+   "منوتوڤ عورة"
+  ],
+  "answer": 2,
+  "explanation": "كيت منوتوڤ عورة سماس بروضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-24",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مكروه كتيك بروضوء ___.",
+  "options": [
+   "برچاكڤ",
+   "برسلام",
+   "برسوݢي"
+  ],
+  "answer": 0,
+  "explanation": "مكروه برچاكڤ كتيك بروضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-ppt2024-25",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب ماكن مڠݢوناكن تاڠن ___.",
+  "options": [
+   "كيري",
+   "كانن",
+   "كانن دان كيري"
+  ],
+  "answer": 1,
+  "explanation": "كيت ماكن دڠن تاڠن كانن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-akhlak-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Akhlak",
