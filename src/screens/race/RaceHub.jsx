@@ -7,7 +7,7 @@ import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 import RaceRoom from './RaceRoom.jsx';
 import Emoji from '../../components/Emoji.jsx';
 
-export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd }) {
+export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd, power }) {
   const [room, setRoom] = useState(null); // { pin, isHost }
   const [pin, setPin] = useState('');
   const [name, setName] = useState(user.isGuest ? '' : user.name);
@@ -57,7 +57,7 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
   if (room) {
     return (
       <RaceRoom pin={room.pin} user={user} config={config} isHost={room.isHost}
-        onExit={() => setRoom(null)} onRaceEnd={onRaceEnd} />
+        onExit={() => setRoom(null)} onRaceEnd={onRaceEnd} power={power} />
     );
   }
 

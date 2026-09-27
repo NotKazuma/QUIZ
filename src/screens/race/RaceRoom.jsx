@@ -12,10 +12,12 @@ import {
 } from '../../lib/race.js';
 import { Leaderboard, Podium } from './Leaderboard.jsx';
 import Emoji from '../../components/Emoji.jsx';
+import PowerBar, { PowerStatus, applyPower, usePowerRound } from '../../components/PowerBar.jsx';
 
 const Celebration = lazy(() => import('../../components/Celebration.jsx'));
 
-export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd }) {
+// `power` = { stats, onUse(id) → bool, onGrant() } untuk kuasa semasa berlumba.
+export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd, power }) {
   const [race, setRace] = useState(undefined); // undefined = memuat, null = ditutup
   const [questions, setQuestions] = useState(null);
   const reported = useRef(false);
@@ -136,7 +138,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
     <section className="screen race">
       {header}
       {playing && questions ? (
-        <PlayRounds pin={pin} user={user} me={me} questions={questions} players={players} />
+        <PlayRounds pin={pin} user={user} me={me} questions={questions} players={players} power={power} />
       ) : me && me.finished ? (
         <>
           <div className="card race-done">
@@ -164,8 +166,9 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
 }
 
 // Soalan demi soalan untuk seorang pemain. Kemajuan disimpan dalam nod pemain (boleh sambung jika muat semula).
-function PlayRounds({ pin, user, me, questions, players }) {
+function PlayRounds({ pin, user, me, questions, players, power }) {
   const [current, setCurrent] = useState(me.answered || 0);
+  const { fx, setFx, reset: resetFx } = usePowerRound();
   const [phase, setPhase] = useState('question');
   const [last, setLast] = useState(null);
   const total = questions.length;
@@ -174,8 +177,11 @@ function PlayRounds({ pin, user, me, questions, players }) {
   const rank = useMemo(() => ranking(players).findIndex(r => r.uid === user.uid) + 1, [players, user.uid]);
 
   function answered(r) {
-    const streak = r.correct ? (me.streak || 0) + 1 : 0;
-    const pts = pointsFor({ ...r, streak });
+    const shielded = !r.correct && fx.shield;
+    const streak = r.correct ? (me.streak || 0) + 1 : shielded ? me.streak || 0 : 0;
+    const base = pointsFor({ ...r, streak });
+    const pts = fx.double && r.correct ? { ...base, total: base.total * 2, doubled: true } : base;
+    if (r.correct && streak > 0 && streak % 3 === 0) power?.onGrant();
     const next = {
       score: (me.score || 0) + pts.total,
       correct: (me.correct || 0) + (r.correct ? 1 : 0),
@@ -183,7 +189,7 @@ function PlayRounds({ pin, user, me, questions, players }) {
       streak,
       finished: current + 1 >= total,
     };
-    setLast({ ...r, pts, streak });
+    setLast({ ...r, pts, streak, shielded });
     updatePlayer(pin, user.uid, next);
     setTimeout(() => setPhase('feedback'), 700);
   }
@@ -196,9 +202,20 @@ function PlayRounds({ pin, user, me, questions, players }) {
   }, [phase, current]); // eslint-disable-line react-hooks/exhaustive-deps
 
   function next() {
+    resetFx();
     if (current + 1 >= total) return; // nod pemain sudah ditanda selesai
     setCurrent(c => c + 1);
     setPhase('question');
+  }
+
+  function activatePower(id) {
+    if (!power?.onUse(id)) return;
+    if (id === 'skip') {
+      // Langkau: kemajuan bertambah tanpa mata; rekod berturut dikekalkan.
+      updatePlayer(pin, user.uid, { answered: current + 1, finished: current + 1 >= total });
+      return next();
+    }
+    setFx(f => applyPower(f, id, q));
   }
 
   if (!q) return null;
@@ -209,8 +226,13 @@ function PlayRounds({ pin, user, me, questions, players }) {
         <span className="race-rank">#{rank} · {current + 1}/{total}</span>
       </div>
       {phase === 'question' ? (
-        <QuestionRound key={current} question={q} limitSec={timeFor(q)} onAnswered={answered}
-          eyebrow={`${q.exam} · ${q.subject}`} badge={<DifficultyBadge level={q.difficulty} />} />
+        <>
+          {power && <PowerBar stats={power.stats} fx={fx} onUse={activatePower} />}
+          <PowerStatus fx={fx} />
+          <QuestionRound key={current} question={q} limitSec={timeFor(q)} onAnswered={answered}
+            hidden={fx.hidden} bonusMs={fx.bonusMs}
+            eyebrow={`${q.exam} · ${q.subject}`} badge={<DifficultyBadge level={q.difficulty} />} />
+        </>
       ) : (
         <motion.div className={'points-pop ' + (last.correct ? 'is-correct' : 'is-wrong')}
           initial={{ scale: 0.6, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}>
@@ -219,6 +241,8 @@ function PlayRounds({ pin, user, me, questions, players }) {
           {last.correct ? <span className="pop-points">+{last.pts.total}</span>
             : <span className="pop-answer" dir="auto">Jawapan: {q.options[q.answer]}</span>}
           {last.streak >= 2 && <span className="pop-bonus"><Emoji e="🔥" /> {last.streak} berturut</span>}
+          {last.pts.doubled && <span className="pop-bonus"><Emoji e="✖️" /> Mata digandakan!</span>}
+          {last.shielded && <span className="pop-bonus"><Emoji e="🛡️" /> Perisai melindungi rekod berturut!</span>}
           <span className="pop-bonus">Kedudukan anda: #{rank}</span>
           {current + 1 < total && <button className="btn btn-lg race-next" onClick={next}>Seterusnya →</button>}
         </motion.div>

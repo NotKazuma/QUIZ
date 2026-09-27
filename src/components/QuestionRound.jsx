@@ -5,26 +5,29 @@ import { Icon } from './ui.jsx';
 import { KEYS_ARABIC, KEYS_RUMI, assetUrl, isArabicScript, scriptProps } from '../lib/quiz.js';
 import { TILE_COLORS } from '../lib/challenge.js';
 
-export default function QuestionRound({ question: q, limitSec, eyebrow, badge, onAnswered }) {
-  const limitMs = limitSec * 1000;
+// `hidden` = indeks pilihan yang dibuang (kuasa 50:50); `bonusMs` = masa tambahan (kuasa Masa +15s).
+export default function QuestionRound({ question: q, limitSec, eyebrow, badge, onAnswered, hidden = [], bonusMs = 0 }) {
+  const limitMs = limitSec * 1000 + bonusMs;
   const [chosen, setChosen] = useState(null);   // indeks dipilih; -1 = masa tamat
   const [left, setLeft] = useState(limitMs);
   const startRef = useRef(performance.now());
   const doneRef = useRef(false);
+  const limitRef = useRef(limitMs);
+  limitRef.current = limitMs;
 
   function finish(i) {
     if (doneRef.current) return;
     doneRef.current = true;
-    const timeMs = Math.min(limitMs, performance.now() - startRef.current);
+    const timeMs = Math.min(limitRef.current, performance.now() - startRef.current);
     setChosen(i);
-    onAnswered({ chosen: i, correct: i === q.answer, timeMs, limitMs, timedOut: i === -1 });
+    onAnswered({ chosen: i, correct: i === q.answer, timeMs, limitMs: limitRef.current, timedOut: i === -1 });
   }
 
   // Kira detik; bila masa tamat, kira sebagai salah.
   useEffect(() => {
     const id = setInterval(() => {
       if (doneRef.current) return clearInterval(id);
-      const remaining = limitMs - (performance.now() - startRef.current);
+      const remaining = limitRef.current - (performance.now() - startRef.current);
       setLeft(Math.max(0, remaining));
       if (remaining <= 0) finish(-1);
     }, 100);
@@ -56,6 +59,7 @@ export default function QuestionRound({ question: q, limitSec, eyebrow, badge, o
       <div className={'tiles ' + (wide ? 'tiles-2 ' : '') + script.className} dir={script.dir}>
         {q.options.map((text, i) => {
           let state = '';
+          if (hidden.includes(i) && !answered) state = ' is-gone';
           if (answered) {
             if (i === q.answer) state = ' is-correct';
             else if (i === chosen) state = ' is-wrong';
@@ -63,7 +67,7 @@ export default function QuestionRound({ question: q, limitSec, eyebrow, badge, o
           }
           return (
             <button key={i} className={'tile' + state} style={{ '--tile': TILE_COLORS[i % TILE_COLORS.length] }}
-              onClick={() => finish(i)} disabled={answered}>
+              onClick={() => finish(i)} disabled={answered || hidden.includes(i)}>
               <span className="tile-key">
                 {answered && i === q.answer ? <Icon name="check" />
                   : answered && i === chosen ? <Icon name="x" /> : keys[i] || i + 1}

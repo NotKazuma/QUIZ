@@ -11,8 +11,10 @@ import {
 } from '../lib/challenge.js';
 import { prepareQuestion } from '../lib/quiz.js';
 import Emoji from '../components/Emoji.jsx';
+import PowerBar, { PowerStatus, applyPower, usePowerRound } from '../components/PowerBar.jsx';
 
-export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish }) {
+// Kuasa: `stats` untuk bilangan kuasa, onUsePowerup(id) → true jika berjaya, onGrantPowerup() bila streak.
+export default function Challenge({ questions, pool, stats, onAnswer, onUsePowerup, onGrantPowerup, onQuit, onFinish }) {
   const [current, setCurrent] = useState(0);
   const [phase, setPhase] = useState('question'); // question | feedback | redeem | redeem-feedback
   const [points, setPoints] = useState(0);
@@ -24,6 +26,8 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
   const [redeem, setRedeem] = useState(null);       // { level, question, result }
   const [redeemStats, setRedeemStats] = useState({ tried: 0, success: 0, hard: 0 });
   const [usedIds] = useState(() => new Set(questions.map(q => q.id)));
+  const { fx, setFx, reset: resetFx } = usePowerRound();
+  const [skipped, setSkipped] = useState(0);
 
   const q = questions[current];
   const total = questions.length;
@@ -32,14 +36,19 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
   useEffect(() => { window.scrollTo(0, 0); }, [current, phase]);
 
   function answered(r) {
-    const nextStreak = r.correct ? streak + 1 : 0;
-    const pts = pointsFor({ ...r, streak: nextStreak });
+    // Perisai: jawapan salah tidak memutuskan rekod berturut-turut.
+    const shielded = !r.correct && fx.shield;
+    const nextStreak = r.correct ? streak + 1 : shielded ? streak : 0;
+    const base = pointsFor({ ...r, streak: nextStreak });
+    const pts = fx.double && r.correct ? { ...base, total: base.total * 2, doubled: true } : base;
     setStreak(nextStreak);
+    // Hadiah kuasa percuma setiap 3 jawapan betul berturut-turut.
+    if (r.correct && nextStreak > 0 && nextStreak % 3 === 0) onGrantPowerup();
     setBestStreak(b => Math.max(b, nextStreak));
     if (r.correct) setCorrectCount(c => c + 1);
     else setWrongIds(w => [...w, q.id]);
     setPoints(p => p + pts.total);
-    setLast({ ...r, pts, streak: nextStreak });
+    setLast({ ...r, pts, streak: nextStreak, shielded });
     onAnswer(r.correct);
     setTimeout(() => setPhase('feedback'), 900);
   }
@@ -64,8 +73,19 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
     setTimeout(() => setPhase('redeem-feedback'), 900);
   }
 
+  function activatePower(id) {
+    if (!onUsePowerup(id)) return;
+    if (id === 'skip') {
+      // Langkau: soalan tidak dikira betul atau salah.
+      setSkipped(n => n + 1);
+      return next();
+    }
+    setFx(f => applyPower(f, id, q));
+  }
+
   function next() {
     setRedeem(null);
+    resetFx();
     if (current < total - 1) {
       setCurrent(c => c + 1);
       setPhase('question');
@@ -105,8 +125,13 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
       </div>
 
       {phase === 'question' && (
-        <QuestionRound key={'q' + current} question={q} limitSec={timeFor(q)} onAnswered={answered}
-          eyebrow={`${q.exam} · ${q.subject}`} badge={<DifficultyBadge level={q.difficulty} />} />
+        <>
+          <PowerBar stats={stats} fx={fx} onUse={activatePower} />
+          <PowerStatus fx={fx} />
+          <QuestionRound key={'q' + current} question={q} limitSec={timeFor(q)} onAnswered={answered}
+            hidden={fx.hidden} bonusMs={fx.bonusMs}
+            eyebrow={`${q.exam} · ${q.subject}`} badge={<DifficultyBadge level={q.difficulty} />} />
+        </>
       )}
 
       {phase === 'feedback' && last && (
@@ -178,12 +203,14 @@ function Feedback({ result, question, redeemed, children }) {
             <span className="pop-title">{redeemed ? 'Berjaya ditebus!' : 'Betul!'}</span>
             <span className="pop-points">+{pts.total}</span>
             {pts.bonus > 0 && <span className="pop-bonus">termasuk bonus berturut +{pts.bonus} <Emoji e="🔥" /></span>}
+            {pts.doubled && <span className="pop-bonus"><Emoji e="✖️" /> Mata digandakan!</span>}
           </ClickSpark>
         ) : (
           <>
             <span className="pop-emoji" aria-hidden="true"><Emoji e={timedOut ? '⏰' : '😅'} size="3.2rem" /></span>
             <span className="pop-title">{timedOut ? 'Masa tamat!' : redeemed ? 'Belum berjaya' : 'Salah'}</span>
             <span className="pop-answer" dir="auto">Jawapan betul: {question.options[question.answer]}</span>
+            {result.shielded && <span className="pop-bonus"><Emoji e="🛡️" /> Perisai melindungi rekod berturut anda!</span>}
           </>
         )}
       </motion.div>

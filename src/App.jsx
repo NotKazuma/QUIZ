@@ -20,7 +20,10 @@ import Achievements from './screens/Achievements.jsx';
 import Profile from './screens/Profile.jsx';
 import Shop from './screens/Shop.jsx';
 import AnimalAvatar from './components/AnimalAvatar.jsx';
-import { claimDaily, coins, recordDressup, recordHomework } from './lib/wallet.js';
+import {
+  claimDaily, coins, grantPowerup, randomPowerupId, recordDressup, recordHomework, usePowerup,
+} from './lib/wallet.js';
+import { POWERUPS } from './lib/shop.js';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
 import { submitAssignment, updateMemberSummary } from './lib/classes.js';
@@ -157,6 +160,22 @@ export default function App() {
     saveLook(user.uid, next, prefs);
     updateStats(recordDressup(statsRef.current));
     pushToast({ type: 'info', emoji: '✨', title: 'Avatar baharu dipakai!' });
+  }
+
+  // Guna satu kuasa (pulang true jika berjaya).
+  function spendPowerup(id) {
+    const next = usePowerup(statsRef.current, id);
+    if (!next) return false;
+    updateStats(next);
+    return true;
+  }
+
+  // Kuasa percuma (cth. 3 betul berturut-turut).
+  function giftPowerup() {
+    const id = randomPowerupId();
+    updateStats(grantPowerup(statsRef.current, id));
+    const p = POWERUPS.find(x => x.id === id);
+    pushToast({ type: 'info', emoji: '🎁', title: `Kuasa percuma: ${p.name}!`, desc: p.desc });
   }
 
   function savePrefs(next) {
@@ -422,7 +441,8 @@ export default function App() {
         {loggedIn && screen === 'race' && (
           <RaceHub user={user} config={config} presetClass={raceClass} teacher={isTeacher(user, role)}
             onBack={() => go(raceClass ? 'teacher' : 'home')}
-            onRaceEnd={r => updateStats(recordRaceEnd(statsRef.current, r))} />
+            onRaceEnd={r => updateStats(recordRaceEnd(statsRef.current, r))}
+            power={{ stats, onUse: spendPowerup, onGrant: giftPowerup }} />
         )}
         {loggedIn && screen === 'admin' && isAdmin(user) && (
           <Admin user={user} config={config} onBack={() => go('home')} />
@@ -458,7 +478,8 @@ export default function App() {
             onFinish={finish} />
         )}
         {loggedIn && screen === 'challenge' && challenge && (
-          <Challenge key={quizRun} questions={challenge.questions} pool={challenge.pool}
+          <Challenge key={quizRun} questions={challenge.questions} pool={challenge.pool} stats={stats}
+            onUsePowerup={spendPowerup} onGrantPowerup={giftPowerup}
             onAnswer={correct => updateStats(recordAnswer(statsRef.current, correct))}
             onQuit={() => { setAssignment(null); go(exam && !assignment ? 'path' : 'home'); }}
             onFinish={finishChallenge} />
