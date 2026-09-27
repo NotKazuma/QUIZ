@@ -43,13 +43,43 @@ service cloud.firestore {
       return signedIn() && exists(/databases/$(database)/documents/classes/$(cid)/members/$(request.auth.uid));
     }
 
+    // ---- Avatar: hanya barang percuma atau yang ada dalam dompet pelayan (wallets/{uid}) boleh dipakai.
+    // Barang percuma (harga 0) — mesti sama dengan src/lib/shop.js.
+    function freeItems() {
+      return ['harimau', 'kucing', 'songkok', 'latar-langit',
+        'tema-oren', 'tema-hijau', 'tema-biru', 'tema-ungu', 'tema-merah', 'tema-kuning'];
+    }
+    function walletItems(uid) {
+      let path = /databases/$(database)/documents/wallets/$(uid);
+      return exists(path) ? get(path).data.get('items', []) : [];
+    }
+    function slotOk(av, slot, owned) {
+      let v = av.get(slot, null);
+      return v == null || v in freeItems() || v in owned;
+    }
+    function avatarOk(uid, av) {
+      let owned = walletItems(uid);
+      return av == null || (av is map
+        && slotOk(av, 'animal', owned) && slotOk(av, 'hat', owned) && slotOk(av, 'glasses', owned)
+        && slotOk(av, 'outfit', owned) && slotOk(av, 'shoes', owned) && slotOk(av, 'hand', owned)
+        && slotOk(av, 'background', owned) && slotOk(av, 'frame', owned) && slotOk(av, 'card', owned));
+    }
+    // Tulisan ini tidak mengubah avatar, atau avatar baharu sah.
+    function lookOk(uid) {
+      let next = request.resource.data.get('avatar', null);
+      return isAdmin()
+        || (resource != null && resource.data.get('avatar', null) == next)
+        || avatarOk(uid, next);
+    }
+
     // Data pengguna: users/{uid}. Pengguna urus dokumen sendiri, tetapi tidak boleh ubah `role`.
     match /users/{uid} {
       allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
-      allow create: if signedIn() && request.auth.uid == uid && !('role' in request.resource.data);
+      allow create: if signedIn() && request.auth.uid == uid && !('role' in request.resource.data) && lookOk(uid);
       allow update: if isAdmin()
         || (signedIn() && request.auth.uid == uid
-            && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role']));
+            && !request.resource.data.diff(resource.data).affectedKeys().hasAny(['role'])
+            && lookOk(uid));
       allow delete: if isAdmin();
     }
 
@@ -106,8 +136,16 @@ service cloud.firestore {
     match /publicProfiles/{uid} {
       allow read: if signedIn();
       allow create, update: if signedIn() && request.auth.uid == uid
-        && request.resource.data.name is string && request.resource.data.name.size() <= 30;
+        && request.resource.data.name is string && request.resource.data.name.size() <= 30
+        && lookOk(uid);
       allow delete: if (signedIn() && request.auth.uid == uid) || isAdmin();
+    }
+
+    // Dompet syiling/barang/kuasa: hanya dibaca oleh pemilik. Ditulis oleh Cloudflare Worker sahaja
+    // (akaun servis melepasi peraturan ini), jadi pengguna tidak boleh menambah syiling sendiri.
+    match /wallets/{uid} {
+      allow read: if signedIn() && (request.auth.uid == uid || isAdmin());
+      allow write: if false;
     }
 
     // Kod kelas -> id kelas. Boleh dibaca satu-satu (bukan disenaraikan).

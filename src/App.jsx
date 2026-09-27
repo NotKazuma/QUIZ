@@ -25,8 +25,10 @@ import AvatarPage from './screens/AvatarPage.jsx';
 import Shop from './screens/Shop.jsx';
 import AnimalAvatar from './components/AnimalAvatar.jsx';
 import {
-  claimDaily, coins, formatCoins, grantPowerup, setUnlimited, randomPowerupId, recordDressup, recordHomework, usePowerup,
+  buyItem, buyPowerup, claimDaily, coins, formatCoins, grantPowerup, isUnlimited, setUnlimited, randomPowerupId, recordDressup,
+  recordHomework, usePowerup,
 } from './lib/wallet.js';
+import { api, apiEnabled, questionKey, withWallet } from './lib/api.js';
 import { POWERUPS } from './lib/shop.js';
 import { savePublicProfile } from './lib/publicProfile.js';
 import { applyTheme } from './lib/theme.js';
@@ -70,7 +72,11 @@ export default function App() {
   const [dataReady, setDataReady] = useState(false);
   useEffect(() => { hideBootSplash(); }, []); // skrin React mengambil alih
   const [saved, setSaved] = useState(null);      // latihan belum selesai (disimpan)
-  const [stats, setStats] = useState(emptyStats);
+  const [rawStats, setStats] = useState(emptyStats);
+  // Dompet di pelayan (Cloudflare Worker) — sumber sebenar syiling, barang & kuasa bila apiEnabled.
+  const [wallet, setWallet] = useState(null);
+  const stats = apiEnabled ? withWallet(rawStats, wallet) : rawStats;
+  const syncWallet = useCallback(r => { if (r?.wallet) setWallet(r.wallet); return r; }, []);
   const [unlocked, setUnlocked] = useState({});
   const [role, setRole] = useState(null);         // 'teacher' atau null (ditetapkan admin)
   const [myClasses, setMyClasses] = useState([]); // kelas yang disertai: [{ id, name, code }]
@@ -119,6 +125,7 @@ export default function App() {
     setRole(null);
     setMyClasses([]);
     setTeacherRequest(null);
+    setWallet(null);
     if (!user) { setScreen('home'); return; }
     // Log masuk pertama: buka halaman dari URL (cth. /kedai); tukar akaun: kembali ke Utama.
     const start = startRoute.current;
@@ -138,6 +145,15 @@ export default function App() {
       if (d.prefs?.themeMode) applyTheme(d.prefs.themeMode);
       setMyClasses((d.classes || []).map(c => (typeof c === 'string' ? { id: c, name: user.name } : c)));
       setDataReady(true);
+      if (apiEnabled) {
+        // Muat dompet pelayan; tuntut syiling lencana yang belum dibayar (cth. dibuka semasa luar talian).
+        api('sync').then(r => {
+          if (!alive) return;
+          syncWallet(r);
+          const unpaid = Object.keys(d.unlocked || {}).filter(id => !r.wallet.ach.includes(id));
+          if (unpaid.length) api('achievements', { ids: unpaid }).then(syncWallet).catch(() => {});
+        }).catch(() => {});
+      }
     });
     return () => { alive = false; };
   }, [user?.uid]); // eslint-disable-line react-hooks/exhaustive-deps
@@ -167,7 +183,8 @@ export default function App() {
     let next = nextStats;
     if (!currentUser) return;
     const fresh = newlyUnlocked(next, unlockedRef.current, { config, user: currentUser });
-    if (fresh.length) next = { ...next, coinsEarned: (next.coinsEarned || 0) + fresh.length * REWARD.achievement };
+    if (fresh.length && !apiEnabled) next = { ...next, coinsEarned: (next.coinsEarned || 0) + fresh.length * REWARD.achievement };
+    if (fresh.length && apiEnabled) api('achievements', { ids: fresh.map(a => a.id) }).then(syncWallet).catch(() => {});
     const now = new Date().toISOString();
     const nextUnlocked = { ...unlockedRef.current };
     fresh.forEach(a => { nextUnlocked[a.id] = now; });
@@ -182,6 +199,15 @@ export default function App() {
   // Hadiah log masuk harian (sekali sehari).
   useEffect(() => {
     if (!user || !dataReady) return;
+    if (apiEnabled) {
+      api('daily').then(r => {
+        syncWallet(r);
+        const next = r.daily && claimDaily(statsRef.current);
+        if (next) updateStats(next);
+        if (r.daily) pushToast({ type: 'info', emoji: '🎁', title: `Hadiah harian: +${REWARD.daily} syiling!`, desc: 'Datang lagi esok untuk hadiah seterusnya.' });
+      }).catch(() => {});
+      return;
+    }
     const next = claimDaily(statsRef.current);
     if (next) {
       updateStats(next);
@@ -209,11 +235,45 @@ export default function App() {
     const next = usePowerup(statsRef.current, id);
     if (!next) return false;
     updateStats(next);
+    if (apiEnabled && !isUnlimited()) {
+      setWallet(w => (w ? { ...w, pUsed: { ...w.pUsed, [id]: (w.pUsed[id] || 0) + 1 } } : w));
+      api('use', { id }).then(syncWallet).catch(() => {});
+    }
     return true;
+  }
+
+  // Beli barang/kuasa di kedai. Pulang true jika berjaya, atau mesej ralat.
+  async function buyFromShop(kind, id) {
+    if (!apiEnabled || isUnlimited()) {
+      const next = kind === 'item' ? buyItem(statsRef.current, id) : buyPowerup(statsRef.current, id);
+      if (!next) return false;
+      updateStats(next);
+      return true;
+    }
+    try {
+      syncWallet(await api(kind === 'item' ? 'buy' : 'buyPower', { id }));
+      updateStats({ ...statsRef.current, purchases: (statsRef.current.purchases || 0) + 1 });
+      return true;
+    } catch (e) {
+      return e.message;
+    }
+  }
+
+  // Laporkan jawapan kepada pelayan (syiling jawapan betul & kiraan kuasa percuma).
+  function serverAnswer(correct, q, src) {
+    if (apiEnabled && q) api('answer', { key: questionKey(q), correct, src }).then(syncWallet).catch(() => {});
   }
 
   // Kuasa percuma (cth. 3 betul berturut-turut).
   function giftPowerup() {
+    if (apiEnabled) {
+      api('grant').then(r => {
+        syncWallet(r);
+        const p = POWERUPS.find(x => x.id === r.granted);
+        if (p) pushToast({ type: 'info', emoji: '🎁', title: `Kuasa percuma: ${p.name}!`, desc: p.desc });
+      }).catch(() => {});
+      return;
+    }
     const id = randomPowerupId();
     updateStats(grantPowerup(statsRef.current, id));
     const p = POWERUPS.find(x => x.id === id);
@@ -329,7 +389,8 @@ export default function App() {
     saveSession(user.uid, raw);
   }
 
-  function answered(correct) {
+  function answered(correct, q) {
+    serverAnswer(correct, q, 'quiz');
     const next = recordAnswer(statsRef.current, correct);
     updateStats(next);
     if (user.isGuest && next.answered % REMIND_EVERY === 0) pushToast({ type: 'remind' });
@@ -339,6 +400,7 @@ export default function App() {
     clearSession(user.uid);
     setSaved(null);
     updateStats(recordQuizEnd(statsRef.current, { examId: exam?.id, subjectId, score: r.score, total: r.total }));
+    if (apiEnabled) api('finish', { mode: 'practice' }).then(syncWallet).catch(() => {});
     afterQuiz(r);
     setResult(r);
     go('result');
@@ -346,6 +408,7 @@ export default function App() {
 
   function finishChallenge(r) {
     updateStats(recordQuizEnd(statsRef.current, { ...r, examId: exam?.id, subjectId }));
+    if (apiEnabled) api('finish', { mode: 'challenge', points: r.points }).then(syncWallet).catch(() => {});
     afterQuiz(r);
     setResult(r);
     go('result');
@@ -355,9 +418,11 @@ export default function App() {
   function afterQuiz(r) {
     if (assignment) {
       const cls = myClasses.find(c => c.id === assignment.classId);
+      const hw = assignment;
       submitAssignment(assignment, user, cls?.name || user.name, r)
         .then(() => {
           updateStats(recordHomework(statsRef.current));
+          if (apiEnabled) api('homework', { classId: hw.classId, assignmentId: hw.id }).then(syncWallet).catch(() => {});
           pushToast({ type: 'info', emoji: '📬', title: `Kerja rumah dihantar! +${REWARD.homework} syiling`, desc: assignment.title });
         })
         .catch(() => alert('Kerja rumah gagal dihantar. Semak sambungan internet dan cuba lagi.'));
@@ -510,8 +575,11 @@ export default function App() {
         {loggedIn && screen === 'race' && (
           <RaceHub user={user} config={config} presetClass={raceClass} teacher={isTeacher(user, role)}
             onBack={() => go(raceClass ? 'teacher' : 'home')}
-            onRaceEnd={r => updateStats(recordRaceEnd(statsRef.current, r))}
-            power={{ stats, onUse: spendPowerup, onGrant: giftPowerup }}
+            onRaceEnd={r => {
+              updateStats(recordRaceEnd(statsRef.current, r));
+              if (apiEnabled) api('race', { pin: r.pin }).then(syncWallet).catch(() => {});
+            }}
+            power={{ stats, onUse: spendPowerup, onGrant: giftPowerup, onAnswer: (c, q) => serverAnswer(c, q, 'race') }}
             avatar={avatar} displayName={prefs.displayName} />
         )}
         {loggedIn && screen === 'admin' && isAdmin(user) && (
@@ -530,7 +598,7 @@ export default function App() {
         )}
         {loggedIn && screen === 'shop' && (
           <Shop key={shopTab} stats={stats} avatar={avatar} initialTab={shopTab}
-            onUpdateStats={next => updateStats(next)} onChangeAvatar={changeAvatar} onBack={() => go('profile')} />
+            onUpdateStats={next => updateStats(next)} onBuy={buyFromShop} onChangeAvatar={changeAvatar} onBack={() => go('profile')} />
         )}
         {loggedIn && screen === 'achievements' && (
           <Achievements user={user} config={config} stats={stats} unlocked={unlocked}
@@ -554,7 +622,7 @@ export default function App() {
         {loggedIn && screen === 'challenge' && challenge && (
           <Challenge key={quizRun} questions={challenge.questions} pool={challenge.pool} stats={stats}
             onUsePowerup={spendPowerup} onGrantPowerup={giftPowerup}
-            onAnswer={correct => updateStats(recordAnswer(statsRef.current, correct))}
+            onAnswer={(correct, q) => { serverAnswer(correct, q, 'challenge'); updateStats(recordAnswer(statsRef.current, correct)); }}
             onQuit={() => { setAssignment(null); go(exam && !assignment ? 'path' : 'home'); }}
             onFinish={finishChallenge} />
         )}

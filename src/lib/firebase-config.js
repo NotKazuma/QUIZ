@@ -10,3 +10,6 @@ export const firebaseConfig = {
   appId: '1:464889501693:web:0d04bdf9f63d28ca722b94',
   databaseURL: 'https://project-quiz-9b9a2-default-rtdb.asia-southeast1.firebasedatabase.app',
 };
+
+// URL Cloudflare Worker untuk dompet syiling (anti-tipu). Kosong = mod lama (dompet dalam statistik pengguna).
+export const apiUrl = import.meta.env.VITE_API_URL ?? '';

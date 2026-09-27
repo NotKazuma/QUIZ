@@ -38,7 +38,7 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
     setChosen(picked);
     if (picked === q.answer) setScore(s => s + 1);
     else setWrongIds(w => [...w, q.id]);
-    onAnswer(picked === q.answer);
+    onAnswer(picked === q.answer, q);
   }
 
   function next() {

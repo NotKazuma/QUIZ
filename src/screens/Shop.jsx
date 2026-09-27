@@ -5,9 +5,9 @@ import AnimalAvatar from '../components/AnimalAvatar.jsx';
 import Emoji from '../components/Emoji.jsx';
 import { BackButton, PageHead } from '../components/ui.jsx';
 import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, RARITY, RARITY_ORDER, SLOTS, byRarity, cardProps } from '../lib/shop.js';
-import { buyItem, buyPowerup, coins, formatCoins, isUnlimited, owns, powerupCount } from '../lib/wallet.js';
+import { coins, formatCoins, isUnlimited, owns, powerupCount } from '../lib/wallet.js';
 
-export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onBack, initialTab = 'avatar' }) {
+export default function Shop({ stats, avatar, onBuy, onChangeAvatar, onBack, initialTab = 'avatar' }) {
   const [tab, setTab] = useState(initialTab);       // 'avatar' | 'kuasa'
   const [slot, setSlot] = useState('animal');
   const [draft, setDraft] = useState({ ...DEFAULT_AVATAR, ...avatar });
@@ -21,19 +21,23 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
     setTimeout(() => setFlash(''), 2200);
   }
 
-  function buy(id, name, price) {
+  const [busy, setBusy] = useState(false);
+
+  async function buy(id, name, price) {
     if (balance < price) return say(`Syiling tidak cukup — perlu ${price - balance} lagi.`);
     if (!isUnlimited() && !confirm(`Beli ${name} dengan ${price} syiling?`)) return false;
-    const next = buyItem(stats, id);
-    if (!next) return false;
-    onUpdateStats(next);
+    setBusy(true);
+    const ok = await onBuy('item', id);
+    setBusy(false);
+    if (ok !== true) { if (ok) say(ok); return false; }
     say(`${name} dibeli!`);
     return true;
   }
 
   // Pilih barang dalam slot semasa (beli dahulu jika belum dimiliki).
-  function choose(id, name, price) {
-    if (!owns(stats, id) && !buy(id, name, price)) return;
+  async function choose(id, name, price) {
+    if (busy) return;
+    if (!owns(stats, id) && !(await buy(id, name, price))) return;
     if (slot === 'animal') {
       const animal = ANIMALS.find(a => a.id === id);
       setDraft(d => ({ ...d, animal: id, color: animal.colors.includes(d.color) ? d.color : animal.colors[0] }));
@@ -42,10 +46,14 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
     }
   }
 
-  function buyPower(p) {
+  async function buyPower(p) {
+    if (busy) return;
     if (balance < p.price) return say(`Syiling tidak cukup — perlu ${p.price - balance} lagi.`);
-    const next = buyPowerup(stats, p.id);
-    if (next) { onUpdateStats(next); say(`${p.name} ditambah!`); }
+    setBusy(true);
+    const ok = await onBuy('powerup', p.id);
+    setBusy(false);
+    if (ok === true) say(`${p.name} ditambah!`);
+    else if (ok) say(ok);
   }
 
   const animal = ANIMALS.find(a => a.id === draft.animal) || ANIMALS[0];

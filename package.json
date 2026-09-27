@@ -22,6 +22,7 @@
     "build": "vite build && node -e \"require('fs').copyFileSync('dist/index.html','dist/404.html')\"",
     "preview": "vite preview",
     "test:rules": "node scripts/test-rules.mjs",
+    "test:worker": "node scripts/test-worker-logic.mjs",
     "test:db-rules": "node scripts/test-db-rules.mjs"
   }
 }

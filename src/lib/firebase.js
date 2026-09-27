@@ -25,6 +25,8 @@ let auth = null;
 let db = null;
 export const getDb = () => db;
 export const getFirebaseApp = () => app;
+// Token ID pengguna semasa (untuk API dompet).
+export const currentIdToken = () => auth?.currentUser?.getIdToken() ?? Promise.resolve(null);
 if (firebaseReady) {
   app = initializeApp(config);
   auth = getAuth(app);

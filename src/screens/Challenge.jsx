@@ -43,13 +43,13 @@ export default function Challenge({ questions, pool, stats, onAnswer, onUsePower
     const pts = fx.double && r.correct ? { ...base, total: base.total * 2, doubled: true } : base;
     setStreak(nextStreak);
     // Hadiah kuasa percuma setiap 3 jawapan betul berturut-turut.
-    if (r.correct && nextStreak > 0 && nextStreak % 3 === 0) onGrantPowerup();
     setBestStreak(b => Math.max(b, nextStreak));
     if (r.correct) setCorrectCount(c => c + 1);
     else setWrongIds(w => [...w, q.id]);
     setPoints(p => p + pts.total);
     setLast({ ...r, pts, streak: nextStreak, shielded });
-    onAnswer(r.correct);
+    onAnswer(r.correct, q);
+    if (r.correct && nextStreak > 0 && nextStreak % 3 === 0) onGrantPowerup();
     setTimeout(() => setPhase('feedback'), 900);
   }
 
@@ -69,7 +69,7 @@ export default function Challenge({ questions, pool, stats, onAnswer, onUsePower
       setRedeemStats(s => ({ ...s, success: s.success + 1, hard: s.hard + (redeem.level === 'susah' ? 1 : 0) }));
     }
     setRedeem(x => ({ ...x, result: { ...r, gain } }));
-    onAnswer(r.correct);
+    onAnswer(r.correct, redeem.question);
     setTimeout(() => setPhase('redeem-feedback'), 900);
   }
 

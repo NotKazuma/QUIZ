@@ -1,0 +1,12 @@
+# Cloudflare Worker: API dompet syiling (anti-tipu).
+# Deploy: cd worker && npx wrangler deploy
+# Rahsia: npx wrangler secret put FIREBASE_SERVICE_ACCOUNT  (tampal kandungan penuh fail JSON akaun servis)
+name = "kuiz-api"
+main = "src/index.js"
+compatibility_date = "2026-09-01"
+
+[vars]
+PROJECT_ID = "project-quiz-9b9a2"
+RTDB_URL = "https://project-quiz-9b9a2-default-rtdb.asia-southeast1.firebasedatabase.app"
+ALLOWED_ORIGINS = "https://kuiz.kazumadigital.net,http://localhost:5173,http://localhost:4173,http://localhost:3999"
+ADMIN_EMAILS = "aimanskspp@gmail.com"

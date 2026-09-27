@@ -9,3 +9,10 @@ Thumbs.db
 .vscode/
 *.log
 dist/
+
+# Cloudflare Worker
+worker/.wrangler/
+worker/.dev.vars
+worker/node_modules/
+*service-account*.json
+*firebase-adminsdk*.json

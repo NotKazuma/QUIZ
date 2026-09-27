@@ -53,7 +53,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
     if (race?.status !== 'ended' || !me || reported.current) return;
     reported.current = true;
     const rows = ranking(players);
-    onRaceEnd({ rank: rows.findIndex(r => r.uid === user.uid) + 1, players: rows.length, score: me.score });
+    onRaceEnd({ pin, rank: rows.findIndex(r => r.uid === user.uid) + 1, players: rows.length, score: me.score });
   }, [race?.status]); // eslint-disable-line react-hooks/exhaustive-deps
 
   async function exit() {
@@ -185,6 +185,7 @@ function PlayRounds({ pin, user, me, questions, players, power }) {
     const streak = r.correct ? (me.streak || 0) + 1 : shielded ? me.streak || 0 : 0;
     const base = pointsFor({ ...r, streak });
     const pts = fx.double && r.correct ? { ...base, total: base.total * 2, doubled: true } : base;
+    power?.onAnswer?.(r.correct, q);
     if (r.correct && streak > 0 && streak % 3 === 0) power?.onGrant();
     const next = {
       score: (me.score || 0) + pts.total,

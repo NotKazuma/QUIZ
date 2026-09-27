@@ -139,6 +139,29 @@ await expect('pengguna lain baca profil awam', true, () => getDoc(doc(dave.db, '
 await expect('tanpa log masuk baca profil awam', false, () => getDoc(doc(outsider.db, 'publicProfiles', carol.uid)));
 await expect('pengguna padam profil awam sendiri', true, () => deleteDoc(doc(carol.db, 'publicProfiles', carol.uid)));
 
+console.log('--- dompet & avatar');
+// Cipta dompet seperti Worker (akaun servis) — REST emulator dengan "Bearer owner" melepasi peraturan.
+async function adminWrite(path, fields) {
+  const res = await fetch(`http://127.0.0.1:${PORT}/v1/projects/demo-kuiz/databases/(default)/documents/${path}`, {
+    method: 'PATCH', headers: { authorization: 'Bearer owner', 'content-type': 'application/json' }, body: JSON.stringify({ fields }),
+  });
+  if (!res.ok) throw new Error('adminWrite ' + res.status);
+}
+await adminWrite(`wallets/${carol.uid}`, { earned: { integerValue: '100' }, items: { arrayValue: { values: [{ stringValue: 'mahkota' }] } } });
+await expect('pemilik baca dompet sendiri', true, () => getDoc(doc(carol.db, 'wallets', carol.uid)));
+await expect('pengguna lain baca dompet', false, () => getDoc(doc(dave.db, 'wallets', carol.uid)));
+await expect('pemilik tambah syiling sendiri', false, () => setDoc(doc(carol.db, 'wallets', carol.uid), { earned: 999999 }, { merge: true }));
+await expect('pengguna cipta dompet sendiri', false, () => setDoc(doc(dave.db, 'wallets', dave.uid), { earned: 999999 }));
+await expect('admin baca dompet pengguna', true, () => getDoc(doc(admin.db, 'wallets', carol.uid)));
+await expect('pakai barang dimiliki (dalam dompet)', true, () => setDoc(doc(carol.db, 'users', carol.uid), { avatar: { animal: 'harimau', hat: 'mahkota' } }, { merge: true }));
+await expect('pakai barang belum dibeli', false, () => setDoc(doc(carol.db, 'users', carol.uid), { avatar: { animal: 'harimau', hat: 'mahkota', card: 'tema-galaksi' } }, { merge: true }));
+await expect('simpan kemajuan tanpa ubah avatar', true, () => setDoc(doc(carol.db, 'users', carol.uid), { stats: { answered: 9 } }, { merge: true }));
+await expect('tanpa dompet: barang percuma sahaja', true, () => setDoc(doc(dave.db, 'users', dave.uid), { avatar: { animal: 'kucing', hat: 'songkok', card: 'tema-biru' } }, { merge: true }));
+await expect('tanpa dompet: barang berbayar ditolak', false, () => setDoc(doc(dave.db, 'users', dave.uid), { avatar: { animal: 'singa' } }, { merge: true }));
+await expect('profil awam dengan barang belum dibeli', false, () => setDoc(doc(dave.db, 'publicProfiles', dave.uid), { name: 'Dave', avatar: { animal: 'singa' } }));
+await expect('profil awam dengan barang dimiliki', true, () => setDoc(doc(carol.db, 'publicProfiles', carol.uid), { name: 'Carol', avatar: { animal: 'harimau', hat: 'mahkota' } }));
+await expect('admin pakai apa sahaja', true, () => setDoc(doc(admin.db, 'users', admin.uid), { avatar: { animal: 'singa', card: 'tema-emas' } }, { merge: true }));
+
 console.log('--- lain-lain');
 await expect('tulis koleksi tidak dikenali', false, () => setDoc(doc(admin.db, 'random', 'x'), { a: 1 }));
 
