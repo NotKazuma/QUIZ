@@ -1,7 +1,9 @@
 // Senarai semua pengguna: statistik ringkas, tetapkan/buang peranan cikgu, padam data.
 import { useEffect, useMemo, useState } from 'react';
-import { deleteUserData, fetchUsers, setUserRole } from '../../lib/firebase.js';
-import { ADMIN_EMAILS } from '../../lib/roles.js';
+import {
+  decideTeacherRequest, deleteUserData, fetchTeacherRequests, fetchUsers, setUserRole,
+} from '../../lib/firebase.js';
+import { ADMIN_EMAILS, TEACHER_EMAIL_PATTERN } from '../../lib/roles.js';
 
 export default function AdminUsers({ me }) {
   const [users, setUsers] = useState(null);
@@ -9,11 +11,13 @@ export default function AdminUsers({ me }) {
   const [search, setSearch] = useState('');
   const [showGuests, setShowGuests] = useState(false);
   const [busy, setBusy] = useState('');
+  const [requests, setRequests] = useState([]);
 
   async function load() {
     setError('');
     try {
       setUsers(await fetchUsers());
+      setRequests(await fetchTeacherRequests().catch(() => []));
     } catch (e) {
       setError('Gagal memuat pengguna. Pastikan peraturan Firestore terkini sudah di-Publish. (' + (e.code || e.message) + ')');
     }
@@ -53,6 +57,20 @@ export default function AdminUsers({ me }) {
     }
   }
 
+  async function decide(r, approve) {
+    if (!confirm(approve ? `Luluskan ${r.name} (${r.school}) sebagai cikgu?` : `Tolak permohonan ${r.name}?`)) return;
+    setBusy(r.uid);
+    try {
+      await decideTeacherRequest(r.uid, approve);
+      setRequests(list => list.filter(x => x.uid !== r.uid));
+      if (approve) setUsers(list => list.map(x => (x.uid === r.uid ? { ...x, role: 'teacher' } : x)));
+    } catch (e) {
+      alert('Gagal: ' + (e.code || e.message));
+    } finally {
+      setBusy('');
+    }
+  }
+
   async function remove(u) {
     if (!confirm(`Padam SEMUA data ${u.profile?.name || u.uid} (latihan, statistik, pencapaian)? Tindakan ini tidak boleh dibatalkan.`)) return;
     setBusy(u.uid);
@@ -77,6 +95,24 @@ export default function AdminUsers({ me }) {
         <Stat n={summary.teachers} label="cikgu" />
         <Stat n={summary.answered} label="soalan dijawab" />
       </div>
+
+      {requests.length > 0 && (
+        <div className="requests">
+          <p className="section-title">🧑‍🏫 Permohonan cikgu ({requests.length})</p>
+          {requests.map(r => (
+            <div key={r.uid} className="card user-row request-row">
+              <span className="user-name">{r.name}</span>
+              <span className="user-email">{r.email}</span>
+              <span className="user-stats">🏫 {r.school}{r.note && ' · ' + r.note}</span>
+              <span className="user-stats">Dihantar {new Date(r.at).toLocaleString('ms-MY', { dateStyle: 'medium', timeStyle: 'short' })}</span>
+              <div className="user-actions">
+                <button className="btn btn-primary btn-sm" disabled={busy === r.uid} onClick={() => decide(r, true)}>✓ Luluskan</button>
+                <button className="btn btn-ghost btn-sm btn-danger" disabled={busy === r.uid} onClick={() => decide(r, false)}>Tolak</button>
+              </div>
+            </div>
+          ))}
+        </div>
+      )}
 
       <div className="admin-toolbar">
         <input className="input" type="search" placeholder="Cari nama atau emel…" value={search}
@@ -107,6 +143,7 @@ export default function AdminUsers({ me }) {
                     {u.profile?.name || '(tiada nama)'}
                     {admin && <span className="role role-admin">Admin</span>}
                     {u.role === 'teacher' && <span className="role role-teacher">Cikgu</span>}
+                    {u.profile?.email && TEACHER_EMAIL_PATTERN.test(u.profile.email) && <span className="role role-teacher">Cikgu DELIMa</span>}
                     {u.profile?.isGuest && <span className="role role-guest">Tetamu</span>}
                   </span>
                   <span className="user-email">{u.profile?.email || u.uid}</span>

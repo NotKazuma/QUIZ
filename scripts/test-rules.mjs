@@ -6,14 +6,14 @@ import {
   GoogleAuthProvider, connectAuthEmulator, getAuth, signInAnonymously, signInWithCredential,
 } from 'firebase/auth';
 import {
-  collection, connectFirestoreEmulator, deleteDoc, doc, getDoc, getDocs, getFirestore, setDoc, updateDoc,
+  collection, connectFirestoreEmulator, deleteDoc, doc, getDoc, getDocs, getFirestore, query, setDoc, updateDoc, where,
 } from 'firebase/firestore/lite';
 
 const PORT = Number(process.env.FIRESTORE_PORT || 8080);
 let n = 0;
 
 // Setiap "pengguna" guna app Firebase berasingan.
-async function client(kind, email) {
+async function client(kind, email, verified = true) {
   const app = initializeApp({ apiKey: 'demo', projectId: 'demo-kuiz', authDomain: 'demo-kuiz.firebaseapp.com' }, 'c' + n++);
   const auth = getAuth(app);
   connectAuthEmulator(auth, 'http://127.0.0.1:9099', { disableWarnings: true });
@@ -21,7 +21,7 @@ async function client(kind, email) {
   connectFirestoreEmulator(db, '127.0.0.1', PORT);
   if (kind === 'anon') await signInAnonymously(auth);
   if (kind === 'google') {
-    const token = JSON.stringify({ sub: email, email, email_verified: true });
+    const token = JSON.stringify({ sub: email, email, email_verified: verified });
     await signInWithCredential(auth, GoogleAuthProvider.credential(token));
   }
   return { app, db, uid: auth.currentUser?.uid };
@@ -98,9 +98,25 @@ await expect('murid dikeluarkan baca kelas', false, () => getDoc(doc(carol.db, '
 await expect('admin baca kelas cikgu', true, () => getDoc(doc(admin.db, 'classes', cls.id)));
 await expect('cikgu padam kod & kelas', true, async () => { await deleteDoc(doc(bob.db, 'classCodes', 'TEST42')); await deleteDoc(cls); });
 
+console.log('--- pengesahan cikgu');
+const stamp = Date.now();
+const delimaG = await client('google', `g-${stamp}@moe-dl.edu.my`);
+const delimaM = await client('google', `m-${stamp}@moe-dl.edu.my`);
+const fakeG = await client('google', `g-${stamp}@moe-dl.edu.my.evil.com`);
+await expect('guru DELIMa (g-) cipta kelas terus', true, () => setDoc(doc(collection(delimaG.db, 'classes')), { name: 'K', teacherUid: delimaG.uid, code: 'DLM001' }));
+await expect('murid DELIMa (m-) cipta kelas', false, () => setDoc(doc(collection(delimaM.db, 'classes')), { name: 'K', teacherUid: delimaM.uid, code: 'DLM002' }));
+await expect('domain palsu g-…moe-dl.edu.my.evil.com cipta kelas', false, () => setDoc(doc(collection(fakeG.db, 'classes')), { name: 'K', teacherUid: fakeG.uid, code: 'DLM003' }));
+await expect('tetamu cipta kelas', false, () => setDoc(doc(collection(carol.db, 'classes')), { name: 'K', teacherUid: carol.uid, code: 'DLM004' }));
+await expect('pengguna hantar permohonan cikgu', true, () => setDoc(doc(delimaM.db, 'users', delimaM.uid), { teacherRequest: { status: 'pending', school: 'SRA' } }, { merge: true }));
+await expect('pemohon luluskan diri sendiri (role)', false, () => updateDoc(doc(delimaM.db, 'users', delimaM.uid), { role: 'teacher' }));
+await expect('admin senaraikan permohonan', true, () => getDocs(query(collection(admin.db, 'users'), where('teacherRequest.status', '==', 'pending'))));
+await expect('bukan admin senaraikan permohonan', false, () => getDocs(query(collection(delimaG.db, 'users'), where('teacherRequest.status', '==', 'pending'))));
+await expect('admin luluskan permohonan', true, () => updateDoc(doc(admin.db, 'users', delimaM.uid), { role: 'teacher', 'teacherRequest.status': 'approved' }));
+await expect('pemohon diluluskan cipta kelas', true, () => setDoc(doc(collection(delimaM.db, 'classes')), { name: 'K', teacherUid: delimaM.uid, code: 'DLM005' }));
+
 console.log('--- lain-lain');
 await expect('tulis koleksi tidak dikenali', false, () => setDoc(doc(admin.db, 'random', 'x'), { a: 1 }));
 
-for (const c of [alice, bob, admin, outsider, carol, dave]) await deleteApp(c.app);
+for (const c of [alice, bob, admin, outsider, carol, dave, delimaG, delimaM, fakeG]) await deleteApp(c.app);
 console.log(failed ? `\n${failed} ujian GAGAL` : '\nSemua ujian lulus');
 process.exit(failed ? 1 : 0);

@@ -15,7 +15,8 @@ import GradientText from './components/bits/GradientText.jsx';
 import Particles from './components/bits/Particles.jsx';
 import Toasts from './components/Toasts.jsx';
 import Achievements from './screens/Achievements.jsx';
-import { isAdmin, isTeacher } from './lib/roles.js';
+import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
+import TeacherApply from './screens/teacher/TeacherApply.jsx';
 import { submitAssignment, updateMemberSummary } from './lib/classes.js';
 import MyClasses from './screens/classes/MyClasses.jsx';
 // Panel admin & cikgu hanya dimuat turun bila dibuka (kebanyakan pengguna ialah murid).
@@ -52,6 +53,7 @@ export default function App() {
   const [unlocked, setUnlocked] = useState({});
   const [role, setRole] = useState(null);         // 'teacher' atau null (ditetapkan admin)
   const [myClasses, setMyClasses] = useState([]); // kelas yang disertai: [{ id, name, code }]
+  const [teacherRequest, setTeacherRequest] = useState(null); // permohonan jadi cikgu (bukan DELIMa)
   const [assignment, setAssignment] = useState(null); // kerja rumah yang sedang dibuat
   const [raceClass, setRaceClass] = useState(null);   // kelas yang dipilih cikgu untuk perlumbaan
   const [toasts, setToasts] = useState([]);
@@ -85,6 +87,7 @@ export default function App() {
     setUnlocked({});
     setRole(null);
     setMyClasses([]);
+    setTeacherRequest(null);
     setScreen('home');
     if (!user) return;
     let alive = true;
@@ -94,6 +97,7 @@ export default function App() {
       setStats(d.stats);
       setUnlocked(d.unlocked);
       setRole(d.role);
+      setTeacherRequest(d.teacherRequest);
       setMyClasses((d.classes || []).map(c => (typeof c === 'string' ? { id: c, name: user.name } : c)));
       setDataReady(true);
     });
@@ -337,6 +341,8 @@ export default function App() {
         {loggedIn && screen === 'home' && (
           <Home config={config} error={error} user={user} saved={saved}
             admin={isAdmin(user)} teacher={isTeacher(user, role)} myClasses={myClasses}
+            teacherBasis={teacherBasis(user, role)} teacherRequest={teacherRequest}
+            onApplyTeacher={() => go('apply-teacher')}
             onAdmin={() => go('admin')} onTeacher={() => go('teacher')} onClasses={() => go('classes')}
             onRace={() => { setRaceClass(null); go('race'); }}
             onStartHomework={startHomework}
@@ -348,6 +354,10 @@ export default function App() {
         {loggedIn && screen === 'classes' && (
           <MyClasses user={user} myClasses={myClasses} config={config} onChange={changeClasses}
             onStartHomework={startHomework} onBack={() => go('home')} />
+        )}
+        {loggedIn && screen === 'apply-teacher' && (
+          <TeacherApply user={user} request={teacherRequest} onLink={link} onBack={() => go('home')}
+            onSubmitted={r => setTeacherRequest(r)} />
         )}
         {loggedIn && screen === 'teacher' && isTeacher(user, role) && (
           <Teacher user={user} config={config} onBack={() => go('home')}

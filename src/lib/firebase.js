@@ -6,7 +6,7 @@ import {
 } from 'firebase/auth';
 import {
   collection, connectFirestoreEmulator, deleteDoc, doc, getDoc, getDocs, getFirestore, limit, orderBy, query,
-  setDoc, updateDoc,
+  setDoc, updateDoc, where,
 } from 'firebase/firestore/lite';
 import { mergeStats, mergeUnlocked } from './achievements.js';
 import { firebaseConfig } from './firebase-config.js';
@@ -179,7 +179,7 @@ export async function loadUserData(uid) {
   writeLocal(progressKey(uid), { stats, unlocked });
   const classes = remote?.classes ?? readLocal('kuiz.classes.' + uid) ?? [];
   writeLocal('kuiz.classes.' + uid, classes);
-  return { session, stats, unlocked, role: remote?.role ?? null, classes };
+  return { session, stats, unlocked, role: remote?.role ?? null, classes, teacherRequest: remote?.teacherRequest ?? null };
 }
 
 const pending = new Map(); // uid -> { timer, data }
@@ -276,4 +276,30 @@ export function saveSubjectDoc(id, questions, by) {
 export function saveMyClasses(uid, classes) {
   writeLocal('kuiz.classes.' + uid, classes);
   return queue(uid, { classes }, true);
+}
+
+// ===== Permohonan menjadi cikgu (bukan akaun DELIMa) =====
+// Disimpan dalam users/{uid}.teacherRequest: { name, email, school, note, status: 'pending' | 'rejected', at }
+export async function submitTeacherRequest(user, { school, note }) {
+  const data = {
+    name: user.name,
+    email: user.email,
+    school: school.trim(),
+    note: note.trim(),
+    status: 'pending',
+    at: new Date().toISOString(),
+  };
+  await setDoc(doc(db, 'users', user.uid), { teacherRequest: data }, { merge: true });
+  return data;
+}
+
+export async function fetchTeacherRequests() {
+  const snap = await getDocs(query(collection(db, 'users'), where('teacherRequest.status', '==', 'pending')));
+  return snap.docs.map(d => ({ uid: d.id, ...d.data().teacherRequest }));
+}
+
+export function decideTeacherRequest(uid, approve) {
+  return updateDoc(doc(db, 'users', uid), approve
+    ? { role: 'teacher', 'teacherRequest.status': 'approved' }
+    : { 'teacherRequest.status': 'rejected' });
 }

@@ -8,4 +8,5 @@ export const firebaseConfig = {
   storageBucket: 'project-quiz-9b9a2.firebasestorage.app',
   messagingSenderId: '464889501693',
   appId: '1:464889501693:web:0d04bdf9f63d28ca722b94',
+  databaseURL: 'https://project-quiz-9b9a2-default-rtdb.asia-southeast1.firebasedatabase.app',
 };

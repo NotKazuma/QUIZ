@@ -1114,3 +1114,12 @@ p { margin: 0; }
 .place-2 .podium-block { background: linear-gradient(#cbd5e1, #64748b); }
 .place-3 .podium-block { background: linear-gradient(#fdba74, #c2410c); }
 .lb-track { margin-right: 16px; }
+
+/* ===== Pengesahan cikgu ===== */
+.verify-card { display: grid; gap: 10px; padding: 18px; margin-bottom: 14px; }
+.verify-title { font-weight: 800; }
+.verify-card code { font-size: 0.85em; }
+.form-card.flat { padding: 0; border: 0; box-shadow: none; background: none; backdrop-filter: none; }
+.apply-card .card-icon { background: var(--muted); color: var(--muted-foreground); }
+.requests { margin-bottom: 18px; }
+.request-row { border-color: var(--accent); }

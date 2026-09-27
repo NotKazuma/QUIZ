@@ -11,7 +11,8 @@ import { useMediaQuery } from '../lib/useMediaQuery.js';
 import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 
 export default function Home({
-  config, error, user, saved, unlockedCount, admin, teacher, myClasses, onAdmin, onTeacher, onClasses, onRace, onStartHomework,
+  config, error, user, saved, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
+  myClasses, onAdmin, onTeacher, onClasses, onRace, onStartHomework,
   onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
   const dark = useMediaQuery('(prefers-color-scheme: dark)');
@@ -77,7 +78,8 @@ export default function Home({
       {teacher && (
         <Reveal className="spaced">
           <ActionCard className="teacher-card" icon="users" title="Panel Cikgu"
-            desc="Kelas, laporan murid, kerja rumah & perlumbaan" onClick={onTeacher} />
+            desc={(teacherBasis === 'delima' ? '✅ Disahkan DELIMa · ' : '') + 'Kelas, laporan murid, kerja rumah & perlumbaan'}
+            onClick={onTeacher} />
         </Reveal>
       )}
 
@@ -144,6 +146,13 @@ export default function Home({
             <ActionCard className="classes-card" icon="users" title="Kelas saya"
               desc={myClasses.length ? `${myClasses.length} kelas · kerja rumah & sertai kelas` : 'Sertai kelas cikgu dengan kod kelas'}
               onClick={onClasses} />
+          </Reveal>
+        )}
+        {config && !teacher && (
+          <Reveal index={config.exams.length + 3}>
+            <ActionCard className="apply-card" icon="users" title="Saya cikgu"
+              desc={teacherRequest?.status === 'pending' ? '⏳ Permohonan sedang disemak admin' : 'Sahkan akaun cikgu untuk cipta kelas & kerja rumah'}
+              onClick={onApplyTeacher} />
           </Reveal>
         )}
       </div>
