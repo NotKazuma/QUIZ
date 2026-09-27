@@ -23,11 +23,30 @@ SOALAN = ROOT / 'soalan'
 INBOX = SOALAN / 'telegram'
 MANIFEST = INBOX / '.downloaded.json'
 
-# Nama fail dalam group tidak konsisten ("D1 JAWI UPP1 2023", "D1 UPP2 JAWI 2023", "D1 PAT 2025 AKHLAK"),
-# jadi darjah, peperiksaan & tahun dicari di mana-mana; baki perkataan = subjek.
-LEVEL = re.compile(r'^D\s*(\d)\b\s*', re.IGNORECASE)
+# Nama fail datang daripada banyak sumber dan tidak konsisten ("D1 JAWI UPP1 2023", "D1 UPP2 JAWI 2023",
+# "D1 PAT 2025 AKHLAK", "DARJAH 1 - Bahasa Arab - Akhir Tahun 2024"), jadi darjah, peperiksaan & tahun
+# dicari di mana-mana; baki perkataan = subjek.
+LEVEL = re.compile(r'^(?:D|DARJAH|TAHUN|THN)\s*(\d)\b\s*', re.IGNORECASE)
 EXAM = re.compile(r'\b(UPP\s*\d|PPT|PAT)\b', re.IGNORECASE)
 YEAR = re.compile(r'\b(20\d\d)\b')
+
+# Ejaan penuh peperiksaan -> singkatan.
+EXAM_WORDS = [
+    (re.compile(r'UJIAN\s+PENILAIAN\s+PENGGAL\s*(\d)', re.IGNORECASE), r'UPP\1'),
+    (re.compile(r'(?:PEPERIKSAAN\s+)?PERTENGAHAN\s+TAHUN', re.IGNORECASE), 'PPT'),
+    (re.compile(r'(?:PEPERIKSAAN\s+)?AKHIR\s+TAHUN', re.IGNORECASE), 'PAT'),
+]
+
+# Nama subjek diseragamkan ikut gaya fail DARJAH 4 pengguna.
+SUBJECT_ALIASES = {'ARAB': 'B ARAB', 'BAHASA ARAB': 'B ARAB', 'IBADAH': 'IBADAT'}
+
+
+def normalize(stem):
+    """Pemisah (_ -) jadi jarak; ejaan penuh peperiksaan jadi singkatan; rapatkan jarak."""
+    s = re.sub(r'[_\-]+', ' ', stem)
+    for pattern, short in EXAM_WORDS:
+        s = pattern.sub(short, s)
+    return ' '.join(s.split())
 
 
 def load_manifest():
@@ -49,7 +68,7 @@ def plan_for(path):
     m = re.match(r'^(\d+)_(.*)$', stem)
     if m:
         msg_id, stem = int(m.group(1)), m.group(2)
-    stem = ' '.join(stem.split())
+    stem = normalize(stem)
 
     lv, ex, yr = LEVEL.match(stem), EXAM.search(stem), YEAR.search(stem)
     if lv and ex and yr:
@@ -60,8 +79,7 @@ def plan_for(path):
         subject = ' '.join(subject.upper().replace('.', ' ').split())   # B.ARAB -> B ARAB
         if not subject:
             return None, msg_id
-        if subject == 'ARAB':
-            subject = 'B ARAB'                                           # seragam dengan fail DARJAH 4
+        subject = SUBJECT_ALIASES.get(subject, subject)
         exam = re.sub(r'\s+', '', exam.upper())                          # UPP 1 -> UPP1
         name = f'D{level} {subject} {exam} {year}{ext}'
         return SOALAN / f'DARJAH {level}' / exam / year / name, msg_id
