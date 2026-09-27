@@ -121,10 +121,16 @@ function showSubjects() {
   showScreen('screen-subject');
 }
 
-// --- Pilih Topik ---
+// Ambil tahun daripada medan `source` (cth. "UPKK 2024" -> "2024").
+function yearOf(q) {
+  const m = String(q.source || '').match(/\d{4}/);
+  return m ? m[0] : 'Lain-lain';
+}
+
+// --- Pilih Tahun ---
 async function selectSubject(subject) {
   state.subject = subject;
-  document.getElementById('topic-title').textContent = subject.name + ': pilih topik';
+  document.getElementById('topic-title').textContent = subject.name;
   const list = document.getElementById('topic-list');
   const msg = document.getElementById('topic-message');
   list.innerHTML = '';
@@ -147,23 +153,25 @@ async function selectSubject(subject) {
     return;
   }
 
-  // Senarai topik unik, mengikut susunan dalam fail.
-  const topics = [...new Set(state.questions.map(q => q.topic))];
+  // Senarai tahun unik, terbaru dahulu.
+  const years = [...new Set(state.questions.map(yearOf))].sort().reverse();
 
-  // Soalan tidak diasingkan mengikut bab: terus mula latihan.
-  if (topics.length === 1) {
-    startQuiz(state.questions);
-    return;
-  }
+  list.appendChild(makeCard({
+    icon: '<svg viewBox="0 0 24 24"><path d="m12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="m2 12 8.58 3.91a2 2 0 0 0 1.66 0L22 12"/><path d="m2 17 8.58 3.91a2 2 0 0 0 1.66 0L22 17"/></svg>',
+    title: 'Semua tahun',
+    desc: state.questions.length + ' soalan',
+    onClick: () => startQuiz(state.questions),
+  }).btn);
 
-  list.appendChild(makeButton(
-    'Semua topik (' + state.questions.length + ')',
-    () => startQuiz(state.questions),
-    'btn btn-primary'
-  ));
-  topics.forEach(topic => {
-    const qs = state.questions.filter(q => q.topic === topic);
-    list.appendChild(makeButton(topic + ' (' + qs.length + ')', () => startQuiz(qs)));
+  years.forEach(year => {
+    const qs = state.questions.filter(q => yearOf(q) === year);
+    list.appendChild(makeCard({
+      icon: year,
+      title: 'Tahun ' + year,
+      desc: qs[0].source + ' · ' + qs.length + ' soalan',
+      onClick: () => startQuiz(qs),
+      className: 'year-card',
+    }).btn);
   });
 }
 
@@ -174,7 +182,7 @@ document.querySelectorAll('[data-back]').forEach(btn => {
 document.getElementById('btn-practice').addEventListener('click', showSubjects);
 document.getElementById('btn-next').addEventListener('click', nextQuestion);
 document.getElementById('btn-quit').addEventListener('click', () => {
-  if (confirm('Berhenti latihan ini?')) showScreen('screen-subject');
+  if (confirm('Berhenti latihan ini?')) showScreen('screen-topic');
 });
 document.getElementById('btn-retry').addEventListener('click', () => startQuiz(quiz.source));
 document.getElementById('btn-home').addEventListener('click', () => showScreen('screen-home'));

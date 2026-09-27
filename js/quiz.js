@@ -41,8 +41,8 @@ function prepareQuestion(q) {
 }
 
 // Label pilihan jawapan (A, B, C… atau ا، ب، ج… bagi soalan Jawi/Arab).
-const KEYS_RUMI = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
-const KEYS_ARABIC = ['ا', 'ب', 'ج', 'د', 'ه', 'و', 'ز'];
+const KEYS_RUMI = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];
+const KEYS_ARABIC = ['ا', 'ب', 'ج', 'د', 'ه', 'و', 'ز', 'ح', 'ط', 'ي'];
 
 // Ikon SVG (gaya Lucide) untuk betul/salah.
 const ICON_CHECK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>';
@@ -78,7 +78,7 @@ function renderQuestion() {
     (quiz.current + 1) + '/' + quiz.questions.length;
   document.getElementById('quiz-progress').style.width =
     (quiz.current / quiz.questions.length * 100) + '%';
-  document.getElementById('quiz-subject').textContent = q.exam + ' · ' + q.subject;
+  document.getElementById('quiz-subject').textContent = q.exam + ' · ' + q.subject + (q.source ? ' · ' + q.source.replace(/\D+/g, '') : '');
 
   const questionEl = document.getElementById('quiz-question');
   questionEl.textContent = q.question;

@@ -274,6 +274,7 @@ p { margin: 0; }
 /* Kad peperiksaan (halaman utama) */
 .exam-card { min-height: 96px; }
 .exam-card .card-icon { width: 56px; height: 56px; }
+.year-card .card-icon { font-size: 0.85rem; }
 .exam-card .card-icon svg { width: 28px; height: 28px; }
 .exam-card .card-title { font-size: 1.3rem; font-weight: 800; }
 
