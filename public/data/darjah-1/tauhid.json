@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-1-tauhid-pat2022-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ركن اياله ___.",
+  "options": [
+   "اساس",
+   "بنر",
+   "دتريما"
+  ],
+  "answer": 0,
+  "explanation": "ركن برمعنا اساس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠوچڤ دوا كليمة شهادة اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "مڠوچڤ دوا كليمة شهادة اياله واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله ركن ايمان اياله ___.",
+  "options": [
+   "4 ڤركارا",
+   "5 ڤركارا",
+   "6 ڤركارا"
+  ],
+  "answer": 2,
+  "explanation": "ركن ايمان اد انم ڤركارا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توݢس ملائكة منكر اياله ___.",
+  "options": [
+   "مڽوءال ماءنسي ددالم قبور",
+   "منچابوت ڽاوا",
+   "منجاݢ شرݢ"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة منكر دان نكير مڽوءال ماءنسي ددالم قبور.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان كليم اياله ___.",
+  "options": [
+   "برايمان كڤد الله",
+   "برايمان كڤد رسول",
+   "برايمان كڤد هاري قيامة"
+  ],
+  "answer": 2,
+  "explanation": "ركن ايمان كليم اياله برايمان كڤد هاري قيامة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ركن إسلام اد ___.",
+  "options": [
+   "امڤت",
+   "تيݢ",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "ركن إسلام اد ليم ڤركارا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: صلاة دأخيري دڠن ___.",
+  "options": [
+   "نية",
+   "سجود",
+   "سلام"
+  ],
+  "answer": 2,
+  "explanation": "صلاة دأخيري دڠن سلام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤڠرتين حج منوجو ___.",
+  "options": [
+   "مصر",
+   "كعبة",
+   "مدينة"
+  ],
+  "answer": 1,
+  "explanation": "حج برمعنا منوجو كعبة دمكه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: وحي الله اياله ___.",
+  "options": [
+   "بوكو",
+   "القرءان",
+   "كرتس"
+  ],
+  "answer": 1,
+  "explanation": "القرءان اياله وحي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نام رسول اياله ___.",
+  "options": [
+   "ادم",
+   "زيد",
+   "عمر"
+  ],
+  "answer": 0,
+  "explanation": "نبي آدم اياله رسول يڠ ڤرتام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: زكاة تربهاݢي كڤد دوا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "زكاة تربهاݢي كڤد زكاة فطرة دان زكاة هرتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤواسا دڠن اخلاص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت برڤواسا دڠن اخلاص كران الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الله ممڤوڽاءي 98 نام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الله ممڤوڽاءي 99 نام (الأسماء الحسنى).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: هاري قيامة اياله هاري ڤمبالسن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤد هاري قيامة سموا عمالن دبالس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سنة برايمان كڤد قضاء دان قدر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كڤد قضاء دان قدر اياله واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اݢام يڠ بنر اداله ___.",
+  "options": [
+   "إسلام",
+   "دوسا",
+   "كتاب",
+   "مخلوق",
+   "الله"
+  ],
+  "answer": 0,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حج ممبرسيهكن ديري درڤد ___.",
+  "options": [
+   "إسلام",
+   "دوسا",
+   "كتاب",
+   "مخلوق",
+   "الله"
+  ],
+  "answer": 1,
+  "explanation": "حج ممبرسيهكن ديري درڤد دوسا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هيمڤونن وحي الله اياله ___.",
+  "options": [
+   "إسلام",
+   "دوسا",
+   "كتاب",
+   "مخلوق",
+   "الله"
+  ],
+  "answer": 2,
+  "explanation": "كتاب اياله هيمڤونن وحي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول اداله ڤسوروه ___.",
+  "options": [
+   "إسلام",
+   "دوسا",
+   "كتاب",
+   "مخلوق",
+   "الله"
+  ],
+  "answer": 4,
+  "explanation": "رسول اياله ڤسوروه الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء اداله كتتڤن ازلي كأتس ___.",
+  "options": [
+   "إسلام",
+   "دوسا",
+   "كتاب",
+   "مخلوق",
+   "الله"
+  ],
+  "answer": 3,
+  "explanation": "قضاء اياله كتتڤن الله كأتس مخلوق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه انق كونچي دوا كليمة شهادة؟",
+  "options": [
+   "روماه",
+   "شرݢ",
+   "نراک"
+  ],
+  "answer": 1,
+  "explanation": "دوا كليمة شهادة اياله انق كونچي شرݢ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ايمان اياله ___.",
+  "options": [
+   "يقين",
+   "طاعة",
+   "سوک"
+  ],
+  "answer": 0,
+  "explanation": "ايمان برمعنا يقين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة دجاديكن درڤد ___.",
+  "options": [
+   "اڤي",
+   "اءير",
+   "چهاي"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة دچيڤتا درڤد چهاي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتاب يڠ دتورونكن كڤد نبي عيسى اياله ___.",
+  "options": [
+   "الزبور",
+   "القرءان",
+   "الإنجيل"
+  ],
+  "answer": 2,
+  "explanation": "كتاب الإنجيل دتورونكن كڤد نبي عيسى.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2022-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام هاري قيامة اياله ___.",
+  "options": [
+   "يَوْمُ الدِّين",
+   "يَوْمُ الجُمُعَة",
+   "يَوْمُ الثُّلَاثَاء"
+  ],
+  "answer": 0,
+  "explanation": "يوم الدين اياله ساله ساتو نام هاري قيامة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-pat2023-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",
