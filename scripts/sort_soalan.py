@@ -26,15 +26,21 @@ MANIFEST = INBOX / '.downloaded.json'
 # Nama fail datang daripada banyak sumber dan tidak konsisten ("D1 JAWI UPP1 2023", "D1 UPP2 JAWI 2023",
 # "D1 PAT 2025 AKHLAK", "DARJAH 1 - Bahasa Arab - Akhir Tahun 2024"), jadi darjah, peperiksaan & tahun
 # dicari di mana-mana; baki perkataan = subjek.
-LEVEL = re.compile(r'^(?:D|DARJAH|TAHUN|THN)\s*(\d)\b\s*', re.IGNORECASE)
+LEVEL = re.compile(r'\b(?:D|DARJAH|TAHUN|THN)\s*(\d)\b\s*', re.IGNORECASE)   # di mana-mana ("Muamalat D5 ...")
 EXAM = re.compile(r'\b(UPP\s*\d|PPT|PAT)\b', re.IGNORECASE)
 YEAR = re.compile(r'\b(20\d\d)\b')
+# Negeri dalam nama fail percubaan (cth. "PERCUBAAN IBADAH GANU 2026", "2026 PERAK AKIDAH").
+STATES = r'PERLIS|KEDAH|PENANG|PULAU PINANG|PERAK|SELANGOR|KL|WP|NEGERI SEMBILAN|N9|MELAKA|JOHOR|PAHANG|GANU|TERENGGANU|KELANTAN|SABAH|SARAWAK'
 
 # Ejaan penuh peperiksaan -> singkatan.
 EXAM_WORDS = [
     (re.compile(r'UJIAN\s+PENILAIAN\s+PENGGAL\s*(\d)', re.IGNORECASE), r'UPP\1'),
     (re.compile(r'(?:PEPERIKSAAN\s+)?PERTENGAHAN\s+TAHUN', re.IGNORECASE), 'PPT'),
     (re.compile(r'(?:PEPERIKSAAN\s+)?AKHIR\s+TAHUN', re.IGNORECASE), 'PAT'),
+    (re.compile(r'\bPAT\s*(\d\d)\b', re.IGNORECASE), r'PAT 20\1'),     # PAT25 -> PAT 2025
+    (re.compile(r'\bPP\s*(\d)\b', re.IGNORECASE), r'UPP\1'),           # PP1 -> UPP1 (salah taip biasa)
+    (re.compile(r'\b(20\d\d)[A-Z]\b', re.IGNORECASE), r'\1'),          # 2024A -> 2024
+    (re.compile(r'(PERCUBAAN)(20\d\d)', re.IGNORECASE), r'\1 \2'),      # Percubaan2023 -> Percubaan 2023
 ]
 
 # Nama subjek diseragamkan ikut gaya fail DARJAH 4 pengguna.
@@ -70,10 +76,10 @@ def plan_for(path):
         msg_id, stem = int(m.group(1)), m.group(2)
     stem = normalize(stem)
 
-    lv, ex, yr = LEVEL.match(stem), EXAM.search(stem), YEAR.search(stem)
+    lv, ex, yr = LEVEL.search(stem), EXAM.search(stem), YEAR.search(stem)
     if lv and ex and yr:
         level, exam, year = lv.group(1), ex.group(1), yr.group(1)
-        subject = stem[lv.end():]
+        subject = stem[:lv.start()] + ' ' + stem[lv.end():]
         subject = EXAM.sub(' ', subject, count=1)
         subject = YEAR.sub(' ', subject, count=1)
         subject = ' '.join(subject.upper().replace('.', ' ').split())   # B.ARAB -> B ARAB
@@ -89,6 +95,13 @@ def plan_for(path):
         return SOALAN / 'DARJAH 5' / 'UPKK' / f'UPKK {year.group()}' / f'{stem}{ext}', msg_id
     if year and re.search(r'SDEA', stem, re.IGNORECASE):
         return SOALAN / 'DARJAH 6' / 'SDEA' / f'SDEA {year.group()}' / f'{stem}{ext}', msg_id
+    # SDKA (Darjah Khas): percubaan diasingkan.
+    if year and re.search(r'\bSDKA\b', stem, re.IGNORECASE):
+        group = f'PERCUBAAN {year.group()}' if re.search(r'PERCUBAAN', stem, re.IGNORECASE) else f'SDKA {year.group()}'
+        return SOALAN / 'DARJAH KHAS' / 'SDKA' / group / f'{stem}{ext}', msg_id
+    # Percubaan negeri tanpa darjah = percubaan UPKK.
+    if year and not lv and (re.search(r'PERCUBAAN', stem, re.IGNORECASE) or re.search(rf'\b({STATES})\b', stem, re.IGNORECASE)):
+        return SOALAN / 'DARJAH 5' / 'UPKK' / f'PERCUBAAN {year.group()}' / f'{stem}{ext}', msg_id
     return None, msg_id
 
 
