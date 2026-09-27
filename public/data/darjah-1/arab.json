@@ -1,5 +1,471 @@
 [
  {
+  "id": "darjah-1-arab-pat2023-01",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ أَنْتَ؟",
+  "options": [
+   "أَنَا مُعَاذٌ",
+   "أَنَا زَيْنَبُ",
+   "أَنَا مُعَلِّمَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "أَنْتَ اونتوق للاكي، مك جواڤنڽ نام للاكي: أَنَا مُعَاذٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-02",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-pat2023-udhun.jpg",
+  "options": [
+   "عَيْنٌ",
+   "رَأْسٌ",
+   "أُذُنٌ"
+  ],
+  "answer": 2,
+  "explanation": "أُذُنٌ برمعنا تليڠا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-03",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هَذَا؟",
+  "image": "images/darjah-1/arab-pat2023-ab.jpg",
+  "options": [
+   "أَبٌ",
+   "أَخٌ",
+   "جَدٌّ"
+  ],
+  "answer": 0,
+  "explanation": "انق ڤانه منونجوق كڤد باڤ: أَبٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-04",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-1/arab-pat2023-kitab.jpg",
+  "options": [
+   "مِقَصٌّ",
+   "كِتَابٌ",
+   "مِرْسَمٌ"
+  ],
+  "answer": 1,
+  "explanation": "كِتَابٌ برمعنا بوكو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-05",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-pat2023-madrasah.jpg",
+  "options": [
+   "مَدْرَسَةٌ",
+   "مَكْتَبَةٌ",
+   "مَطْعَمٌ"
+  ],
+  "answer": 0,
+  "explanation": "مَدْرَسَةٌ برمعنا سكوله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-06",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَا هَذَا؟",
+  "image": "images/darjah-1/arab-pat2023-anf.jpg",
+  "options": [
+   "أُذُنٌ",
+   "أَنْفٌ",
+   "سِنٌّ"
+  ],
+  "answer": 1,
+  "explanation": "أَنْفٌ برمعنا هيدوڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-07",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَنْ هَذَا؟",
+  "image": "images/darjah-1/arab-pat2023-jadd.jpg",
+  "options": [
+   "أُمٌّ",
+   "جَدٌّ",
+   "جَدَّةٌ"
+  ],
+  "answer": 1,
+  "explanation": "جَدٌّ برمعنا دتوق (للاكي).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-08",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: ٦ = ___",
+  "options": [
+   "سِتَّةٌ",
+   "سَبْعَةٌ",
+   "تِسْعَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "٦ دسبوت سِتَّةٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-09",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-pat2023-sabburah.jpg",
+  "options": [
+   "زُبَالَةٌ",
+   "كَرَاسِيٌّ",
+   "سَبُّورَةٌ"
+  ],
+  "answer": 2,
+  "explanation": "سَبُّورَةٌ برمعنا ڤاڤن هيتم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-10",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-pat2023-mistarah.jpg",
+  "options": [
+   "وَرَقَةٌ",
+   "مِسْطَرَةٌ",
+   "مِبْرَاةٌ"
+  ],
+  "answer": 1,
+  "explanation": "مِسْطَرَةٌ برمعنا ڤمباريس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-11",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "صَبَاحَ الخَيْرِ ← صَبَاحَ النُّورِ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "جواڤن باݢي صَبَاحَ الخَيْرِ اياله صَبَاحَ النُّورِ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-12",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا أَنْفٌ",
+  "image": "images/darjah-1/arab-pat2023-fam.jpg",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله فَمٌ (مولوت)، بوكن أَنْفٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-13",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "١٠ ← عَشَرَةٌ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "١٠ دسبوت عَشَرَةٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-14",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا الكُمْبِيُوتَر",
+  "image": "images/darjah-1/arab-pat2023-computer.jpg",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله كومڤيوتر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-15",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا مِرْحَاضٌ",
+  "image": "images/darjah-1/arab-pat2023-maidan.jpg",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله مَيْدَانٌ (ڤادڠ)، بوكن مِرْحَاضٌ (تندس).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-16",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنَا ___.",
+  "options": [
+   "طَالِبَةٌ",
+   "٨",
+   "الفَصْلِ"
+  ],
+  "answer": 0,
+  "explanation": "أَنَا طَالِبَةٌ: ساي سأورڠ ڤلاجر ڤرمڤوان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-17",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ ___.",
+  "options": [
+   "أُمِّي",
+   "مِقَصٌّ",
+   "٨"
+  ],
+  "answer": 0,
+  "explanation": "هَذِهِ اونتوق مؤنث: هَذِهِ أُمِّي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-18",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "ثَمَانِيَةٌ = ___",
+  "options": [
+   "٦",
+   "٨",
+   "٩"
+  ],
+  "answer": 1,
+  "explanation": "ثَمَانِيَةٌ = ٨.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-19",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا ___.",
+  "options": [
+   "مِقَصٌّ",
+   "أُمِّي",
+   "طَالِبَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "هَذَا اونتوق مذكر: هَذَا مِقَصٌّ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-20",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هَذَا؟",
+  "image": "images/darjah-1/arab-pat2023-abi.jpg",
+  "options": [
+   "هَذَا أَبِي",
+   "هَذِهِ أُمِّي",
+   "هَذِهِ أُخْتِي"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر سأورڠ باڤ برسام انقڽ: هَذَا أَبِي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-21",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٩ = ___",
+  "options": [
+   "ثَمَانِيَةٌ",
+   "تِسْعَةٌ",
+   "عَشَرَةٌ"
+  ],
+  "answer": 1,
+  "explanation": "٩ دسبوت تِسْعَةٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-22",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَاذَا يَفْعَلُ؟",
+  "image": "images/darjah-1/arab-pat2023-sabburah2.jpg",
+  "options": [
+   "مَسَحَ السَّبُّورَةَ",
+   "كَتَبَ الدَّرْسَ",
+   "كَنَسَ الزُّبَالَةَ"
+  ],
+  "answer": 0,
+  "explanation": "دالم ݢمبر، سسأورڠ سدڠ مڠلڤ ڤاڤن هيتم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-23",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-pat2023-mimhah.jpg",
+  "options": [
+   "هَذِهِ وَرَقَةٌ",
+   "هَذِهِ مِبْرَاةٌ",
+   "هَذِهِ مِمْحَاةٌ"
+  ],
+  "answer": 2,
+  "explanation": "مِمْحَاةٌ برمعنا ڤمادم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-pat2023-24",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنَا أَقْرَأُ الكِتَابَ فِي ___",
+  "image": "images/darjah-1/arab-pat2023-maktabah.jpg",
+  "options": [
+   "المَكْتَبَةِ",
+   "المَطْعَمِ",
+   "المَيْدَانِ"
+  ],
+  "answer": 0,
+  "explanation": "ساي ممباچ بوكو د ڤرڤوستاکاءن: فِي المَكْتَبَةِ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-arab-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Bahasa Arab",

@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-1-sirah-pat2023-01",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سومبر سيرة اياله ___.",
+  "options": [
+   "مجاله",
+   "القرءان",
+   "سورت خبر"
+  ],
+  "answer": 1,
+  "explanation": "القرءان اياله سومبر سيرة يڠ بنر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-02",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ سيرة اياله ___.",
+  "options": [
+   "براوبه",
+   "تيدق براوبه",
+   "ڤريستيوا دهولو"
+  ],
+  "answer": 2,
+  "explanation": "سيرة منچريتاكن ڤريستيوا يڠ برلاكو ڤد ماس دهولو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-03",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ سجاره اياله ___.",
+  "options": [
+   "قيصه نبي",
+   "بوليه براوبه",
+   "تيدق براوبه"
+  ],
+  "answer": 2,
+  "explanation": "سجاره يڠ تله برلاكو تيدق براوبه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-04",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين نسب اياله ___.",
+  "options": [
+   "ݢاريس ماس",
+   "جالور كتورونن",
+   "اصل كجادين"
+  ],
+  "answer": 1,
+  "explanation": "نسب برمعنا جالور كتورونن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-05",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو نبي اسماعيل اياله ___.",
+  "options": [
+   "آمنة",
+   "هاجر",
+   "خديجة"
+  ],
+  "answer": 1,
+  "explanation": "ايبو نبي اسماعيل اياله سيتي هاجر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-06",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: انق نبي ابراهيم اياله ___.",
+  "options": [
+   "محمد",
+   "يوسف",
+   "اسماعيل"
+  ],
+  "answer": 2,
+  "explanation": "نبي اسماعيل اياله انق نبي ابراهيم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-07",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ايه نبي محمد ﷺ اياله ___.",
+  "options": [
+   "يعقوب",
+   "عبد الله",
+   "ابو طالب"
+  ],
+  "answer": 1,
+  "explanation": "ايه نبي محمد ﷺ اياله عبد الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-08",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ايبو نبي محمد ﷺ اياله ___.",
+  "options": [
+   "آمنة",
+   "هاجر",
+   "خديجة"
+  ],
+  "answer": 0,
+  "explanation": "ايبو نبي محمد ﷺ اياله آمنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-09",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: داتوق عبد الله اياله ___.",
+  "options": [
+   "كلاب",
+   "هاشم",
+   "قصي"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله بن عبد المطلب بن هاشم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-10",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤكرجاءن عبد الله اياله ___.",
+  "options": [
+   "برنياݢ",
+   "بربورو",
+   "برتاني"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله سأورڠ ڤنياݢ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-11",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبد الله سأورڠ يڠ براني.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله سأورڠ يڠ براني.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-12",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبد الله منيڠݢل دنيا د مكة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله منيڠݢل دنيا د مدينة (يثرب).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-13",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبد الله مڠنڠ جاس كدوا ايبو باڤ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله سأورڠ انق يڠ مڠنڠ جاس ايبو باڤڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-14",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: آمنة بنت وهب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نام ڤنوه ايبو نبي اياله آمنة بنت وهب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-15",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: آمنة درڤد كتورونن بني قريش.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة درڤد كتورونن قريش.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-16",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اخلاق ترڤوجي آمنة اياله ___.",
+  "options": [
+   "دكوتا مكة",
+   "د أبواء",
+   "بربودي بهاس",
+   "نبي ابراهيم",
+   "تيدق مڽمبه الله"
+  ],
+  "answer": 2,
+  "explanation": "آمنة سأورڠ يڠ بربودي بهاس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-17",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مجليس ڤركهوينن آمنة دأداكن ___.",
+  "options": [
+   "دكوتا مكة",
+   "د أبواء",
+   "بربودي بهاس",
+   "نبي ابراهيم",
+   "تيدق مڽمبه الله"
+  ],
+  "answer": 0,
+  "explanation": "ڤركهوينن عبد الله دان آمنة دأداكن دكوتا مكة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-18",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو نبي منيڠݢل دنيا ___.",
+  "options": [
+   "دكوتا مكة",
+   "د أبواء",
+   "بربودي بهاس",
+   "نبي ابراهيم",
+   "تيدق مڽمبه الله"
+  ],
+  "answer": 1,
+  "explanation": "آمنة منيڠݢل دنيا د أبواء.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-19",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرتالين نسب نبي محمد ﷺ سمڤاي كڤد ___.",
+  "options": [
+   "دكوتا مكة",
+   "د أبواء",
+   "بربودي بهاس",
+   "نبي ابراهيم",
+   "تيدق مڽمبه الله"
+  ],
+  "answer": 3,
+  "explanation": "نسب نبي محمد ﷺ برسمبوڠ دڠن نبي ابراهيم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-20",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كجاهيلن مشاركت جاهلية اياله ___.",
+  "options": [
+   "دكوتا مكة",
+   "د أبواء",
+   "بربودي بهاس",
+   "نبي ابراهيم",
+   "تيدق مڽمبه الله"
+  ],
+  "answer": 4,
+  "explanation": "مشاركت جاهلية تيدق مڽمبه الله، مريك مڽمبه برهال.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-21",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بڠسا نبي محمد ﷺ اياله ___.",
+  "options": [
+   "عرب",
+   "قريش",
+   "جاهلية"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ بربڠسا عرب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-22",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن بڠسا قريش اياله ___.",
+  "options": [
+   "دهينا",
+   "دڤندڠ موليا",
+   "تيدق برتڠݢوڠجواب"
+  ],
+  "answer": 1,
+  "explanation": "بڠسا قريش دڤندڠ موليا اوليه مشاركت عرب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-23",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوسيا نبي محمد ﷺ وفاة اياله ___.",
+  "options": [
+   "53 تاهون",
+   "63 تاهون",
+   "73 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ وفاة ڤد اوسيا 63 تاهون.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-24",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريبادي موليا نبي محمد ﷺ اياله ___.",
+  "options": [
+   "برچاكڤ بنر",
+   "برچاكڤ كاسر",
+   "برچاكڤ قوات"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ سنتياس برچاكڤ بنر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-pat2023-25",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكمه نبي محمد ﷺ دأوتوس كڤد ماءنسي؟",
+  "options": [
+   "ممبيمبيڠ ماءنسي",
+   "مڽستكن ماءنسي",
+   "مڽوسهكن ماءنسي"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ دأوتوس اونتوق ممبيمبيڠ ماءنسي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-sirah-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Sirah",

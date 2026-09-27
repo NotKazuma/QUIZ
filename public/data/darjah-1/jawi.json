@@ -1,5 +1,454 @@
 [
  {
+  "id": "darjah-1-jawi-pat2023-01",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف جاوي توڠݢل اياله ___.",
+  "options": [
+   "ا ب ت",
+   "مولوت",
+   "ڤاڤي"
+  ],
+  "answer": 0,
+  "explanation": "ا، ب، ت اياله حروف جاوي توڠݢل.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-02",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-pat2023-paus.jpg",
+  "options": [
+   "تـ + يرم",
+   "ڤـ + اءوس",
+   "سـ + وتوڠ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله ايكن ڤاءوس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-03",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-pat2023-garpu.jpg",
+  "options": [
+   "ݢر + ڤو",
+   "بو + اه",
+   "كا + كي"
+  ],
+  "answer": 0,
+  "explanation": "ݢر + ڤو = ݢرڤو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-04",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-pat2023-pisang.jpg",
+  "options": [
+   "دو + كو",
+   "چي + ري",
+   "ڤيسـ + ڠ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله ڤيسڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-05",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام باهاݢين يڠ دتونجوق اوليه انق ڤانه؟",
+  "image": "images/darjah-1/jawi-pat2023-jari.jpg",
+  "options": [
+   "را + ج",
+   "جا + ري",
+   "سا + تو"
+  ],
+  "answer": 1,
+  "explanation": "انق ڤانه منونجوق كڤد جاري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-06",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف ڤرتام باݢي نام ݢمبر اين (توڤي) اياله ___.",
+  "image": "images/darjah-1/jawi-pat2023-topi.jpg",
+  "options": [
+   "ه",
+   "و",
+   "ت"
+  ],
+  "answer": 2,
+  "explanation": "توڤي دمولاكن دڠن حروف ت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-07",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-pat2023-tangan.jpg",
+  "options": [
+   "تاڠن",
+   "تاڠݢ",
+   "اڠن"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله تاڠن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-08",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ حروف \"ب\" براد دتڠه كليمة اياله ___.",
+  "options": [
+   "ارنب",
+   "بولا",
+   "تبو"
+  ],
+  "answer": 2,
+  "explanation": "دالم كليمة تبو، حروف ب براد دتڠه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-09",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سوكو كات تربوک دان ترتوتوڤ اياله ___.",
+  "options": [
+   "مينوم",
+   "ڤندا",
+   "ڤلجي"
+  ],
+  "answer": 0,
+  "explanation": "مي (تربوک) + نوم (ترتوتوڤ).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-10",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف \"س\" سام بنتوق دڠن \"ش\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "س دان ش سام بنتوق، بيذاڽ ش اد تيݢ تيتيق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-11",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف ڤرتام ڤد كليمة دوريان حروف \"ذ\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "دوريان دمولاكن دڠن حروف د.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-12",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سبوتن حروف \"ز\" همڤير سام دڠن حروف \"و\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سبوتن ز همڤير سام دڠن ذ، بوكن و.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-13",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤركاتاءن \"كونتيڠ\" اداله سوكو كات ترتوتوڤ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كون + تيڠ، كدوا-دوا سوكو كات ترتوتوڤ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-14",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف برسامبوڠ دتڠه كليمة \"كلاڤ\" اياله ___.",
+  "options": [
+   "ل",
+   "جو",
+   "تيݢ - دوا",
+   "د",
+   "تيݢ - تيݢ"
+  ],
+  "answer": 0,
+  "explanation": "حروف ل براد دتڠه كليمة كلاڤ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-15",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف تيدق برسامبوڠ دأول اياله ___.",
+  "options": [
+   "ل",
+   "جو",
+   "تيݢ - دوا",
+   "د",
+   "تيݢ - تيݢ"
+  ],
+  "answer": 3,
+  "explanation": "حروف د تيدق برسامبوڠ دڠن حروف سلڤسڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-16",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سوكو كات تربوک \"و\" اياله ___.",
+  "options": [
+   "ل",
+   "جو",
+   "تيݢ - دوا",
+   "د",
+   "تيݢ - تيݢ"
+  ],
+  "answer": 1,
+  "explanation": "جو اياله سوكو كات تربوک \"و\".",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-17",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"چوكلت\" اياله سوكو كات ترتوتوڤ ___.",
+  "options": [
+   "ل",
+   "جو",
+   "تيݢ - دوا",
+   "د",
+   "تيݢ - تيݢ"
+  ],
+  "answer": 2,
+  "explanation": "چوك (تيݢ حروف) + لت (دوا حروف).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-18",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"كونتيڠ\" اياله سوكو كات ترتوتوڤ ___.",
+  "options": [
+   "ل",
+   "جو",
+   "تيݢ - دوا",
+   "د",
+   "تيݢ - تيݢ"
+  ],
+  "answer": 4,
+  "explanation": "كون (تيݢ حروف) + تيڠ (تيݢ حروف).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-19",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دڤرمولاءن كليمة يڠ براوبه بنتوق اياله ___.",
+  "options": [
+   "روسا",
+   "كودا",
+   "ارنب"
+  ],
+  "answer": 1,
+  "explanation": "حروف ك براوبه بنتوق اڤابيلا برسامبوڠ دأول كليمة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-20",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ همڤير سام سبوتن اياله ___.",
+  "options": [
+   "ق دان ك",
+   "ش دان و",
+   "ڤ دان ص"
+  ],
+  "answer": 0,
+  "explanation": "ق دان ك همڤير سام سبوتنڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-21",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكو كات تربوک \"ي\" اياله ___.",
+  "options": [
+   "روڤا",
+   "ساتو",
+   "سيكو"
+  ],
+  "answer": 2,
+  "explanation": "سي اياله سوكو كات تربوک \"ي\".",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-22",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكو كات ترتوتوڤ \"دوا - دوا\" حروف اياله ___.",
+  "options": [
+   "لڠست",
+   "رمباي",
+   "مڠكيس"
+  ],
+  "answer": 0,
+  "explanation": "لڠ (دوا حروف) + ست (دوا حروف).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-pat2023-23",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سوكو كات تربوک دان ترتوتوڤ اياله ___.",
+  "options": [
+   "تالي",
+   "كاكي",
+   "ڤوليس"
+  ],
+  "answer": 2,
+  "explanation": "ڤو (تربوک) + ليس (ترتوتوڤ).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-jawi-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Jawi",

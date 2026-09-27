@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-1-tauhid-pat2023-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ركن اياله ___.",
+  "options": [
+   "اساس",
+   "ڤنتيڠ",
+   "ڤرلو"
+  ],
+  "answer": 0,
+  "explanation": "ركن برمعنا اساس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن يڠ مندكتكن ديري كڤد الله اياله ___.",
+  "options": [
+   "صلاة",
+   "ماكن",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "صلاة مندكتكن ديري كڤد الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة منجاݢ شرݢ اياله ___.",
+  "options": [
+   "منكر",
+   "نكير",
+   "رضوان"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة رضوان منجاݢ شرݢ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يڠ منريما كتاب القرءان اياله ___.",
+  "options": [
+   "محمد",
+   "موسى",
+   "داود"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دتورونكن كڤد نبي محمد ﷺ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان كانم برايمان كڤد ___.",
+  "options": [
+   "ملائكة",
+   "هاري قيامة",
+   "قضاء دان قدر"
+  ],
+  "answer": 2,
+  "explanation": "ركن ايمان كانم اياله برايمان كڤد قضاء دان قدر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم مڠوچڤ دوا كليمة شهادة اياله ___.",
+  "options": [
+   "واجب",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "مڠوچڤ دوا كليمة شهادة اياله واجب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ݢولوڠن منريما زكاة اياله ___.",
+  "options": [
+   "كاي",
+   "ميسكين",
+   "انق يتيم"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ ميسكين اياله ساله ساتو اصناف زكاة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نام الأسماء الحسنى اياله ___.",
+  "options": [
+   "صالح",
+   "الرحمن",
+   "منكر"
+  ],
+  "answer": 1,
+  "explanation": "الرحمن اياله ساله ساتو الأسماء الحسنى.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤسوروه الله تعالى دڤڠݢيل ___.",
+  "options": [
+   "ݢورو",
+   "راكن",
+   "رسول"
+  ],
+  "answer": 2,
+  "explanation": "رسول برمعنا ڤسوروه الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: كجادين هاري قيامة ساڠت ___.",
+  "options": [
+   "امن",
+   "تنڠ",
+   "دهشت"
+  ],
+  "answer": 2,
+  "explanation": "هاري قيامة اياله هاري يڠ دهشت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤواسا داڤت مڽيحتكن توبوه بادن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤواسا ممبري كصيحتن كڤد بادن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حج اياله زياره كلوار نݢارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حج اياله عبادة منونايكن ركن إسلام كليم دمكه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ملائكة دجاديكن درڤد چهاي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة دچيڤتا درڤد چهاي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيدق واجب منطاعتي ڤركارا ددالم القرءان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت واجب منطاعتي سݢالا سوروهن ددالم القرءان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بيلڠن رسول واجب دكتاهوءي 25 اورڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "رسول يڠ واجب دكتاهوءي نامان اد 25 اورڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اݢام يڠ بنر اياله ___.",
+  "options": [
+   "يقين",
+   "إسلام",
+   "هاري قيامة",
+   "قدر",
+   "الله"
+  ],
+  "answer": 1,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ايمان اياله ___.",
+  "options": [
+   "يقين",
+   "إسلام",
+   "هاري قيامة",
+   "قدر",
+   "الله"
+  ],
+  "answer": 0,
+  "explanation": "ايمان برمعنا يقين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توهن يڠ برحق دسمبه اداله ___.",
+  "options": [
+   "يقين",
+   "إسلام",
+   "هاري قيامة",
+   "قدر",
+   "الله"
+  ],
+  "answer": 4,
+  "explanation": "الله اياله توهن يڠ برحق دسمبه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري كبيناساءن عالم اياله ___.",
+  "options": [
+   "يقين",
+   "إسلام",
+   "هاري قيامة",
+   "قدر",
+   "الله"
+  ],
+  "answer": 2,
+  "explanation": "هاري قيامة اياله هاري كبيناساءن عالم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتتڤن الله تعالى سجق ازلي ڤڠرتين ___.",
+  "options": [
+   "يقين",
+   "إسلام",
+   "هاري قيامة",
+   "قدر",
+   "الله"
+  ],
+  "answer": 3,
+  "explanation": "قدر اياله كتتڤن الله سجق ازلي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة يڠ دواجبكن اتس اورڠ٢ برايمان اياله ___.",
+  "options": [
+   "بردعاء",
+   "صلاة",
+   "بلاجر"
+  ],
+  "answer": 1,
+  "explanation": "صلاة دواجبكن اتس اورڠ برايمان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مناهن ديري درڤد ماكن دان مينوم ڤڠرتين ___.",
+  "options": [
+   "زكاة",
+   "ڤواسا",
+   "مڠوچڤ كليمة شهادة"
+  ],
+  "answer": 1,
+  "explanation": "ڤواسا اياله مناهن ديري درڤد ماكن دان مينوم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان يڠ كتيݢ اياله ___.",
+  "options": [
+   "منونايكن حج",
+   "برايمان كڤد كتاب",
+   "برايمان كڤد ملائكة"
+  ],
+  "answer": 1,
+  "explanation": "ركن ايمان كتيݢ اياله برايمان كڤد كتاب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام رسول يڠ واجب دكتاهوءي اياله ___.",
+  "options": [
+   "صالح",
+   "رضوان",
+   "ابو بكر"
+  ],
+  "answer": 0,
+  "explanation": "نبي صالح اياله ساله سأورڠ درڤد 25 رسول.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2023-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "يَوْمُ الحِسَاب ارتيڽ هاري ___.",
+  "options": [
+   "ڤمبالسن",
+   "ڤرهيتوڠن",
+   "كبڠكيتن"
+  ],
+  "answer": 1,
+  "explanation": "يوم الحساب اياله هاري ڤرهيتوڠن عمالن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-pat2024-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",
