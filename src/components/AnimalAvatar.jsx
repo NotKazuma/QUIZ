@@ -1,6 +1,7 @@
 // Avatar pengguna: haiwan comel (gaya Belang) + hiasan dari kedai.
 // avatar = { animal, color, hat, glasses, outfit, shoes, hand, background, frame }
 // full = avatar badan penuh (kaki, kasut & barang dipegang kelihatan).
+// Barang Epik bercahaya ungu berdenyut; Legenda bercahaya emas dengan kilauan bintang.
 import { useId } from 'react';
 import { DEFAULT_AVATAR, FUR, itemById } from '../lib/shop.js';
 
@@ -25,27 +26,68 @@ export default function AnimalAvatar({ avatar, size = 96, mood = 'happy', full =
           <stop offset="0" stopColor="#ff4b4b" /><stop offset="0.25" stopColor="#ffc800" />
           <stop offset="0.5" stopColor="#58cc02" /><stop offset="0.75" stopColor="#1cb0f6" /><stop offset="1" stopColor="#ce82ff" />
         </linearGradient>
+        <filter id={`glow-epik-${uid}`} x="-40%" y="-40%" width="180%" height="180%">
+          <feDropShadow dx="0" dy="0" stdDeviation="1.5" floodColor="#ce82ff" floodOpacity="0.9">
+            <animate attributeName="stdDeviation" values="0.8;2.6;0.8" dur="2.2s" repeatCount="indefinite" />
+          </feDropShadow>
+        </filter>
+        <filter id={`glow-legenda-${uid}`} x="-40%" y="-40%" width="180%" height="180%">
+          <feDropShadow dx="0" dy="0" stdDeviation="2" floodColor="#ffd000" floodOpacity="1">
+            <animate attributeName="stdDeviation" values="1;3.4;1" dur="1.6s" repeatCount="indefinite" />
+            <animate attributeName="flood-color" values="#ffd000;#fff3a0;#ff9600;#ffd000" dur="3s" repeatCount="indefinite" />
+          </feDropShadow>
+        </filter>
         <linearGradient id={`fire-${uid}`} x1="0" y1="1" x2="0" y2="0">
           <stop offset="0" stopColor="#ff4b4b" /><stop offset="0.6" stopColor="#ff9600" /><stop offset="1" stopColor="#ffc800" />
         </linearGradient>
       </defs>
 
       <g clipPath={`url(#clip-${uid})`}>
-        <Background item={itemById(a.background)} H={H} />
+        <Rar item={itemById(a.background)} uid={uid} spot={[[18, 20], [100, 34], [26, H - 30], [96, H - 44]]} noGlow>
+          <Background item={itemById(a.background)} H={H} />
+        </Rar>
         <g transform={full ? 'translate(0 18)' : 'translate(0 6)'}>
           {itemById(a.outfit)?.kind === 'jaket-wira' && <path d="M30 88 Q60 70 90 88 L102 126 L18 126 Z" fill="#ff4b4b" />}
           {itemById(a.outfit)?.kind === 'jubah-diraja' && <path d="M28 88 Q60 68 92 88 L106 130 L14 130 Z" fill="#7b2cbf" />}
           {full && <Legs S={S} kind={a.animal} />}
-          {full && <Shoes item={itemById(a.shoes)} />}
+          {full && <Rar item={itemById(a.shoes)} uid={uid} spot={[[36, 158], [86, 162]]}><Shoes item={itemById(a.shoes)} /></Rar>}
           <Animal kind={a.animal} S={S} hideEars={hideEars} mood={mood} />
-          <Outfit item={itemById(a.outfit)} full={full} />
-          <Glasses item={itemById(a.glasses)} />
-          <Hat item={hat} />
-          {full && <Hand item={itemById(a.hand)} uid={uid} />}
+          <Rar item={itemById(a.outfit)} uid={uid} spot={[[34, 98], [88, 104]]}><Outfit item={itemById(a.outfit)} full={full} /></Rar>
+          <Rar item={itemById(a.glasses)} uid={uid} spot={[[24, 48], [98, 50]]}><Glasses item={itemById(a.glasses)} /></Rar>
+          <Rar item={hat} uid={uid} spot={[[36, 10], [86, 6], [62, -2]]}><Hat item={hat} /></Rar>
+          {full && <Rar item={itemById(a.hand)} uid={uid} spot={[[108, 86], [94, 120]]}><Hand item={itemById(a.hand)} uid={uid} /></Rar>}
         </g>
       </g>
-      <Frame item={itemById(a.frame)} uid={uid} full={full} H={H} />
+      <Rar item={itemById(a.frame)} uid={uid} spot={full ? [[8, 30], [112, 90], [10, H - 20]] : [[14, 30], [106, 88], [60, 116]]}>
+        <Frame item={itemById(a.frame)} uid={uid} full={full} H={H} />
+      </Rar>
     </svg>
+  );
+}
+
+// ---------------- kesan kelangkaan ----------------
+// Balut barang: Epik → cahaya ungu berdenyut; Legenda → cahaya emas + bintang berkelip di `spot`.
+function Rar({ item, uid, spot = [], noGlow = false, children }) {
+  const r = item?.rarity;
+  if (r !== 'epik' && r !== 'legenda') return children;
+  const legend = r === 'legenda';
+  return (
+    <g className={'rar rar-' + r}>
+      {noGlow ? children : <g filter={`url(#glow-${r}-${uid})`}>{children}</g>}
+      {legend && spot.map(([x, y], i) => <Sparkle key={i} x={x} y={y} delay={i * 0.55} />)}
+      {!legend && noGlow && spot.slice(0, 2).map(([x, y], i) => <Sparkle key={i} x={x} y={y} delay={i * 0.8} color="#e9c8ff" />)}
+    </g>
+  );
+}
+
+function Sparkle({ x, y, delay = 0, color = '#fff6c2' }) {
+  return (
+    <g className="rar-spark" transform={`translate(${x} ${y})`}>
+      <path d="M0 -6 Q1 -1 6 0 Q1 1 0 6 Q-1 1 -6 0 Q-1 -1 0 -6 Z" fill={color} stroke="#ffb000" strokeWidth="0.6" opacity="0">
+        <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin={`${delay}s`} repeatCount="indefinite" />
+        <animateTransform attributeName="transform" type="scale" values="0.3;1.1;0.3" dur="1.8s" begin={`${delay}s`} repeatCount="indefinite" />
+      </path>
+    </g>
   );
 }
 

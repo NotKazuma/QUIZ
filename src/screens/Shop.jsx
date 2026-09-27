@@ -108,7 +108,7 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
           )}
           <div className="item-grid">
             {options.map(o => {
-              const mine = o.color || owns(stats, o.id);
+              const mine = slot === 'color' || owns(stats, o.id);
               const on = slot === 'animal' ? draft.animal === o.id : slot === 'color' ? draft.color === o.id : draft[slot] === o.id;
               const preview = slot === 'animal' ? { ...draft, animal: o.id, color: o.colors[0] }
                 : slot === 'color' ? { ...draft, color: o.id }

@@ -553,7 +553,7 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 /* =========================================================
    Profil, kedai & avatar
    ========================================================= */
-.animal-avatar { border-radius: 50%; flex-shrink: 0; }
+.animal-avatar { border-radius: 50%; flex-shrink: 0; stroke: none; } /* jangan warisi garisan currentColor dari peraturan svg global */
 .hud-coins { border: 0; background: none; font: inherit; color: var(--yellow-shade); cursor: pointer; padding: 0; }
 .profile-chip { border: 0; background: none; font: inherit; color: inherit; cursor: pointer; padding: 0; }
 
@@ -606,7 +606,7 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .profile-card .profile-name { margin: 6px 0 0; font-size: 1.6rem; }
 .profile-title { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 999px; background: rgb(255 255 255 / 0.22); font-weight: 900; font-size: 0.85rem; }
 .profile-actions { display: flex; gap: 8px; margin-top: 8px; }
-.profile-btn { background: #fff; color: var(--foreground); --btn-shade: rgb(0 0 0 / 0.18); text-transform: none; letter-spacing: 0; }
+.profile-btn { background: #fff; color: #3c3c3c; white-space: nowrap; --btn-shade: rgb(0 0 0 / 0.18); text-transform: none; letter-spacing: 0; }
 .theme-swatches { display: flex; gap: 10px; flex-wrap: wrap; }
 .swatch { width: 40px; height: 40px; border-radius: 50%; border: 3px solid var(--card); box-shadow: 0 0 0 2px var(--border); cursor: pointer; }
 .swatch.is-on { box-shadow: 0 0 0 3px var(--foreground); }
@@ -699,3 +699,27 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .loading-tip { max-width: 320px; margin: 4px 0 0; color: var(--muted-foreground); font-weight: 700; min-height: 3em; }
 @keyframes loadSlide { 0% { transform: translateX(-110%); } 100% { transform: translateX(280%); } }
 @media (prefers-reduced-motion: reduce) { .loading-bar i, #boot img { animation: none; } }
+
+/* ---- Desktop: tab & cip dibalut (tiada scroll mendatar dengan tetikus) ---- */
+@media (hover: hover) and (pointer: fine) {
+  .slot-tabs, .rarity-chips, .year-chips { flex-wrap: wrap; overflow-x: visible; }
+}
+
+/* ---- Kad kedai ikut kelangkaan: Epik berdenyut ungu, Legenda bersinar emas ---- */
+.item-card.rarity-epik { animation: epikPulse 2.4s ease-in-out infinite; }
+@keyframes epikPulse {
+  0%, 100% { box-shadow: 0 4px 0 var(--border), 0 0 0 0 rgb(206 130 255 / 0); }
+  50% { box-shadow: 0 4px 0 var(--border), 0 0 14px 2px rgb(206 130 255 / 0.55); }
+}
+.item-card.rarity-legenda { border-color: #ffc800; animation: legendGlow 1.8s ease-in-out infinite; }
+@keyframes legendGlow {
+  0%, 100% { box-shadow: 0 4px 0 #d9a400, 0 0 6px 0 rgb(255 200 0 / 0.35); }
+  50% { box-shadow: 0 4px 0 #d9a400, 0 0 20px 4px rgb(255 200 0 / 0.7); }
+}
+.item-card.rarity-legenda .rarity-tag { background: linear-gradient(90deg, #ff9600, #ffc800, #fff3a0, #ffc800, #ff9600); background-size: 200% 100%;
+  -webkit-background-clip: text; background-clip: text; color: transparent; animation: shine 2.4s linear infinite; }
+.item-card.is-on.rarity-epik, .item-card.is-on.rarity-legenda { border-color: var(--green); }
+@media (prefers-reduced-motion: reduce) {
+  .item-card.rarity-epik, .item-card.rarity-legenda, .item-card.rarity-legenda::after, .item-card.rarity-legenda .rarity-tag { animation: none; }
+  .rar-spark { display: none; }
+}
