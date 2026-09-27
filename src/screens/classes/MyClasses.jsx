@@ -5,6 +5,7 @@ import { getClasses, joinClass, leaveClass, listMembers } from '../../lib/classe
 import PublicProfileSheet from '../../components/PublicProfileSheet.jsx';
 import Emoji from '../../components/Emoji.jsx';
 import HomeworkList from './HomeworkList.jsx';
+import { ask } from '../../components/ConfirmDialog.jsx';
 
 export default function MyClasses({ user, myClasses, config, onChange, onStartHomework, onBack }) {
   const [classes, setClasses] = useState(null);
@@ -46,7 +47,7 @@ export default function MyClasses({ user, myClasses, config, onChange, onStartHo
   }
 
   async function leave(cls) {
-    if (!confirm(`Keluar dari kelas "${cls.name}"?`)) return;
+    if (!await ask(`Keluar dari kelas "${cls.name}"?`)) return;
     await leaveClass(cls.id, user.uid).catch(() => {});
     onChange(myClasses.filter(c => c.id !== cls.id));
   }

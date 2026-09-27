@@ -8,6 +8,7 @@ import { dueLabel } from '../classes/HomeworkList.jsx';
 import AssignmentForm from './AssignmentForm.jsx';
 import AssignmentReport from './AssignmentReport.jsx';
 import Emoji from '../../components/Emoji.jsx';
+import { ask } from '../../components/ConfirmDialog.jsx';
 
 export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHostRace }) {
   const [tab, setTab] = useState('students');
@@ -31,19 +32,19 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
   }, [config]);
 
   async function kick(m) {
-    if (!confirm(`Keluarkan ${m.name} dari kelas?`)) return;
+    if (!await ask(`Keluarkan ${m.name} dari kelas?`)) return;
     await removeMember(cls.id, m.uid);
     setMembers(list => list.filter(x => x.uid !== m.uid));
   }
 
   async function removeClass() {
-    if (!confirm(`Padam kelas "${cls.name}" bersama semua kerja rumah dan hantaran? Tindakan ini tidak boleh dibatalkan.`)) return;
+    if (!await ask(`Padam kelas "${cls.name}" bersama semua kerja rumah dan hantaran? Tindakan ini tidak boleh dibatalkan.`)) return;
     await deleteClass(cls);
     onDeleted();
   }
 
   async function removeAssignment(a) {
-    if (!confirm(`Padam kerja rumah "${a.title}"?`)) return;
+    if (!await ask(`Padam kerja rumah "${a.title}"?`)) return;
     await deleteAssignment(cls.id, a.id);
     setAssignments(list => list.filter(x => x.id !== a.id));
   }

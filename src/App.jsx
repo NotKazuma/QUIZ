@@ -50,6 +50,7 @@ import Quiz from './screens/Quiz.jsx';
 import Challenge from './screens/Challenge.jsx';
 import Result from './screens/Result.jsx';
 import Emoji from './components/Emoji.jsx';
+import { ConfirmHost, ask } from './components/ConfirmDialog.jsx';
 
 // Skrin yang memaparkan bar navigasi bawah.
 const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result', 'profile', 'shop', 'avatar'];
@@ -307,7 +308,7 @@ export default function App() {
   }
 
   async function logout() {
-    if (user?.isGuest && !confirm(
+    if (user?.isGuest && !await ask(
       'Anda belum pautkan akaun Google.\n\nJika log keluar sekarang, SEMUA markah, latihan tersimpan dan pencapaian akan HILANG.\n\nTeruskan log keluar?')) return;
     await signOutUser();
   }
@@ -325,8 +326,8 @@ export default function App() {
     go('challenge');
   }
 
-  function startQuiz(subject, questions, hw = null, yr) {
-    if (savedRef.current && !confirm('Anda ada latihan yang belum selesai. Mula latihan baharu dan buang simpanan itu?')) return;
+  async function startQuiz(subject, questions, hw = null, yr) {
+    if (savedRef.current && !await ask('Anda ada latihan yang belum selesai. Mula latihan baharu dan buang simpanan itu?')) return;
     const prepared = shuffle(questions).map(q => prepareQuestion(q));
     const raw = {
       examId: hw?.examId ?? exam?.id ?? null,
@@ -376,8 +377,8 @@ export default function App() {
     }
   }
 
-  function discardSaved(force = false) {
-    if (!force && !confirm('Buang latihan yang belum selesai?')) return;
+  async function discardSaved(force = false) {
+    if (!force && !await ask('Buang latihan yang belum selesai?')) return;
     clearSession(user.uid);
     setSaved(null);
   }
@@ -532,6 +533,7 @@ export default function App() {
       </header>
 
       <Toasts toasts={toasts} onDismiss={dismissToast} onLink={link} />
+      <ConfirmHost />
 
       {/* Percikan kecil pada setiap sentuhan (React Bits ClickSpark) */}
       <ClickSpark sparkColor="#ff9600" sparkSize={9} sparkRadius={24} sparkCount={10} duration={420}>

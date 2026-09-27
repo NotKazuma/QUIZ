@@ -14,11 +14,12 @@ import { Leaderboard, Podium } from './Leaderboard.jsx';
 import PublicProfileSheet from '../../components/PublicProfileSheet.jsx';
 import Emoji from '../../components/Emoji.jsx';
 import PowerBar, { PowerStatus, applyPower, usePowerRound } from '../../components/PowerBar.jsx';
+import { ask } from '../../components/ConfirmDialog.jsx';
 
 const Celebration = lazy(() => import('../../components/Celebration.jsx'));
 
 // `power` = { stats, onUse(id) → bool, onGrant() } untuk kuasa semasa berlumba.
-export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd, power }) {
+export default function RaceRoom({ pin, user, config, isHost: hostProp, onExit, onRaceEnd, power }) {
   const [race, setRace] = useState(undefined); // undefined = memuat, null = ditutup
   const [questions, setQuestions] = useState(null);
   const [viewing, setViewing] = useState(null); // pemain yang profilnya dibuka
@@ -39,6 +40,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
 
   const players = race?.players || {};
   const me = players[user.uid];
+  const isHost = race ? race.hostUid === user.uid : hostProp;
   const total = race?.order?.length || 0;
 
   // Hos tamatkan perlumbaan secara automatik bila semua pemain sudah selesai.
@@ -58,7 +60,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
 
   async function exit() {
     if (isHost) {
-      if (race && race.status !== 'ended' && !confirm('Tutup perlumbaan ini untuk semua pemain?')) return;
+      if (race && race.status !== 'ended' && !await ask('Tutup perlumbaan ini untuk semua pemain?', { ok: 'Tutup', danger: true })) return;
       await deleteRace(pin).catch(() => {});
     } else if (race && race.status === 'lobby') {
       await leaveRace(pin, user.uid).catch(() => {});
@@ -160,7 +162,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
         </>
       )}
       {isHost && (
-        <button className="btn btn-outline btn-lg race-end-btn" onClick={() => confirm('Tamatkan perlumbaan sekarang untuk semua?') && endRace(pin)}>
+        <button className="btn btn-outline btn-lg race-end-btn" onClick={async () => (await ask('Tamatkan perlumbaan sekarang untuk semua?', { ok: 'Tamatkan', danger: true })) && endRace(pin)}>
           Tamatkan perlumbaan
         </button>
       )}

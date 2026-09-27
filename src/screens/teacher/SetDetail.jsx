@@ -7,6 +7,7 @@ import {
 } from '../../lib/teacherSets.js';
 import OfficialPicker from './OfficialPicker.jsx';
 import Emoji from '../../components/Emoji.jsx';
+import { ask } from '../../components/ConfirmDialog.jsx';
 
 export default function SetDetail({ config, set, adminView, onBack, onChange, onDeleted }) {
   const [saving, setSaving] = useState(false);
@@ -57,7 +58,7 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
   }
 
   async function remove() {
-    if (!confirm(`Padam set "${set.title}" bersama ${set.questions.length} soalan? Kerja rumah yang sudah diberi tidak terjejas.`)) return;
+    if (!await ask(`Padam set "${set.title}" bersama ${set.questions.length} soalan? Kerja rumah yang sudah diberi tidak terjejas.`)) return;
     await deleteSet(set.id);
     onDeleted(set.id);
   }

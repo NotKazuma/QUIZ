@@ -773,3 +773,9 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .card-swatch { display: grid; place-items: center; width: 84px; height: 62px; border-radius: 14px; background: var(--pc); box-shadow: 0 3px 0 color-mix(in srgb, var(--pc) 70%, black); }
 .card-swatch .animal-avatar { border: 3px solid rgb(255 255 255 / 0.85); }
 @media (prefers-reduced-motion: reduce) { .ct, .ct::before, .ct::after { animation: none !important; } }
+
+/* ===== Dialog pengesahan dalam laman ===== */
+.confirm-backdrop { position: fixed; inset: 0; z-index: 90; display: grid; place-items: center; padding: 16px; background: rgb(0 0 0 / 0.5); }
+.confirm-box { width: min(380px, 100%); display: grid; gap: 18px; padding: 22px 18px 18px; border-radius: 22px; background: var(--card); color: var(--foreground); border: 2px solid var(--border); box-shadow: 0 6px 0 var(--border); }
+.confirm-msg { margin: 0; font-weight: 800; font-size: 1.05rem; line-height: 1.4; text-align: center; }
+.confirm-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }

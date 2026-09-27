@@ -7,8 +7,24 @@ import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 import RaceRoom from './RaceRoom.jsx';
 import Emoji from '../../components/Emoji.jsx';
 
+// Bilik semasa disimpan dalam peranti supaya refresh tidak mengeluarkan hos/pemain (sah 6 jam).
+const ROOM_KEY = 'kuiz.race';
+function loadRoom(uid) {
+  try {
+    const r = JSON.parse(localStorage.getItem(ROOM_KEY) || 'null');
+    return r && r.uid === uid && Date.now() - r.at < 6 * 3600e3 ? { pin: r.pin, isHost: r.isHost } : null;
+  } catch { return null; }
+}
+function storeRoom(uid, room) {
+  try {
+    if (room) localStorage.setItem(ROOM_KEY, JSON.stringify({ ...room, uid, at: Date.now() }));
+    else localStorage.removeItem(ROOM_KEY);
+  } catch { /* abaikan */ }
+}
+
 export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd, power, avatar, displayName }) {
-  const [room, setRoom] = useState(null); // { pin, isHost }
+  const [room, setRoomState] = useState(() => loadRoom(user.uid)); // { pin, isHost }
+  const setRoom = r => { storeRoom(user.uid, r); setRoomState(r); };
   const [pin, setPin] = useState('');
   const [name, setName] = useState(displayName || (user.isGuest ? '' : user.name));
   const [error, setError] = useState('');

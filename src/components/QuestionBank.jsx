@@ -6,6 +6,7 @@ import QuestionEditor from '../screens/admin/QuestionEditor.jsx';
 import { DIFFICULTY, DIFFICULTY_ORDER } from '../lib/challenge.js';
 import { yearOf } from '../lib/quiz.js';
 import Emoji, { EmojiText } from './Emoji.jsx';
+import { ask } from './ConfirmDialog.jsx';
 
 const SORTS = [
   { id: 'asal', label: 'Susunan asal' },
@@ -91,7 +92,7 @@ export default function QuestionBank({
     if (await onPersist(next)) setEditing(null);
   }
   async function deleteQuestion(q) {
-    if (!confirm('Padam soalan ini? Tindakan ini tidak boleh dibatalkan.')) return;
+    if (!await ask('Padam soalan ini? Tindakan ini tidak boleh dibatalkan.')) return;
     if (await onPersist(questions.filter(x => x.id !== q.id))) setEditing(null);
   }
   function markReviewed(q) {
@@ -100,14 +101,14 @@ export default function QuestionBank({
 
   // ===== Tindakan pukal =====
   async function bulkUpdate(patch, label) {
-    if (!confirm(`${label} untuk ${selected.size} soalan?`)) return;
+    if (!await ask(`${label} untuk ${selected.size} soalan?`)) return;
     const now = new Date().toISOString();
     if (await onPersist(questions.map(q => (selected.has(q.id) ? { ...q, ...patch, updatedAt: now } : q)))) {
       setSelected(new Set());
     }
   }
   async function bulkDelete() {
-    if (!confirm(`Padam ${selected.size} soalan? Tindakan ini tidak boleh dibatalkan.`)) return;
+    if (!await ask(`Padam ${selected.size} soalan? Tindakan ini tidak boleh dibatalkan.`)) return;
     if (await onPersist(questions.filter(q => !selected.has(q.id)))) setSelected(new Set());
   }
 

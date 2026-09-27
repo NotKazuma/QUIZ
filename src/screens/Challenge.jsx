@@ -12,6 +12,7 @@ import {
 import { prepareQuestion } from '../lib/quiz.js';
 import Emoji from '../components/Emoji.jsx';
 import PowerBar, { PowerStatus, applyPower, usePowerRound } from '../components/PowerBar.jsx';
+import { ask } from '../components/ConfirmDialog.jsx';
 
 // Kuasa: `stats` untuk bilangan kuasa, onUsePowerup(id) → true jika berjaya, onGrantPowerup() bila streak.
 export default function Challenge({ questions, pool, stats, onAnswer, onUsePowerup, onGrantPowerup, onQuit, onFinish }) {
@@ -97,8 +98,8 @@ export default function Challenge({ questions, pool, stats, onAnswer, onUsePower
     }
   }
 
-  function quit() {
-    if (confirm('Keluar dari cabaran? Mata cabaran ini tidak akan disimpan.')) onQuit();
+  async function quit() {
+    if (await ask('Keluar dari cabaran? Mata cabaran ini tidak akan disimpan.')) onQuit();
   }
 
   const progress = ((current + (phase === 'question' ? 0 : 1)) / total) * 100;

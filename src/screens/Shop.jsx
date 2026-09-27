@@ -6,6 +6,7 @@ import Emoji from '../components/Emoji.jsx';
 import { BackButton, PageHead } from '../components/ui.jsx';
 import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, RARITY, RARITY_ORDER, SLOTS, byRarity, cardProps } from '../lib/shop.js';
 import { coins, formatCoins, isUnlimited, owns, powerupCount } from '../lib/wallet.js';
+import { ask } from '../components/ConfirmDialog.jsx';
 
 export default function Shop({ stats, avatar, onBuy, onChangeAvatar, onBack, initialTab = 'avatar' }) {
   const [tab, setTab] = useState(initialTab);       // 'avatar' | 'kuasa'
@@ -25,7 +26,7 @@ export default function Shop({ stats, avatar, onBuy, onChangeAvatar, onBack, ini
 
   async function buy(id, name, price) {
     if (balance < price) return say(`Syiling tidak cukup — perlu ${price - balance} lagi.`);
-    if (!isUnlimited() && !confirm(`Beli ${name} dengan ${price} syiling?`)) return false;
+    if (!isUnlimited() && !await ask(`Beli ${name} dengan ${price} syiling?`)) return false;
     setBusy(true);
     const ok = await onBuy('item', id);
     setBusy(false);

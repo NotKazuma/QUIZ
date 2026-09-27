@@ -5,6 +5,7 @@ import {
 } from '../../lib/firebase.js';
 import { ADMIN_EMAILS, TEACHER_EMAIL_PATTERN } from '../../lib/roles.js';
 import Emoji from '../../components/Emoji.jsx';
+import { ask } from '../../components/ConfirmDialog.jsx';
 
 const activity = u => u.lastActive || u.updatedAt || '';
 const accuracy = u => (u.stats?.answered ? (u.stats.correct || 0) / u.stats.answered : -1);
@@ -82,7 +83,7 @@ export default function AdminUsers({ me }) {
       : selectedUsers.filter(u => u.profile && !u.profile.isGuest && roleOf(u) !== 'admin');
     if (!targets.length) return alert('Tiada pengguna yang sesuai untuk tindakan ini (tetamu tidak boleh jadi cikgu).');
     const label = { teacher: 'Jadikan cikgu', unteacher: 'Buang peranan cikgu', delete: 'PADAM SEMUA DATA' }[action];
-    if (!confirm(`${label} untuk ${targets.length} pengguna?`)) return;
+    if (!await ask(`${label} untuk ${targets.length} pengguna?`)) return;
     setBusy('bulk');
     const done = [];
     for (const u of targets) {
@@ -102,7 +103,7 @@ export default function AdminUsers({ me }) {
 
   async function toggleTeacher(u) {
     const makeTeacher = u.role !== 'teacher';
-    if (!confirm(makeTeacher ? `Jadikan ${u.profile?.name} sebagai cikgu?` : `Buang peranan cikgu daripada ${u.profile?.name}?`)) return;
+    if (!await ask(makeTeacher ? `Jadikan ${u.profile?.name} sebagai cikgu?` : `Buang peranan cikgu daripada ${u.profile?.name}?`)) return;
     setBusy(u.uid);
     try {
       await setUserRole(u.uid, makeTeacher ? 'teacher' : null);
@@ -115,7 +116,7 @@ export default function AdminUsers({ me }) {
   }
 
   async function decide(r, approve) {
-    if (!confirm(approve ? `Luluskan ${r.name} (${r.school}) sebagai cikgu?` : `Tolak permohonan ${r.name}?`)) return;
+    if (!await ask(approve ? `Luluskan ${r.name} (${r.school}) sebagai cikgu?` : `Tolak permohonan ${r.name}?`)) return;
     setBusy(r.uid);
     try {
       await decideTeacherRequest(r.uid, approve);
@@ -129,7 +130,7 @@ export default function AdminUsers({ me }) {
   }
 
   async function remove(u) {
-    if (!confirm(`Padam SEMUA data ${u.profile?.name || u.uid} (latihan, statistik, pencapaian)? Tindakan ini tidak boleh dibatalkan.`)) return;
+    if (!await ask(`Padam SEMUA data ${u.profile?.name || u.uid} (latihan, statistik, pencapaian)? Tindakan ini tidak boleh dibatalkan.`)) return;
     setBusy(u.uid);
     try {
       await deleteUserData(u.uid);
