@@ -1,6 +1,7 @@
 // Papan kedudukan langsung dan podium perlumbaan.
 import { motion } from 'motion/react';
 import { ranking } from '../../lib/race.js';
+import Emoji from '../../components/Emoji.jsx';
 
 const MEDALS = ['🥇', '🥈', '🥉'];
 
@@ -12,13 +13,13 @@ export function Leaderboard({ players, total, me, compact = false }) {
       {rows.map((p, i) => (
         <motion.li key={p.uid} layout transition={{ type: 'spring', damping: 25, stiffness: 300 }}
           className={'lb-row' + (p.uid === me ? ' is-me' : '') + (p.finished ? ' is-finished' : '')}>
-          <span className="lb-rank">{MEDALS[i] || i + 1}</span>
+          <span className="lb-rank">{MEDALS[i] ? <Emoji e={MEDALS[i]} size="1.6rem" /> : i + 1}</span>
           <span className="lb-main">
             <span className="lb-name">{p.name}{p.uid === me && ' (anda)'}</span>
             <span className="lb-track" aria-label={`${p.answered}/${total} dijawab`}>
               <span className="lb-track-bar" style={{ width: (total ? (p.answered / total) * 100 : 0) + '%' }} />
               <span className="lb-runner" style={{ left: `calc(${total ? (p.answered / total) * 100 : 0}% - 12px)` }}>
-                {p.finished ? '🏁' : '🏃'}
+                <Emoji e={p.finished ? '🏁' : '🏃'} size="1.3rem" />
               </span>
             </span>
           </span>
@@ -42,7 +43,7 @@ export function Podium({ players }) {
           transition={{ delay: [0.4, 0.8, 0.1][i], type: 'spring', damping: 14 }}>
           <span className="podium-name">{p.name}</span>
           <span className="podium-score">{p.score.toLocaleString('ms-MY')}</span>
-          <span className="podium-block" style={{ height: heights[i] }}>{MEDALS[i === 1 ? 0 : i === 0 ? 1 : 2]}</span>
+          <span className="podium-block" style={{ height: heights[i] }}><Emoji e={MEDALS[i === 1 ? 0 : i === 0 ? 1 : 2]} size="2.4rem" /></span>
         </motion.div>
       ) : <div key={i} className="podium-col" />)}
     </div>

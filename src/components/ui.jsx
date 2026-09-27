@@ -3,6 +3,7 @@ import AnimatedContent from './bits/AnimatedContent.jsx';
 import GlareHover from './bits/GlareHover.jsx';
 import SpotlightCard from './bits/SpotlightCard.jsx';
 import StarBorder from './bits/StarBorder.jsx';
+import Emoji, { EmojiText } from './Emoji.jsx';
 
 // Pengguna yang minta kurang animasi tidak akan nampak kesan masuk/latar bergerak.
 export const REDUCED_MOTION = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -44,7 +45,7 @@ export function Icon({ name, className }) {
 export function Badge({ children, variant = 'default' }) {
   if (!children) return null;
   const cls = variant === 'default' ? 'badge' : 'badge badge-' + variant;
-  return <span className={cls}>{children}</span>;
+  return <span className={cls}><EmojiText>{children}</EmojiText></span>;
 }
 
 export function Progress({ value, large }) {
@@ -68,7 +69,7 @@ export function PageHead({ badge, title }) {
   return (
     <div className="page-head">
       <Badge>{badge}</Badge>
-      <h2>{title}</h2>
+      <h2><EmojiText>{title}</EmojiText></h2>
     </div>
   );
 }
@@ -89,8 +90,8 @@ export function ActionCard({ icon, iconStyle, title, desc, onClick, disabled, so
       <button className="card-button" onClick={onClick} disabled={disabled}>
         <span className={'card-icon' + (disabled ? ' icon-muted' : '')} style={iconStyle} aria-hidden="true">{iconNode}</span>
         <span className="card-text">
-          <span className="card-title">{title}</span>
-          {desc && <span className="card-desc">{desc}</span>}
+          <span className="card-title"><EmojiText>{title}</EmojiText></span>
+          {desc && <span className="card-desc"><EmojiText>{desc}</EmojiText></span>}
         </span>
         {soon ? <Badge variant="outline">Akan datang</Badge> : <Icon name="chevron" className="chevron" />}
       </button>
@@ -153,7 +154,7 @@ export function GoogleButton({ children, className = '', ...rest }) {
 export function LinkReminder({ onLink, compact = false }) {
   return (
     <div className={'link-reminder' + (compact ? ' is-compact' : '')} role="note">
-      <span className="link-reminder-icon" aria-hidden="true">⚠️</span>
+      <span className="link-reminder-icon" aria-hidden="true"><Emoji e="⚠️" size="1.8rem" /></span>
       <div className="link-reminder-body">
         <p className="link-reminder-title">Kemajuan anda belum selamat!</p>
         {!compact && (

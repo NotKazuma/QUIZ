@@ -2,6 +2,7 @@ import CountUp from '../components/bits/CountUp.jsx';
 import SpotlightCard from '../components/bits/SpotlightCard.jsx';
 import { BackButton, LinkReminder, PageHead, Progress, Reveal } from '../components/ui.jsx';
 import { ACHIEVEMENTS } from '../lib/achievements.js';
+import Emoji from '../components/Emoji.jsx';
 
 // Senarai pencapaian (dibuka & belum) dan ringkasan statistik pengguna.
 export default function Achievements({ user, config, stats, unlocked, onBack, onLink }) {
@@ -38,7 +39,7 @@ export default function Achievements({ user, config, stats, unlocked, onBack, on
           <Reveal key={a.id} index={Math.min(i, 8)} distance={24}>
             <SpotlightCard className={'card badge-card' + (a.at ? ' is-unlocked' : '')}
               spotlightColor={a.at ? 'rgba(245, 158, 11, 0.25)' : 'rgba(20, 184, 166, 0.15)'}>
-              <span className="badge-emoji" aria-hidden="true">{a.emoji}</span>
+              <span className="badge-emoji" aria-hidden="true"><Emoji e={a.emoji} size="2.8rem" /></span>
               <span className="badge-title">{a.title}</span>
               <span className="badge-desc">{a.desc}</span>
               {a.at ? (

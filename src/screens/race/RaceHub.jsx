@@ -5,6 +5,7 @@ import { filterByYear, loadQuestions, objectiveOnly, prepareQuestion, shuffle, y
 import { createRace, joinRace, raceReady } from '../../lib/race.js';
 import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 import RaceRoom from './RaceRoom.jsx';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd }) {
   const [room, setRoom] = useState(null); // { pin, isHost }
@@ -130,8 +131,8 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
           <p className="field-label">{presetClass ? 'Hos perlumbaan untuk kelas' : 'Cipta perlumbaan & cabar kawan'}</p>
           {teacher && (
             <div className="chips" role="radiogroup" aria-label="Sumber soalan">
-              <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}>📚 Bank rasmi</button>
-              <button type="button" className={'chip' + (source === 'set' ? ' is-active' : '')} onClick={() => setSource('set')}>📝 Set soalan saya</button>
+              <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}><Emoji e="📚" /> Bank rasmi</button>
+              <button type="button" className={'chip' + (source === 'set' ? ' is-active' : '')} onClick={() => setSource('set')}><Emoji e="📝" /> Set soalan saya</button>
             </div>
           )}
           {source === 'set' ? (

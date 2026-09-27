@@ -1,4 +1,15 @@
 // Statistik pengguna dan senarai pencapaian (achievement).
+
+// Ganjaran syiling 🪙 bagi setiap aktiviti.
+export const REWARD = {
+  correct: 2,        // setiap jawapan betul
+  finish: 10,        // tamat latihan/cabaran
+  perfect: 20,       // 100% (sekurang-kurangnya 5 soalan)
+  race: 10, racePodium: 15, raceWin: 30,
+  homework: 15,      // hantar kerja rumah
+  daily: 5,          // log masuk harian
+  achievement: 25,   // setiap lencana dibuka (lalai)
+};
 // Statistik hanya bertambah, jadi dua salinan (peranti & awan) boleh digabung dengan mengambil nilai maksimum.
 
 export function emptyStats() {
@@ -22,7 +33,25 @@ export function emptyStats() {
     races: 0,          // perlumbaan langsung yang ditamatkan
     raceWins: 0,       // tempat pertama (sekurang-kurangnya 3 pemain)
     racePodiums: 0,    // 3 teratas (sekurang-kurangnya 3 pemain)
+    // Dompet & kedai (lihat wallet.js). Semua nilai hanya bertambah supaya boleh digabung ikut maksimum:
+    coinsEarned: 0,    // syiling diperoleh (baki = coinsEarned - coinsSpent)
+    coinsSpent: 0,
+    purchases: 0,      // bilangan pembelian
+    powerupsUsed: 0,
+    dressups: 0,       // kali menukar avatar
+    homeworkDone: 0,
+    dailyClaims: 0,    // hadiah log masuk harian
+    lastDaily: '',
+    items: [],         // id barang avatar yang dimiliki
+    pGot: {},          // kuasa diperoleh/dibeli: id -> bilangan
+    pUsed: {},         // kuasa digunakan: id -> bilangan
   };
+}
+
+function mergeMax(a = {}, b = {}) {
+  const out = { ...a };
+  for (const [k, v] of Object.entries(b)) out[k] = Math.max(out[k] || 0, v || 0);
+  return out;
 }
 
 export function mergeStats(a, b) {
@@ -32,8 +61,11 @@ export function mergeStats(a, b) {
   for (const k of Object.keys(emptyStats())) {
     if (typeof x[k] === 'number') out[k] = Math.max(x[k], y[k] || 0);
   }
-  out.subjects = { ...x.subjects };
-  for (const [k, v] of Object.entries(y.subjects || {})) out.subjects[k] = Math.max(out.subjects[k] || 0, v);
+  out.subjects = mergeMax(x.subjects, y.subjects);
+  out.pGot = mergeMax(x.pGot, y.pGot);
+  out.pUsed = mergeMax(x.pUsed, y.pUsed);
+  out.items = [...new Set([...(x.items || []), ...(y.items || [])])];
+  out.lastDaily = (x.lastDaily || '') >= (y.lastDaily || '') ? x.lastDaily : y.lastDaily;
   // Rantaian harian ikut salinan yang paling baru berlatih.
   const later = (x.lastDay || '') >= (y.lastDay || '') ? x : y;
   out.lastDay = later.lastDay;
@@ -53,10 +85,11 @@ function localDay(d) {
 
 // Kemas kini bila satu soalan dijawab.
 export function recordAnswer(stats, correct, now = new Date()) {
-  const s = { ...stats };
+  const s = { ...emptyStats(), ...stats };
   s.answered += 1;
   if (correct) {
     s.correct += 1;
+    s.coinsEarned += REWARD.correct;
     s.streak += 1;
     s.bestStreak = Math.max(s.bestStreak, s.streak);
   } else {
@@ -85,6 +118,8 @@ export function recordQuizEnd(stats, { examId, subjectId, score, total, mode, po
   }
   const percent = total ? Math.round((score / total) * 100) : 0;
   s.quizzes += 1;
+  s.coinsEarned += REWARD.finish + (total >= 5 && percent === 100 ? REWARD.perfect : 0)
+    + (mode === 'challenge' ? Math.floor((points || 0) / 500) : 0);
   if (total >= 10 && percent === 100) s.perfect += 1;
   if (total >= 10 && percent >= 80) s.excellent += 1;
   if (examId && subjectId) {
@@ -98,6 +133,7 @@ export function recordQuizEnd(stats, { examId, subjectId, score, total, mode, po
 export function recordRaceEnd(stats, { rank, players }) {
   const s = { ...emptyStats(), ...stats };
   s.races += 1;
+  s.coinsEarned += REWARD.race + (players >= 3 && rank === 1 ? REWARD.raceWin : players >= 3 && rank <= 3 ? REWARD.racePodium : 0);
   if (players >= 3 && rank === 1) s.raceWins += 1;
   if (players >= 3 && rank >= 1 && rank <= 3) s.racePodiums += 1;
   return s;

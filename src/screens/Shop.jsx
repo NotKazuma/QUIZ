@@ -1,0 +1,135 @@
+// Kedai & almari: ubah avatar (haiwan, warna, topi, cermin mata, baju, latar, bingkai) dan beli kuasa.
+import { useState } from 'react';
+import { motion } from 'motion/react';
+import AnimalAvatar from '../components/AnimalAvatar.jsx';
+import Emoji from '../components/Emoji.jsx';
+import { BackButton, PageHead } from '../components/ui.jsx';
+import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, SLOTS } from '../lib/shop.js';
+import { buyItem, buyPowerup, coins, owns, powerupCount } from '../lib/wallet.js';
+
+export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onBack, initialTab = 'avatar' }) {
+  const [tab, setTab] = useState(initialTab);       // 'avatar' | 'kuasa'
+  const [slot, setSlot] = useState('animal');
+  const [draft, setDraft] = useState({ ...DEFAULT_AVATAR, ...avatar });
+  const [flash, setFlash] = useState('');
+  const balance = coins(stats);
+  const dirty = JSON.stringify(draft) !== JSON.stringify({ ...DEFAULT_AVATAR, ...avatar });
+
+  function say(msg) {
+    setFlash(msg);
+    setTimeout(() => setFlash(''), 2200);
+  }
+
+  function buy(id, name, price) {
+    if (balance < price) return say(`Syiling tidak cukup — perlu ${price - balance} lagi.`);
+    if (!confirm(`Beli ${name} dengan ${price} syiling?`)) return false;
+    const next = buyItem(stats, id);
+    if (!next) return false;
+    onUpdateStats(next);
+    say(`${name} dibeli!`);
+    return true;
+  }
+
+  // Pilih barang dalam slot semasa (beli dahulu jika belum dimiliki).
+  function choose(id, name, price) {
+    if (!owns(stats, id) && !buy(id, name, price)) return;
+    if (slot === 'animal') {
+      const animal = ANIMALS.find(a => a.id === id);
+      setDraft(d => ({ ...d, animal: id, color: animal.colors.includes(d.color) ? d.color : animal.colors[0] }));
+    } else {
+      setDraft(d => ({ ...d, [slot]: d[slot] === id && slot !== 'background' ? null : id }));
+    }
+  }
+
+  function buyPower(p) {
+    if (balance < p.price) return say(`Syiling tidak cukup — perlu ${p.price - balance} lagi.`);
+    const next = buyPowerup(stats, p.id);
+    if (next) { onUpdateStats(next); say(`${p.name} ditambah!`); }
+  }
+
+  const animal = ANIMALS.find(a => a.id === draft.animal) || ANIMALS[0];
+  const options = slot === 'animal' ? ANIMALS
+    : slot === 'color' ? animal.colors.map(c => ({ id: c, name: c[0].toUpperCase() + c.slice(1), price: 0, color: true }))
+      : ITEMS.filter(i => i.slot === slot);
+
+  return (
+    <section className="screen shop">
+      <BackButton onClick={onBack} />
+      <PageHead badge="Kedai" title="Kedai & Almari" />
+
+      <div className="wallet-bar">
+        <span className="wallet-coins"><Emoji e="🪙" size="1.6rem" /> {balance.toLocaleString('ms-MY')}</span>
+        <span className="muted small">Dapatkan syiling dengan menjawab soalan, tamat latihan, lencana & perlumbaan.</span>
+      </div>
+
+      <div className="tabs" role="tablist">
+        <button role="tab" aria-selected={tab === 'avatar'} className={'tab' + (tab === 'avatar' ? ' is-active' : '')}
+          onClick={() => setTab('avatar')}><Emoji e="🐯" /> Avatar</button>
+        <button role="tab" aria-selected={tab === 'kuasa'} className={'tab' + (tab === 'kuasa' ? ' is-active' : '')}
+          onClick={() => setTab('kuasa')}><Emoji e="⚡" /> Kuasa</button>
+      </div>
+
+      {flash && <motion.p className="alert shop-flash" initial={{ y: -8, opacity: 0 }} animate={{ y: 0, opacity: 1 }}>{flash}</motion.p>}
+
+      {tab === 'avatar' ? (
+        <>
+          <div className="wardrobe-preview">
+            <motion.div key={JSON.stringify(draft)} initial={{ scale: 0.9 }} animate={{ scale: 1 }}
+              transition={{ type: 'spring', damping: 12, stiffness: 260 }}>
+              <AnimalAvatar avatar={draft} size={170} mood="cheer" />
+            </motion.div>
+            <button className="btn btn-primary" disabled={!dirty} onClick={() => onChangeAvatar(draft)}>
+              {dirty ? 'Pakai avatar ini' : 'Sedang dipakai'}
+            </button>
+          </div>
+
+          <div className="slot-tabs" role="tablist" aria-label="Bahagian avatar">
+            {SLOTS.map(s => (
+              <button key={s.id} role="tab" aria-selected={slot === s.id} className={'slot-tab' + (slot === s.id ? ' is-active' : '')}
+                onClick={() => setSlot(s.id)}>
+                <Emoji e={s.emoji} size="1.5rem" /><span>{s.label}</span>
+              </button>
+            ))}
+          </div>
+
+          <div className="item-grid">
+            {options.map(o => {
+              const mine = o.color || owns(stats, o.id);
+              const on = slot === 'animal' ? draft.animal === o.id : slot === 'color' ? draft.color === o.id : draft[slot] === o.id;
+              const preview = slot === 'animal' ? { ...draft, animal: o.id, color: o.colors[0] }
+                : slot === 'color' ? { ...draft, color: o.id }
+                  : { ...draft, [slot]: o.id };
+              return (
+                <button key={o.id} className={'item-card' + (on ? ' is-on' : '') + (mine ? '' : ' is-locked')}
+                  onClick={() => (slot === 'color' ? setDraft(d => ({ ...d, color: o.id })) : choose(o.id, o.name, o.price))}>
+                  <AnimalAvatar avatar={preview} size={78} />
+                  <span className="item-name">{o.name}</span>
+                  {mine
+                    ? <span className="item-tag">{on ? 'Dipakai' : 'Milik anda'}</span>
+                    : <span className="item-price"><Emoji e="🪙" /> {o.price}</span>}
+                </button>
+              );
+            })}
+          </div>
+        </>
+      ) : (
+        <div className="power-list">
+          {POWERUPS.map(p => (
+            <div key={p.id} className="card power-card">
+              <span className="power-icon"><Emoji e={p.emoji} size="2.2rem" /></span>
+              <span className="power-info">
+                <span className="power-name">{p.name}</span>
+                <span className="muted small">{p.desc}</span>
+                <span className="power-have">Dimiliki: {powerupCount(stats, p.id)}</span>
+              </span>
+              <button className="btn btn-orange btn-sm" onClick={() => buyPower(p)}>
+                <Emoji e="🪙" /> {p.price}
+              </button>
+            </div>
+          ))}
+          <p className="muted small">Kuasa digunakan dalam Cabaran & Perlumbaan. Anda juga boleh dapat kuasa percuma bila menjawab betul berturut-turut!</p>
+        </div>
+      )}
+    </section>
+  );
+}

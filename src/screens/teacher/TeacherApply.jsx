@@ -2,6 +2,7 @@
 import { useState } from 'react';
 import { BackButton, GlowButton, GoogleButton, PageHead, Reveal } from '../../components/ui.jsx';
 import { submitTeacherRequest } from '../../lib/firebase.js';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function TeacherApply({ user, request, onSubmitted, onLink, onBack }) {
   const [school, setSchool] = useState(request?.school || '');
@@ -29,7 +30,7 @@ export default function TeacherApply({ user, request, onSubmitted, onLink, onBac
       <PageHead badge="Cikgu" title="Saya seorang cikgu" />
 
       <Reveal className="card verify-card">
-        <p className="verify-title">⚡ Pengesahan automatik (disyorkan)</p>
+        <p className="verify-title"><Emoji e="⚡" /> Pengesahan automatik (disyorkan)</p>
         <p className="muted small">
           Log masuk dengan <b>akaun DELIMa guru</b> anda (bermula dengan <code>g-</code>, contohnya
           <code> g-12345678@moe-dl.edu.my</code>). Akaun ini disahkan terus oleh sistem dan Panel Cikgu akan dibuka serta-merta.
@@ -42,11 +43,11 @@ export default function TeacherApply({ user, request, onSubmitted, onLink, onBac
       </Reveal>
 
       <Reveal index={1} className="card verify-card">
-        <p className="verify-title">📝 Mohon kelulusan admin</p>
+        <p className="verify-title"><Emoji e="📝" /> Mohon kelulusan admin</p>
         {user.isGuest ? (
           <p className="muted small">Tiada akaun DELIMa? Pautkan akaun Google dahulu, kemudian hantar permohonan di sini.</p>
         ) : request?.status === 'pending' ? (
-          <p className="alert">⏳ Permohonan anda ({request.school}) sedang disemak oleh admin. Panel Cikgu akan muncul di halaman utama sebaik sahaja diluluskan.</p>
+          <p className="alert"><Emoji e="⏳" /> Permohonan anda ({request.school}) sedang disemak oleh admin. Panel Cikgu akan muncul di halaman utama sebaik sahaja diluluskan.</p>
         ) : (
           <form className="form-card flat" onSubmit={submit} noValidate>
             {request?.status === 'rejected' && (

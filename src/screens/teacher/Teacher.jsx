@@ -4,6 +4,7 @@ import { ActionCard, BackButton, GlowButton, PageHead, Reveal } from '../../comp
 import { createClass, listTeacherClasses } from '../../lib/classes.js';
 import ClassDetail from './ClassDetail.jsx';
 import MySets from './MySets.jsx';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function Teacher({ user, config, onBack, onHostRace }) {
   const [classes, setClasses] = useState(null);
@@ -52,9 +53,9 @@ export default function Teacher({ user, config, onBack, onHostRace }) {
       <PageHead badge="Cikgu" title="Panel Cikgu" />
       <div className="tabs" role="tablist">
         <button role="tab" aria-selected={tab === 'classes'} className={'tab' + (tab === 'classes' ? ' is-active' : '')}
-          onClick={() => setTab('classes')}>🏫 Kelas</button>
+          onClick={() => setTab('classes')}><Emoji e="🏫" /> Kelas</button>
         <button role="tab" aria-selected={tab === 'sets'} className={'tab' + (tab === 'sets' ? ' is-active' : '')}
-          onClick={() => setTab('sets')}>📝 Soalan saya</button>
+          onClick={() => setTab('sets')}><Emoji e="📝" /> Soalan saya</button>
       </div>
 
       {tab === 'sets' ? <MySets user={user} config={config} /> : <>

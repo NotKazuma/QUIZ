@@ -6,6 +6,7 @@ import { Icon, Progress, Reveal } from '../components/ui.jsx';
 import {
   KEYS_ARABIC, KEYS_RUMI, assetUrl, isArabicScript, scriptProps,
 } from '../lib/quiz.js';
+import Emoji from '../components/Emoji.jsx';
 
 const PRAISE = ['Hebat!', 'Syabas!', 'Tepat sekali!', 'Mantap!', 'Bagus!'];
 
@@ -66,7 +67,7 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
         <Progress value={progress} />
         {/* Markah bergolek seperti odometer (React Bits Counter) */}
         <span className={'score-pill' + (answered && correct ? ' bump' : '')} aria-label={'Markah ' + score}>
-          ⭐ <Counter value={score} places={score >= 100 ? [100, 10, 1] : score >= 10 ? [10, 1] : [1]} fontSize={17}
+          <Emoji e="⭐" /> <Counter value={score} places={score >= 100 ? [100, 10, 1] : score >= 10 ? [10, 1] : [1]} fontSize={17}
             padding={4} gap={0} horizontalPadding={0} fontWeight={900}
             gradientFrom="transparent" gradientTo="transparent" />
         </span>

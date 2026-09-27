@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import QuestionBank from '../../components/QuestionBank.jsx';
 import { loadSubjectDoc, saveSubjectDoc } from '../../lib/firebase.js';
 import { loadStaticQuestions, setCachedQuestions, subjectDocId } from '../../lib/quiz.js';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function AdminQuestions({ me, config }) {
   const exams = config?.exams || [];
@@ -89,7 +90,7 @@ export default function AdminQuestions({ me, config }) {
       {error && <p className="alert alert-warn">{error}</p>}
       {!questions ? <p className="alert">Memuatkan soalan…</p> : (
         <QuestionBank key={subject.id} questions={questions} saving={saving} onPersist={persist} newTemplate={newTemplate}
-          header={<p className="muted small">{fromCloud ? '☁️ Disunting dalam web (Firestore)' : '📄 Dari fail JSON asal'}</p>} />
+          header={<p className="muted small"><Emoji e={fromCloud ? '☁️' : '📄'} /> {fromCloud ? 'Disunting dalam web (Firestore)' : 'Dari fail JSON asal'}</p>} />
       )}
     </div>
   );

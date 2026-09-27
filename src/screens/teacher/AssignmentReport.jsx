@@ -4,6 +4,7 @@ import { BackButton, PageHead, Progress } from '../../components/ui.jsx';
 import { listSubmissions } from '../../lib/classes.js';
 import { loadQuestions } from '../../lib/quiz.js';
 import { dueLabel } from '../classes/HomeworkList.jsx';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function AssignmentReport({ cls, assignment: a, members, config, onBack }) {
   const [subs, setSubs] = useState(null);
@@ -39,7 +40,7 @@ export default function AssignmentReport({ cls, assignment: a, members, config, 
       <PageHead badge={cls.name} title={a.title} />
       <p className="muted small">
         {a.examName} · {a.subjectName}{a.year ? ' · ' + a.year : ''} · {a.questionIds.length} soalan ·{' '}
-        {a.mode === 'challenge' ? '⚡ Cabaran' : '✏️ Latihan'} · {dueLabel(a.dueAt)}
+        <Emoji e={a.mode === 'challenge' ? '⚡' : '✏️'} /> {a.mode === 'challenge' ? 'Cabaran' : 'Latihan'} · {dueLabel(a.dueAt)}
       </p>
 
       <div className="stats">
@@ -60,10 +61,10 @@ export default function AssignmentReport({ cls, assignment: a, members, config, 
                   Percubaan pertama <b>{r.sub.firstScore}/{r.sub.total}</b>
                   {r.sub.attempts > 1 && ` · terbaik ${r.sub.bestScore}/${r.sub.total} (${r.sub.attempts} kali)`}
                   {a.mode === 'challenge' && ` · ${r.sub.points} mata`}
-                  {r.sub.late && ' · ⏰ lewat'}
+                  {r.sub.late && <> · <Emoji e="⏰" /> lewat</>}
                 </span>
               </>
-            ) : <span className="user-stats">📌 Belum hantar</span>}
+            ) : <span className="user-stats"><Emoji e="📌" /> Belum hantar</span>}
           </div>
         ))}
         {!rows.length && <p className="alert">Tiada murid dalam kelas ini.</p>}

@@ -9,6 +9,7 @@ import { ActionCard, LinkReminder, Reveal } from '../components/ui.jsx';
 import { ACHIEVEMENTS } from '../lib/achievements.js';
 import HomeworkList from './classes/HomeworkList.jsx';
 import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
+import Emoji, { EmojiText } from '../components/Emoji.jsx';
 
 // Ikon emoji peperiksaan mengikut medan `icon` dalam config.json.
 const EXAM_EMOJI = { 'book-check': '📖', graduation: '🎓', book: '📚' };
@@ -92,8 +93,8 @@ export default function Home({
                       {p.done}/{p.total}
                     </span>
                   </span>
-                  <span className="exam-tile-icon" aria-hidden="true">{EXAM_EMOJI[exam.icon] || '📚'}</span>
-                  <span className="exam-tile-deco" aria-hidden="true">{EXAM_EMOJI[exam.icon] || '📚'}</span>
+                  <span className="exam-tile-icon" aria-hidden="true"><Emoji e={EXAM_EMOJI[exam.icon] || '📚'} size="2.6rem" /></span>
+                  <span className="exam-tile-deco" aria-hidden="true"><Emoji e={EXAM_EMOJI[exam.icon] || '📚'} size="7rem" /></span>
                 </button>
               </GlareHover>
             </Reveal>
@@ -132,9 +133,9 @@ export default function Home({
 function MiniTile({ color, emoji, title, desc, onClick }) {
   return (
     <button className={'mini-tile ' + color} onClick={onClick}>
-      <span className="mini-icon" aria-hidden="true">{emoji}</span>
+      <span className="mini-icon" aria-hidden="true"><Emoji e={emoji} size="1.7rem" /></span>
       <span className="mini-title">{title}</span>
-      <span className="mini-desc">{desc}</span>
+      <span className="mini-desc"><EmojiText>{desc}</EmojiText></span>
     </button>
   );
 }

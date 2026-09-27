@@ -11,6 +11,7 @@ import {
   deleteRace, endRace, leaveRace, ranking, startRace, updatePlayer, watchRace,
 } from '../../lib/race.js';
 import { Leaderboard, Podium } from './Leaderboard.jsx';
+import Emoji from '../../components/Emoji.jsx';
 
 const Celebration = lazy(() => import('../../components/Celebration.jsx'));
 
@@ -74,7 +75,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
   const header = (
     <div className="race-header">
       <button className="btn btn-ghost btn-icon" onClick={exit} aria-label="Keluar"><Icon name="x" /></button>
-      <span className="race-title">🏁 {race.examName} · {race.subjectName}</span>
+      <span className="race-title"><Emoji e="🏁" /> {race.examName} · {race.subjectName}</span>
       <span className="badge badge-secondary">PIN {pin}</span>
     </div>
   );
@@ -105,7 +106,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
             Mula perlumbaan ({total} soalan)
           </GlowButton>
         ) : (
-          <p className="alert waiting">⏳ Tunggu sebentar, hos akan mulakan perlumbaan.</p>
+          <p className="alert waiting"><Emoji e="⏳" /> Tunggu sebentar, hos akan mulakan perlumbaan.</p>
         )}
       </section>
     );
@@ -121,7 +122,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
         {myRank > 0 && myRank <= 3 && (
           <div className="race-balls" aria-hidden="true"><Suspense fallback={null}><Celebration /></Suspense></div>
         )}
-        <h2 className="race-end-title">{myRank === 1 ? '🏆 Anda juara!' : myRank ? `Anda tempat ke-${myRank}!` : 'Perlumbaan tamat!'}</h2>
+        <h2 className="race-end-title">{myRank === 1 ? <><Emoji e="🏆" /> Anda juara!</> : myRank ? `Anda tempat ke-${myRank}!` : 'Perlumbaan tamat!'}</h2>
         <Podium players={players} />
         <Leaderboard players={players} total={total} me={user.uid} />
         <button className="btn btn-primary btn-lg" onClick={exit}>{isHost ? 'Tutup perlumbaan' : 'Kembali'}</button>
@@ -139,7 +140,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd 
       ) : me && me.finished ? (
         <>
           <div className="card race-done">
-            <span className="pop-emoji">🏁</span>
+            <span className="pop-emoji"><Emoji e="🏁" size="3rem" /></span>
             <b>Selesai! {me.score.toLocaleString('ms-MY')} mata</b>
             <span className="muted small">Menunggu pemain lain…</span>
           </div>
@@ -213,11 +214,11 @@ function PlayRounds({ pin, user, me, questions, players }) {
       ) : (
         <motion.div className={'points-pop ' + (last.correct ? 'is-correct' : 'is-wrong')}
           initial={{ scale: 0.6, opacity: 0 }} animate={{ scale: 1, opacity: 1 }}>
-          <span className="pop-emoji">{last.correct ? '🎉' : last.timedOut ? '⏰' : '😅'}</span>
+          <span className="pop-emoji"><Emoji e={last.correct ? '🎉' : last.timedOut ? '⏰' : '😅'} size="3.2rem" /></span>
           <span className="pop-title">{last.correct ? 'Betul!' : last.timedOut ? 'Masa tamat!' : 'Salah'}</span>
           {last.correct ? <span className="pop-points">+{last.pts.total}</span>
             : <span className="pop-answer" dir="auto">Jawapan: {q.options[q.answer]}</span>}
-          {last.streak >= 2 && <span className="pop-bonus">🔥 {last.streak} berturut</span>}
+          {last.streak >= 2 && <span className="pop-bonus"><Emoji e="🔥" /> {last.streak} berturut</span>}
           <span className="pop-bonus">Kedudukan anda: #{rank}</span>
           {current + 1 < total && <button className="btn btn-lg race-next" onClick={next}>Seterusnya →</button>}
         </motion.div>

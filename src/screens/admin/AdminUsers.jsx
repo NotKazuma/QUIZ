@@ -4,6 +4,7 @@ import {
   decideTeacherRequest, deleteUserData, fetchTeacherRequests, fetchUsers, setUserRole,
 } from '../../lib/firebase.js';
 import { ADMIN_EMAILS, TEACHER_EMAIL_PATTERN } from '../../lib/roles.js';
+import Emoji from '../../components/Emoji.jsx';
 
 const activity = u => u.lastActive || u.updatedAt || '';
 const accuracy = u => (u.stats?.answered ? (u.stats.correct || 0) / u.stats.answered : -1);
@@ -154,12 +155,12 @@ export default function AdminUsers({ me }) {
 
       {requests.length > 0 && (
         <div className="requests">
-          <p className="section-title">🧑‍🏫 Permohonan cikgu ({requests.length})</p>
+          <p className="section-title"><Emoji e="🧑‍🏫" /> Permohonan cikgu ({requests.length})</p>
           {requests.map(r => (
             <div key={r.uid} className="card user-row request-row">
               <span className="user-name">{r.name}</span>
               <span className="user-email">{r.email}</span>
-              <span className="user-stats">🏫 {r.school}{r.note && ' · ' + r.note}</span>
+              <span className="user-stats"><Emoji e="🏫" /> {r.school}{r.note && ' · ' + r.note}</span>
               <span className="user-stats">Dihantar {new Date(r.at).toLocaleString('ms-MY', { dateStyle: 'medium', timeStyle: 'short' })}</span>
               <div className="user-actions">
                 <button className="btn btn-primary btn-sm" disabled={busy === r.uid} onClick={() => decide(r, true)}>✓ Luluskan</button>

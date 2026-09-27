@@ -7,6 +7,7 @@ import {
 import { dueLabel } from '../classes/HomeworkList.jsx';
 import AssignmentForm from './AssignmentForm.jsx';
 import AssignmentReport from './AssignmentReport.jsx';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHostRace }) {
   const [tab, setTab] = useState('students');
@@ -73,14 +74,14 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
       </button>
 
       {onHostRace && (
-        <button className="btn btn-outline btn-lg host-race-btn" onClick={() => onHostRace(cls)}>🏁 Hos perlumbaan untuk kelas ini</button>
+        <button className="btn btn-outline btn-lg host-race-btn" onClick={() => onHostRace(cls)}><Emoji e="🏁" /> Hos perlumbaan untuk kelas ini</button>
       )}
 
       <div className="tabs" role="tablist">
         <button role="tab" aria-selected={tab === 'students'} className={'tab' + (tab === 'students' ? ' is-active' : '')}
-          onClick={() => setTab('students')}>👩‍🎓 Murid ({members?.length ?? '…'})</button>
+          onClick={() => setTab('students')}><Emoji e="👩‍🎓" /> Murid ({members?.length ?? '…'})</button>
         <button role="tab" aria-selected={tab === 'homework'} className={'tab' + (tab === 'homework' ? ' is-active' : '')}
-          onClick={() => setTab('homework')}>📚 Kerja rumah ({assignments?.length ?? '…'})</button>
+          onClick={() => setTab('homework')}><Emoji e="📚" /> Kerja rumah ({assignments?.length ?? '…'})</button>
       </div>
 
       {tab === 'students' && (
@@ -115,7 +116,7 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
                           ))}
                         </ul>
                       ) : <p className="muted small">Belum menamatkan mana-mana latihan.</p>}
-                      <p className="muted small">🔥 Berturut terbaik {s.bestStreak || 0} · 💎 Mata tertinggi {s.bestPoints || 0} · 📅 {s.dayStreak || 0} hari berturut</p>
+                      <p className="muted small"><Emoji e="🔥" /> Berturut terbaik {s.bestStreak || 0} · <Emoji e="💎" /> Mata tertinggi {s.bestPoints || 0} · <Emoji e="📅" /> {s.dayStreak || 0} hari berturut</p>
                       <button className="btn btn-ghost btn-sm btn-danger" onClick={() => kick(m)}>Keluarkan dari kelas</button>
                     </div>
                   )}
@@ -136,7 +137,7 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
               {assignments.map(a => (
                 <div key={a.id} className="card user-row">
                   <button className="student-main" onClick={() => setView(a)}>
-                    <span className="user-name">{a.mode === 'challenge' ? '⚡' : '✏️'} {a.title}</span>
+                    <span className="user-name"><Emoji e={a.mode === 'challenge' ? '⚡' : '✏️'} /> {a.title}</span>
                     <span className="user-stats">{a.examName} · {a.subjectName}{a.year ? ' · ' + a.year : ''} · {a.questionIds.length} soalan</span>
                     <span className="user-stats">{dueLabel(a.dueAt)} · tekan untuk lihat keputusan</span>
                   </button>

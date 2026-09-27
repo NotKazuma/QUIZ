@@ -6,6 +6,7 @@ import {
   copyIntoSet, deleteSet, newSetQuestion, renameSet, saveSetQuestions,
 } from '../../lib/teacherSets.js';
 import OfficialPicker from './OfficialPicker.jsx';
+import Emoji from '../../components/Emoji.jsx';
 
 export default function SetDetail({ config, set, adminView, onBack, onChange, onDeleted }) {
   const [saving, setSaving] = useState(false);
@@ -82,8 +83,8 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
         </form>
       ) : (
         <div className="set-actions">
-          <button className="btn btn-outline" onClick={() => setPicking(true)}>📥 Salin dari bank rasmi</button>
-          <button className="btn btn-ghost" onClick={() => setRenaming(true)}>✏️ Tukar nama</button>
+          <button className="btn btn-outline" onClick={() => setPicking(true)}><Emoji e="📥" /> Salin dari bank rasmi</button>
+          <button className="btn btn-ghost" onClick={() => setRenaming(true)}><Emoji e="✏️" /> Tukar nama</button>
           <button className="btn btn-ghost btn-danger" onClick={remove}>Padam set</button>
         </div>
       )}

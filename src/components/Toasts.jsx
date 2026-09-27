@@ -3,6 +3,7 @@ import { useEffect, useRef } from 'react';
 import { AnimatePresence, motion } from 'motion/react';
 import ShinyText from './bits/ShinyText.jsx';
 import { GoogleButton } from './ui.jsx';
+import Emoji from './Emoji.jsx';
 
 function Toast({ toast, onClose, onLink }) {
   // Tutup sendiri selepas beberapa saat (pemasa tidak diset semula bila skrin dilukis semula).
@@ -26,7 +27,7 @@ function Toast({ toast, onClose, onLink }) {
     >
       {toast.type === 'info' ? (
         <>
-          <span className="toast-emoji" aria-hidden="true">{toast.emoji}</span>
+          <span className="toast-emoji" aria-hidden="true"><Emoji e={toast.emoji} size="2.4rem" /></span>
           <div className="toast-body">
             <p className="toast-title">{toast.title}</p>
             {toast.desc && <p className="toast-desc">{toast.desc}</p>}
@@ -37,7 +38,7 @@ function Toast({ toast, onClose, onLink }) {
           <motion.span className="toast-emoji" aria-hidden="true"
             initial={{ rotate: -30, scale: 0.4 }} animate={{ rotate: 0, scale: 1 }}
             transition={{ type: 'spring', damping: 8, stiffness: 200, delay: 0.1 }}>
-            {toast.achievement.emoji}
+            <Emoji e={toast.achievement.emoji} size="2.4rem" />
           </motion.span>
           <div className="toast-body">
             <p className="toast-kicker">
@@ -49,7 +50,7 @@ function Toast({ toast, onClose, onLink }) {
         </>
       ) : (
         <>
-          <span className="toast-emoji" aria-hidden="true">⚠️</span>
+          <span className="toast-emoji" aria-hidden="true"><Emoji e="⚠️" size="2.4rem" /></span>
           <div className="toast-body">
             <p className="toast-title">Jangan lupa simpan kemajuan!</p>
             <p className="toast-desc">Anda masih tetamu. Pautkan akaun Google supaya markah tidak hilang.</p>

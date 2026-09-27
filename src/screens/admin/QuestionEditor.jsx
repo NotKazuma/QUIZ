@@ -74,7 +74,7 @@ export default function QuestionEditor({ question, isNew, saving, onCancel, onSa
         <label className="field">
           <span className="field-label">Tahap</span>
           <select className="input" value={q.difficulty || 'sederhana'} onChange={e => set('difficulty', e.target.value)}>
-            {DIFFICULTY_ORDER.map(l => <option key={l} value={l}>{DIFFICULTY[l].emoji} {DIFFICULTY[l].label}</option>)}
+            {DIFFICULTY_ORDER.map(l => <option key={l} value={l}>{DIFFICULTY[l].label}</option>)}
           </select>
         </label>
       </div>

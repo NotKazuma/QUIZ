@@ -6,6 +6,7 @@ import Magnet from '../components/bits/Magnet.jsx';
 import Mascot from '../components/Mascot.jsx';
 import { BackButton } from '../components/ui.jsx';
 import { filterByYear, loadExamQuestions, yearOf } from '../lib/quiz.js';
+import Emoji from '../components/Emoji.jsx';
 
 // Emoji subjek ikut kata kunci id.
 const SUBJECT_EMOJI = [
@@ -78,7 +79,7 @@ export default function ExamPath({ exam, stats, onBack, onStart }) {
                     {pct > 0 && <circle className="value" cx="50" cy="50" r="46"
                       strokeDasharray={`${(pct / 100) * circ} ${circ}`} />}
                   </svg>
-                  <span aria-hidden="true">{n.status === 'done' ? '👑' : emojiFor(n.subject.id)}</span>
+                  <Emoji e={n.status === 'done' ? '👑' : emojiFor(n.subject.id)} size="2.3rem" />
                 </button>
               </Magnet>
               <span className="node-label">{n.subject.name}</span>
@@ -104,17 +105,17 @@ export default function ExamPath({ exam, stats, onBack, onStart }) {
               initial={{ y: '100%' }} animate={{ y: 0 }} exit={{ y: '100%' }}
               transition={{ type: 'spring', damping: 28, stiffness: 320 }}>
               <span className="sheet-grip" />
-              <span className="sheet-title">{emojiFor(open.subject.id)} {open.subject.name}</span>
+              <span className="sheet-title"><Emoji e={emojiFor(open.subject.id)} size="1.6rem" /> {open.subject.name}</span>
               <div className="sheet-meta">
                 <span>{open.questions.length} soalan</span>
                 <span>{year ? 'Tahun ' + year : 'Semua tahun'}</span>
                 {open.best !== undefined && <span>Terbaik {open.best}%</span>}
               </div>
               <button className="btn btn-primary btn-lg" onClick={() => onStart(open.subject, open.questions, 'practice', year)}>
-                ✏️ Latihan
+                <Emoji e="✏️" /> Latihan
               </button>
               <button className="btn btn-purple btn-lg" onClick={() => onStart(open.subject, open.questions, 'challenge', year)}>
-                ⚡ Cabaran (bermasa)
+                <Emoji e="⚡" /> Cabaran (bermasa)
               </button>
               <button className="btn btn-ghost" onClick={() => setOpen(null)}>Tutup</button>
             </motion.div>

@@ -3,6 +3,7 @@ import CountUp from '../components/bits/CountUp.jsx';
 import SplitText from '../components/bits/SplitText.jsx';
 import Mascot from '../components/Mascot.jsx';
 import { GlowButton, LinkReminder, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
+import Emoji from '../components/Emoji.jsx';
 
 const Celebration = lazy(() => import('../components/Celebration.jsx'));
 
@@ -35,19 +36,19 @@ export default function Result({ result, user, onLink, onRetry, onSubjects, onHo
         <div className="result-boxes">
           <div className="result-box c-yellow">
             <span>{challenge ? 'Mata' : 'XP'}</span>
-            <span>⚡ <CountUp to={challenge ? result.points : score * 10} duration={1.4} separator="," /></span>
+            <span><Emoji e="⚡" /> <CountUp to={challenge ? result.points : score * 10} duration={1.4} separator="," /></span>
           </div>
           <div className="result-box c-green">
             <span>Ketepatan</span>
-            <span>🎯 <CountUp to={percent} duration={1.2} />%</span>
+            <span><Emoji e="🎯" /> <CountUp to={percent} duration={1.2} />%</span>
           </div>
           <div className="result-box c-blue">
             <span>{challenge ? 'Berturut' : 'Betul'}</span>
-            <span>{challenge ? <>🔥 {result.bestStreak}</> : <>✅ {score}/{total}</>}</span>
+            <span>{challenge ? <><Emoji e="🔥" /> {result.bestStreak}</> : <><Emoji e="✅" /> {score}/{total}</>}</span>
           </div>
         </div>
         {challenge && result.redeem.tried > 0 && (
-          <p className="muted small">🎯 Soalan tebusan berjaya: {result.redeem.success}/{result.redeem.tried}</p>
+          <p className="muted small"><Emoji e="🎯" /> Soalan tebusan berjaya: {result.redeem.success}/{result.redeem.tried}</p>
         )}
       </div>
 

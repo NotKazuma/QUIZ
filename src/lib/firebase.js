@@ -179,7 +179,15 @@ export async function loadUserData(uid) {
   writeLocal(progressKey(uid), { stats, unlocked });
   const classes = remote?.classes ?? readLocal('kuiz.classes.' + uid) ?? [];
   writeLocal('kuiz.classes.' + uid, classes);
-  return { session, stats, unlocked, role: remote?.role ?? null, classes, teacherRequest: remote?.teacherRequest ?? null };
+  // Rupa (avatar & tetapan profil): yang terkini menang.
+  const localLook = readLocal('kuiz.look.' + uid);
+  const look = (remote?.lookUpdatedAt || '') > (localLook?.lookUpdatedAt || '')
+    ? { avatar: remote.avatar, prefs: remote.prefs, lookUpdatedAt: remote.lookUpdatedAt }
+    : localLook || {};
+  return {
+    session, stats, unlocked, role: remote?.role ?? null, classes, teacherRequest: remote?.teacherRequest ?? null,
+    avatar: look.avatar || null, prefs: look.prefs || {},
+  };
 }
 
 const pending = new Map(); // uid -> { timer, data }
@@ -304,4 +312,11 @@ export function decideTeacherRequest(uid, approve) {
   return updateDoc(doc(db, 'users', uid), approve
     ? { role: 'teacher', 'teacherRequest.status': 'approved' }
     : { 'teacherRequest.status': 'rejected' });
+}
+
+// Avatar & tetapan profil (nama paparan, gelaran, warna tema, profil awam).
+export function saveLook(uid, avatar, prefs) {
+  const data = { avatar, prefs, lookUpdatedAt: new Date().toISOString() };
+  writeLocal('kuiz.look.' + uid, data);
+  return queue(uid, data, true);
 }

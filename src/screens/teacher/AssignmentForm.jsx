@@ -5,6 +5,7 @@ import { BackButton, GlowButton, PageHead } from '../../components/ui.jsx';
 import { createAssignment } from '../../lib/classes.js';
 import { filterByYear, loadQuestions, objectiveOnly, shuffle, yearOf } from '../../lib/quiz.js';
 import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
+import Emoji from '../../components/Emoji.jsx';
 
 // Tarikh akhir lalai: 7 hari dari sekarang, jam 9 malam (format input datetime-local).
 function defaultDue() {
@@ -102,8 +103,8 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
             onChange={e => setTitle(e.target.value)} />
         </label>
         <div className="chips" role="radiogroup" aria-label="Sumber soalan">
-          <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}>📚 Bank rasmi</button>
-          <button type="button" className={'chip' + (source === 'set' ? ' is-active' : '')} onClick={() => setSource('set')}>📝 Set soalan saya</button>
+          <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}><Emoji e="📚" /> Bank rasmi</button>
+          <button type="button" className={'chip' + (source === 'set' ? ' is-active' : '')} onClick={() => setSource('set')}><Emoji e="📝" /> Set soalan saya</button>
         </div>
         {source === 'set' ? (
           sets === null ? <p className="muted small">Memuatkan set…</p> : !sets.length ? (
@@ -154,8 +155,8 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
           <label className="field">
             <span className="field-label">Mod</span>
             <select className="input" value={mode} onChange={e => setMode(e.target.value)}>
-              <option value="practice">✏️ Latihan (tiada masa)</option>
-              <option value="challenge">⚡ Cabaran (bermasa, mata)</option>
+              <option value="practice">Latihan (tiada masa)</option>
+              <option value="challenge">Cabaran (bermasa, mata)</option>
             </select>
           </label>
         </div>

@@ -4,11 +4,11 @@ import {
   loadConfig, loadQuestions, objectiveOnly, prepareQuestion, rebuildQuestions, shuffle,
 } from './lib/quiz.js';
 import {
-  authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveMyClasses, saveProfile, saveProgress,
+  authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveLook, saveMyClasses, saveProfile, saveProgress,
   saveSession,
   signOutUser, watchUser,
 } from './lib/firebase.js';
-import { emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd, recordRaceEnd } from './lib/achievements.js';
+import { REWARD, emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd, recordRaceEnd } from './lib/achievements.js';
 import { Avatar, GoogleButton, Icon, REDUCED_MOTION } from './components/ui.jsx';
 import ClickSpark from './components/bits/ClickSpark.jsx';
 import GradientText from './components/bits/GradientText.jsx';
@@ -17,6 +17,10 @@ import Dock from './components/bits/Dock.jsx';
 import Mascot from './components/Mascot.jsx';
 import Toasts from './components/Toasts.jsx';
 import Achievements from './screens/Achievements.jsx';
+import Profile from './screens/Profile.jsx';
+import Shop from './screens/Shop.jsx';
+import AnimalAvatar from './components/AnimalAvatar.jsx';
+import { claimDaily, coins, recordDressup, recordHomework } from './lib/wallet.js';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
 import { submitAssignment, updateMemberSummary } from './lib/classes.js';
@@ -32,9 +36,10 @@ import ExamPath from './screens/ExamPath.jsx';
 import Quiz from './screens/Quiz.jsx';
 import Challenge from './screens/Challenge.jsx';
 import Result from './screens/Result.jsx';
+import Emoji from './components/Emoji.jsx';
 
 // Skrin yang memaparkan bar navigasi bawah.
-const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result'];
+const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result', 'profile', 'shop'];
 
 // Tetamu diingatkan untuk pautkan Google setiap N soalan dijawab.
 const REMIND_EVERY = 10;
@@ -56,6 +61,9 @@ export default function App() {
   const [role, setRole] = useState(null);         // 'teacher' atau null (ditetapkan admin)
   const [myClasses, setMyClasses] = useState([]); // kelas yang disertai: [{ id, name, code }]
   const [teacherRequest, setTeacherRequest] = useState(null); // permohonan jadi cikgu (bukan DELIMa)
+  const [avatar, setAvatar] = useState(null);     // avatar haiwan pengguna
+  const [prefs, setPrefs] = useState({});        // nama paparan, gelaran, warna tema, profil awam
+  const [shopTab, setShopTab] = useState('avatar');
   const [assignment, setAssignment] = useState(null); // kerja rumah yang sedang dibuat
   const [raceClass, setRaceClass] = useState(null);   // kelas yang dipilih cikgu untuk perlumbaan
   const [toasts, setToasts] = useState([]);
@@ -100,6 +108,8 @@ export default function App() {
       setUnlocked(d.unlocked);
       setRole(d.role);
       setTeacherRequest(d.teacherRequest);
+      setAvatar(d.avatar);
+      setPrefs(d.prefs || {});
       setMyClasses((d.classes || []).map(c => (typeof c === 'string' ? { id: c, name: user.name } : c)));
       setDataReady(true);
     });
@@ -116,9 +126,11 @@ export default function App() {
   const dismissToast = useCallback(key => setToasts(list => list.filter(t => t.key !== key)), []);
 
   // Simpan statistik baharu dan buka pencapaian yang layak.
-  const updateStats = useCallback((next, currentUser = user) => {
+  const updateStats = useCallback((nextStats, currentUser = user) => {
+    let next = nextStats;
     if (!currentUser) return;
     const fresh = newlyUnlocked(next, unlockedRef.current, { config, user: currentUser });
+    if (fresh.length) next = { ...next, coinsEarned: (next.coinsEarned || 0) + fresh.length * REWARD.achievement };
     const now = new Date().toISOString();
     const nextUnlocked = { ...unlockedRef.current };
     fresh.forEach(a => { nextUnlocked[a.id] = now; });
@@ -129,6 +141,28 @@ export default function App() {
     saveProgress(currentUser.uid, next, nextUnlocked, fresh.length > 0);
     fresh.forEach(a => pushToast({ type: 'achievement', achievement: a }));
   }, [config, user, pushToast]);
+
+  // Hadiah log masuk harian (sekali sehari).
+  useEffect(() => {
+    if (!user || !dataReady) return;
+    const next = claimDaily(statsRef.current);
+    if (next) {
+      updateStats(next);
+      pushToast({ type: 'info', emoji: '🎁', title: `Hadiah harian: +${REWARD.daily} syiling!`, desc: 'Datang lagi esok untuk hadiah seterusnya.' });
+    }
+  }, [user?.uid, dataReady]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  function changeAvatar(next) {
+    setAvatar(next);
+    saveLook(user.uid, next, prefs);
+    updateStats(recordDressup(statsRef.current));
+    pushToast({ type: 'info', emoji: '✨', title: 'Avatar baharu dipakai!' });
+  }
+
+  function savePrefs(next) {
+    setPrefs(next);
+    saveLook(user.uid, avatar, next);
+  }
 
   // Simpan profil (nama/emel) untuk senarai admin & laporan cikgu; dikemas kini bila akaun dipautkan.
   useEffect(() => {
@@ -260,7 +294,10 @@ export default function App() {
     if (assignment) {
       const cls = myClasses.find(c => c.id === assignment.classId);
       submitAssignment(assignment, user, cls?.name || user.name, r)
-        .then(() => pushToast({ type: 'info', emoji: '📬', title: 'Kerja rumah dihantar!', desc: assignment.title }))
+        .then(() => {
+          updateStats(recordHomework(statsRef.current));
+          pushToast({ type: 'info', emoji: '📬', title: `Kerja rumah dihantar! +${REWARD.homework} syiling`, desc: assignment.title });
+        })
         .catch(() => alert('Kerja rumah gagal dihantar. Semak sambungan internet dan cuba lagi.'));
       setAssignment(null);
     }
@@ -323,9 +360,11 @@ export default function App() {
           </span>
           {loggedIn && (
             <div className="hud" aria-label="Statistik anda">
-              <span className="hud-item hud-fire" title="Hari berturut-turut"><span className="hud-emoji">🔥</span>{stats.dayStreak || 0}</span>
-              <span className="hud-item hud-xp" title="XP (10 setiap jawapan betul)"><span className="hud-emoji">⚡</span>{(stats.correct || 0) * 10}</span>
-              <span className="hud-item hud-trophy" title="Lencana"><span className="hud-emoji">🏆</span>{Object.keys(unlocked).length}</span>
+              <span className="hud-item hud-fire" title="Hari berturut-turut"><Emoji e="🔥" size="1.35rem" />{stats.dayStreak || 0}</span>
+              <span className="hud-item hud-xp" title="XP (10 setiap jawapan betul)"><Emoji e="⚡" size="1.35rem" />{(stats.correct || 0) * 10}</span>
+              <button className="hud-item hud-coins" title="Syiling — tekan untuk ke kedai" onClick={() => { setShopTab('avatar'); go('shop'); }}>
+                <Emoji e="🪙" size="1.35rem" />{coins(stats)}
+              </button>
             </div>
           )}
           {user && (
@@ -335,10 +374,10 @@ export default function App() {
                   Simpan
                 </GoogleButton>
               )}
-              <span className="profile-chip" title={user.email || user.name}>
-                <Avatar user={user} size={28} />
-                <span className="profile-name">{user.name}</span>
-              </span>
+              <button className="profile-chip" title="Profil saya" onClick={() => go('profile')}>
+                {dataReady ? <AnimalAvatar avatar={avatar} size={34} /> : <Avatar user={user} size={28} />}
+                <span className="profile-name">{prefs.displayName || user.name}</span>
+              </button>
               <button className="btn btn-ghost btn-icon" onClick={logout} aria-label="Log keluar" title="Log keluar">
                 <Icon name="logout" />
               </button>
@@ -388,6 +427,17 @@ export default function App() {
         {loggedIn && screen === 'admin' && isAdmin(user) && (
           <Admin user={user} config={config} onBack={() => go('home')} />
         )}
+        {loggedIn && screen === 'profile' && (
+          <Profile user={user} stats={stats} unlocked={unlocked} avatar={avatar} prefs={prefs}
+            onSavePrefs={savePrefs} onLink={link} onBack={() => go('home')}
+            onWardrobe={() => { setShopTab('avatar'); go('shop'); }}
+            onShop={() => { setShopTab('kuasa'); go('shop'); }}
+            onAchievements={() => go('achievements')} />
+        )}
+        {loggedIn && screen === 'shop' && (
+          <Shop key={shopTab} stats={stats} avatar={avatar} initialTab={shopTab}
+            onUpdateStats={next => updateStats(next)} onChangeAvatar={changeAvatar} onBack={() => go('profile')} />
+        )}
         {loggedIn && screen === 'achievements' && (
           <Achievements user={user} config={config} stats={stats} unlocked={unlocked}
             onBack={() => go('home')} onLink={link} />
@@ -430,11 +480,12 @@ export default function App() {
         <nav className="bottom-nav" aria-label="Navigasi utama">
           <Dock panelHeight={64} baseItemSize={48} magnification={62} distance={140}
             items={[
-              { icon: '🏠', label: 'Utama', onClick: () => go('home'), className: screen === 'home' || screen === 'path' ? 'is-active' : '' },
-              { icon: '🏁', label: 'Lumba', onClick: () => { setRaceClass(null); go('race'); }, className: screen === 'race' ? 'is-active' : '' },
-              { icon: '🏫', label: 'Kelas', onClick: () => go('classes'), className: screen === 'classes' ? 'is-active' : '' },
-              { icon: '🏆', label: 'Lencana', onClick: () => go('achievements'), className: screen === 'achievements' ? 'is-active' : '' },
-              ...(isTeacher(user, role) ? [{ icon: '🧑‍🏫', label: 'Cikgu', onClick: () => go('teacher'), className: screen === 'teacher' ? 'is-active' : '' }] : []),
+              { icon: <Emoji e="🏠" size="30px" />, label: 'Utama', onClick: () => go('home'), className: screen === 'home' || screen === 'path' ? 'is-active' : '' },
+              { icon: <Emoji e="🏁" size="30px" />, label: 'Lumba', onClick: () => { setRaceClass(null); go('race'); }, className: screen === 'race' ? 'is-active' : '' },
+              { icon: <Emoji e="🏫" size="30px" />, label: 'Kelas', onClick: () => go('classes'), className: screen === 'classes' ? 'is-active' : '' },
+              { icon: <Emoji e="🛍️" size="30px" />, label: 'Kedai', onClick: () => { setShopTab('avatar'); go('shop'); }, className: screen === 'shop' ? 'is-active' : '' },
+              { icon: <AnimalAvatar avatar={avatar} size={40} />, label: 'Profil', onClick: () => go('profile'), className: screen === 'profile' || screen === 'achievements' ? 'is-active' : '' },
+              ...(isTeacher(user, role) ? [{ icon: <Emoji e="🧑‍🏫" size="30px" />, label: 'Cikgu', onClick: () => go('teacher'), className: screen === 'teacher' ? 'is-active' : '' }] : []),
             ]} />
         </nav>
       )}

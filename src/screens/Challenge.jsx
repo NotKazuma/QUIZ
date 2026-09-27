@@ -10,6 +10,7 @@ import {
   DIFFICULTY, DIFFICULTY_ORDER, pickRedeem, pointsFor, redeemAvailability, timeFor,
 } from '../lib/challenge.js';
 import { prepareQuestion } from '../lib/quiz.js';
+import Emoji from '../components/Emoji.jsx';
 
 export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish }) {
   const [current, setCurrent] = useState(0);
@@ -98,7 +99,7 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
         </span>
         {streak >= 2 && (
           <motion.span key={streak} className="hud-streak" initial={{ scale: 0.4 }} animate={{ scale: 1 }}>
-            🔥 {streak} berturut
+            <Emoji e="🔥" /> {streak} berturut
           </motion.span>
         )}
       </div>
@@ -114,12 +115,12 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
             <GlowButton className="glow-lg" onClick={next}>{current < total - 1 ? 'Seterusnya' : 'Lihat keputusan'}</GlowButton>
           ) : (
             <div className="redeem-choose">
-              <p className="redeem-title">🎯 Tebus markah! Pilih soalan tebusan:</p>
+              <p className="redeem-title"><Emoji e="🎯" /> Tebus markah! Pilih soalan tebusan:</p>
               <div className="redeem-options">
                 {DIFFICULTY_ORDER.map(level => (
                   <button key={level} className={'redeem-card level-' + level}
                     disabled={!available[level]} onClick={() => startRedeem(level)}>
-                    <span className="redeem-emoji" aria-hidden="true">{DIFFICULTY[level].emoji}</span>
+                    <span className="redeem-emoji" aria-hidden="true"><Emoji e={DIFFICULTY[level].emoji} size="2rem" /></span>
                     <span className="redeem-level">{DIFFICULTY[level].label}</span>
                     <span className="redeem-points">+{DIFFICULTY[level].redeem}</span>
                     {!available[level] && <span className="redeem-none">Habis</span>}
@@ -135,7 +136,7 @@ export default function Challenge({ questions, pool, onAnswer, onQuit, onFinish 
       {phase === 'redeem' && redeem && (
         <>
           <div className={'redeem-banner level-' + redeem.level}>
-            🎯 Soalan tebusan · {DIFFICULTY[redeem.level].label} · +{DIFFICULTY[redeem.level].redeem} mata
+            <Emoji e="🎯" /> Soalan tebusan · {DIFFICULTY[redeem.level].label} · +{DIFFICULTY[redeem.level].redeem} mata
           </div>
           <QuestionRound key={'r' + current} question={redeem.question} limitSec={timeFor(redeem.question)}
             onAnswered={redeemAnswered} eyebrow="Soalan tebusan"
@@ -160,7 +161,7 @@ function placesFor(n) {
 
 export function DifficultyBadge({ level = 'sederhana' }) {
   const d = DIFFICULTY[level] || DIFFICULTY.sederhana;
-  return <span className={'difficulty level-' + level}>{d.emoji} {d.label}</span>;
+  return <span className={'difficulty level-' + level}><Emoji e={d.emoji} /> {d.label}</span>;
 }
 
 // Paparan selepas menjawab: mata diperoleh (atau salah) + penerangan.
@@ -173,14 +174,14 @@ function Feedback({ result, question, redeemed, children }) {
         transition={{ type: 'spring', damping: 12, stiffness: 260 }}>
         {correct ? (
           <ClickSpark sparkColor="#fcd34d" sparkSize={14} sparkRadius={60} sparkCount={14} duration={700}>
-            <span className="pop-emoji" aria-hidden="true">{redeemed ? '🎯' : '🎉'}</span>
+            <span className="pop-emoji" aria-hidden="true"><Emoji e={redeemed ? '🎯' : '🎉'} size="3.2rem" /></span>
             <span className="pop-title">{redeemed ? 'Berjaya ditebus!' : 'Betul!'}</span>
             <span className="pop-points">+{pts.total}</span>
-            {pts.bonus > 0 && <span className="pop-bonus">termasuk bonus berturut +{pts.bonus} 🔥</span>}
+            {pts.bonus > 0 && <span className="pop-bonus">termasuk bonus berturut +{pts.bonus} <Emoji e="🔥" /></span>}
           </ClickSpark>
         ) : (
           <>
-            <span className="pop-emoji" aria-hidden="true">{timedOut ? '⏰' : '😅'}</span>
+            <span className="pop-emoji" aria-hidden="true"><Emoji e={timedOut ? '⏰' : '😅'} size="3.2rem" /></span>
             <span className="pop-title">{timedOut ? 'Masa tamat!' : redeemed ? 'Belum berjaya' : 'Salah'}</span>
             <span className="pop-answer" dir="auto">Jawapan betul: {question.options[question.answer]}</span>
           </>

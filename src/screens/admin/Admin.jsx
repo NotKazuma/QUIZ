@@ -4,6 +4,7 @@ import { BackButton, PageHead } from '../../components/ui.jsx';
 import AdminQuestions from './AdminQuestions.jsx';
 import AdminUsers from './AdminUsers.jsx';
 import MySets from '../teacher/MySets.jsx';
+import { EmojiText } from '../../components/Emoji.jsx';
 
 const TABS = [
   { id: 'users', label: '👥 Pengguna' },
@@ -21,7 +22,7 @@ export default function Admin({ user, config, onBack }) {
         {TABS.map(t => (
           <button key={t.id} role="tab" aria-selected={tab === t.id}
             className={'tab' + (tab === t.id ? ' is-active' : '')} onClick={() => setTab(t.id)}>
-            {t.label}
+            <EmojiText>{t.label}</EmojiText>
           </button>
         ))}
       </div>

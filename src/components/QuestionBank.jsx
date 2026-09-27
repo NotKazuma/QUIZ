@@ -5,6 +5,7 @@ import { DifficultyBadge } from '../screens/Challenge.jsx';
 import QuestionEditor from '../screens/admin/QuestionEditor.jsx';
 import { DIFFICULTY, DIFFICULTY_ORDER } from '../lib/challenge.js';
 import { yearOf } from '../lib/quiz.js';
+import Emoji, { EmojiText } from './Emoji.jsx';
 
 const SORTS = [
   { id: 'asal', label: 'Susunan asal' },
@@ -131,11 +132,11 @@ export default function QuestionBank({
           onChange={e => setSearch(e.target.value)} />
         <select className="input" value={level} onChange={e => setLevel(e.target.value)} aria-label="Tapis tahap">
           <option value="">Semua tahap</option>
-          {DIFFICULTY_ORDER.map(l => <option key={l} value={l}>{DIFFICULTY[l].emoji} {DIFFICULTY[l].label}</option>)}
+          {DIFFICULTY_ORDER.map(l => <option key={l} value={l}>{DIFFICULTY[l].label}</option>)}
         </select>
         <select className="input" value={review} onChange={e => setReview(e.target.value)} aria-label="Tapis semakan">
           <option value="">Semua status</option>
-          <option value="perlu">⚠️ Perlu semak</option>
+          <option value="perlu">Perlu semak</option>
           <option value="siap">✓ Sudah disemak</option>
         </select>
         <select className="input" value={type} onChange={e => setType(e.target.value)} aria-label="Tapis jenis">
@@ -172,7 +173,7 @@ export default function QuestionBank({
           {extraBulk.map(a => (
             <button key={a.label} className="btn btn-primary btn-sm" disabled={saving}
               onClick={async () => { if (await a.onRun(selectedList)) setSelected(new Set()); }}>
-              {a.label}
+              <EmojiText>{a.label}</EmojiText>
             </button>
           ))}
           {editable && (
@@ -182,7 +183,7 @@ export default function QuestionBank({
               <select className="input input-sm" value={bulkLevel} disabled={saving} aria-label="Tukar tahap"
                 onChange={e => { const v = e.target.value; setBulkLevel(''); if (v) bulkUpdate({ difficulty: v }, `Tukar tahap ke ${DIFFICULTY[v].label}`); }}>
                 <option value="">Tukar tahap…</option>
-                {DIFFICULTY_ORDER.map(l => <option key={l} value={l}>{DIFFICULTY[l].emoji} {DIFFICULTY[l].label}</option>)}
+                {DIFFICULTY_ORDER.map(l => <option key={l} value={l}>{DIFFICULTY[l].label}</option>)}
               </select>
               <button className="btn btn-ghost btn-sm btn-danger" disabled={saving} onClick={bulkDelete}>Padam</button>
             </>
@@ -210,7 +211,7 @@ export default function QuestionBank({
                   {q.type === 'objektif' && (
                     <span className={'q-row-answer' + (rtl ? ' script-arabic' : '')} dir={rtl ? 'rtl' : 'auto'}>✓ {q.options[q.answer]}</span>
                   )}
-                  {q.perlu_semak && q.nota_semak && <span className="q-row-note">⚠️ {q.nota_semak}</span>}
+                  {q.perlu_semak && q.nota_semak && <span className="q-row-note"><Emoji e="⚠️" /> {q.nota_semak}</span>}
                 </button>
               </div>
               {editable && q.perlu_semak && (

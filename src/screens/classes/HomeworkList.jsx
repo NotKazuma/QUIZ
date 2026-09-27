@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react';
 import { ActionCard, Reveal } from '../../components/ui.jsx';
 import { getMySubmission, listAssignments } from '../../lib/classes.js';
+import { EmojiText } from '../../components/Emoji.jsx';
 
 export async function loadHomework(uid, myClasses) {
   const perClass = await Promise.all(myClasses.map(c => listAssignments(c.id).catch(() => [])));
@@ -33,7 +34,7 @@ export default function HomeworkList({ user, myClasses, onStart, limit, emptyTex
 
   if (!items) return <p className="alert">Memuatkan kerja rumah…</p>;
   const shown = limit ? items.filter(a => !a.submission).slice(0, limit) : items;
-  if (!shown.length) return limit ? null : <p className="alert">{emptyText}</p>;
+  if (!shown.length) return limit ? null : <p className="alert"><EmojiText>{emptyText}</EmojiText></p>;
 
   return (
     <div className="card-list">
