@@ -52,6 +52,26 @@ await expect('pemain baharu sertai selepas tamat', false, () => set(r(p2, `/play
 await expect('pemain padam perlumbaan', false, () => remove(r(p1)));
 await expect('hos padam perlumbaan', true, () => remove(r(host)));
 
-for (const c of [host, p1, p2, anon]) await deleteApp(c.app);
+console.log('--- bilik permainan arked');
+const gpin = String(100000 + Math.floor(Math.random() * 899999));
+const g = (c, path = '') => ref(c.db, `games/${gpin}${path}`);
+const outsider = await client();
+await expect('cipta bilik atas nama orang lain', false, () => set(g(p1), { hostUid: host.uid, status: 'lobby', type: 'ular' }));
+await expect('cipta bilik tanpa jenis', false, () => set(g(host), { hostUid: host.uid, status: 'lobby' }));
+await expect('hos cipta bilik', true, () => set(g(host), { hostUid: host.uid, status: 'lobby', type: 'ular' }));
+await expect('pemain sertai (nod sendiri)', true, () => set(g(p1, `/players/${p1.uid}`), { name: 'Ali', joinedAt: 1 }));
+await expect('pemain tulis nod orang lain', false, () => set(g(p1, `/players/${p2.uid}`), { name: 'Hack' }));
+await expect('pemain tulis keadaan sebelum bermula', false, () => update(g(p1, '/state'), { turn: 1 }));
+await expect('pemain mulakan permainan', false, () => update(g(p1), { status: 'playing' }));
+await expect('hos mulakan permainan', true, () => update(g(host), { status: 'playing', state: { turn: 0 } }));
+await expect('pemain dalam bilik kemas kini keadaan', true, () => update(g(p1, '/state'), { turn: 1, 'pos/x': 5 }));
+await expect('orang luar kemas kini keadaan', false, () => update(g(outsider, '/state'), { turn: 0 }));
+await expect('pemain tukar status selain tamat', false, () => set(g(p1, '/status'), 'lobby'));
+await expect('pemain tamatkan permainan (menang)', true, () => set(g(p1, '/status'), 'ended'));
+await expect('pemain tulis keadaan selepas tamat', false, () => update(g(p1, '/state'), { turn: 0 }));
+await expect('pemain padam bilik', false, () => remove(g(p1)));
+await expect('hos padam bilik', true, () => remove(g(host)));
+
+for (const c of [host, p1, p2, anon, outsider]) await deleteApp(c.app);
 console.log(failed ? `\n${failed} ujian GAGAL` : '\nSemua ujian lulus');
 process.exit(failed ? 1 : 0);

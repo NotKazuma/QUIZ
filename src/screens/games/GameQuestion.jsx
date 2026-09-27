@@ -6,6 +6,7 @@ import Emoji, { EmojiText } from '../../components/Emoji.jsx';
 import { DifficultyBadge } from '../Challenge.jsx';
 import { timeFor } from '../../lib/challenge.js';
 
+
 // onDone(correct) dipanggil selepas pemain tekan "Teruskan".
 export default function GameQuestion({ question: q, eyebrow, onAnswer, onDone, winText = 'Betul!', loseText = 'Salah' }) {
   const [result, setResult] = useState(null);
@@ -27,7 +28,9 @@ export default function GameQuestion({ question: q, eyebrow, onAnswer, onDone, w
     );
   }
   return (
-    <QuestionRound question={q} limitSec={timeFor(q)} onAnswered={answered}
-      eyebrow={eyebrow || `${q.exam || ''} · ${q.subject || ''}`} badge={<DifficultyBadge level={q.difficulty} />} />
+    <>
+      <QuestionRound question={q} limitSec={timeFor(q)} onAnswered={answered}
+        eyebrow={eyebrow || `${q.exam || ''} · ${q.subject || ''}`} badge={<DifficultyBadge level={q.difficulty} />} />
+    </>
   );
 }

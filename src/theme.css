@@ -887,11 +887,12 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .turn-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-left: auto; }
 .turn-pill { display: inline-flex; align-items: center; gap: 4px; padding: 3px 10px 3px 3px; border-radius: 999px; border: 2px solid var(--pc); background: var(--card); font-weight: 900; }
 .turn-pill.is-turn { background: var(--pc); color: #fff; box-shadow: 0 3px 0 color-mix(in srgb, var(--pc) 70%, black); }
-.snake-board { position: relative; width: 100%; max-width: 520px; margin: 0 auto 12px; aspect-ratio: 1; border-radius: 20px; overflow: hidden; border: 3px solid #b07a3c; box-shadow: 0 6px 0 #7a5226; }
+.snake-board { position: relative; width: 100%; max-width: 520px; margin: 0 auto 12px; aspect-ratio: 1; border-radius: 20px; overflow: hidden; border: 3px solid var(--sborder, #b07a3c); box-shadow: 0 6px 0 var(--sshade, #7a5226); }
 .snake-grid { position: absolute; inset: 0; display: grid; grid-template-columns: repeat(6, 1fr); grid-template-rows: repeat(6, 1fr); }
-.snake-cell { display: flex; align-items: flex-start; justify-content: flex-start; padding: 3px 5px; font-weight: 900; font-size: 0.72rem; color: rgb(0 0 0 / 0.45); }
-.snake-cell { background: #fff4d6; }
-.snake-cell.is-odd { background: #ffe3a3; }
+.snake-cell { position: relative; display: flex; align-items: flex-start; justify-content: flex-start; padding: 3px 5px; font-weight: 900; font-size: 0.72rem; color: var(--stext, rgb(0 0 0 / 0.45)); }
+.snake-special { position: absolute; inset: 0; display: grid; place-items: center; opacity: 0.9; }
+.snake-cell { background: var(--sa, #fff4d6); }
+.snake-cell.is-odd { background: var(--sb, #ffe3a3); }
 .snake-cell.is-goal { background: #b8f28a !important; font-size: 1.1rem; }
 .snake-art { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; stroke: none; } /* jangan warisi garisan svg global */
 .snake-art .ladder line { stroke: #8b5a2b; stroke-width: 0.07; stroke-linecap: round; }
@@ -954,3 +955,54 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .duel-card-power { padding: 2px 8px; border-radius: 999px; background: rgb(0 0 0 / 0.25); font-weight: 900; font-size: 0.8rem; }
 .duel-card:disabled { opacity: 0.6; }
 @media (prefers-reduced-motion: reduce) { .dice-cube, .mem-inner { transition: none; } .pawn.is-turn { animation: none; } }
+
+/* ===== Permainan dalam talian ===== */
+.join-room { margin-bottom: 14px; }
+.join-row { display: flex; gap: 8px; }
+.join-row .input { flex: 1; min-width: 0; }
+.play-option {
+  display: flex; align-items: center; gap: 14px; width: 100%; padding: 14px; text-align: start; font: inherit; color: var(--foreground); cursor: pointer;
+  background: var(--card); border: 2px solid var(--border); border-radius: 18px; box-shadow: 0 4px 0 var(--border);
+}
+.play-option > span { display: grid; gap: 2px; }
+.play-option b { font-weight: 900; font-size: 1.05rem; }
+.play-option > span > span { font-size: 0.82rem; font-weight: 700; color: var(--muted-foreground); }
+.play-option.is-online { border-color: var(--blue); background: var(--blue-soft); box-shadow: 0 4px 0 var(--blue); }
+.play-option:active { transform: translateY(4px); box-shadow: none; }
+.lobby-chip-avatar { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px 4px 4px; }
+.online-pills { margin: 0 0 10px; justify-content: center; }
+.memory-score { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin-bottom: 8px; }
+.duel-sub { text-align: center; margin: -6px 0 10px; }
+.duel-hand.is-waiting, .memory-grid.is-waiting { opacity: 0.75; }
+.fighter.is-active .fighter-name { color: var(--pc); }
+.fighter.is-active .fighter-art .animal-avatar { box-shadow: 0 0 0 4px var(--pc); border-radius: 50%; }
+.online-padanan .mem-card.is-matched .mem-front { border-color: var(--mc); box-shadow: 0 4px 0 var(--mc); }
+.skip-turn { display: block; margin: 10px auto 0; }
+.board-theme { text-align: center; margin: -4px 0 10px; }
+
+.duel-card.is-special { border-style: dashed; animation: specialGlow 1.6s ease-in-out infinite; }
+@keyframes specialGlow { 50% { box-shadow: 0 6px 0 color-mix(in srgb, var(--cc) 50%, black), 0 0 18px var(--cc); } }
+.duel-card-power { text-align: center; }
+.fighter-art .fighter-shield { position: absolute; right: -6px; bottom: 0; }
+@media (prefers-reduced-motion: reduce) { .duel-card.is-special { animation: none; } }
+
+.mem-back.back-1 { background: repeating-linear-gradient(45deg, #1cb0f6 0 10px, #45c0f8 10px 20px); box-shadow: 0 4px 0 #1287bf; }
+.mem-back.back-2 { background: radial-gradient(circle at 30% 30%, #4b3a9e, #231552); box-shadow: 0 4px 0 #150c38; }
+.mem-back.back-3 { background: repeating-linear-gradient(-45deg, #ff7eb6 0 10px, #ffa6cc 10px 20px); box-shadow: 0 4px 0 #c24d82; }
+.power-hint { text-align: center; margin: -4px 0 8px; }
+
+/* ===== Kad kuasa permainan ===== */
+.pcards { margin: 0 0 12px; }
+.pcards-title { display: block; font-weight: 900; font-size: 0.8rem; color: var(--muted-foreground); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 6px; }
+.pcards-row { display: flex; gap: 8px; overflow-x: auto; padding: 2px 2px 8px; scrollbar-width: none; }
+.pcard {
+  flex: 0 0 104px; display: grid; justify-items: center; gap: 2px; padding: 8px 6px; text-align: center; font: inherit; cursor: pointer;
+  color: var(--foreground); background: color-mix(in srgb, var(--pc) 14%, var(--card));
+  border: 2px solid var(--pc); border-radius: 14px; box-shadow: 0 4px 0 color-mix(in srgb, var(--pc) 70%, black);
+}
+.pcard b { font-size: 0.78rem; font-weight: 900; line-height: 1.15; }
+.pcard span { font-size: 0.64rem; font-weight: 700; color: var(--muted-foreground); line-height: 1.2; }
+.pcard:disabled { opacity: 0.45; cursor: not-allowed; }
+.pcards-empty { padding: 8px 0; }
+@media (hover: hover) and (pointer: fine) { .pcards-row { flex-wrap: wrap; overflow-x: visible; } }
+.pill-cards { display: inline-flex; align-items: center; gap: 1px; font-size: 0.75rem; }

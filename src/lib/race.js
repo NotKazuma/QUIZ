@@ -20,7 +20,8 @@ const EMULATOR = import.meta.env.VITE_FIREBASE_EMULATOR;
 export const raceReady = Boolean(EMULATOR || firebaseConfig.databaseURL);
 
 let rtdb = null;
-function db() {
+// Sambungan Realtime Database (dikongsi dengan bilik permainan arked — lihat gameRoom.js).
+export function db() {
   if (!rtdb) {
     const app = getFirebaseApp();
     if (EMULATOR) {
