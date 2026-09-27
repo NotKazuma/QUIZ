@@ -1,19 +1,24 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import BlurText from '../components/bits/BlurText.jsx';
 import ClickSpark from '../components/bits/ClickSpark.jsx';
 import Counter from '../components/bits/Counter.jsx';
 import { Badge, GlowButton, Icon, Progress, Reveal } from '../components/ui.jsx';
 import {
-  KEYS_ARABIC, KEYS_RUMI, assetUrl, isArabicScript, prepareQuestion, scriptProps, shuffle,
+  KEYS_ARABIC, KEYS_RUMI, assetUrl, isArabicScript, scriptProps,
 } from '../lib/quiz.js';
 
-export default function Quiz({ questions, onQuit, onFinish }) {
-  // Kocok soalan dan pilihan sekali sahaja bagi setiap sesi.
-  const prepared = useMemo(() => shuffle(questions).map(prepareQuestion), [questions]);
-  const [current, setCurrent] = useState(0);
-  const [score, setScore] = useState(0);
-  const [chosen, setChosen] = useState(null); // indeks pilihan dijawab, null = belum
+// `session` = soalan yang sudah dikocok + kedudukan terakhir (untuk sambung latihan yang disimpan).
+export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }) {
+  const prepared = session.questions;
+  const [current, setCurrent] = useState(session.current || 0);
+  const [score, setScore] = useState(session.score || 0);
+  const [chosen, setChosen] = useState(session.chosen ?? null); // indeks pilihan dijawab, null = belum
   const feedbackRef = useRef(null);
+
+  // Autosave: simpan kedudukan setiap kali pengguna menjawab atau ke soalan seterusnya.
+  useEffect(() => {
+    onProgress({ current, score, chosen });
+  }, [current, score, chosen]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const q = prepared[current];
   const total = prepared.length;
@@ -32,6 +37,7 @@ export default function Quiz({ questions, onQuit, onFinish }) {
     if (answered) return;
     setChosen(i);
     if (i === q.answer) setScore(s => s + 1);
+    onAnswer(i === q.answer);
   }
 
   function next() {
@@ -43,8 +49,9 @@ export default function Quiz({ questions, onQuit, onFinish }) {
     }
   }
 
+  // Kemajuan sudah disimpan, jadi keluar tidak perlu pengesahan.
   function quit() {
-    if (confirm('Berhenti latihan ini?')) onQuit();
+    onQuit();
   }
 
   const script = scriptProps(q.script);
@@ -55,7 +62,7 @@ export default function Quiz({ questions, onQuit, onFinish }) {
   return (
     <section className="screen">
       <div className="quiz-header">
-        <button className="btn btn-ghost btn-icon" onClick={quit} aria-label="Berhenti">
+        <button className="btn btn-ghost btn-icon" onClick={quit} aria-label="Simpan dan keluar" title="Simpan dan keluar">
           <Icon name="x" />
         </button>
         <Progress value={progress} />

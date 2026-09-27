@@ -4,14 +4,14 @@ import BlurText from '../components/bits/BlurText.jsx';
 import CountUp from '../components/bits/CountUp.jsx';
 import RotatingText from '../components/bits/RotatingText.jsx';
 import ShinyText from '../components/bits/ShinyText.jsx';
-import { ActionCard, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
+import { ActionCard, LinkReminder, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
+import { ACHIEVEMENTS } from '../lib/achievements.js';
 import { useMediaQuery } from '../lib/useMediaQuery.js';
-import { EXAM_DESC, loadQuestions, objectiveOnly } from '../lib/quiz.js';
+import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 
-// Nama subjek yang berputar di bawah tajuk.
-const ROTATE_WORDS = ['Ibadah', 'Aqidah', 'Sirah', 'Jawi', 'Bahasa Arab', 'Tajwid', 'Tauhid', 'Akhlak'];
-
-export default function Home({ config, error, onSelectExam }) {
+export default function Home({
+  config, error, user, saved, unlockedCount, onResume, onDiscard, onLink, onAchievements, onSelectExam,
+}) {
   const dark = useMediaQuery('(prefers-color-scheme: dark)');
   const [total, setTotal] = useState(0);
 
@@ -26,6 +26,8 @@ export default function Home({ config, error, onSelectExam }) {
   }, [config]);
 
   const subjectCount = config ? config.exams.reduce((n, e) => n + e.subjects.length, 0) : 0;
+  // Nama subjek (unik) daripada config.json, berputar di bawah tajuk.
+  const rotateWords = config ? [...new Set(config.exams.flatMap(e => e.subjects.map(s => s.name)))] : [];
 
   return (
     <section className="screen">
@@ -48,9 +50,9 @@ export default function Home({ config, error, onSelectExam }) {
             color={dark ? '#2dd4bf' : '#0f766e'} shineColor={dark ? '#ccfbf1' : '#5eead4'} />
         </p>
         <BlurText text="Jom ulang kaji" className="hero-title" delay={120} animateBy="words" />
-        <div className="hero-rotate">
+        {rotateWords.length > 0 && <div className="hero-rotate">
           <RotatingText
-            texts={ROTATE_WORDS}
+            texts={rotateWords}
             mainClassName="rotate-pill"
             splitLevelClassName="rotate-split"
             staggerFrom="last"
@@ -62,10 +64,16 @@ export default function Home({ config, error, onSelectExam }) {
             rotationInterval={2200}
           />
           <span className="muted">bersama-sama!</span>
-        </div>
+        </div>}
       </div>
 
       {error && <p className="alert">{error}</p>}
+
+      {/* Peringatan tetamu: sentiasa dipaparkan sehingga akaun Google dipautkan */}
+      {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} /></Reveal>}
+
+      {/* Latihan yang belum selesai (autosave) */}
+      {saved && config && <ResumeCard saved={saved} config={config} onResume={onResume} onDiscard={onDiscard} />}
 
       {config && (
         <Reveal className="stats">
@@ -89,18 +97,40 @@ export default function Home({ config, error, onSelectExam }) {
           <Reveal key={exam.id} index={i + 1}>
             <ActionCard
               className="exam-card"
-              icon={exam.id}
+              icon={exam.icon || 'book'}
               title={exam.name}
-              desc={(EXAM_DESC[exam.id] || '') + ' · ' + exam.subjects.length + ' subjek'}
+              desc={(exam.desc ? exam.desc + ' · ' : '') + exam.subjects.length + ' subjek'}
               onClick={() => onSelectExam(exam)} />
           </Reveal>
         ))}
         {config && (
           <Reveal index={config.exams.length + 1}>
-            <ActionCard icon="chart" title="Kemajuan" desc="Lihat markah dan topik lemah" disabled soon />
+            <ActionCard className="achievement-card" icon="trophy" title="Pencapaian"
+              desc={`${unlockedCount}/${ACHIEVEMENTS.length} dibuka · lihat statistik anda`}
+              onClick={onAchievements} />
           </Reveal>
         )}
       </div>
     </section>
+  );
+}
+
+function ResumeCard({ saved, config, onResume, onDiscard }) {
+  const exam = config.exams.find(e => e.id === saved.examId);
+  const subject = exam?.subjects.find(x => x.id === saved.subjectId);
+  const total = saved.order?.length || 0;
+  const done = saved.current + (saved.chosen !== null && saved.chosen !== undefined ? 1 : 0);
+  const when = new Date(saved.savedAt).toLocaleString('ms-MY', { dateStyle: 'medium', timeStyle: 'short' });
+  return (
+    <Reveal className="resume">
+      <ActionCard className="resume-card" icon="play"
+        title="Sambung latihan"
+        desc={`${exam?.name ?? '?'} · ${subject?.name ?? '?'}${saved.year ? ' · ' + saved.year : ''} · ${done}/${total} dijawab · markah ${saved.score}`}
+        onClick={onResume} />
+      <div className="resume-meta">
+        <span className="muted">Disimpan {when}</span>
+        <button className="btn btn-ghost btn-sm" onClick={onDiscard}>Buang</button>
+      </div>
+    </Reveal>
   );
 }

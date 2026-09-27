@@ -2,12 +2,12 @@ import { Suspense, lazy, useEffect, useState } from 'react';
 import CountUp from '../components/bits/CountUp.jsx';
 import GradientText from '../components/bits/GradientText.jsx';
 import SplitText from '../components/bits/SplitText.jsx';
-import { GlowButton, Progress, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
+import { GlowButton, LinkReminder, Progress, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
 
 const Celebration = lazy(() => import('../components/Celebration.jsx'));
 
 // Skrin keputusan ringkas (senarai soalan salah pada fasa kemudian).
-export default function Result({ result, onRetry, onSubjects, onHome }) {
+export default function Result({ result, user, onLink, onRetry, onSubjects, onHome }) {
   const { score, total, exam, subject } = result;
   const percent = Math.round((score / total) * 100);
   const [bar, setBar] = useState(0);
@@ -45,6 +45,7 @@ export default function Result({ result, onRetry, onSubjects, onHome }) {
         </div>
         <Progress value={bar} large />
       </div>
+      {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} compact /></Reveal>}
       <div className="card-list">
         <Reveal index={1}><GlowButton className="glow-lg" onClick={onRetry}>Ulang latihan</GlowButton></Reveal>
         <Reveal index={2}><button className="btn btn-outline btn-lg" onClick={onSubjects}>Pilih subjek lain</button></Reveal>

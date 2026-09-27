@@ -3,6 +3,8 @@
     {
       "id": "upkk",
       "name": "UPKK",
+      "desc": "Ujian Penilaian Kelas al-Quran dan Fardu Ain",
+      "icon": "book-check",
       "subjects": [
         {
           "id": "ibadah",
@@ -63,6 +65,8 @@
     {
       "id": "sdea",
       "name": "SDEA",
+      "desc": "Sijil Darjah Enam Agama",
+      "icon": "graduation",
       "subjects": [
         {
           "id": "ibadat",

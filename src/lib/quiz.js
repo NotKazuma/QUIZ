@@ -45,13 +45,23 @@ export function shuffle(arr) {
 }
 
 // Buat salinan soalan dengan pilihan dikocok dan indeks `answer` dikemas kini.
-export function prepareQuestion(q) {
-  const opts = shuffle(q.options.map((text, i) => ({ text, isCorrect: i === q.answer })));
+// `perm` = susunan indeks pilihan asal, disimpan supaya latihan boleh disambung dengan susunan sama.
+export function prepareQuestion(q, perm = shuffle(q.options.map((_, i) => i))) {
   return {
     ...q,
-    options: opts.map(o => o.text),
-    answer: opts.findIndex(o => o.isCorrect),
+    options: perm.map(i => q.options[i]),
+    answer: perm.indexOf(q.answer),
+    perm,
   };
+}
+
+// Bina semula soalan sesi yang disimpan: order = [{ id, perm }, ...].
+// Soalan yang sudah tiada dalam fail JSON (data dikemas kini) dilangkau.
+export function rebuildQuestions(allQuestions, order) {
+  const byId = new Map(allQuestions.map(q => [q.id, q]));
+  return order
+    .map(({ id, perm }) => byId.get(id) && prepareQuestion(byId.get(id), perm))
+    .filter(Boolean);
 }
 
 // Soalan objektif semua subjek bagi satu peperiksaan: { idSubjek: [...] }, null jika gagal dimuat.
@@ -86,8 +96,3 @@ export function isArabicScript(script) {
 // Label pilihan jawapan (A, B, C… atau ا، ب، ج… bagi soalan Jawi/Arab).
 export const KEYS_RUMI = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J'];
 export const KEYS_ARABIC = ['ا', 'ب', 'ج', 'د', 'ه', 'و', 'ز', 'ح', 'ط', 'ي'];
-
-export const EXAM_DESC = {
-  upkk: 'Ujian Penilaian Kelas al-Quran dan Fardu Ain',
-  sdea: 'Sijil Darjah Enam Agama',
-};
