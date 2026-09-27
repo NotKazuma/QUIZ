@@ -4,7 +4,7 @@ import { ActionCard, BackButton, PageHead, Reveal } from '../components/ui.jsx';
 import { filterByYear, loadExamQuestions } from '../lib/quiz.js';
 
 // Pilih subjek; bilangan soalan mengikut tahun yang dipilih (null = semua tahun).
-export default function SubjectSelect({ exam, year, onBack, onSelect }) {
+export default function SubjectSelect({ exam, year, mode, onBack, onSelect }) {
   const [bySubject, setBySubject] = useState(null);
 
   useEffect(() => {
@@ -16,7 +16,8 @@ export default function SubjectSelect({ exam, year, onBack, onSelect }) {
   return (
     <section className="screen">
       <BackButton onClick={onBack} />
-      <PageHead badge={exam.name + ' · ' + (year ? 'Tahun ' + year : 'Semua tahun')} title="Pilih subjek" />
+      <PageHead badge={[exam.name, year ? 'Tahun ' + year : 'Semua tahun', mode === 'challenge' && '⚡ Cabaran'].filter(Boolean).join(' · ')}
+        title="Pilih subjek" />
       <div className="card-list">
         {exam.subjects.map((s, i) => {
           const qs = bySubject?.[s.id];

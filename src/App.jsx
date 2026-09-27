@@ -20,6 +20,7 @@ import ModeSelect from './screens/ModeSelect.jsx';
 import SubjectSelect from './screens/SubjectSelect.jsx';
 import YearSelect from './screens/YearSelect.jsx';
 import Quiz from './screens/Quiz.jsx';
+import Challenge from './screens/Challenge.jsx';
 import Result from './screens/Result.jsx';
 
 // Tetamu diingatkan untuk pautkan Google setiap N soalan dijawab.
@@ -32,6 +33,8 @@ export default function App() {
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
   const [subjectId, setSubjectId] = useState(null);
+  const [mode, setMode] = useState('practice');  // 'practice' | 'challenge'
+  const [challenge, setChallenge] = useState(null); // { questions, pool }
 
   const [user, setUser] = useState(undefined);   // undefined = sedang semak, null = belum log masuk
   const [dataReady, setDataReady] = useState(false);
@@ -126,6 +129,23 @@ export default function App() {
   }
 
   // ===== Kuiz =====
+  function selectSubject(subject, questions) {
+    if (mode === 'challenge') startChallenge(subject, questions);
+    else startQuiz(subject, questions);
+  }
+
+  // Cabaran: soalan dikocok (maks mengikut config), kolam tebusan = semua soalan subjek.
+  async function startChallenge(subject, questions) {
+    const count = subject.test?.questions || 20;
+    const chosen = shuffle(questions).slice(0, count).map(q => prepareQuestion(q));
+    const pool = objectiveOnly(await loadQuestions(subject.file));
+    setSubjectId(subject.id);
+    setQuizSource(questions);
+    setChallenge({ questions: chosen, pool });
+    setQuizRun(n => n + 1);
+    go('challenge');
+  }
+
   function startQuiz(subject, questions) {
     if (savedRef.current && !confirm('Anda ada latihan yang belum selesai. Mula latihan baharu dan buang simpanan itu?')) return;
     const prepared = shuffle(questions).map(q => prepareQuestion(q));
@@ -199,6 +219,12 @@ export default function App() {
     go('result');
   }
 
+  function finishChallenge(r) {
+    updateStats(recordQuizEnd(statsRef.current, { ...r, examId: exam?.id, subjectId }));
+    setResult(r);
+    go('result');
+  }
+
   const loggedIn = user && dataReady;
 
   return (
@@ -258,14 +284,16 @@ export default function App() {
             onBack={() => go('home')} onLink={link} />
         )}
         {loggedIn && screen === 'mode' && (
-          <ModeSelect exam={exam} onBack={() => go('home')} onPractice={() => go('years')} />
+          <ModeSelect exam={exam} onBack={() => go('home')}
+            onPractice={() => { setMode('practice'); go('years'); }}
+            onChallenge={() => { setMode('challenge'); go('years'); }} />
         )}
         {loggedIn && screen === 'years' && (
           <YearSelect exam={exam} onBack={() => go('mode')}
             onSelect={y => { setYear(y); go('subjects'); }} />
         )}
         {loggedIn && screen === 'subjects' && (
-          <SubjectSelect exam={exam} year={year} onBack={() => go('years')} onSelect={startQuiz} />
+          <SubjectSelect exam={exam} year={year} mode={mode} onBack={() => go('years')} onSelect={selectSubject} />
         )}
         {loggedIn && screen === 'quiz' && session && (
           <Quiz key={quizRun} session={session}
@@ -274,9 +302,17 @@ export default function App() {
             onQuit={() => go('home')}
             onFinish={finish} />
         )}
+        {loggedIn && screen === 'challenge' && challenge && (
+          <Challenge key={quizRun} questions={challenge.questions} pool={challenge.pool}
+            onAnswer={correct => updateStats(recordAnswer(statsRef.current, correct))}
+            onQuit={() => go('subjects')}
+            onFinish={finishChallenge} />
+        )}
         {loggedIn && screen === 'result' && result && (
           <Result result={result} user={user} onLink={link}
-            onRetry={() => startQuiz({ id: subjectId }, quizSource)}
+            onRetry={() => (result.mode === 'challenge'
+              ? startChallenge(exam.subjects.find(x => x.id === subjectId), quizSource)
+              : startQuiz({ id: subjectId }, quizSource))}
             onSubjects={() => go(exam ? 'subjects' : 'home')}
             onHome={() => go('home')} />
         )}

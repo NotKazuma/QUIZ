@@ -15,6 +15,10 @@ export function emptyStats() {
     bestDayStreak: 0,
     lastDay: '',       // YYYY-MM-DD (waktu tempatan)
     earlyBird: 0,      // berlatih sebelum 8 pagi
+    challenges: 0,     // cabaran (gaya Quizizz) yang ditamatkan
+    bestPoints: 0,     // mata tertinggi dalam satu cabaran
+    redeemed: 0,       // soalan tebusan yang berjaya
+    redeemedHard: 0,   // soalan tebusan Susah yang berjaya
   };
 }
 
@@ -67,9 +71,15 @@ export function recordAnswer(stats, correct, now = new Date()) {
   return s;
 }
 
-// Kemas kini bila satu latihan ditamatkan.
-export function recordQuizEnd(stats, { examId, subjectId, score, total }) {
-  const s = { ...stats, subjects: { ...stats.subjects } };
+// Kemas kini bila satu latihan/cabaran ditamatkan.
+export function recordQuizEnd(stats, { examId, subjectId, score, total, mode, points, redeem }) {
+  const s = { ...emptyStats(), ...stats, subjects: { ...stats.subjects } };
+  if (mode === 'challenge') {
+    s.challenges += 1;
+    s.bestPoints = Math.max(s.bestPoints, points || 0);
+    s.redeemed += redeem?.success || 0;
+    s.redeemedHard += redeem?.hard || 0;
+  }
   const percent = total ? Math.round((score / total) * 100) : 0;
   s.quizzes += 1;
   if (total >= 10 && percent === 100) s.perfect += 1;
@@ -109,6 +119,10 @@ export const ACHIEVEMENTS = [
   { id: 'days-3', emoji: '📅', title: 'Tiga Hari Berturut', desc: 'Berlatih 3 hari berturut-turut', progress: s => [s.bestDayStreak, 3] },
   { id: 'days-7', emoji: '🗓️', title: 'Seminggu Istiqamah', desc: 'Berlatih 7 hari berturut-turut', progress: s => [s.bestDayStreak, 7] },
   { id: 'early-bird', emoji: '🌅', title: 'Si Awal Pagi', desc: 'Berlatih sebelum pukul 8 pagi', progress: s => [s.earlyBird, 1] },
+  { id: 'first-challenge', emoji: '🎮', title: 'Pencabar', desc: 'Tamatkan satu Cabaran', progress: s => [s.challenges || 0, 1] },
+  { id: 'redeem', emoji: '🎯', title: 'Bangkit Semula', desc: 'Berjaya menjawab soalan tebusan', progress: s => [s.redeemed || 0, 1] },
+  { id: 'redeem-hard', emoji: '💪', title: 'Berani Susah', desc: 'Berjaya menjawab soalan tebusan Susah', progress: s => [s.redeemedHard || 0, 1] },
+  { id: 'points-10k', emoji: '💎', title: '10,000 Mata', desc: 'Kumpul 10,000 mata dalam satu Cabaran', progress: s => [s.bestPoints || 0, 10000] },
   { id: 'linked', emoji: '🔐', title: 'Akaun Selamat', desc: 'Pautkan akaun Google', progress: (s, ctx) => [ctx.user && !ctx.user.isGuest ? 1 : 0, 1] },
 ];
 

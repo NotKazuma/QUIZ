@@ -44,6 +44,13 @@ export default function Result({ result, user, onLink, onRetry, onSubjects, onHo
           <span className="muted">{score} daripada {total} betul</span>
         </div>
         <Progress value={bar} large />
+        {result.mode === 'challenge' && (
+          <div className="result-challenge">
+            <div className="rc-item"><span className="rc-num"><CountUp to={result.points} duration={1.5} separator="," /></span><span>mata</span></div>
+            <div className="rc-item"><span className="rc-num">🔥 {result.bestStreak}</span><span>berturut terbaik</span></div>
+            <div className="rc-item"><span className="rc-num">🎯 {result.redeem.success}/{result.redeem.tried}</span><span>tebusan berjaya</span></div>
+          </div>
+        )}
       </div>
       {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} compact /></Reveal>}
       <div className="card-list">

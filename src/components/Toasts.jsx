@@ -60,7 +60,8 @@ export default function Toasts({ toasts, onDismiss, onLink }) {
   return (
     <div className="toasts" aria-live="polite">
       <AnimatePresence>
-        {toasts.map(t => (
+        {/* Paling banyak 2 serentak; selebihnya beratur dan muncul bila yang awal hilang. */}
+        {toasts.slice(0, 2).map(t => (
           <Toast key={t.key} toast={t} onClose={() => onDismiss(t.key)} onLink={onLink} />
         ))}
       </AnimatePresence>
