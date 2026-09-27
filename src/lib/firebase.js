@@ -5,7 +5,7 @@ import {
   signInAnonymously, signInWithCredential, signInWithPopup, signOut,
 } from 'firebase/auth';
 import {
-  collection, connectFirestoreEmulator, deleteDoc, doc, getDoc, getDocs, getFirestore, limit, orderBy, query,
+  collection, connectFirestoreEmulator, deleteDoc, doc, getDoc, getDocs, getFirestore, query,
   setDoc, updateDoc, where,
 } from 'firebase/firestore/lite';
 import { mergeStats, mergeUnlocked } from './achievements.js';
@@ -238,9 +238,11 @@ export function saveProfile(user) {
 }
 
 // ===== Admin =====
-export async function fetchUsers(max = 300) {
-  const snap = await getDocs(query(collection(db, 'users'), orderBy('lastActive', 'desc'), limit(max)));
-  return snap.docs.map(d => ({ uid: d.id, ...d.data() }));
+// Semua dokumen pengguna (termasuk yang tiada `lastActive`, cth. data lama), terbaru dahulu.
+export async function fetchUsers() {
+  const snap = await getDocs(collection(db, 'users'));
+  const activity = u => u.lastActive || u.updatedAt || u.session?.savedAt || '';
+  return snap.docs.map(d => ({ uid: d.id, ...d.data() })).sort((a, b) => activity(b).localeCompare(activity(a)));
 }
 
 export function setUserRole(uid, role) {

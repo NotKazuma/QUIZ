@@ -9,7 +9,7 @@ export default function AdminUsers({ me }) {
   const [users, setUsers] = useState(null);
   const [error, setError] = useState('');
   const [search, setSearch] = useState('');
-  const [showGuests, setShowGuests] = useState(false);
+  const [showGuests, setShowGuests] = useState(true);
   const [busy, setBusy] = useState('');
   const [requests, setRequests] = useState([]);
 
@@ -36,7 +36,7 @@ export default function AdminUsers({ me }) {
   }, [users]);
 
   const shown = (users || []).filter(u => {
-    // Tetamu (atau dokumen lama tanpa profil) disembunyikan kecuali ditanda.
+    // Tetamu (atau dokumen lama tanpa profil) boleh disembunyikan.
     if (!showGuests && (u.profile?.isGuest || !u.profile)) return false;
     const q = search.trim().toLowerCase();
     if (!q) return true;
@@ -140,7 +140,7 @@ export default function AdminUsers({ me }) {
                   : <span className="avatar" style={{ width: 40, height: 40, fontSize: 18 }}>{(u.profile?.name || '?').charAt(0).toUpperCase()}</span>}
                 <div className="user-info">
                   <span className="user-name">
-                    {u.profile?.name || '(tiada nama)'}
+                    {u.profile?.name || (u.profile ? '(tiada nama)' : 'Tetamu (data lama)')}
                     {admin && <span className="role role-admin">Admin</span>}
                     {u.role === 'teacher' && <span className="role role-teacher">Cikgu</span>}
                     {u.profile?.email && TEACHER_EMAIL_PATTERN.test(u.profile.email) && <span className="role role-teacher">Cikgu DELIMa</span>}
@@ -149,7 +149,7 @@ export default function AdminUsers({ me }) {
                   <span className="user-email">{u.profile?.email || u.uid}</span>
                   <span className="user-stats">
                     {s.answered || 0} soalan · {acc}% betul · {s.quizzes || 0} latihan · {s.challenges || 0} cabaran
-                    {u.lastActive && ' · aktif ' + new Date(u.lastActive).toLocaleDateString('ms-MY', { day: 'numeric', month: 'short' })}
+                    {(u.lastActive || u.updatedAt) && ' · aktif ' + new Date(u.lastActive || u.updatedAt).toLocaleString('ms-MY', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}
                   </span>
                 </div>
               </div>
