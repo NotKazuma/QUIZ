@@ -2,10 +2,11 @@
 import { motion } from 'motion/react';
 import { ranking } from '../../lib/race.js';
 import Emoji from '../../components/Emoji.jsx';
+import AnimalAvatar from '../../components/AnimalAvatar.jsx';
 
 const MEDALS = ['🥇', '🥈', '🥉'];
 
-export function Leaderboard({ players, total, me, compact = false }) {
+export function Leaderboard({ players, total, me, compact = false, onOpen }) {
   const rows = ranking(players);
   if (!rows.length) return <p className="alert">Belum ada pemain.</p>;
   return (
@@ -14,6 +15,9 @@ export function Leaderboard({ players, total, me, compact = false }) {
         <motion.li key={p.uid} layout transition={{ type: 'spring', damping: 25, stiffness: 300 }}
           className={'lb-row' + (p.uid === me ? ' is-me' : '') + (p.finished ? ' is-finished' : '')}>
           <span className="lb-rank">{MEDALS[i] ? <Emoji e={MEDALS[i]} size="1.6rem" /> : i + 1}</span>
+          <button className="lb-avatar" onClick={() => onOpen?.(p)} aria-label={'Profil ' + p.name}>
+            <AnimalAvatar avatar={p.avatar} size={40} />
+          </button>
           <span className="lb-main">
             <span className="lb-name">{p.name}{p.uid === me && ' (anda)'}</span>
             <span className="lb-track" aria-label={`${p.answered}/${total} dijawab`}>
@@ -41,6 +45,7 @@ export function Podium({ players }) {
         <motion.div key={p.uid} className={'podium-col place-' + (i === 1 ? 1 : i === 0 ? 2 : 3)}
           initial={{ y: 60, opacity: 0 }} animate={{ y: 0, opacity: 1 }}
           transition={{ delay: [0.4, 0.8, 0.1][i], type: 'spring', damping: 14 }}>
+          <AnimalAvatar avatar={p.avatar} size={56} />
           <span className="podium-name">{p.name}</span>
           <span className="podium-score">{p.score.toLocaleString('ms-MY')}</span>
           <span className="podium-block" style={{ height: heights[i] }}><Emoji e={MEDALS[i === 1 ? 0 : i === 0 ? 1 : 2]} size="2.4rem" /></span>

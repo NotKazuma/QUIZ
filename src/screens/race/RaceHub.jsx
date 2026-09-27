@@ -7,10 +7,10 @@ import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 import RaceRoom from './RaceRoom.jsx';
 import Emoji from '../../components/Emoji.jsx';
 
-export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd, power }) {
+export default function RaceHub({ user, config, presetClass, teacher, onBack, onRaceEnd, power, avatar, displayName }) {
   const [room, setRoom] = useState(null); // { pin, isHost }
   const [pin, setPin] = useState('');
-  const [name, setName] = useState(user.isGuest ? '' : user.name);
+  const [name, setName] = useState(displayName || (user.isGuest ? '' : user.name));
   const [error, setError] = useState('');
   const [busy, setBusy] = useState(false);
 
@@ -69,7 +69,7 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
     setBusy(true);
     setError('');
     try {
-      await joinRace(clean, user, name);
+      await joinRace(clean, user, name, avatar);
       setRoom({ pin: clean, isHost: false });
     } catch (err) {
       setError(err.code === 'PERMISSION_DENIED' ? 'Tidak dapat menyertai perlumbaan ini.' : err.message);
@@ -99,7 +99,7 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
         classId: presetClass?.id || null,
         order: picked.map(q => ({ id: q.id, perm: q.perm })),
       });
-      if (hostPlays) await joinRace(newPin, user, name);
+      if (hostPlays) await joinRace(newPin, user, name, avatar);
       setRoom({ pin: newPin, isHost: true });
     } catch (err) {
       setError('Gagal mencipta perlumbaan: ' + (err.code || err.message));

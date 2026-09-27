@@ -619,3 +619,14 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .power-status { display: flex; justify-content: center; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
 .power-status span { padding: 3px 10px; border-radius: 999px; background: var(--blue-soft); color: var(--blue-shade); font-weight: 900; font-size: 0.78rem; }
 .tile.is-gone { opacity: 0.12; transform: scale(0.94); pointer-events: none; }
+
+/* ===== Profil awam, avatar perlumbaan & kawan sekelas ===== */
+.lb-avatar { padding: 0; border: 0; background: none; cursor: pointer; border-radius: 50%; flex-shrink: 0; }
+.podium-col .animal-avatar { margin-bottom: 2px; }
+.public-sheet { max-height: 88vh; overflow-y: auto; }
+.profile-card.small { padding: 16px; margin: 0; }
+.profile-card.small .profile-name { font-size: 1.3rem; }
+.public-private { display: grid; justify-items: center; gap: 6px; padding: 18px; text-align: center; }
+.class-row-actions { display: flex; gap: 6px; flex-shrink: 0; }
+.mates { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 4px 4px; }
+.mate { display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; font: inherit; font-weight: 800; font-size: 0.85rem; color: var(--foreground); background: var(--card); border: 2px solid var(--border); border-radius: 999px; box-shadow: 0 3px 0 var(--border); cursor: pointer; }

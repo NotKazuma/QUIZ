@@ -1,7 +1,9 @@
 // Murid: senarai kelas yang disertai, sertai kelas dengan kod, dan kerja rumah.
 import { useEffect, useState } from 'react';
 import { ActionCard, BackButton, GlowButton, PageHead, Reveal } from '../../components/ui.jsx';
-import { getClasses, joinClass, leaveClass } from '../../lib/classes.js';
+import { getClasses, joinClass, leaveClass, listMembers } from '../../lib/classes.js';
+import PublicProfileSheet from '../../components/PublicProfileSheet.jsx';
+import Emoji from '../../components/Emoji.jsx';
 import HomeworkList from './HomeworkList.jsx';
 
 export default function MyClasses({ user, myClasses, config, onChange, onStartHomework, onBack }) {
@@ -10,6 +12,14 @@ export default function MyClasses({ user, myClasses, config, onChange, onStartHo
   const [name, setName] = useState(user.isGuest ? '' : user.name);
   const [error, setError] = useState('');
   const [busy, setBusy] = useState(false);
+  const [mates, setMates] = useState({});      // id kelas -> senarai ahli (bila dibuka)
+  const [viewing, setViewing] = useState(null);
+
+  async function toggleMates(cid) {
+    if (mates[cid]) return setMates(m => ({ ...m, [cid]: null }));
+    const list = await listMembers(cid).catch(() => []);
+    setMates(m => ({ ...m, [cid]: list }));
+  }
 
   useEffect(() => {
     let alive = true;
@@ -79,12 +89,25 @@ export default function MyClasses({ user, myClasses, config, onChange, onStartHo
                   <p className="card-title">{c.name}</p>
                   <p className="card-desc">Cikgu {c.teacherName} · kod {c.code}</p>
                 </div>
-                <button className="btn btn-ghost btn-sm btn-danger" onClick={() => leave(c)}>Keluar</button>
+                <div className="class-row-actions">
+                  <button className="btn btn-outline btn-sm" onClick={() => toggleMates(c.id)}><Emoji e="👥" /> Kawan</button>
+                  <button className="btn btn-ghost btn-sm btn-danger" onClick={() => leave(c)}>Keluar</button>
+                </div>
               </div>
+              {mates[c.id] && (
+                <div className="mates">
+                  {mates[c.id].map(m => (
+                    <button key={m.uid} className="mate" onClick={() => setViewing(m)}>
+                      <Emoji e="👤" /> {m.name}{m.uid === user.uid && ' (anda)'}
+                    </button>
+                  ))}
+                </div>
+              )}
             </Reveal>
           ))}
         </div>
       )}
+      <PublicProfileSheet uid={viewing?.uid} fallbackName={viewing?.name} onClose={() => setViewing(null)} />
     </section>
   );
 }

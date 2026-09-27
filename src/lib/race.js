@@ -52,17 +52,17 @@ export function watchRace(pin, cb) {
   return onValue(raceRef(pin), snap => cb(snap.exists() ? snap.val() : null), () => cb(null));
 }
 
-export async function joinRace(pin, user, name) {
+export async function joinRace(pin, user, name, avatar = null) {
   const snap = await get(raceRef(pin));
   if (!snap.exists()) throw new Error('PIN perlumbaan tidak dijumpai.');
   const race = snap.val();
   if (race.status === 'ended') throw new Error('Perlumbaan ini sudah tamat.');
   const me = race.players?.[user.uid];
   if (me) {
-    await update(raceRef(pin, 'players', user.uid), { name: name.trim() });
+    await update(raceRef(pin, 'players', user.uid), { name: name.trim(), avatar });
   } else {
     await set(raceRef(pin, 'players', user.uid), {
-      name: name.trim(), score: 0, correct: 0, answered: 0, streak: 0, finished: false, joinedAt: Date.now(),
+      name: name.trim(), avatar, score: 0, correct: 0, answered: 0, streak: 0, finished: false, joinedAt: Date.now(),
     });
   }
   return race;

@@ -70,7 +70,8 @@ service cloud.firestore {
 
       // Murid menyertai dengan menyertakan kod kelas yang betul.
       match /members/{uid} {
-        allow read: if ownsClass(cid) || isAdmin() || (signedIn() && request.auth.uid == uid);
+        // Ahli kelas boleh melihat senarai kawan sekelas.
+        allow read: if ownsClass(cid) || isAdmin() || (signedIn() && request.auth.uid == uid) || isMember(cid);
         allow create: if signedIn() && request.auth.uid == uid
           && request.resource.data.code == classData(cid).code;
         allow update: if signedIn() && request.auth.uid == uid
@@ -99,6 +100,14 @@ service cloud.firestore {
         || (signedIn() && resource.data.ownerUid == request.auth.uid
             && request.resource.data.ownerUid == request.auth.uid);
       allow delete: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+    }
+
+    // Profil awam: avatar, nama paparan, gelaran & statistik ringkas. Pengguna log masuk boleh baca; pemilik sahaja tulis.
+    match /publicProfiles/{uid} {
+      allow read: if signedIn();
+      allow create, update: if signedIn() && request.auth.uid == uid
+        && request.resource.data.name is string && request.resource.data.name.size() <= 30;
+      allow delete: if (signedIn() && request.auth.uid == uid) || isAdmin();
     }
 
     // Kod kelas -> id kelas. Boleh dibaca satu-satu (bukan disenaraikan).

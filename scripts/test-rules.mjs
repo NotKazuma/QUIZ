@@ -80,7 +80,8 @@ await expect('murid sertai dengan kod betul', true, () => setDoc(doc(carol.db, '
 await expect('murid daftarkan orang lain', false, () => setDoc(doc(carol.db, 'classes', cls.id, 'members', dave.uid), { name: 'Dave', code: 'TEST42' }));
 await expect('murid baca kelas selepas sertai', true, () => getDoc(doc(carol.db, 'classes', cls.id)));
 await expect('murid kemas kini ringkasan sendiri', true, () => updateDoc(doc(carol.db, 'classes', cls.id, 'members', carol.uid), { summary: { answered: 3 } }));
-await expect('murid senaraikan ahli kelas', false, () => getDocs(collection(carol.db, 'classes', cls.id, 'members')));
+await expect('murid senaraikan kawan sekelas', true, () => getDocs(collection(carol.db, 'classes', cls.id, 'members')));
+await expect('bukan ahli senaraikan ahli kelas', false, () => getDocs(collection(dave.db, 'classes', cls.id, 'members')));
 await expect('cikgu senaraikan ahli kelas', true, () => getDocs(collection(bob.db, 'classes', cls.id, 'members')));
 await expect('murid ubah nama kelas', false, () => updateDoc(doc(carol.db, 'classes', cls.id), { name: 'Hack' }));
 const asg = doc(collection(bob.db, 'classes', cls.id, 'assignments'));
@@ -129,6 +130,14 @@ await expect('cikgu senaraikan semua set', false, () => getDocs(collection(delim
 await expect('admin senaraikan semua set', true, () => getDocs(collection(admin.db, 'teacherSets')));
 await expect('admin sunting set cikgu', true, () => updateDoc(doc(admin.db, 'teacherSets', setRef.id), { title: 'Disemak admin' }));
 await expect('cikgu padam set sendiri', true, () => deleteDoc(setRef));
+
+console.log('--- profil awam');
+await expect('pengguna tulis profil awam sendiri', true, () => setDoc(doc(carol.db, 'publicProfiles', carol.uid), { name: 'Carol', avatar: { animal: 'kucing' } }));
+await expect('pengguna tulis profil awam orang lain', false, () => setDoc(doc(carol.db, 'publicProfiles', dave.uid), { name: 'Hack' }));
+await expect('nama profil terlalu panjang', false, () => setDoc(doc(carol.db, 'publicProfiles', carol.uid), { name: 'x'.repeat(40) }));
+await expect('pengguna lain baca profil awam', true, () => getDoc(doc(dave.db, 'publicProfiles', carol.uid)));
+await expect('tanpa log masuk baca profil awam', false, () => getDoc(doc(outsider.db, 'publicProfiles', carol.uid)));
+await expect('pengguna padam profil awam sendiri', true, () => deleteDoc(doc(carol.db, 'publicProfiles', carol.uid)));
 
 console.log('--- lain-lain');
 await expect('tulis koleksi tidak dikenali', false, () => setDoc(doc(admin.db, 'random', 'x'), { a: 1 }));

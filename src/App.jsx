@@ -24,6 +24,7 @@ import {
   claimDaily, coins, grantPowerup, randomPowerupId, recordDressup, recordHomework, usePowerup,
 } from './lib/wallet.js';
 import { POWERUPS } from './lib/shop.js';
+import { savePublicProfile } from './lib/publicProfile.js';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
 import { submitAssignment, updateMemberSummary } from './lib/classes.js';
@@ -161,6 +162,14 @@ export default function App() {
     updateStats(recordDressup(statsRef.current));
     pushToast({ type: 'info', emoji: '✨', title: 'Avatar baharu dipakai!' });
   }
+
+  // Profil awam dikemas kini (3 saat selepas perubahan) bila avatar, tetapan atau kemajuan berubah.
+  const unlockedCount = Object.keys(unlocked).length;
+  useEffect(() => {
+    if (!user || !dataReady) return;
+    const t = setTimeout(() => savePublicProfile(user, { avatar, prefs, stats: statsRef.current, unlocked: unlockedRef.current }), 3000);
+    return () => clearTimeout(t);
+  }, [user?.uid, dataReady, avatar, prefs, stats.quizzes, stats.races, stats.answered, unlockedCount]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Guna satu kuasa (pulang true jika berjaya).
   function spendPowerup(id) {
@@ -442,7 +451,8 @@ export default function App() {
           <RaceHub user={user} config={config} presetClass={raceClass} teacher={isTeacher(user, role)}
             onBack={() => go(raceClass ? 'teacher' : 'home')}
             onRaceEnd={r => updateStats(recordRaceEnd(statsRef.current, r))}
-            power={{ stats, onUse: spendPowerup, onGrant: giftPowerup }} />
+            power={{ stats, onUse: spendPowerup, onGrant: giftPowerup }}
+            avatar={avatar} displayName={prefs.displayName} />
         )}
         {loggedIn && screen === 'admin' && isAdmin(user) && (
           <Admin user={user} config={config} onBack={() => go('home')} />

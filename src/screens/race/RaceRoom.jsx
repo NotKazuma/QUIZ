@@ -11,6 +11,7 @@ import {
   deleteRace, endRace, leaveRace, ranking, startRace, updatePlayer, watchRace,
 } from '../../lib/race.js';
 import { Leaderboard, Podium } from './Leaderboard.jsx';
+import PublicProfileSheet from '../../components/PublicProfileSheet.jsx';
 import Emoji from '../../components/Emoji.jsx';
 import PowerBar, { PowerStatus, applyPower, usePowerRound } from '../../components/PowerBar.jsx';
 
@@ -20,6 +21,7 @@ const Celebration = lazy(() => import('../../components/Celebration.jsx'));
 export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd, power }) {
   const [race, setRace] = useState(undefined); // undefined = memuat, null = ditutup
   const [questions, setQuestions] = useState(null);
+  const [viewing, setViewing] = useState(null); // pemain yang profilnya dibuka
   const reported = useRef(false);
 
   useEffect(() => watchRace(pin, setRace), [pin]);
@@ -126,8 +128,9 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
         )}
         <h2 className="race-end-title">{myRank === 1 ? <><Emoji e="🏆" /> Anda juara!</> : myRank ? `Anda tempat ke-${myRank}!` : 'Perlumbaan tamat!'}</h2>
         <Podium players={players} />
-        <Leaderboard players={players} total={total} me={user.uid} />
+        <Leaderboard players={players} total={total} me={user.uid} onOpen={setViewing} />
         <button className="btn btn-primary btn-lg" onClick={exit}>{isHost ? 'Tutup perlumbaan' : 'Kembali'}</button>
+        <PublicProfileSheet uid={viewing?.uid} fallbackName={viewing?.name} onClose={() => setViewing(null)} />
       </section>
     );
   }
@@ -146,14 +149,14 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
             <b>Selesai! {me.score.toLocaleString('ms-MY')} mata</b>
             <span className="muted small">Menunggu pemain lain…</span>
           </div>
-          <Leaderboard players={players} total={total} me={user.uid} />
+          <Leaderboard players={players} total={total} me={user.uid} onOpen={setViewing} />
         </>
       ) : me ? (
         <p className="alert">Memuatkan soalan…</p>
       ) : (
         <>
           <p className="section-title">Papan kedudukan langsung</p>
-          <Leaderboard players={players} total={total} me={user.uid} />
+          <Leaderboard players={players} total={total} me={user.uid} onOpen={setViewing} />
         </>
       )}
       {isHost && (
@@ -161,6 +164,7 @@ export default function RaceRoom({ pin, user, config, isHost, onExit, onRaceEnd,
           Tamatkan perlumbaan
         </button>
       )}
+      <PublicProfileSheet uid={viewing?.uid} fallbackName={viewing?.name} onClose={() => setViewing(null)} />
     </section>
   );
 }
