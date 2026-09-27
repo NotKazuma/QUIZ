@@ -4,7 +4,10 @@ import {
   GoogleAuthProvider, connectAuthEmulator, getAuth, linkWithPopup, onAuthStateChanged,
   signInAnonymously, signInWithCredential, signInWithPopup, signOut,
 } from 'firebase/auth';
-import { connectFirestoreEmulator, doc, getDoc, getFirestore, setDoc } from 'firebase/firestore/lite';
+import {
+  collection, connectFirestoreEmulator, deleteDoc, doc, getDoc, getDocs, getFirestore, limit, orderBy, query,
+  setDoc, updateDoc,
+} from 'firebase/firestore/lite';
 import { mergeStats, mergeUnlocked } from './achievements.js';
 import { firebaseConfig } from './firebase-config.js';
 
@@ -26,7 +29,7 @@ if (firebaseReady) {
   db = getFirestore(app);
   if (EMULATOR) {
     connectAuthEmulator(auth, `http://${EMULATOR}:9099`, { disableWarnings: true });
-    connectFirestoreEmulator(db, EMULATOR, 8080);
+    connectFirestoreEmulator(db, EMULATOR, Number(import.meta.env.VITE_FIRESTORE_EMULATOR_PORT || 8080));
   }
 }
 
@@ -171,7 +174,7 @@ export async function loadUserData(uid) {
   const stats = mergeStats(localProgress.stats, remote?.stats);
   const unlocked = mergeUnlocked(localProgress.unlocked, remote?.unlocked);
   writeLocal(progressKey(uid), { stats, unlocked });
-  return { session, stats, unlocked };
+  return { session, stats, unlocked, role: remote?.role ?? null };
 }
 
 const pending = new Map(); // uid -> { timer, data }
@@ -213,4 +216,53 @@ export function clearSession(uid) {
 export function saveProgress(uid, stats, unlocked, immediate = false) {
   writeLocal(progressKey(uid), { stats, unlocked });
   return queue(uid, { stats, unlocked }, immediate);
+}
+
+// Maklumat asas pengguna (untuk senarai admin & laporan cikgu). Medan `role` hanya boleh diubah admin.
+export function saveProfile(user) {
+  if (!useRemote(user.uid)) return Promise.resolve();
+  return queue(user.uid, {
+    profile: {
+      name: user.isGuest ? 'Tetamu' : user.name,
+      email: user.email || null,
+      photo: user.photo || null,
+      isGuest: user.isGuest,
+    },
+    lastActive: new Date().toISOString(),
+  }, true);
+}
+
+// ===== Admin =====
+export async function fetchUsers(max = 300) {
+  const snap = await getDocs(query(collection(db, 'users'), orderBy('lastActive', 'desc'), limit(max)));
+  return snap.docs.map(d => ({ uid: d.id, ...d.data() }));
+}
+
+export function setUserRole(uid, role) {
+  return updateDoc(doc(db, 'users', uid), { role: role || null });
+}
+
+export function deleteUserData(uid) {
+  return deleteDoc(doc(db, 'users', uid));
+}
+
+// ===== Soalan dalam Firestore (disunting admin) =====
+// subjects/{exam}__{subjek}: { questions: [...], updatedAt, updatedBy }
+export async function loadSubjectDoc(id) {
+  if (!firebaseReady) return null;
+  try {
+    const snap = await withTimeout(getDoc(doc(db, 'subjects', id)), 5000);
+    const data = snap.exists() ? snap.data() : null;
+    return Array.isArray(data?.questions) ? data.questions : null;
+  } catch {
+    return null; // luar talian / tiada: guna fail JSON
+  }
+}
+
+export function saveSubjectDoc(id, questions, by) {
+  return setDoc(doc(db, 'subjects', id), {
+    questions,
+    updatedAt: new Date().toISOString(),
+    updatedBy: by || null,
+  });
 }

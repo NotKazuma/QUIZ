@@ -982,3 +982,60 @@ p { margin: 0; }
 .result-challenge { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; width: 100%; margin-top: 12px; }
 .rc-item { display: grid; gap: 2px; padding: 10px 4px; border-radius: var(--radius); background: var(--muted); font-size: 0.72rem; color: var(--muted-foreground); font-weight: 600; }
 .rc-num { font-size: 1.1rem; font-weight: 800; color: var(--foreground); }
+
+/* =========================================================
+   Panel Admin
+   ========================================================= */
+.admin-card .card-icon { background: #1e293b; color: #fbbf24; }
+.tabs { display: flex; gap: 6px; margin-bottom: 16px; padding: 4px; background: var(--muted); border-radius: calc(var(--radius) + 2px); }
+.tab { flex: 1; min-height: 42px; font: inherit; font-weight: 700; font-size: 0.9rem; color: var(--muted-foreground); background: transparent; border: 0; border-radius: var(--radius); cursor: pointer; }
+.tab.is-active { background: var(--card); color: var(--foreground); box-shadow: var(--shadow-sm); }
+.small { font-size: 0.82rem; }
+.admin-toolbar { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 12px 0; }
+.admin-toolbar .input { flex: 1; min-width: 160px; min-height: 44px; }
+.admin-toolbar .input-auto { flex: 0 0 auto; min-width: 0; width: auto; }
+.check { display: inline-flex; align-items: center; gap: 8px; font-size: 0.9rem; font-weight: 600; cursor: pointer; }
+.check input { width: 18px; height: 18px; accent-color: var(--primary); }
+.check-lg { font-size: 1rem; }
+.btn-danger { color: var(--wrong); }
+.user-list, .q-list { display: grid; gap: 10px; margin-top: 10px; }
+.user-row { display: grid; gap: 10px; padding: 14px; }
+.user-main { display: flex; gap: 12px; align-items: flex-start; }
+.user-info { display: grid; gap: 2px; min-width: 0; }
+.user-name { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; font-weight: 800; }
+.user-email { font-size: 0.82rem; color: var(--muted-foreground); overflow-wrap: anywhere; }
+.user-stats { font-size: 0.78rem; color: var(--muted-foreground); }
+.user-actions { display: flex; flex-wrap: wrap; gap: 6px; justify-content: flex-end; }
+.role { font-size: 0.68rem; font-weight: 800; padding: 1px 8px; border-radius: 999px; text-transform: uppercase; letter-spacing: 0.04em; }
+.role-admin { background: #1e293b; color: #fbbf24; }
+.role-teacher { background: #ede9fe; color: #6d28d9; }
+.role-guest { background: var(--muted); color: var(--muted-foreground); }
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
+.chip { min-height: 36px; padding: 0 16px; font: inherit; font-weight: 700; font-size: 0.9rem; color: var(--foreground); background: var(--card); border: 1px solid var(--border); border-radius: 999px; cursor: pointer; }
+.chip.is-active { background: var(--primary); color: var(--primary-foreground); border-color: var(--primary); }
+.admin-questions > .input { margin-bottom: 8px; }
+.admin-questions > .btn-lg { margin-bottom: 4px; }
+.q-row { display: grid; gap: 8px; padding: 12px 14px; }
+.q-row.needs-review { border-color: var(--accent); }
+.q-row-main { display: grid; gap: 6px; padding: 0; font: inherit; color: inherit; text-align: start; background: none; border: 0; cursor: pointer; }
+.q-row-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+.q-row-meta code { font-size: 0.72rem; color: var(--muted-foreground); }
+.q-row-text { font-weight: 600; white-space: pre-line; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.q-row-text.script-arabic { font-size: 1.15rem; line-height: 1.8; }
+.q-row-answer { font-size: 0.9rem; color: var(--correct); font-weight: 700; }
+.q-row-answer.script-arabic { font-size: 1.05rem; }
+.q-row-note { font-size: 0.8rem; color: #b45309; }
+.q-row .btn-sm { justify-self: start; }
+
+.q-editor { display: grid; gap: 14px; }
+.q-editor h3 { margin: 0; font-size: 1.25rem; }
+.field-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; }
+.textarea { min-height: 0; padding: 10px 14px; line-height: 1.6; resize: vertical; }
+.textarea.script-arabic, .option-edit .script-arabic { font-family: var(--font-arabic); font-size: 1.2rem; line-height: 1.9; }
+.options-edit { border: 0; padding: 0; margin: 0; display: grid; gap: 8px; }
+.option-edit { display: flex; align-items: center; gap: 8px; padding: 4px 4px 4px 10px; border: 2px solid transparent; border-radius: var(--radius); }
+.option-edit.is-answer { border-color: var(--correct); background: var(--correct-bg); }
+.option-edit input[type=radio] { width: 20px; height: 20px; accent-color: var(--correct); flex-shrink: 0; }
+.editor-actions { display: grid; gap: 8px; }
+.q-editor .btn-back { justify-self: start; }

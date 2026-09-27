@@ -1,4 +1,5 @@
 // Logik kuiz tanpa React: muat soalan, kocok, sediakan soalan dan bantu paparan skrip.
+import { loadSubjectDoc } from './firebase.js';
 
 // Laluan relatif kepada index.html (fail dalam folder public/).
 export function assetUrl(path) {
@@ -11,22 +12,48 @@ export async function loadConfig() {
   return res.json();
 }
 
-// Muat fail soalan. Pulangkan array kosong jika fail tiada.
-// Baling ralat jika fail wujud tetapi JSON rosak.
-const cache = new Map();
-export async function loadQuestions(file) {
-  if (cache.has(file)) return cache.get(file);
+// Muat soalan satu subjek. Soalan yang pernah disunting admin disimpan dalam Firestore
+// (subjects/{exam}__{subjek}); jika tiada, guna fail JSON asal dalam public/data.
+// Pulangkan array kosong jika fail tiada; baling ralat jika JSON rosak.
+const cache = new Map(); // fail -> Promise<soalan[]>
+
+export function subjectDocId(file) {
+  const m = String(file).match(/data\/([^/]+)\/([^/]+)\.json$/);
+  return m ? m[1] + '__' + m[2] : null;
+}
+
+export function loadQuestions(file) {
+  if (!cache.has(file)) {
+    const p = fetchQuestions(file);
+    cache.set(file, p);
+    p.catch(() => cache.delete(file));
+  }
+  return cache.get(file);
+}
+
+// Selepas admin menyimpan, kemas kini cache supaya perubahan terus kelihatan.
+export function setCachedQuestions(file, questions) {
+  cache.set(file, Promise.resolve(questions));
+}
+
+export async function loadStaticQuestions(file) {
   const res = await fetch(assetUrl(file));
   if (res.status === 404) return [];
   if (!res.ok) throw new Error('Gagal memuat ' + file + ' (' + res.status + ')');
-  let data;
   try {
-    data = await res.json();
-  } catch (e) {
+    return await res.json();
+  } catch {
     throw new Error('Format JSON tidak sah dalam ' + file);
   }
-  cache.set(file, data);
-  return data;
+}
+
+async function fetchQuestions(file) {
+  const id = subjectDocId(file);
+  if (id) {
+    const remote = await loadSubjectDoc(id);
+    if (remote) return remote;
+  }
+  return loadStaticQuestions(file);
 }
 
 // Buat masa ini hanya soalan objektif dipaparkan (subjektif pada fasa kemudian).

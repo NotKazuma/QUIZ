@@ -4,7 +4,7 @@ import {
   loadConfig, loadQuestions, objectiveOnly, prepareQuestion, rebuildQuestions, shuffle,
 } from './lib/quiz.js';
 import {
-  authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveProgress, saveSession,
+  authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveProfile, saveProgress, saveSession,
   signOutUser, watchUser,
 } from './lib/firebase.js';
 import { emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd } from './lib/achievements.js';
@@ -14,6 +14,8 @@ import GradientText from './components/bits/GradientText.jsx';
 import Particles from './components/bits/Particles.jsx';
 import Toasts from './components/Toasts.jsx';
 import Achievements from './screens/Achievements.jsx';
+import Admin from './screens/admin/Admin.jsx';
+import { isAdmin, isTeacher } from './lib/roles.js';
 import Home from './screens/Home.jsx';
 import Login from './screens/Login.jsx';
 import ModeSelect from './screens/ModeSelect.jsx';
@@ -41,6 +43,7 @@ export default function App() {
   const [saved, setSaved] = useState(null);      // latihan belum selesai (disimpan)
   const [stats, setStats] = useState(emptyStats);
   const [unlocked, setUnlocked] = useState({});
+  const [role, setRole] = useState(null);         // 'teacher' atau null (ditetapkan admin)
   const [toasts, setToasts] = useState([]);
 
   const [session, setSession] = useState(null);  // sesi kuiz semasa (dengan soalan penuh)
@@ -70,6 +73,7 @@ export default function App() {
     setSaved(null);
     setStats(emptyStats());
     setUnlocked({});
+    setRole(null);
     setScreen('home');
     if (!user) return;
     let alive = true;
@@ -78,6 +82,7 @@ export default function App() {
       setSaved(d.session);
       setStats(d.stats);
       setUnlocked(d.unlocked);
+      setRole(d.role);
       setDataReady(true);
     });
     return () => { alive = false; };
@@ -106,6 +111,11 @@ export default function App() {
     saveProgress(currentUser.uid, next, nextUnlocked, fresh.length > 0);
     fresh.forEach(a => pushToast({ type: 'achievement', achievement: a }));
   }, [config, user, pushToast]);
+
+  // Simpan profil (nama/emel) untuk senarai admin & laporan cikgu; dikemas kini bila akaun dipautkan.
+  useEffect(() => {
+    if (user && dataReady) saveProfile(user);
+  }, [user?.uid, user?.isGuest, user?.name, dataReady]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Semak semula pencapaian bila data dimuat atau akaun dipautkan (cth. "Akaun Selamat").
   useEffect(() => {
@@ -274,10 +284,15 @@ export default function App() {
         {user === null && <Login />}
         {loggedIn && screen === 'home' && (
           <Home config={config} error={error} user={user} saved={saved}
+            admin={isAdmin(user)} teacher={isTeacher(user, role)}
+            onAdmin={() => go('admin')}
             unlockedCount={Object.keys(unlocked).length}
             onResume={resumeQuiz} onDiscard={() => discardSaved()} onLink={link}
             onAchievements={() => go('achievements')}
             onSelectExam={e => { setExam(e); go('mode'); }} />
+        )}
+        {loggedIn && screen === 'admin' && isAdmin(user) && (
+          <Admin user={user} config={config} onBack={() => go('home')} />
         )}
         {loggedIn && screen === 'achievements' && (
           <Achievements user={user} config={config} stats={stats} unlocked={unlocked}

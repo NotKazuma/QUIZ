@@ -10,7 +10,7 @@ import { useMediaQuery } from '../lib/useMediaQuery.js';
 import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 
 export default function Home({
-  config, error, user, saved, unlockedCount, onResume, onDiscard, onLink, onAchievements, onSelectExam,
+  config, error, user, saved, unlockedCount, admin, onAdmin, onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
   const dark = useMediaQuery('(prefers-color-scheme: dark)');
   const [total, setTotal] = useState(0);
@@ -71,6 +71,13 @@ export default function Home({
 
       {/* Peringatan tetamu: sentiasa dipaparkan sehingga akaun Google dipautkan */}
       {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} /></Reveal>}
+
+      {admin && (
+        <Reveal className="spaced">
+          <ActionCard className="admin-card" icon="shield" title="Panel Admin"
+            desc="Urus pengguna, tetapkan cikgu dan sunting soalan" onClick={onAdmin} />
+        </Reveal>
+      )}
 
       {/* Latihan yang belum selesai (autosave) */}
       {saved && config && <ResumeCard saved={saved} config={config} onResume={onResume} onDiscard={onDiscard} />}
