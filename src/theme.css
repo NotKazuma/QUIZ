@@ -779,3 +779,51 @@ img.emoji { display: inline-block; vertical-align: -0.2em; object-fit: contain; 
 .confirm-box { width: min(380px, 100%); display: grid; gap: 18px; padding: 22px 18px 18px; border-radius: 22px; background: var(--card); color: var(--foreground); border: 2px solid var(--border); box-shadow: 0 6px 0 var(--border); }
 .confirm-msg { margin: 0; font-weight: 800; font-size: 1.05rem; line-height: 1.4; text-align: center; }
 .confirm-actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+/* ===== Mod perlumbaan ===== */
+.mode-picker { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+.mode-card {
+  display: grid; justify-items: center; align-content: start; gap: 4px; padding: 12px 8px; text-align: center;
+  font: inherit; color: var(--foreground); background: var(--card); cursor: pointer;
+  border: 2px solid var(--border); border-radius: 16px; box-shadow: 0 4px 0 var(--border);
+  transition: transform 0.08s, box-shadow 0.08s;
+}
+.mode-card b { font-weight: 900; }
+.mode-card span { font-size: 0.72rem; font-weight: 700; color: var(--muted-foreground); line-height: 1.3; }
+.mode-card:active { transform: translateY(4px); box-shadow: none; }
+.mode-card.is-active { border-color: var(--purple); background: var(--purple-soft); box-shadow: 0 4px 0 var(--purple); }
+@media (max-width: 420px) { .mode-card span { display: none; } }
+.mode-banner { display: flex; align-items: center; gap: 10px; padding: 12px 14px; margin-bottom: 14px; border-radius: 16px; background: var(--purple-soft); color: var(--foreground); font-weight: 700; }
+
+.lobby-teams { display: grid; gap: 10px; margin-bottom: 14px; grid-template-columns: repeat(2, 1fr); }
+.lobby-team {
+  display: flex; flex-wrap: wrap; align-content: flex-start; gap: 6px; padding: 10px; min-height: 96px;
+  border: 2px solid var(--team); border-radius: 16px; background: color-mix(in srgb, var(--team) 10%, var(--card));
+}
+.lobby-team.is-mine { box-shadow: 0 4px 0 var(--team); }
+.lobby-team-name { flex-basis: 100%; font-weight: 900; color: var(--team); }
+.lobby-team .lobby-chip { padding: 5px 10px; font-size: 0.85rem; }
+
+.team-board { list-style: none; padding: 0; margin: 0 0 14px; display: grid; gap: 8px; }
+.team-row {
+  display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 16px;
+  border: 2px solid var(--team); background: color-mix(in srgb, var(--team) 10%, var(--card));
+}
+.team-row.is-mine { box-shadow: 0 4px 0 var(--team); }
+.team-place { width: 28px; text-align: center; font-weight: 900; }
+.team-main { flex: 1; min-width: 0; display: grid; gap: 6px; }
+.team-name { font-weight: 900; }
+.team-bar { height: 10px; border-radius: 999px; background: color-mix(in srgb, var(--team) 20%, transparent); overflow: hidden; }
+.team-bar > span { display: block; height: 100%; border-radius: inherit; background: var(--team); }
+.team-score { display: grid; justify-items: end; font-weight: 900; font-variant-numeric: tabular-nums; }
+.team-score small { font-size: 0.65rem; color: var(--muted-foreground); font-weight: 800; }
+
+.lb-row[style*="--team"] { border-left: 6px solid var(--team); }
+.lb-team-dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; background: var(--team); vertical-align: middle; }
+.lb-lives { display: inline-flex; gap: 1px; margin-left: 6px; vertical-align: middle; }
+.lb-row.is-out { opacity: 0.55; filter: grayscale(0.7); }
+.hud-lives { display: inline-flex; gap: 2px; }
+.hud-lives .is-lost { opacity: 0.25; filter: grayscale(1); }
+.pop-life { color: var(--red); }
+.race-done.is-out { border-color: var(--red); }
+.race-end-sub { text-align: center; font-weight: 800; color: var(--muted-foreground); margin: -6px 0 12px; }

@@ -128,7 +128,7 @@ export async function putDocument(env, path, data, updateTime) {
 export async function getRtdb(env, path) {
   const emu = env.EMULATOR === '1';
   const base = emu ? `http://${env.RTDB_EMULATOR_HOST || '127.0.0.1:9000'}` : env.RTDB_URL;
-  const url = `${base}/${path}.json${emu ? `?ns=${env.PROJECT_ID}` : ''}`;
+  const url = `${base}/${path}.json${emu ? `?ns=${env.PROJECT_ID}-default-rtdb` : ''}`;
   const res = await fetch(url, { headers: { authorization: 'Bearer ' + await accessToken(env) } });
   if (!res.ok) throw new Error('rtdb ' + res.status);
   return res.json();

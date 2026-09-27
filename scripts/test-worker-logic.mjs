@@ -107,6 +107,14 @@ t('kedudukan perlumbaan hanya bila tamat', () => {
   assert.deepEqual(raceRank(race, 'a'), { rank: 2, players: 3 });
   assert.equal(raceRank({ ...race, status: 'playing' }, 'a'), null);
   assert.equal(raceRank(race, 'x'), null);
+  // Kalah Mati: yang masih hidup menang walaupun mata lebih rendah.
+  const km = { status: 'ended', mode: 'kalah-mati', players: { a: { score: 9000, out: true, lives: 0, answered: 4 }, b: { score: 100, out: false, lives: 1, answered: 10 }, c: { score: 50, out: true, lives: 0, answered: 2 } } };
+  assert.deepEqual(raceRank(km, 'b'), { rank: 1, players: 3 });
+  assert.deepEqual(raceRank(km, 'c'), { rank: 3, players: 3 });
+  // Pasukan: ahli pasukan dengan purata tertinggi dikira tempat pertama.
+  const tm = { status: 'ended', mode: 'pasukan', teamCount: 2, players: { a: { score: 900, team: 'merah' }, b: { score: 100, team: 'merah' }, c: { score: 600, team: 'biru' } } };
+  assert.deepEqual(raceRank(tm, 'b'), { rank: 2, players: 3 });
+  assert.deepEqual(raceRank(tm, 'c'), { rank: 1, players: 3 });
 });
 
 t('pindah baki lama dengan had', () => {

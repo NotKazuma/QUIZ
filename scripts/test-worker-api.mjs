@@ -74,7 +74,7 @@ await t('kerja rumah & perlumbaan palsu ditolak', async () => {
 await t('perlumbaan sebenar yang tamat diberi ganjaran sekali', async () => {
   const pin = String(100000 + Math.floor(Math.random() * 800000));
   const race = { hostUid: ali.uid, status: 'ended', players: { [ali.uid]: { name: 'Ali', score: 900 }, [hacker.uid]: { name: 'H', score: 100 }, x: { name: 'X', score: 50 } } };
-  const put = await fetch(`http://127.0.0.1:9000/races/${pin}.json?ns=demo-kuiz`, { method: 'PUT', headers: { authorization: 'Bearer owner' }, body: JSON.stringify(race) });
+  const put = await fetch(`http://127.0.0.1:9000/races/${pin}.json?ns=demo-kuiz-default-rtdb`, { method: 'PUT', headers: { authorization: 'Bearer owner' }, body: JSON.stringify(race) });
   assert.ok(put.ok);
   assert.equal((await call(ali, 'race', { pin })).gained, 40);
   assert.equal((await call(ali, 'race', { pin })).gained, 0);

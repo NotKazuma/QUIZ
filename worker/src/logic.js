@@ -2,6 +2,7 @@
 // Pelanggan hanya menghantar "apa yang berlaku"; pelayan memutuskan ganjaran dengan had harian.
 import { ACHIEVEMENTS, REWARD } from '../../src/lib/achievements.js';
 import { ANIMALS, ITEMS, POWERUPS } from '../../src/lib/shop.js';
+import { rewardRank } from '../../src/lib/raceModes.js';
 
 // Had harian (ikut hari waktu Malaysia).
 export const LIMITS = {
@@ -205,11 +206,8 @@ export function apply(action, body, w, ctx) {
   return out;
 }
 
-// Kedudukan pemain perlumbaan (sama seperti src/lib/race.js).
+// Kedudukan pemain perlumbaan yang sudah tamat (peraturan sama seperti laman, ikut mod).
 export function raceRank(race, uid) {
   if (!race || race.status !== 'ended' || !race.players?.[uid]) return null;
-  const rows = Object.entries(race.players)
-    .map(([id, p]) => ({ id, ...p }))
-    .sort((a, b) => (b.score || 0) - (a.score || 0) || (b.correct || 0) - (a.correct || 0) || (a.joinedAt || 0) - (b.joinedAt || 0));
-  return { rank: rows.findIndex(r => r.id === uid) + 1, players: rows.length };
+  return rewardRank(race, uid);
 }

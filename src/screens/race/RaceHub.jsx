@@ -3,6 +3,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { BackButton, GlowButton, PageHead, Reveal } from '../../components/ui.jsx';
 import { filterByYear, loadQuestions, objectiveOnly, prepareQuestion, shuffle, yearOf } from '../../lib/quiz.js';
 import { createRace, joinRace, raceReady } from '../../lib/race.js';
+import { MODES } from '../../lib/raceModes.js';
 import { SET_EXAM_LABEL, listMySets } from '../../lib/teacherSets.js';
 import RaceRoom from './RaceRoom.jsx';
 import Emoji from '../../components/Emoji.jsx';
@@ -39,6 +40,9 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
   const [questions, setQuestions] = useState(null);
   const [year, setYear] = useState('');
   const [count, setCount] = useState(10);
+  const [mode, setMode] = useState('klasik');
+  const [lives, setLives] = useState(3);
+  const [teamCount, setTeamCount] = useState(2);
   const [hostPlays, setHostPlays] = useState(!teacher && !presetClass);
   const [source, setSource] = useState('official'); // 'official' | 'set' (cikgu sahaja)
   const [sets, setSets] = useState(null);
@@ -113,6 +117,9 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
       const newPin = await createRace(user, {
         ...base,
         classId: presetClass?.id || null,
+        mode,
+        ...(mode === 'kalah-mati' ? { lives } : {}),
+        ...(mode === 'pasukan' ? { teamCount } : {}),
         order: picked.map(q => ({ id: q.id, perm: q.perm })),
       });
       if (hostPlays) await joinRace(newPin, user, name, avatar);
@@ -145,6 +152,40 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
       <Reveal index={1}>
         <form className="card form-card" onSubmit={host}>
           <p className="field-label">{presetClass ? 'Hos perlumbaan untuk kelas' : 'Cipta perlumbaan & cabar kawan'}</p>
+          <div className="mode-picker" role="radiogroup" aria-label="Mod perlumbaan">
+            {MODES.map(m => (
+              <button key={m.id} type="button" role="radio" aria-checked={mode === m.id}
+                className={'mode-card' + (mode === m.id ? ' is-active' : '')} onClick={() => setMode(m.id)}>
+                <Emoji e={m.emoji} size="2rem" />
+                <b>{m.name}</b>
+                <span>{m.desc}</span>
+              </button>
+            ))}
+          </div>
+          {mode === 'kalah-mati' && (
+            <label className="field">
+              <span className="field-hint">Nyawa setiap pemain</span>
+              <div className="chips">
+                {[1, 2, 3, 5].map(n => (
+                  <button key={n} type="button" className={'chip' + (lives === n ? ' is-active' : '')} onClick={() => setLives(n)}>
+                    {Array.from({ length: Math.min(n, 3) }, (_, i) => <Emoji key={i} e="❤️" />)}{n > 3 ? ` ×${n}` : ''}
+                  </button>
+                ))}
+              </div>
+            </label>
+          )}
+          {mode === 'pasukan' && (
+            <label className="field">
+              <span className="field-hint">Bilangan pasukan</span>
+              <div className="chips">
+                {[2, 3, 4].map(n => (
+                  <button key={n} type="button" className={'chip' + (teamCount === n ? ' is-active' : '')} onClick={() => setTeamCount(n)}>
+                    {n} pasukan
+                  </button>
+                ))}
+              </div>
+            </label>
+          )}
           {teacher && (
             <div className="chips" role="radiogroup" aria-label="Sumber soalan">
               <button type="button" className={'chip' + (source === 'official' ? ' is-active' : '')} onClick={() => setSource('official')}><Emoji e="📚" /> Bank rasmi</button>

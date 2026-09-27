@@ -3,7 +3,8 @@
 // races/{pin}: {
 //   hostUid, hostName, classId, status: 'lobby' | 'playing' | 'ended', createdAt, startedAt,
 //   examId, subjectId, examName, subjectName, year, order: [{ id, perm }],
-//   players: { uid: { name, score, correct, answered, streak, finished, joinedAt } }
+//   mode: 'klasik' | 'kalah-mati' | 'pasukan', lives (kalah-mati), teamCount (pasukan),
+//   players: { uid: { name, score, correct, answered, streak, finished, joinedAt, lives, out, team } }
 // }
 // Setiap pemain menulis nod sendiri sahaja; hos menulis selebihnya (lihat database.rules.json).
 import {
@@ -11,6 +12,9 @@ import {
 } from 'firebase/database';
 import { getFirebaseApp } from './firebase.js';
 import { firebaseConfig } from './firebase-config.js';
+import { pickTeam, ranking } from './raceModes.js';
+
+export { ranking };
 
 const EMULATOR = import.meta.env.VITE_FIREBASE_EMULATOR;
 export const raceReady = Boolean(EMULATOR || firebaseConfig.databaseURL);
@@ -61,9 +65,13 @@ export async function joinRace(pin, user, name, avatar = null) {
   if (me) {
     await update(raceRef(pin, 'players', user.uid), { name: name.trim(), avatar });
   } else {
-    await set(raceRef(pin, 'players', user.uid), {
+    if (race.mode === 'kalah-mati' && race.status !== 'lobby') throw new Error('Perlumbaan Kalah Mati sudah bermula — tunggu pusingan seterusnya.');
+    const fresh = {
       name: name.trim(), avatar, score: 0, correct: 0, answered: 0, streak: 0, finished: false, joinedAt: Date.now(),
-    });
+    };
+    if (race.mode === 'kalah-mati') Object.assign(fresh, { lives: race.lives || 3, out: false });
+    if (race.mode === 'pasukan') fresh.team = pickTeam(race.players, race);
+    await set(raceRef(pin, 'players', user.uid), fresh);
   }
   return race;
 }
@@ -88,9 +96,15 @@ export function deleteRace(pin) {
   return remove(raceRef(pin));
 }
 
-// Susunan kedudukan: mata, kemudian jawapan betul, kemudian siapa sertai dahulu.
-export function ranking(players = {}) {
-  return Object.entries(players)
-    .map(([uid, p]) => ({ uid, ...p }))
-    .sort((a, b) => b.score - a.score || b.correct - a.correct || a.joinedAt - b.joinedAt);
+// Pemain tukar pasukan sendiri (di lobi).
+export function setTeam(pin, uid, team) {
+  return update(raceRef(pin, 'players', uid), { team });
+}
+
+// Hos kocok semua pemain ke pasukan secara sama rata.
+export function shuffleTeams(pin, players, teams) {
+  const uids = Object.keys(players || {}).sort(() => Math.random() - 0.5);
+  const patch = {};
+  uids.forEach((uid, i) => { patch[`${uid}/team`] = teams[i % teams.length].id; });
+  return update(raceRef(pin, 'players'), patch);
 }
