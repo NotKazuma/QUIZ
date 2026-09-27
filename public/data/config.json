@@ -141,6 +141,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "darjah-1",
+      "name": "Darjah 1",
+      "desc": "Ujian & peperiksaan sekolah agama Darjah 1",
+      "icon": "num-1",
+      "subjects": [
+        {
+          "id": "ibadat",
+          "name": "Ibadat",
+          "file": "data/darjah-1/ibadat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        }
+      ]
     }
   ]
 }

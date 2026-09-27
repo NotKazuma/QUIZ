@@ -1,0 +1,482 @@
+[
+ {
+  "id": "darjah-1-ibadat-pat2024-01",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود طهارة اياله ___.",
+  "options": [
+   "مڠڠكت",
+   "ممنتيڠكن",
+   "مڽوچيكن"
+  ],
+  "answer": 2,
+  "explanation": "طهارة برمعنا برسوچي اتاو مڽوچيكن ديري درڤد حدث دان نجس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-02",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم اءير مطلق اياله ___.",
+  "options": [
+   "مكروه",
+   "سوچي",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "اءير مطلق اياله اءير يڠ سوچي لاݢي مڽوچيكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-03",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه الت استنجاء اياله ___.",
+  "options": [
+   "كاچ",
+   "كرتس",
+   "ڤلستيك"
+  ],
+  "answer": 1,
+  "explanation": "الت استنجاء مستيله بندا كرس يڠ بوليه مڽرڤ نجس سڤرتي كرتس دان باتو.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-04",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رکن وضوء اد ___ ڤركارا.",
+  "options": [
+   "ليم",
+   "انم",
+   "توجوه"
+  ],
+  "answer": 1,
+  "explanation": "رکن وضوء اد انم ڤركارا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-05",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه صلاة فرض اياله صلاة ___.",
+  "options": [
+   "وتر",
+   "عصر",
+   "حاجت"
+  ],
+  "answer": 1,
+  "explanation": "صلاة عصر اياله صلاة فرض. صلاة وتر دان حاجت اياله صلاة سنة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-06",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: بهاݢين اءير اد ___ ڤركارا.",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 0,
+  "explanation": "اءير تربهاݢي كڤد امڤت: مطلق، مشمس، مستعمل دان متنجس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-07",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: الت يڠ تيدق بوليه دݢوناكن اونتوق براستنجاء اياله ___.",
+  "options": [
+   "كاءين",
+   "سابون",
+   "ڤلستيك"
+  ],
+  "answer": 2,
+  "explanation": "ڤلستيك لينچين دان تيدق مڽرڤ نجس، مك تيدق بوليه دݢوناكن اونتوق براستنجاء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-08",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: اڠݢوتا وضوء يڠ واجب اياله ___.",
+  "options": [
+   "موك",
+   "تليڠا",
+   "هيدوڠ"
+  ],
+  "answer": 0,
+  "explanation": "ممباسوه موك اياله رکن وضوء. تليڠا دان هيدوڠ اياله سنة وضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-09",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤركارا يڠ مواجبكن وضوء اياله ___.",
+  "options": [
+   "طواف",
+   "بلاجر",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "طواف مواجبكن وضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-10",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: رکن صلاة اياله ___.",
+  "options": [
+   "نية",
+   "مكلف",
+   "للاكي"
+  ],
+  "answer": 0,
+  "explanation": "نية اياله رکن صلاة يڠ ڤرتام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-11",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: طهارة منداڤت كنجرن ڤهالا درڤد الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ منجاݢ طهارة منداڤت ڤهالا دان دسوكاءي الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-12",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حکوم استنجاء اداله سنة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حکوم استنجاء اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-13",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: شرط صح وضوء اياله مڠݢوناكن اءير مطلق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "وضوء مستيله مڠݢوناكن اءير مطلق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-14",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كنتوت تيدق ممبطلكن وضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كنتوت (كلوار اڠين) ممبطلكن وضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-15",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عصر دان مغرب اداله صلاة فرض.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عصر دان مغرب اداله صلاة فرض.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-16",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤاتوه دان طاعة ملاكوكن سݢالا شريعة الله دڤڠݢيل ___.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "صلاة",
+   "عبادات",
+   "اءير مستعمل",
+   "برچيبوق"
+  ],
+  "answer": 2,
+  "explanation": "عبادات اياله ڤاتوه دان طاعة ملاكوكن سݢالا شريعة الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-17",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي تتاڤي تيدق مڽوچيكن يڠ لاءين اياله ___.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "صلاة",
+   "عبادات",
+   "اءير مستعمل",
+   "برچيبوق"
+  ],
+  "answer": 3,
+  "explanation": "اءير مستعمل اياله اءير يڠ سوچي تتاڤي تيدق مڽوچيكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-18",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين استنجاء اياله ___.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "صلاة",
+   "عبادات",
+   "اءير مستعمل",
+   "برچيبوق"
+  ],
+  "answer": 4,
+  "explanation": "استنجاء برمعنا برچيبوق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-19",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ سنة دلاكوكن كتيك بروضوء اياله ___.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "صلاة",
+   "عبادات",
+   "اءير مستعمل",
+   "برچيبوق"
+  ],
+  "answer": 0,
+  "explanation": "مڠهادڤ قبلة اياله سنة كتيك بروضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-20",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ دمولاكن دڠن تكبيرة الإحرام دان دسودهي دڠن سلام اياله ___.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "صلاة",
+   "عبادات",
+   "اءير مستعمل",
+   "برچيبوق"
+  ],
+  "answer": 1,
+  "explanation": "صلاة دمولاكن دڠن تكبيرة الإحرام دان دسودهي دڠن سلام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-21",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ ترجمور دباوه ڤانس ماتاهاري اياله اءير ___.",
+  "options": [
+   "مطلق",
+   "مشمس",
+   "مستعمل"
+  ],
+  "answer": 1,
+  "explanation": "اءير مشمس اياله اءير يڠ ترجمور دباوه ڤانس ماتاهاري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-22",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا براستنجاء يڠ بتول اياله ___.",
+  "options": [
+   "مڠݢوناكن باتو",
+   "مڠلڤ دڠن كاچ",
+   "مڠست دڠن ڤلستيك"
+  ],
+  "answer": 0,
+  "explanation": "باتو بوليه دݢوناكن اونتوق براستنجاء كران اي كرس دان مڽرڤ نجس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-23",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باچاءن سماس مولاكن وضوء اياله ___.",
+  "options": [
+   "تعوذ",
+   "بسملة",
+   "تكبيرة الإحرام"
+  ],
+  "answer": 1,
+  "explanation": "كيت دسنتكن ممباچ بسملة سماس مولاكن وضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-24",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رکن صلاة يڠ ڤرتام اياله ___.",
+  "options": [
+   "نية",
+   "برديري",
+   "تكبيرة الإحرام"
+  ],
+  "answer": 0,
+  "explanation": "رکن صلاة يڠ ڤرتام اياله نية.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-pat2024-25",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة يڠ دباچ دعاء قنوت اياله صلاة ___.",
+  "options": [
+   "صبح",
+   "عشاء",
+   "عصر"
+  ],
+  "answer": 0,
+  "explanation": "دعاء قنوت دباچ دالم صلاة صبح.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ }
+]

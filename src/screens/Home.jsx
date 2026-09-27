@@ -12,7 +12,10 @@ import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 import Emoji, { EmojiText } from '../components/Emoji.jsx';
 
 // Ikon emoji peperiksaan mengikut medan `icon` dalam config.json.
-const EXAM_EMOJI = { 'book-check': '📖', graduation: '🎓', book: '📚' };
+const EXAM_EMOJI = {
+  'book-check': '📖', graduation: '🎓', book: '📚',
+  'num-1': '1️⃣', 'num-2': '2️⃣', 'num-3': '3️⃣', 'num-4': '4️⃣', 'num-5': '5️⃣', 'num-6': '6️⃣',
+};
 
 export default function Home({
   config, error, user, saved, stats, displayName, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,

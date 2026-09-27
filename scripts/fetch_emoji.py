@@ -15,7 +15,8 @@ OUT = ROOT / 'public' / 'emoji'
 MAP = ROOT / 'src' / 'lib' / 'emoji-map.json'
 BASE = 'https://cdn.jsdelivr.net/npm/@lobehub/fluent-emoji-3d@1.1.0/assets/'
 PATTERN = re.compile(r'(?:[\U0001F000-\U0001FAFF☀-➿⬀-⯿⌀-⏿])'
-                     r'(?:️|‍[\U0001F000-\U0001FAFF☀-➿]️?|[\U0001F3FB-\U0001F3FF])*')
+                     r'(?:️|‍[\U0001F000-\U0001FAFF☀-➿]️?|[\U0001F3FB-\U0001F3FF])*'
+                     r'|[0-9#*]️?⃣')  # keycap: 1️⃣ 2️⃣ …
 
 
 def code(e):
