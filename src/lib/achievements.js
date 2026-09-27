@@ -79,6 +79,10 @@ export function mergeUnlocked(a = {}, b = {}) {
   return out;
 }
 
+// Mod admin: rekod hari berturut tidak pernah putus (hari yang tidak dibuka tetap dikira).
+let keepStreak = false;
+export function setKeepStreak(value) { keepStreak = Boolean(value); }
+
 function localDay(d) {
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 }
@@ -99,7 +103,12 @@ export function recordAnswer(stats, correct, now = new Date()) {
   const today = localDay(now);
   if (s.lastDay !== today) {
     const yesterday = localDay(new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1));
-    s.dayStreak = s.lastDay === yesterday ? s.dayStreak + 1 : 1;
+    if (keepStreak && s.lastDay) {
+      const gap = Math.max(1, Math.round((new Date(today) - new Date(s.lastDay)) / 864e5));
+      s.dayStreak = (s.dayStreak || 0) + gap;
+    } else {
+      s.dayStreak = s.lastDay === yesterday ? s.dayStreak + 1 : 1;
+    }
     s.bestDayStreak = Math.max(s.bestDayStreak, s.dayStreak);
     s.lastDay = today;
   }

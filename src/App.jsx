@@ -8,7 +8,9 @@ import {
   saveSession,
   signOutUser, watchUser,
 } from './lib/firebase.js';
-import { REWARD, emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd, recordRaceEnd } from './lib/achievements.js';
+import {
+  REWARD, emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd, recordRaceEnd, setKeepStreak,
+} from './lib/achievements.js';
 import { Avatar, GoogleButton, Icon, REDUCED_MOTION } from './components/ui.jsx';
 import ClickSpark from './components/bits/ClickSpark.jsx';
 import GradientText from './components/bits/GradientText.jsx';
@@ -18,13 +20,18 @@ import Mascot from './components/Mascot.jsx';
 import Toasts from './components/Toasts.jsx';
 import Achievements from './screens/Achievements.jsx';
 import Profile from './screens/Profile.jsx';
+import UsernameSetup from './screens/UsernameSetup.jsx';
+import AvatarPage from './screens/AvatarPage.jsx';
 import Shop from './screens/Shop.jsx';
 import AnimalAvatar from './components/AnimalAvatar.jsx';
 import {
-  claimDaily, coins, grantPowerup, randomPowerupId, recordDressup, recordHomework, usePowerup,
+  claimDaily, coins, formatCoins, grantPowerup, setUnlimited, randomPowerupId, recordDressup, recordHomework, usePowerup,
 } from './lib/wallet.js';
 import { POWERUPS } from './lib/shop.js';
 import { savePublicProfile } from './lib/publicProfile.js';
+import { applyTheme } from './lib/theme.js';
+import { NEEDS_STATE, parsePath, pathFor } from './lib/routes.js';
+import LoadingScreen, { hideBootSplash } from './components/LoadingScreen.jsx';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
 import { submitAssignment, updateMemberSummary } from './lib/classes.js';
@@ -43,7 +50,7 @@ import Result from './screens/Result.jsx';
 import Emoji from './components/Emoji.jsx';
 
 // Skrin yang memaparkan bar navigasi bawah.
-const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result', 'profile', 'shop'];
+const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result', 'profile', 'shop', 'avatar'];
 
 // Tetamu diingatkan untuk pautkan Google setiap N soalan dijawab.
 const REMIND_EVERY = 10;
@@ -52,6 +59,8 @@ export default function App() {
   const [config, setConfig] = useState(null);
   const [error, setError] = useState('');
   const [screen, setScreen] = useState('home');
+  const startRoute = useRef(parsePath()); // halaman dari URL semasa laman dibuka
+  const startExam = useRef(null);          // id peperiksaan dari /latihan/<id>, dipulih bila config sedia
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
   const [subjectId, setSubjectId] = useState(null);
@@ -59,6 +68,7 @@ export default function App() {
 
   const [user, setUser] = useState(undefined);   // undefined = sedang semak, null = belum log masuk
   const [dataReady, setDataReady] = useState(false);
+  useEffect(() => { hideBootSplash(); }, []); // skrin React mengambil alih
   const [saved, setSaved] = useState(null);      // latihan belum selesai (disimpan)
   const [stats, setStats] = useState(emptyStats);
   const [unlocked, setUnlocked] = useState({});
@@ -93,6 +103,13 @@ export default function App() {
 
   useEffect(() => watchUser(setUser), []);
 
+  // Admin: semua tanpa had (syiling, barang, kuasa) & hari berturut tidak putus.
+  useEffect(() => {
+    const admin = isAdmin(user);
+    setUnlimited(admin);
+    setKeepStreak(admin);
+  }, [user]);
+
   // Muat data pengguna (autosave, statistik, pencapaian) bila akaun bertukar.
   useEffect(() => {
     setDataReady(false);
@@ -102,8 +119,12 @@ export default function App() {
     setRole(null);
     setMyClasses([]);
     setTeacherRequest(null);
-    setScreen('home');
-    if (!user) return;
+    if (!user) { setScreen('home'); return; }
+    // Log masuk pertama: buka halaman dari URL (cth. /kedai); tukar akaun: kembali ke Utama.
+    const start = startRoute.current;
+    startRoute.current = null;
+    setScreen(start && !NEEDS_STATE.includes(start.screen) ? start.screen : 'home');
+    startExam.current = start?.examId || null;
     let alive = true;
     loadUserData(user.uid).then(d => {
       if (!alive) return;
@@ -114,6 +135,7 @@ export default function App() {
       setTeacherRequest(d.teacherRequest);
       setAvatar(d.avatar);
       setPrefs(d.prefs || {});
+      if (d.prefs?.themeMode) applyTheme(d.prefs.themeMode);
       setMyClasses((d.classes || []).map(c => (typeof c === 'string' ? { id: c, name: user.name } : c)));
       setDataReady(true);
     });
@@ -123,6 +145,17 @@ export default function App() {
   useEffect(() => { window.scrollTo(0, 0); }, [screen]);
 
   function go(next) { setScreen(next); }
+
+  // Butang Back/Forward pelayar.
+  useEffect(() => {
+    function onPop() {
+      const { screen: s, examId } = parsePath();
+      if (examId && config) setExam(config.exams.find(x => x.id === examId) || null);
+      setScreen(s);
+    }
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, [config]);
 
   const pushToast = useCallback(t => {
     setToasts(list => [...list, { key: Date.now() + Math.random(), ...t }]);
@@ -188,6 +221,7 @@ export default function App() {
   }
 
   function savePrefs(next) {
+    applyTheme(next.themeMode || 'auto');
     setPrefs(next);
     saveLook(user.uid, avatar, next);
   }
@@ -365,7 +399,25 @@ export default function App() {
     saveMyClasses(user.uid, list);
   }
 
-  const loggedIn = user && dataReady;
+  // Wajib pilih nama dahulu selepas log masuk pertama.
+  const needsName = Boolean(user && dataReady && !prefs.displayName);
+  const loggedIn = user && dataReady && !needsName;
+
+  // Kemas kini URL mengikut halaman; halaman tanpa data (cth. /kuiz selepas refresh) → Utama.
+  useEffect(() => {
+    if (!loggedIn) return;
+    if (screen === 'path' && !exam) {
+      if (!config) return;
+      const e = startExam.current && config.exams.find(x => x.id === startExam.current);
+      startExam.current = null;
+      if (e) setExam(e); else setScreen('home');
+      return;
+    }
+    const missing = (screen === 'quiz' && !session) || (screen === 'challenge' && !challenge) || (screen === 'result' && !result);
+    if (missing) { setScreen('home'); return; }
+    const p = pathFor(screen, exam?.id);
+    if (p !== location.pathname) history.pushState(null, '', p + location.search);
+  }, [loggedIn, screen, exam?.id, session, challenge, result, config]); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <>
@@ -391,7 +443,7 @@ export default function App() {
               <span className="hud-item hud-fire" title="Hari berturut-turut"><Emoji e="🔥" size="1.35rem" />{stats.dayStreak || 0}</span>
               <span className="hud-item hud-xp" title="XP (10 setiap jawapan betul)"><Emoji e="⚡" size="1.35rem" />{(stats.correct || 0) * 10}</span>
               <button className="hud-item hud-coins" title="Syiling — tekan untuk ke kedai" onClick={() => { setShopTab('avatar'); go('shop'); }}>
-                <Emoji e="🪙" size="1.35rem" />{coins(stats)}
+                <Emoji e="🪙" size="1.35rem" />{formatCoins(coins(stats))}
               </button>
             </div>
           )}
@@ -419,11 +471,19 @@ export default function App() {
       {/* Percikan kecil pada setiap sentuhan (React Bits ClickSpark) */}
       <ClickSpark sparkColor="#ff9600" sparkSize={9} sparkRadius={24} sparkCount={10} duration={420}>
       <main className="container">
-        <Suspense fallback={<p className="alert">Memuatkan…</p>}>
-        {(user === undefined || (user && !dataReady)) && <p className="alert">Memuatkan…</p>}
+        <Suspense fallback={<LoadingScreen />}>
+        {(user === undefined || (user && !dataReady)) && <LoadingScreen overlay label={user ? 'Menyediakan data anda…' : 'Memuatkan…'} />}
         {user === null && <Login />}
+        {needsName && (
+          <UsernameSetup user={user} avatar={avatar} onDone={(name, look) => {
+            const nextPrefs = { ...prefs, displayName: name };
+            setPrefs(nextPrefs);
+            setAvatar(look);
+            saveLook(user.uid, look, nextPrefs);
+          }} />
+        )}
         {loggedIn && screen === 'home' && (
-          <Home config={config} error={error} user={user} saved={saved} stats={stats}
+          <Home config={config} error={error} user={user} saved={saved} stats={stats} displayName={prefs.displayName}
             admin={isAdmin(user)} teacher={isTeacher(user, role)} myClasses={myClasses}
             teacherBasis={teacherBasis(user, role)} teacherRequest={teacherRequest}
             onApplyTeacher={() => go('apply-teacher')}
@@ -462,7 +522,11 @@ export default function App() {
             onSavePrefs={savePrefs} onLink={link} onBack={() => go('home')}
             onWardrobe={() => { setShopTab('avatar'); go('shop'); }}
             onShop={() => { setShopTab('kuasa'); go('shop'); }}
-            onAchievements={() => go('achievements')} />
+            onAchievements={() => go('achievements')} onAvatar={() => go('avatar')} />
+        )}
+        {loggedIn && screen === 'avatar' && (
+          <AvatarPage user={user} stats={stats} avatar={avatar} prefs={prefs} unlocked={unlocked}
+            onBack={() => go('profile')} onWardrobe={() => { setShopTab('avatar'); go('shop'); }} />
         )}
         {loggedIn && screen === 'shop' && (
           <Shop key={shopTab} stats={stats} avatar={avatar} initialTab={shopTab}

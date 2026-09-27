@@ -15,7 +15,7 @@ import Emoji, { EmojiText } from '../components/Emoji.jsx';
 const EXAM_EMOJI = { 'book-check': '📖', graduation: '🎓', book: '📚' };
 
 export default function Home({
-  config, error, user, saved, stats, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
+  config, error, user, saved, stats, displayName, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
   myClasses, onAdmin, onTeacher, onClasses, onRace, onStartHomework,
   onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
@@ -32,7 +32,7 @@ export default function Home({
   }, [config]);
 
   const rotateWords = config ? [...new Set(config.exams.flatMap(e => e.subjects.map(s => s.name)))] : [];
-  const firstName = user.isGuest ? 'kawan' : user.name.split(' ')[0];
+  const firstName = displayName || (user.isGuest ? 'kawan' : user.name.split(' ')[0]);
 
   // Kemajuan peperiksaan = subjek yang pernah ditamatkan / jumlah subjek.
   function examProgress(exam) {

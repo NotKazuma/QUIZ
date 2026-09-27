@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { motion } from 'motion/react';
 import Emoji from './Emoji.jsx';
 import { POWERUPS } from '../lib/shop.js';
-import { powerupCount } from '../lib/wallet.js';
+import { isUnlimited, powerupCount } from '../lib/wallet.js';
 
 const FRESH = { hidden: [], bonusMs: 0, double: false, shield: false, used: {} };
 
@@ -39,7 +39,7 @@ export default function PowerBar({ stats, fx, disabled, onUse, allow = POWERUPS.
             whileTap={{ scale: 0.9 }} disabled={disabled || !n || used}
             onClick={() => onUse(p.id)} title={`${p.name}: ${p.desc}`} aria-label={`${p.name} (${n})`}>
             <Emoji e={p.emoji} size="1.7rem" />
-            <span className="power-count">{n}</span>
+            <span className="power-count">{isUnlimited() ? '∞' : n}</span>
           </motion.button>
         );
       })}

@@ -8,9 +8,28 @@
   <title>Kuiz Ulang Kaji</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <script>
+    // Guna tema pilihan (cerah/gelap) sebelum laman dilukis supaya tiada kelipan.
+    try { var t = localStorage.getItem('kuiz.theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+  </script>
+  <style>
+    /* Skrin muatan awal — dipapar sebelum JavaScript sedia */
+    #boot{position:fixed;inset:0;z-index:9999;display:grid;place-items:center;background:#fff;font-family:Nunito,system-ui,sans-serif;transition:opacity .35s}
+    #boot.is-gone{opacity:0;pointer-events:none}
+    #boot .b-in{display:grid;justify-items:center;gap:14px}
+    #boot img{width:96px;height:96px;animation:bootHop 1s ease-in-out infinite}
+    #boot b{font-size:1.5rem;font-weight:900;color:#ff9600;letter-spacing:.3px}
+    #boot .b-bar{width:180px;height:12px;border-radius:99px;background:#e5e5e5;overflow:hidden}
+    #boot .b-bar i{display:block;height:100%;width:40%;border-radius:99px;background:#58cc02;animation:bootSlide 1.1s ease-in-out infinite}
+    @keyframes bootHop{0%,100%{transform:translateY(0)}50%{transform:translateY(-14px)}}
+    @keyframes bootSlide{0%{transform:translateX(-110%)}100%{transform:translateX(280%)}}
+    @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) #boot{background:#131f24}:root:not([data-theme="light"]) #boot .b-bar{background:#37464f}}
+    :root[data-theme="dark"] #boot{background:#131f24}:root[data-theme="dark"] #boot .b-bar{background:#37464f}
+  </style>
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800;900&family=Noto+Naskh+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
+  <div id="boot" role="status" aria-label="Memuatkan"><div class="b-in"><img src="/emoji/1f42f.webp" alt=""><b>Kuiz Ulang Kaji</b><div class="b-bar"><i></i></div></div></div>
   <div id="root"></div>
   <script type="module" src="/src/main.jsx"></script>
 </body>

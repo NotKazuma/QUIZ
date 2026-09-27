@@ -4,14 +4,15 @@ import { motion } from 'motion/react';
 import AnimalAvatar from '../components/AnimalAvatar.jsx';
 import Emoji from '../components/Emoji.jsx';
 import { BackButton, PageHead } from '../components/ui.jsx';
-import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, SLOTS } from '../lib/shop.js';
-import { buyItem, buyPowerup, coins, owns, powerupCount } from '../lib/wallet.js';
+import { ANIMALS, DEFAULT_AVATAR, ITEMS, POWERUPS, RARITY, RARITY_ORDER, SLOTS, byRarity } from '../lib/shop.js';
+import { buyItem, buyPowerup, coins, formatCoins, isUnlimited, owns, powerupCount } from '../lib/wallet.js';
 
 export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onBack, initialTab = 'avatar' }) {
   const [tab, setTab] = useState(initialTab);       // 'avatar' | 'kuasa'
   const [slot, setSlot] = useState('animal');
   const [draft, setDraft] = useState({ ...DEFAULT_AVATAR, ...avatar });
   const [flash, setFlash] = useState('');
+  const [rarity, setRarity] = useState(''); // tapis kelas kelangkaan
   const balance = coins(stats);
   const dirty = JSON.stringify(draft) !== JSON.stringify({ ...DEFAULT_AVATAR, ...avatar });
 
@@ -22,7 +23,7 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
 
   function buy(id, name, price) {
     if (balance < price) return say(`Syiling tidak cukup — perlu ${price - balance} lagi.`);
-    if (!confirm(`Beli ${name} dengan ${price} syiling?`)) return false;
+    if (!isUnlimited() && !confirm(`Beli ${name} dengan ${price} syiling?`)) return false;
     const next = buyItem(stats, id);
     if (!next) return false;
     onUpdateStats(next);
@@ -48,9 +49,13 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
   }
 
   const animal = ANIMALS.find(a => a.id === draft.animal) || ANIMALS[0];
-  const options = slot === 'animal' ? ANIMALS
-    : slot === 'color' ? animal.colors.map(c => ({ id: c, name: c[0].toUpperCase() + c.slice(1), price: 0, color: true }))
-      : ITEMS.filter(i => i.slot === slot);
+  const options = (slot === 'animal' ? [...ANIMALS]
+    : slot === 'color' ? animal.colors.map(c => ({ id: c, name: c[0].toUpperCase() + c.slice(1), price: 0, rarity: 'biasa', color: true }))
+      : ITEMS.filter(i => i.slot === slot))
+    .filter(o => !rarity || o.rarity === rarity)
+    .sort(byRarity);
+  // Kasut & barang dipegang hanya nampak pada avatar badan penuh.
+  const fullPreview = slot === 'shoes' || slot === 'hand';
 
   return (
     <section className="screen shop">
@@ -58,7 +63,7 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
       <PageHead badge="Kedai" title="Kedai & Almari" />
 
       <div className="wallet-bar">
-        <span className="wallet-coins"><Emoji e="🪙" size="1.6rem" /> {balance.toLocaleString('ms-MY')}</span>
+        <span className="wallet-coins"><Emoji e="🪙" size="1.6rem" /> {formatCoins(balance)}</span>
         <span className="muted small">Dapatkan syiling dengan menjawab soalan, tamat latihan, lencana & perlumbaan.</span>
       </div>
 
@@ -76,7 +81,7 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
           <div className="wardrobe-preview">
             <motion.div key={JSON.stringify(draft)} initial={{ scale: 0.9 }} animate={{ scale: 1 }}
               transition={{ type: 'spring', damping: 12, stiffness: 260 }}>
-              <AnimalAvatar avatar={draft} size={170} mood="cheer" />
+              <AnimalAvatar avatar={draft} size={150} mood="cheer" full />
             </motion.div>
             <button className="btn btn-primary" disabled={!dirty} onClick={() => onChangeAvatar(draft)}>
               {dirty ? 'Pakai avatar ini' : 'Sedang dipakai'}
@@ -92,6 +97,15 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
             ))}
           </div>
 
+          {slot !== 'color' && (
+            <div className="rarity-chips" role="radiogroup" aria-label="Kelas">
+              <button className={'chip' + (!rarity ? ' is-active' : '')} onClick={() => setRarity('')}>Semua</button>
+              {RARITY_ORDER.map(r => (
+                <button key={r} className={'chip rarity-chip' + (rarity === r ? ' is-active' : '')} style={{ '--r': RARITY[r].color }}
+                  onClick={() => setRarity(r)}>{RARITY[r].label}</button>
+              ))}
+            </div>
+          )}
           <div className="item-grid">
             {options.map(o => {
               const mine = o.color || owns(stats, o.id);
@@ -100,10 +114,12 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
                 : slot === 'color' ? { ...draft, color: o.id }
                   : { ...draft, [slot]: o.id };
               return (
-                <button key={o.id} className={'item-card' + (on ? ' is-on' : '') + (mine ? '' : ' is-locked')}
+                <button key={o.id} className={'item-card rarity-' + o.rarity + (on ? ' is-on' : '') + (mine ? '' : ' is-locked')}
+                  style={{ '--r': RARITY[o.rarity].color }}
                   onClick={() => (slot === 'color' ? setDraft(d => ({ ...d, color: o.id })) : choose(o.id, o.name, o.price))}>
-                  <AnimalAvatar avatar={preview} size={78} />
+                  <AnimalAvatar avatar={preview} size={fullPreview ? 60 : 78} full={fullPreview} />
                   <span className="item-name">{o.name}</span>
+                  {slot !== 'color' && <span className="rarity-tag">{RARITY[o.rarity].label}</span>}
                   {mine
                     ? <span className="item-tag">{on ? 'Dipakai' : 'Milik anda'}</span>
                     : <span className="item-price"><Emoji e="🪙" /> {o.price}</span>}
@@ -120,7 +136,7 @@ export default function Shop({ stats, avatar, onUpdateStats, onChangeAvatar, onB
               <span className="power-info">
                 <span className="power-name">{p.name}</span>
                 <span className="muted small">{p.desc}</span>
-                <span className="power-have">Dimiliki: {powerupCount(stats, p.id)}</span>
+                <span className="power-have">Dimiliki: {isUnlimited() ? '∞' : powerupCount(stats, p.id)}</span>
               </span>
               <button className="btn btn-orange btn-sm" onClick={() => buyPower(p)}>
                 <Emoji e="🪙" /> {p.price}

@@ -5,14 +5,22 @@ import { ANIMALS, ITEMS, POWERUPS } from './shop.js';
 
 const withDefaults = stats => ({ ...emptyStats(), ...stats });
 
-export const coins = stats => Math.max(0, (stats.coinsEarned || 0) - (stats.coinsSpent || 0));
+// Mod tanpa had (admin): syiling ∞, semua barang dimiliki, kuasa tanpa had.
+let unlimited = false;
+export function setUnlimited(value) { unlimited = Boolean(value); }
+export const isUnlimited = () => unlimited;
+export const UNLIMITED_POWERUPS = 99;
 
-export const powerupCount = (stats, id) => Math.max(0, (stats.pGot?.[id] || 0) - (stats.pUsed?.[id] || 0));
+export const coins = stats => (unlimited ? Infinity : Math.max(0, (stats.coinsEarned || 0) - (stats.coinsSpent || 0)));
+export const formatCoins = n => (Number.isFinite(n) ? n.toLocaleString('ms-MY') : '∞');
+
+export const powerupCount = (stats, id) => (unlimited ? UNLIMITED_POWERUPS
+  : Math.max(0, (stats.pGot?.[id] || 0) - (stats.pUsed?.[id] || 0)));
 
 // Barang percuma dimiliki semua orang.
 export function owns(stats, id) {
   const item = ITEMS.find(i => i.id === id) || ANIMALS.find(a => a.id === id);
-  return !item || item.price === 0 || (stats.items || []).includes(id);
+  return unlimited || !item || item.price === 0 || (stats.items || []).includes(id);
 }
 
 export function earn(stats, amount) {
@@ -24,9 +32,9 @@ export function earn(stats, amount) {
 // Pulangkan statistik baharu, atau null jika syiling tidak cukup / sudah dimiliki.
 export function buyItem(stats, id) {
   const item = ITEMS.find(i => i.id === id) || ANIMALS.find(a => a.id === id);
-  if (!item || owns(stats, id) || coins(stats) < item.price) return null;
+  if (!item || (!unlimited && owns(stats, id)) || coins(stats) < item.price) return null;
   const s = withDefaults(stats);
-  s.coinsSpent += item.price;
+  if (!unlimited) s.coinsSpent += item.price;
   s.items = [...(s.items || []), id];
   s.purchases += 1;
   return s;
@@ -36,7 +44,7 @@ export function buyPowerup(stats, id) {
   const p = POWERUPS.find(x => x.id === id);
   if (!p || coins(stats) < p.price) return null;
   const s = withDefaults(stats);
-  s.coinsSpent += p.price;
+  if (!unlimited) s.coinsSpent += p.price;
   s.pGot = { ...s.pGot, [id]: (s.pGot?.[id] || 0) + 1 };
   s.purchases += 1;
   return s;
