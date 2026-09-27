@@ -149,9 +149,54 @@
       "icon": "num-1",
       "subjects": [
         {
+          "id": "jawi",
+          "name": "Jawi",
+          "file": "data/darjah-1/jawi.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "akhlak",
+          "name": "Akhlak",
+          "file": "data/darjah-1/akhlak.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "arab",
+          "name": "Bahasa Arab",
+          "file": "data/darjah-1/arab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "ibadat",
           "name": "Ibadat",
           "file": "data/darjah-1/ibadat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "tauhid",
+          "name": "Tauhid",
+          "file": "data/darjah-1/tauhid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "sirah",
+          "name": "Sirah",
+          "file": "data/darjah-1/sirah.json",
           "test": {
             "questions": 20,
             "minutes": 20

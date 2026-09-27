@@ -1,0 +1,482 @@
+[
+ {
+  "id": "darjah-1-akhlak-pat2024-01",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم تيدور اياله ___.",
+  "options": [
+   "ممباچ دعاء",
+   "ممبوك ڤينتو",
+   "ممباچ بوكو"
+  ],
+  "answer": 0,
+  "explanation": "سبلوم تيدور كيت ممباچ دعاء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-02",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبرسيهكن كوتورن ڤد اڠݢوتا اياله ___.",
+  "options": [
+   "ادب بلاجر",
+   "ادب ماكن",
+   "ادب مندي"
+  ],
+  "answer": 2,
+  "explanation": "كتيك مندي كيت ممبرسيهكن كوتورن ڤد اڠݢوتا بادن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-03",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة بروضوء كتيك ___.",
+  "options": [
+   "مڽنتوه القرءان",
+   "ممباچ حديث",
+   "منونايكن صلاة"
+  ],
+  "answer": 1,
+  "explanation": "سنة بروضوء كتيك ممباچ حديث. مڽنتوه القرءان دان صلاة واجب بروضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-04",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برڤاكاين برسيه اياله ادب ___.",
+  "options": [
+   "سبلوم ماكن",
+   "سماس ماكن",
+   "سلڤس ماكن"
+  ],
+  "answer": 0,
+  "explanation": "سبلوم ماكن كيت مماكاي ڤاكاين يڠ برسيه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-05",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب دڠن كاون اياله ___.",
+  "options": [
+   "برݢادوه",
+   "برݢاءول مسرا",
+   "برچاكڤ بوروق"
+  ],
+  "answer": 1,
+  "explanation": "كيت هندقله برݢاءول مسرا دڠن كاون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-06",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: كلبيهن مندي اياله بادن منجادي ___.",
+  "options": [
+   "لمه",
+   "چرݢس",
+   "ساكيت"
+  ],
+  "answer": 1,
+  "explanation": "مندي ممبواتكن بادن برسيه دان چرݢس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-07",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب سبلوم بروضوء اياله ___.",
+  "options": [
+   "برلاري",
+   "برسوكن",
+   "برسوݢي"
+  ],
+  "answer": 2,
+  "explanation": "كيت دسنتكن برسوݢي سبلوم بروضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-08",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب برݢاءول دڠن ايبو باڤ اياله ___.",
+  "options": [
+   "كاسر",
+   "مسرا",
+   "سومبوڠ"
+  ],
+  "answer": 1,
+  "explanation": "كيت برݢاءول دڠن ايبو باڤ سچارا مسرا دان سوڤن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-09",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب اڤابيلا برتمو دڠن ݢورو اياله ___.",
+  "options": [
+   "سلام",
+   "ڤوكول",
+   "هرديق"
+  ],
+  "answer": 0,
+  "explanation": "اڤابيلا برتمو ݢورو كيت ممبري سلام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-10",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: لارڠن كتيك بركاون اياله ___.",
+  "options": [
+   "بولي",
+   "مسرا",
+   "سوڤن"
+  ],
+  "answer": 0,
+  "explanation": "كيت دلارڠ ممبولي كاون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-11",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مڠوچڤكن شكور كڤد الله كتيك منريما يڠ باءيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت برشكور كڤد الله اتس نعمت يڠ باءيق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-12",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سنتياس مماكاي ڤاكاين يڠ كوتور.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت هندقله مماكاي ڤاكاين يڠ برسيه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-13",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: دبوليهكن بربوال-بوال كتيك بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت تيدق باءيق بربوال كتيك بروضوء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-14",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مكروه بروضوء ددالم تندس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بروضوء ددالم تندس اداله مكروه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-15",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: دلارڠ برݢلق كتاوا كتيك ماكن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت دلارڠ برݢلق كتاوا كتيك ماكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-16",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ دعاء مروڤاكن ادب سبلوم ___.",
+  "options": [
+   "سوڤن",
+   "ماكن",
+   "كاون",
+   "واجب",
+   "ڤهالا"
+  ],
+  "answer": 1,
+  "explanation": "ممباچ دعاء اياله ادب سبلوم ماكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-17",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم بربقتي كڤد ايبو باڤ اداله ___.",
+  "options": [
+   "سوڤن",
+   "ماكن",
+   "كاون",
+   "واجب",
+   "ڤهالا"
+  ],
+  "answer": 3,
+  "explanation": "بربقتي كڤد ايبو باڤ اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-18",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملاكوكن عمل جارية اونتوق ايبو باڤ دڠن ___.",
+  "options": [
+   "سوڤن",
+   "ماكن",
+   "كاون",
+   "واجب",
+   "ڤهالا"
+  ],
+  "answer": 0,
+  "explanation": "كيت بربقتي كڤد ايبو باڤ دڠن سوڤن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-19",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برادب دڠن ݢورو اكن منداڤت ___.",
+  "options": [
+   "سوڤن",
+   "ماكن",
+   "كاون",
+   "واجب",
+   "ڤهالا"
+  ],
+  "answer": 4,
+  "explanation": "برادب دڠن ݢورو منداڤت ڤهالا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-20",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كيت دلارڠ برݢادوه دڠن ___.",
+  "options": [
+   "سوڤن",
+   "ماكن",
+   "كاون",
+   "واجب",
+   "ڤهالا"
+  ],
+  "answer": 2,
+  "explanation": "كيت دلارڠ برݢادوه دڠن كاون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-21",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن برادب كتيك ماكن اياله ___.",
+  "options": [
+   "ممبذير",
+   "لمه توبوه بادن",
+   "داڤت منديسيڤلينكن ديري"
+  ],
+  "answer": 2,
+  "explanation": "برادب كتيك ماكن ملاتيه كيت منديسيڤلينكن ديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-22",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كباءيقن بربقتي كڤد ايبو باڤ اياله ___.",
+  "options": [
+   "هاتي ݢليسه",
+   "منداڤت ڤهالا",
+   "دموركاءي الله"
+  ],
+  "answer": 1,
+  "explanation": "بربقتي كڤد ايبو باڤ منداڤت ڤهالا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-23",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرلاكوان يڠ دلارڠ كڤد ݢورو اياله ___.",
+  "options": [
+   "مڠات",
+   "مڽايڠي",
+   "مموجي"
+  ],
+  "answer": 0,
+  "explanation": "كيت دلارڠ مڠات ݢورو.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-24",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب اڤابيلا كاون دتيمڤا مصيبة اياله ___.",
+  "options": [
+   "منچاچي",
+   "منزيارهي",
+   "منرتاواكن"
+  ],
+  "answer": 1,
+  "explanation": "كيت منزيارهي كاون يڠ دتيمڤا مصيبة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-pat2024-25",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فاءيده برادب دڠن كاون اياله ___.",
+  "options": [
+   "هاتي ݢليسه",
+   "كوراڠ كاسيه سايڠ",
+   "منداڤت رحمة الله"
+  ],
+  "answer": 2,
+  "explanation": "برادب دڠن كاون منداڤت رحمة الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ }
+]

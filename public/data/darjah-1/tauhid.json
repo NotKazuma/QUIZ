@@ -1,0 +1,482 @@
+[
+ {
+  "id": "darjah-1-tauhid-pat2024-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي إسلام اياله ___.",
+  "options": [
+   "ڤسوروه",
+   "ڤڽرهن",
+   "ڤنجيواءن"
+  ],
+  "answer": 1,
+  "explanation": "إسلام برمعنا ڤڽرهن ديري كڤد الله تعالى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠيڠتي الله تعالى ليم كالي سهاري دڠن ___.",
+  "options": [
+   "صلاة",
+   "زكاة",
+   "ڤواسا"
+  ],
+  "answer": 0,
+  "explanation": "صلاة فرض دلاكوكن ليم كالي سهاري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توݢس ملائكة عزرائيل اياله ___.",
+  "options": [
+   "منچابوت ڽاوا",
+   "منچابوت مات",
+   "منچابوت ليده"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة عزرائيل برتوݢس منچابوت ڽاوا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يڠ منريما كتاب الزبور اياله ___.",
+  "options": [
+   "نبي داود",
+   "نبي موسى",
+   "نبي عيسى"
+  ],
+  "answer": 0,
+  "explanation": "كتاب الزبور دتورونكن كڤد نبي داود.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايمان كڤد قضاء دان قدر اياله ___.",
+  "options": [
+   "ركن ايمان كدوا",
+   "ركن ايمان كليم",
+   "ركن ايمان كانم"
+  ],
+  "answer": 2,
+  "explanation": "برايمان كڤد قضاء دان قدر اياله ركن ايمان يڠ كانم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم مڠوچڤ دوا كليمة شهادة اياله ___.",
+  "options": [
+   "حرام",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "مڠوچڤ دوا كليمة شهادة اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: يڠ دتونتوت مڠلواركن زكاة اياله اورڠ ___.",
+  "options": [
+   "كاي",
+   "اخلاص",
+   "فقير"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ كاي دتونتوت مڠلواركن زكاة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن نام٢ الله يڠ موليا اياله ___.",
+  "options": [
+   "99",
+   "100",
+   "101"
+  ],
+  "answer": 0,
+  "explanation": "الله تعالى ممڤوڽاءي 99 نام يڠ موليا (الأسماء الحسنى).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم برايمان كڤد رسول اياله ___.",
+  "options": [
+   "واجب",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد رسول اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: سواسان هاري قيامة اياله ___.",
+  "options": [
+   "تنڠ",
+   "دهشت",
+   "تنترم"
+  ],
+  "answer": 1,
+  "explanation": "سواسان هاري قيامة ساڠت دهشت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤواسا داڤت منيڠكتكن كتقواءن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤواسا منيڠكتكن كتقواءن كڤد الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: منونايكن حج اداله ركن ايمان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "منونايكن حج اداله ركن إسلام، بوكن ركن ايمان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ملائكة بوكن درڤد جنيس للاكي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة بوكن للاكي دان بوكن ڤرمڤوان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برايمان كڤد كتاب دڠن كراݢوان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت واجب برايمان كڤد كتاب دڠن يقين، بوكن دڠن كراݢوان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: رسول ارتين ڤسوروه الله تعالى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "رسول برمعنا ڤسوروه الله تعالى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام اداله اݢام يڠ ___.",
+  "options": [
+   "عالم",
+   "ڤرتام",
+   "ازلي",
+   "بنر",
+   "ليسن"
+  ],
+  "answer": 3,
+  "explanation": "إسلام اداله اݢام يڠ بنر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان برمقصود مڠاكوءي دڠن ___.",
+  "options": [
+   "عالم",
+   "ڤرتام",
+   "ازلي",
+   "بنر",
+   "ليسن"
+  ],
+  "answer": 4,
+  "explanation": "ايمان اياله مڠاكوءي دڠن ليسن، ممبنركن دڠن هاتي دان برامل دڠن اڠݢوتا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايمان كڤد الله تعالى اداله ركن ايمان ___.",
+  "options": [
+   "عالم",
+   "ڤرتام",
+   "ازلي",
+   "بنر",
+   "ليسن"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كڤد الله تعالى اياله ركن ايمان يڠ ڤرتام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة اداله هاري كبيناساءن ___.",
+  "options": [
+   "عالم",
+   "ڤرتام",
+   "ازلي",
+   "بنر",
+   "ليسن"
+  ],
+  "answer": 0,
+  "explanation": "ڤد هاري قيامة سلوروه عالم اكن بيناس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ارتين كتتڤن الله تعالى سجق ___.",
+  "options": [
+   "عالم",
+   "ڤرتام",
+   "ازلي",
+   "بنر",
+   "ليسن"
+  ],
+  "answer": 2,
+  "explanation": "قدر اياله كتتڤن الله تعالى سجق ازلي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة اداله عبادة يڠ دمولاءي دڠن ___.",
+  "options": [
+   "اذان",
+   "سلام",
+   "تكبيرة الإحرام"
+  ],
+  "answer": 2,
+  "explanation": "صلاة دمولاءي دڠن تكبيرة الإحرام دان دأخيري دڠن سلام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بولن يڠ دواجبكن اومت إسلام برڤواسا اداله ___.",
+  "options": [
+   "رجب",
+   "شعبان",
+   "رمضان"
+  ],
+  "answer": 2,
+  "explanation": "اومت إسلام دواجبكن برڤواسا ڤد بولن رمضان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايمان كڤد كتاب اداله ركن ايمان ___.",
+  "options": [
+   "كدوا",
+   "كتيݢ",
+   "كامڤت"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كڤد كتاب اياله ركن ايمان يڠ كتيݢ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ واجب دكتاهوءي نامان اد ___.",
+  "options": [
+   "دوا ڤولوه تيݢ",
+   "دوا ڤولوه امڤت",
+   "دوا ڤولوه ليم"
+  ],
+  "answer": 2,
+  "explanation": "رسول يڠ واجب دكتاهوءي نامان اد دوا ڤولوه ليم اورڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-pat2024-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "يَوْمُ البَعْثِ ارتين هاري ___.",
+  "options": [
+   "ڤڠهابيسن",
+   "كبڠكيتن",
+   "ڤرهيتوڠن"
+  ],
+  "answer": 1,
+  "explanation": "يوم البعث اياله هاري كبڠكيتن سمولا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ }
+]
