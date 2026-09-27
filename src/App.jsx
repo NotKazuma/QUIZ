@@ -9,7 +9,7 @@ import {
   signOutUser, watchUser,
 } from './lib/firebase.js';
 import {
-  REWARD, emptyStats, newlyUnlocked, recordAnswer, recordQuizEnd, recordRaceEnd, setKeepStreak,
+  REWARD, emptyStats, newlyUnlocked, recordAnswer, recordGameEnd, recordQuizEnd, recordRaceEnd, setKeepStreak,
 } from './lib/achievements.js';
 import { Avatar, GoogleButton, Icon, REDUCED_MOTION } from './components/ui.jsx';
 import ClickSpark from './components/bits/ClickSpark.jsx';
@@ -43,6 +43,7 @@ const Admin = lazy(() => import('./screens/admin/Admin.jsx'));
 const Teacher = lazy(() => import('./screens/teacher/Teacher.jsx'));
 // Perlumbaan memerlukan SDK Realtime Database; dimuat turun hanya bila dibuka.
 const RaceHub = lazy(() => import('./screens/race/RaceHub.jsx'));
+const GamesHub = lazy(() => import('./screens/games/GamesHub.jsx'));
 import Home from './screens/Home.jsx';
 import Login from './screens/Login.jsx';
 import ExamPath from './screens/ExamPath.jsx';
@@ -53,7 +54,7 @@ import Emoji from './components/Emoji.jsx';
 import { ConfirmHost, ask } from './components/ConfirmDialog.jsx';
 
 // Skrin yang memaparkan bar navigasi bawah.
-const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result', 'profile', 'shop', 'avatar'];
+const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result', 'profile', 'shop', 'avatar', 'games'];
 
 // Tetamu diingatkan untuk pautkan Google setiap N soalan dijawab.
 const REMIND_EVERY = 10;
@@ -85,6 +86,7 @@ export default function App() {
   const [avatar, setAvatar] = useState(null);     // avatar haiwan pengguna
   const [prefs, setPrefs] = useState({});        // nama paparan, gelaran, warna tema, profil awam
   const [shopTab, setShopTab] = useState('avatar');
+  const [inGame, setInGame] = useState(false);     // sedang bermain permainan arked (sembunyikan bar bawah)
   const [assignment, setAssignment] = useState(null); // kerja rumah yang sedang dibuat
   const [raceClass, setRaceClass] = useState(null);   // kelas yang dipilih cikgu untuk perlumbaan
   const [toasts, setToasts] = useState([]);
@@ -555,7 +557,7 @@ export default function App() {
             teacherBasis={teacherBasis(user, role)} teacherRequest={teacherRequest}
             onApplyTeacher={() => go('apply-teacher')}
             onAdmin={() => go('admin')} onTeacher={() => go('teacher')} onClasses={() => go('classes')}
-            onRace={() => { setRaceClass(null); go('race'); }}
+            onRace={() => { setRaceClass(null); go('race'); }} onGames={() => go('games')}
             onStartHomework={startHomework}
             unlockedCount={Object.keys(unlocked).length}
             onResume={resumeQuiz} onDiscard={() => discardSaved()} onLink={link}
@@ -573,6 +575,16 @@ export default function App() {
         {loggedIn && screen === 'teacher' && isTeacher(user, role) && (
           <Teacher user={user} config={config} onBack={() => go('home')}
             onHostRace={cls => { setRaceClass(cls); go('race'); }} />
+        )}
+        {loggedIn && screen === 'games' && (
+          <GamesHub config={config} user={{ ...user, displayName: prefs.displayName }} avatar={avatar}
+            onPlaying={setInGame}
+            onAnswer={(correct, q) => { serverAnswer(correct, q, 'game'); updateStats(recordAnswer(statsRef.current, correct)); }}
+            onGameEnd={r => {
+              updateStats(recordGameEnd(statsRef.current, r));
+              if (apiEnabled) api('finish', { mode: 'game' }).then(syncWallet).catch(() => {});
+            }}
+            onRace={() => { setRaceClass(null); go('race'); }} />
         )}
         {loggedIn && screen === 'race' && (
           <RaceHub user={user} config={config} presetClass={raceClass} teacher={isTeacher(user, role)}
@@ -641,12 +653,12 @@ export default function App() {
       </ClickSpark>
 
       {/* Bar navigasi bawah (React Bits Dock) — disembunyikan semasa menjawab soalan */}
-      {loggedIn && NAV_SCREENS.includes(screen) && (
+      {loggedIn && NAV_SCREENS.includes(screen) && !(screen === 'games' && inGame) && (
         <nav className="bottom-nav" aria-label="Navigasi utama">
           <Dock panelHeight={64} baseItemSize={48} magnification={62} distance={140}
             items={[
               { icon: <Emoji e="🏠" size="30px" />, label: 'Utama', onClick: () => go('home'), className: screen === 'home' || screen === 'path' ? 'is-active' : '' },
-              { icon: <Emoji e="🏁" size="30px" />, label: 'Lumba', onClick: () => { setRaceClass(null); go('race'); }, className: screen === 'race' ? 'is-active' : '' },
+              { icon: <Emoji e="🎲" size="30px" />, label: 'Main', onClick: () => go('games'), className: screen === 'games' || screen === 'race' ? 'is-active' : '' },
               { icon: <Emoji e="🏫" size="30px" />, label: 'Kelas', onClick: () => go('classes'), className: screen === 'classes' ? 'is-active' : '' },
               { icon: <Emoji e="🛍️" size="30px" />, label: 'Kedai', onClick: () => { setShopTab('avatar'); go('shop'); }, className: screen === 'shop' ? 'is-active' : '' },
               { icon: <AnimalAvatar avatar={avatar} size={40} />, label: 'Profil', onClick: () => go('profile'), className: screen === 'profile' || screen === 'achievements' ? 'is-active' : '' },

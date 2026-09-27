@@ -11,6 +11,7 @@ export const ROUTES = {
   'apply-teacher': '/mohon-cikgu',
   admin: '/admin',
   race: '/lumba',
+  games: '/main',
   profile: '/profil',
   avatar: '/avatar',
   shop: '/kedai',

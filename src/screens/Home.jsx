@@ -16,7 +16,7 @@ const EXAM_EMOJI = { 'book-check': '📖', graduation: '🎓', book: '📚' };
 
 export default function Home({
   config, error, user, saved, stats, displayName, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
-  myClasses, onAdmin, onTeacher, onClasses, onRace, onStartHomework,
+  myClasses, onAdmin, onTeacher, onClasses, onRace, onGames, onStartHomework,
   onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
   const [total, setTotal] = useState(0);
@@ -105,7 +105,7 @@ export default function Home({
       {/* Jubin kecil: ciri lain */}
       {config && (
         <Reveal className="tile-grid" index={2}>
-          <MiniTile color="c-red" emoji="🏁" title="Perlumbaan" desc="Lumba dengan kawan guna PIN" onClick={onRace} />
+          <MiniTile color="c-red" emoji="🎲" title="Arked Permainan" desc="Ular & Tangga, kad & perlumbaan" onClick={onGames} />
           <MiniTile color="c-yellow" emoji="🏆" title="Pencapaian"
             desc={`${unlockedCount}/${ACHIEVEMENTS.length} lencana dibuka`} onClick={onAchievements} />
           <MiniTile color="" emoji="🏫" title="Kelas saya"

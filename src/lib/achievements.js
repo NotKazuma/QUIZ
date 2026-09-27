@@ -33,6 +33,10 @@ export function emptyStats() {
     races: 0,          // perlumbaan langsung yang ditamatkan
     raceWins: 0,       // tempat pertama (sekurang-kurangnya 3 pemain)
     racePodiums: 0,    // 3 teratas (sekurang-kurangnya 3 pemain)
+    games: 0,          // permainan arked ditamatkan (Ular & Tangga, Kad Padanan, Kad Duel)
+    snakeWins: 0,      // menang Ular & Tangga
+    memoryPerfect: 0,  // Kad Padanan dengan 3 bintang
+    duelWins: 0,       // kalahkan Belang dalam Kad Duel
     // Dompet & kedai (lihat wallet.js). Semua nilai hanya bertambah supaya boleh digabung ikut maksimum:
     coinsEarned: 0,    // syiling diperoleh (baki = coinsEarned - coinsSpent)
     coinsSpent: 0,
@@ -138,6 +142,17 @@ export function recordQuizEnd(stats, { examId, subjectId, score, total, mode, po
   return s;
 }
 
+// Kemas kini bila permainan arked tamat. game: 'ular' | 'padanan' | 'duel'.
+export function recordGameEnd(stats, { game, won, stars = 0 }) {
+  const s = { ...emptyStats(), ...stats };
+  s.games += 1;
+  if (won) s.coinsEarned += REWARD.finish;
+  if (game === 'ular' && won) s.snakeWins += 1;
+  if (game === 'padanan' && stars >= 3) s.memoryPerfect += 1;
+  if (game === 'duel' && won) s.duelWins += 1;
+  return s;
+}
+
 // Kemas kini bila perlumbaan langsung tamat.
 export function recordRaceEnd(stats, { rank, players }) {
   const s = { ...emptyStats(), ...stats };
@@ -202,6 +217,10 @@ export const ACHIEVEMENTS = [
   { id: 'redeem-10', emoji: '🔁', title: 'Tak Kenal Putus Asa', desc: 'Berjaya menjawab 10 soalan tebusan', progress: s => [s.redeemed || 0, 10] },
   { id: 'race-5', emoji: '🚦', title: 'Pelumba Tegar', desc: 'Tamatkan 5 perlumbaan', progress: s => [s.races || 0, 5] },
   { id: 'race-win-3', emoji: '🏆', title: 'Juara Bertahan', desc: 'Menang 3 perlumbaan (min. 3 pemain)', progress: s => [s.raceWins || 0, 3] },
+  { id: 'games-5', emoji: '🎲', title: 'Kaki Main', desc: 'Tamatkan 5 permainan arked', progress: s => [s.games || 0, 5] },
+  { id: 'snake-win', emoji: '🐍', title: 'Raja Tangga', desc: 'Menang Ular & Tangga', progress: s => [s.snakeWins || 0, 1] },
+  { id: 'memory-3', emoji: '🧠', title: 'Ingatan Gajah', desc: 'Tamatkan Kad Padanan dengan 3 bintang', progress: s => [s.memoryPerfect || 0, 1] },
+  { id: 'duel-win', emoji: '⚔️', title: 'Pahlawan Kad', desc: 'Kalahkan Belang dalam Kad Duel', progress: s => [s.duelWins || 0, 1] },
   { id: 'coins-500', emoji: '🪙', title: 'Kaya Raya', desc: 'Kumpul 500 syiling', progress: s => [s.coinsEarned || 0, 500] },
   { id: 'coins-2000', emoji: '🏦', title: 'Jutawan Cilik', desc: 'Kumpul 2,000 syiling', progress: s => [s.coinsEarned || 0, 2000] },
   { id: 'first-buy', emoji: '🛍️', title: 'Pembeli Pertama', desc: 'Beli barang pertama di kedai', progress: s => [s.purchases || 0, 1] },
