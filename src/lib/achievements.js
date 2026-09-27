@@ -15,7 +15,7 @@ export function emptyStats() {
     bestDayStreak: 0,
     lastDay: '',       // YYYY-MM-DD (waktu tempatan)
     earlyBird: 0,      // berlatih sebelum 8 pagi
-    challenges: 0,     // cabaran (gaya Quizizz) yang ditamatkan
+    challenges: 0,     // cabaran bermasa yang ditamatkan
     bestPoints: 0,     // mata tertinggi dalam satu cabaran
     redeemed: 0,       // soalan tebusan yang berjaya
     redeemedHard: 0,   // soalan tebusan Susah yang berjaya

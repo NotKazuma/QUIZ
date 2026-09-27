@@ -1,4 +1,4 @@
-// Peraturan mod Cabaran (gaya Quizizz): masa setiap soalan, mata ikut kelajuan, bonus berturut-turut
+// Peraturan mod Cabaran: masa setiap soalan, mata ikut kelajuan, bonus berturut-turut
 // dan soalan tebusan. Digunakan juga oleh perlumbaan langsung.
 
 export const DIFFICULTY = {

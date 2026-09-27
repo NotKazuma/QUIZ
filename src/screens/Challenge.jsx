@@ -1,4 +1,4 @@
-// Mod Cabaran gaya Quizizz: soalan bermasa, mata ikut kelajuan, bonus berturut-turut,
+// Mod Cabaran: soalan bermasa, mata ikut kelajuan, bonus berturut-turut,
 // dan soalan tebusan (Mudah / Sederhana / Susah) bila jawapan salah.
 import { useEffect, useMemo, useState } from 'react';
 import { motion } from 'motion/react';

@@ -1,13 +1,11 @@
 import { useState } from 'react';
 import BlurText from '../components/bits/BlurText.jsx';
-import ShinyText from '../components/bits/ShinyText.jsx';
+import Mascot from '../components/Mascot.jsx';
 import { GoogleButton, Reveal } from '../components/ui.jsx';
 import { authErrorMessage, firebaseReady, signInGoogle, signInGuest } from '../lib/firebase.js';
-import { useMediaQuery } from '../lib/useMediaQuery.js';
 
 // Skrin pertama: log masuk dengan Google, atau terus main sebagai tetamu.
 export default function Login() {
-  const dark = useMediaQuery('(prefers-color-scheme: dark)');
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState('');
 
@@ -26,10 +24,8 @@ export default function Login() {
   return (
     <section className="screen">
       <div className="hero login-hero">
-        <p className="eyebrow">
-          <ShinyText text="Assalamualaikum!" speed={3}
-            color={dark ? '#2dd4bf' : '#0f766e'} shineColor={dark ? '#ccfbf1' : '#5eead4'} />
-        </p>
+        <Mascot mood="wave" size={150} />
+        <p className="eyebrow">Assalamualaikum!</p>
         <BlurText text="Jom mula berlatih!" className="hero-title" delay={100} animateBy="words" />
         <p className="muted">Log masuk supaya markah dan latihan anda tersimpan dengan selamat.</p>
       </div>

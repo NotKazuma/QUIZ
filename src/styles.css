@@ -878,7 +878,7 @@ p { margin: 0; }
 .badge-progress .progress { height: 6px; }
 
 /* =========================================================
-   Mod Cabaran (gaya Quizizz)
+   Mod Cabaran (bermasa)
    ========================================================= */
 .challenge-card .card-icon { background: #ede9fe; color: #7c3aed; }
 @media (prefers-color-scheme: dark) { .challenge-card .card-icon { background: #2e1065; color: #c4b5fd; } }

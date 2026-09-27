@@ -1,4 +1,4 @@
-// Satu pusingan soalan bermasa gaya Quizizz: bar masa, soalan, jubin jawapan berwarna.
+// Satu pusingan soalan bermasa: bar masa, soalan, jubin jawapan berwarna.
 // Dipanggil semula dengan `key` baharu untuk setiap soalan.
 import { useEffect, useRef, useState } from 'react';
 import { Icon } from './ui.jsx';

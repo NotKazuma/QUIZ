@@ -1,21 +1,23 @@
+// Halaman utama gaya permainan: Belang menyapa, jubin peperiksaan besar, dan jubin kecil untuk ciri lain.
 import { useEffect, useState } from 'react';
-import Aurora from '../components/bits/Aurora.jsx';
-import BlurText from '../components/bits/BlurText.jsx';
+import CircularText from '../components/bits/CircularText.jsx';
 import CountUp from '../components/bits/CountUp.jsx';
+import GlareHover from '../components/bits/GlareHover.jsx';
 import RotatingText from '../components/bits/RotatingText.jsx';
-import ShinyText from '../components/bits/ShinyText.jsx';
-import { ActionCard, LinkReminder, REDUCED_MOTION, Reveal } from '../components/ui.jsx';
+import Mascot, { SpeechBubble } from '../components/Mascot.jsx';
+import { ActionCard, LinkReminder, Reveal } from '../components/ui.jsx';
 import { ACHIEVEMENTS } from '../lib/achievements.js';
 import HomeworkList from './classes/HomeworkList.jsx';
-import { useMediaQuery } from '../lib/useMediaQuery.js';
 import { loadQuestions, objectiveOnly } from '../lib/quiz.js';
 
+// Ikon emoji peperiksaan mengikut medan `icon` dalam config.json.
+const EXAM_EMOJI = { 'book-check': '📖', graduation: '🎓', book: '📚' };
+
 export default function Home({
-  config, error, user, saved, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
+  config, error, user, saved, stats, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
   myClasses, onAdmin, onTeacher, onClasses, onRace, onStartHomework,
   onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
-  const dark = useMediaQuery('(prefers-color-scheme: dark)');
   const [total, setTotal] = useState(0);
 
   // Jumlah soalan semua subjek (fail disimpan dalam cache untuk skrin lain).
@@ -28,135 +30,112 @@ export default function Home({
     return () => { alive = false; };
   }, [config]);
 
-  const subjectCount = config ? config.exams.reduce((n, e) => n + e.subjects.length, 0) : 0;
-  // Nama subjek (unik) daripada config.json, berputar di bawah tajuk.
   const rotateWords = config ? [...new Set(config.exams.flatMap(e => e.subjects.map(s => s.name)))] : [];
+  const firstName = user.isGuest ? 'kawan' : user.name.split(' ')[0];
+
+  // Kemajuan peperiksaan = subjek yang pernah ditamatkan / jumlah subjek.
+  function examProgress(exam) {
+    const done = exam.subjects.filter(s => (exam.id + ':' + s.id) in (stats?.subjects || {})).length;
+    return { done, total: exam.subjects.length };
+  }
 
   return (
-    <section className="screen">
-      {/* Latar aurora lembut di belakang tajuk */}
-      {!REDUCED_MOTION && (
-        <div className="hero-bg" aria-hidden="true">
-          <Aurora
-            colorStops={dark ? ['#0f766e', '#2dd4bf', '#f59e0b'] : ['#5eead4', '#99f6e4', '#fcd34d']}
-            amplitude={0.9}
-            blend={0.6}
-            speed={0.6}
-            lightMode={!dark}
-          />
+    <section className="screen home">
+      {/* Belang menyapa, dikelilingi teks berputar (React Bits CircularText) */}
+      <div className="home-hero">
+        <div className="hero-mascot">
+          <CircularText text="KUIZ ULANG KAJI • JOM BELAJAR • " spinDuration={24} onHover="speedUp" />
+          <Mascot mood="wave" size={104} />
         </div>
-      )}
-
-      <div className="hero">
-        <p className="eyebrow">
-          <ShinyText text="Assalamualaikum!" speed={3}
-            color={dark ? '#2dd4bf' : '#0f766e'} shineColor={dark ? '#ccfbf1' : '#5eead4'} />
-        </p>
-        <BlurText text="Jom ulang kaji" className="hero-title" delay={120} animateBy="words" />
-        {rotateWords.length > 0 && <div className="hero-rotate">
-          <RotatingText
-            texts={rotateWords}
-            mainClassName="rotate-pill"
-            splitLevelClassName="rotate-split"
-            staggerFrom="last"
-            staggerDuration={0.025}
-            initial={{ y: '100%' }}
-            animate={{ y: 0 }}
-            exit={{ y: '-120%' }}
-            transition={{ type: 'spring', damping: 30, stiffness: 400 }}
-            rotationInterval={2200}
-          />
-          <span className="muted">bersama-sama!</span>
-        </div>}
+        <SpeechBubble>
+          <span className="hero-hello">Assalamualaikum, {firstName}!</span>
+          <span className="hero-line">
+            Jom ulang kaji
+            {rotateWords.length > 0 && (
+              <RotatingText texts={rotateWords} mainClassName="rotate-pill" splitLevelClassName="rotate-split"
+                staggerFrom="last" staggerDuration={0.025} initial={{ y: '100%' }} animate={{ y: 0 }}
+                exit={{ y: '-120%' }} transition={{ type: 'spring', damping: 30, stiffness: 400 }}
+                rotationInterval={2200} />
+            )}
+          </span>
+        </SpeechBubble>
       </div>
 
       {error && <p className="alert">{error}</p>}
 
-      {/* Peringatan tetamu: sentiasa dipaparkan sehingga akaun Google dipautkan */}
       {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} /></Reveal>}
 
-      {teacher && (
-        <Reveal className="spaced">
-          <ActionCard className="teacher-card" icon="users" title="Panel Cikgu"
-            desc={(teacherBasis === 'delima' ? '✅ Disahkan DELIMa · ' : '') + 'Kelas, laporan murid, kerja rumah & perlumbaan'}
-            onClick={onTeacher} />
-        </Reveal>
-      )}
+      {saved && config && <ResumeCard saved={saved} config={config} onResume={onResume} onDiscard={onDiscard} />}
 
-      {/* Kerja rumah yang belum dibuat (daripada kelas yang disertai) */}
       {myClasses.length > 0 && (
         <div className="spaced">
           <HomeworkList user={user} myClasses={myClasses} onStart={onStartHomework} limit={3} />
         </div>
       )}
 
-      {admin && (
-        <Reveal className="spaced">
-          <ActionCard className="admin-card" icon="shield" title="Panel Admin"
-            desc="Urus pengguna, tetapkan cikgu dan sunting soalan" onClick={onAdmin} />
-        </Reveal>
-      )}
-
-      {/* Latihan yang belum selesai (autosave) */}
-      {saved && config && <ResumeCard saved={saved} config={config} onResume={onResume} onDiscard={onDiscard} />}
-
-      {config && (
-        <Reveal className="stats">
-          <div className="stat">
-            <span className="stat-num">{total ? <CountUp to={total} duration={1.5} separator="," /> : '…'}</span>
-            <span className="stat-label">soalan</span>
-          </div>
-          <div className="stat">
-            <span className="stat-num"><CountUp to={subjectCount} duration={1.2} /></span>
-            <span className="stat-label">subjek</span>
-          </div>
-          <div className="stat">
-            <span className="stat-num"><CountUp to={config.exams.length} duration={1} /></span>
-            <span className="stat-label">peperiksaan</span>
-          </div>
-        </Reveal>
-      )}
-
-      <div className="card-list">
-        {config?.exams.map((exam, i) => (
-          <Reveal key={exam.id} index={i + 1}>
-            <ActionCard
-              className="exam-card"
-              icon={exam.icon || 'book'}
-              title={exam.name}
-              desc={(exam.desc ? exam.desc + ' · ' : '') + exam.subjects.length + ' subjek'}
-              onClick={() => onSelectExam(exam)} />
-          </Reveal>
-        ))}
-        {config && (
-          <Reveal index={config.exams.length + 1}>
-            <ActionCard className="achievement-card" icon="trophy" title="Pencapaian"
-              desc={`${unlockedCount}/${ACHIEVEMENTS.length} dibuka · lihat statistik anda`}
-              onClick={onAchievements} />
-          </Reveal>
-        )}
-        {config && (
-          <Reveal index={config.exams.length}>
-            <ActionCard className="race-card" icon="flag" title="Perlumbaan"
-              desc="Berlumba secara langsung dengan kawan atau kelas guna PIN" onClick={onRace} />
-          </Reveal>
-        )}
-        {config && (
-          <Reveal index={config.exams.length + 2}>
-            <ActionCard className="classes-card" icon="users" title="Kelas saya"
-              desc={myClasses.length ? `${myClasses.length} kelas · kerja rumah & sertai kelas` : 'Sertai kelas cikgu dengan kod kelas'}
-              onClick={onClasses} />
-          </Reveal>
-        )}
-        {config && !teacher && (
-          <Reveal index={config.exams.length + 3}>
-            <ActionCard className="apply-card" icon="users" title="Saya cikgu"
-              desc={teacherRequest?.status === 'pending' ? '⏳ Permohonan sedang disemak admin' : 'Sahkan akaun cikgu untuk cipta kelas & kerja rumah'}
-              onClick={onApplyTeacher} />
-          </Reveal>
-        )}
+      {/* Jubin peperiksaan besar (GlareHover memberi kilauan bila disentuh) */}
+      <div className="exam-grid">
+        {config?.exams.map((exam, i) => {
+          const p = examProgress(exam);
+          return (
+            <Reveal key={exam.id} index={i}>
+              <GlareHover className="exam-glare" width="100%" height="auto" background="transparent"
+                borderColor="transparent" borderRadius="20px" glareColor="#ffffff" glareOpacity={0.4}
+                glareSize={250} transitionDuration={700}>
+                <button className={'exam-tile tone-' + (i % 3)} onClick={() => onSelectExam(exam)}>
+                  <span>
+                    <span className="exam-tile-kicker">{exam.subjects.length} subjek</span>
+                    <span className="exam-tile-name">{exam.name}</span>
+                    {exam.desc && <span className="exam-tile-desc">{exam.desc}</span>}
+                    <span className="exam-tile-progress">
+                      <span className="bar"><span style={{ width: (p.done / p.total) * 100 + '%' }} /></span>
+                      {p.done}/{p.total}
+                    </span>
+                  </span>
+                  <span className="exam-tile-icon" aria-hidden="true">{EXAM_EMOJI[exam.icon] || '📚'}</span>
+                  <span className="exam-tile-deco" aria-hidden="true">{EXAM_EMOJI[exam.icon] || '📚'}</span>
+                </button>
+              </GlareHover>
+            </Reveal>
+          );
+        })}
       </div>
+
+      {/* Jubin kecil: ciri lain */}
+      {config && (
+        <Reveal className="tile-grid" index={2}>
+          <MiniTile color="c-red" emoji="🏁" title="Perlumbaan" desc="Lumba dengan kawan guna PIN" onClick={onRace} />
+          <MiniTile color="c-yellow" emoji="🏆" title="Pencapaian"
+            desc={`${unlockedCount}/${ACHIEVEMENTS.length} lencana dibuka`} onClick={onAchievements} />
+          <MiniTile color="" emoji="🏫" title="Kelas saya"
+            desc={myClasses.length ? `${myClasses.length} kelas · kerja rumah` : 'Sertai kelas cikgu'} onClick={onClasses} />
+          {teacher ? (
+            <MiniTile color="c-purple" emoji="🧑‍🏫" title="Panel Cikgu"
+              desc={teacherBasis === 'delima' ? '✅ DELIMa · kelas & soalan' : 'Kelas, soalan & laporan'} onClick={onTeacher} />
+          ) : (
+            <MiniTile color="c-purple" emoji="✏️" title="Saya cikgu"
+              desc={teacherRequest?.status === 'pending' ? '⏳ Sedang disemak' : 'Sahkan akaun cikgu'} onClick={onApplyTeacher} />
+          )}
+          {admin && <MiniTile color="c-ink" emoji="🛡️" title="Panel Admin" desc="Pengguna & soalan" onClick={onAdmin} />}
+        </Reveal>
+      )}
+
+      {total > 0 && (
+        <p className="home-footnote">
+          <CountUp to={total} duration={1.5} separator="," /> soalan · {config.exams.reduce((n, e) => n + e.subjects.length, 0)} subjek
+        </p>
+      )}
     </section>
+  );
+}
+
+function MiniTile({ color, emoji, title, desc, onClick }) {
+  return (
+    <button className={'mini-tile ' + color} onClick={onClick}>
+      <span className="mini-icon" aria-hidden="true">{emoji}</span>
+      <span className="mini-title">{title}</span>
+      <span className="mini-desc">{desc}</span>
+    </button>
   );
 }
 

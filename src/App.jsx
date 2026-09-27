@@ -13,6 +13,8 @@ import { Avatar, GoogleButton, Icon, REDUCED_MOTION } from './components/ui.jsx'
 import ClickSpark from './components/bits/ClickSpark.jsx';
 import GradientText from './components/bits/GradientText.jsx';
 import Particles from './components/bits/Particles.jsx';
+import Dock from './components/bits/Dock.jsx';
+import Mascot from './components/Mascot.jsx';
 import Toasts from './components/Toasts.jsx';
 import Achievements from './screens/Achievements.jsx';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
@@ -26,12 +28,13 @@ const Teacher = lazy(() => import('./screens/teacher/Teacher.jsx'));
 const RaceHub = lazy(() => import('./screens/race/RaceHub.jsx'));
 import Home from './screens/Home.jsx';
 import Login from './screens/Login.jsx';
-import ModeSelect from './screens/ModeSelect.jsx';
-import SubjectSelect from './screens/SubjectSelect.jsx';
-import YearSelect from './screens/YearSelect.jsx';
+import ExamPath from './screens/ExamPath.jsx';
 import Quiz from './screens/Quiz.jsx';
 import Challenge from './screens/Challenge.jsx';
 import Result from './screens/Result.jsx';
+
+// Skrin yang memaparkan bar navigasi bawah.
+const NAV_SCREENS = ['home', 'path', 'achievements', 'classes', 'teacher', 'admin', 'apply-teacher', 'result'];
 
 // Tetamu diingatkan untuk pautkan Google setiap N soalan dijawab.
 const REMIND_EVERY = 10;
@@ -43,7 +46,6 @@ export default function App() {
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
   const [subjectId, setSubjectId] = useState(null);
-  const [mode, setMode] = useState('practice');  // 'practice' | 'challenge'
   const [challenge, setChallenge] = useState(null); // { questions, pool }
 
   const [user, setUser] = useState(undefined);   // undefined = sedang semak, null = belum log masuk
@@ -155,11 +157,6 @@ export default function App() {
   }
 
   // ===== Kuiz =====
-  function selectSubject(subject, questions) {
-    if (mode === 'challenge') startChallenge(subject, questions);
-    else startQuiz(subject, questions);
-  }
-
   // Cabaran: soalan dikocok (maks mengikut config), kolam tebusan = semua soalan subjek.
   async function startChallenge(subject, questions, all = false, fixedPool = null) {
     const count = all ? questions.length : subject.test?.questions || 20;
@@ -172,13 +169,13 @@ export default function App() {
     go('challenge');
   }
 
-  function startQuiz(subject, questions, hw = null) {
+  function startQuiz(subject, questions, hw = null, yr) {
     if (savedRef.current && !confirm('Anda ada latihan yang belum selesai. Mula latihan baharu dan buang simpanan itu?')) return;
     const prepared = shuffle(questions).map(q => prepareQuestion(q));
     const raw = {
       examId: hw?.examId ?? exam?.id ?? null,
       subjectId: subject.id,
-      year: hw ? hw.year || null : year,
+      year: hw ? hw.year || null : yr !== undefined ? yr : year,
       order: prepared.map(q => ({ id: q.id, perm: q.perm })),
       current: 0,
       score: 0,
@@ -310,8 +307,8 @@ export default function App() {
       {/* Zarah terapung di belakang semua skrin (React Bits Particles) */}
       {!REDUCED_MOTION && (
         <div className="page-bg" aria-hidden="true">
-          <Particles particleColors={['#14b8a6', '#2dd4bf', '#f59e0b', '#fcd34d']}
-            particleCount={160} particleSpread={10} speed={0.08} particleBaseSize={260}
+          <Particles particleColors={['#58cc02', '#1cb0f6', '#ff9600', '#ffc800', '#ce82ff', '#ff4b4b']}
+            particleCount={120} particleSpread={10} speed={0.06} particleBaseSize={220}
             alphaParticles disableRotation={false} />
         </div>
       )}
@@ -319,11 +316,18 @@ export default function App() {
       <header className="topbar">
         <div className="topbar-inner">
           <span className="brand">
-            <span className="brand-mark" aria-hidden="true"><Icon name="book" /></span>
-            <GradientText colors={['#14b8a6', '#2dd4bf', '#f59e0b', '#14b8a6']} animationSpeed={6}>
+            <span className="brand-mark" aria-hidden="true"><Mascot size={38} /></span>
+            <GradientText className="brand-name" colors={['#ff9600', '#ffc800', '#58cc02', '#ff9600']} animationSpeed={6}>
               Kuiz Ulang Kaji
             </GradientText>
           </span>
+          {loggedIn && (
+            <div className="hud" aria-label="Statistik anda">
+              <span className="hud-item hud-fire" title="Hari berturut-turut"><span className="hud-emoji">🔥</span>{stats.dayStreak || 0}</span>
+              <span className="hud-item hud-xp" title="XP (10 setiap jawapan betul)"><span className="hud-emoji">⚡</span>{(stats.correct || 0) * 10}</span>
+              <span className="hud-item hud-trophy" title="Lencana"><span className="hud-emoji">🏆</span>{Object.keys(unlocked).length}</span>
+            </div>
+          )}
           {user && (
             <div className="topbar-profile">
               {user.isGuest && !user.local && (
@@ -346,13 +350,13 @@ export default function App() {
       <Toasts toasts={toasts} onDismiss={dismissToast} onLink={link} />
 
       {/* Percikan kecil pada setiap sentuhan (React Bits ClickSpark) */}
-      <ClickSpark sparkColor="#14b8a6" sparkSize={8} sparkRadius={22} sparkCount={8} duration={400}>
+      <ClickSpark sparkColor="#ff9600" sparkSize={9} sparkRadius={24} sparkCount={10} duration={420}>
       <main className="container">
         <Suspense fallback={<p className="alert">Memuatkan…</p>}>
         {(user === undefined || (user && !dataReady)) && <p className="alert">Memuatkan…</p>}
         {user === null && <Login />}
         {loggedIn && screen === 'home' && (
-          <Home config={config} error={error} user={user} saved={saved}
+          <Home config={config} error={error} user={user} saved={saved} stats={stats}
             admin={isAdmin(user)} teacher={isTeacher(user, role)} myClasses={myClasses}
             teacherBasis={teacherBasis(user, role)} teacherRequest={teacherRequest}
             onApplyTeacher={() => go('apply-teacher')}
@@ -362,7 +366,7 @@ export default function App() {
             unlockedCount={Object.keys(unlocked).length}
             onResume={resumeQuiz} onDiscard={() => discardSaved()} onLink={link}
             onAchievements={() => go('achievements')}
-            onSelectExam={e => { setExam(e); go('mode'); }} />
+            onSelectExam={e => { setExam(e); go('path'); }} />
         )}
         {loggedIn && screen === 'classes' && (
           <MyClasses user={user} myClasses={myClasses} config={config} onChange={changeClasses}
@@ -388,17 +392,13 @@ export default function App() {
           <Achievements user={user} config={config} stats={stats} unlocked={unlocked}
             onBack={() => go('home')} onLink={link} />
         )}
-        {loggedIn && screen === 'mode' && (
-          <ModeSelect exam={exam} onBack={() => go('home')}
-            onPractice={() => { setMode('practice'); go('years'); }}
-            onChallenge={() => { setMode('challenge'); go('years'); }} />
-        )}
-        {loggedIn && screen === 'years' && (
-          <YearSelect exam={exam} onBack={() => go('mode')}
-            onSelect={y => { setYear(y); go('subjects'); }} />
-        )}
-        {loggedIn && screen === 'subjects' && (
-          <SubjectSelect exam={exam} year={year} mode={mode} onBack={() => go('years')} onSelect={selectSubject} />
+        {loggedIn && screen === 'path' && exam && (
+          <ExamPath exam={exam} stats={stats} onBack={() => go('home')}
+            onStart={(subject, questions, m, y) => {
+              setYear(y);
+              if (m === 'challenge') startChallenge(subject, questions);
+              else startQuiz(subject, questions, null, y);
+            }} />
         )}
         {loggedIn && screen === 'quiz' && session && (
           <Quiz key={quizRun} session={session}
@@ -410,7 +410,7 @@ export default function App() {
         {loggedIn && screen === 'challenge' && challenge && (
           <Challenge key={quizRun} questions={challenge.questions} pool={challenge.pool}
             onAnswer={correct => updateStats(recordAnswer(statsRef.current, correct))}
-            onQuit={() => { setAssignment(null); go(exam && !assignment ? 'subjects' : 'home'); }}
+            onQuit={() => { setAssignment(null); go(exam && !assignment ? 'path' : 'home'); }}
             onFinish={finishChallenge} />
         )}
         {loggedIn && screen === 'result' && result && (
@@ -418,12 +418,26 @@ export default function App() {
             onRetry={() => (result.mode === 'challenge'
               ? startChallenge(exam.subjects.find(x => x.id === subjectId), quizSource)
               : startQuiz({ id: subjectId }, quizSource))}
-            onSubjects={() => go(exam ? 'subjects' : 'home')}
+            onSubjects={() => go(exam ? 'path' : 'home')}
             onHome={() => go('home')} />
         )}
         </Suspense>
       </main>
       </ClickSpark>
+
+      {/* Bar navigasi bawah (React Bits Dock) — disembunyikan semasa menjawab soalan */}
+      {loggedIn && NAV_SCREENS.includes(screen) && (
+        <nav className="bottom-nav" aria-label="Navigasi utama">
+          <Dock panelHeight={64} baseItemSize={48} magnification={62} distance={140}
+            items={[
+              { icon: '🏠', label: 'Utama', onClick: () => go('home'), className: screen === 'home' || screen === 'path' ? 'is-active' : '' },
+              { icon: '🏁', label: 'Lumba', onClick: () => { setRaceClass(null); go('race'); }, className: screen === 'race' ? 'is-active' : '' },
+              { icon: '🏫', label: 'Kelas', onClick: () => go('classes'), className: screen === 'classes' ? 'is-active' : '' },
+              { icon: '🏆', label: 'Lencana', onClick: () => go('achievements'), className: screen === 'achievements' ? 'is-active' : '' },
+              ...(isTeacher(user, role) ? [{ icon: '🧑‍🏫', label: 'Cikgu', onClick: () => go('teacher'), className: screen === 'teacher' ? 'is-active' : '' }] : []),
+            ]} />
+        </nav>
+      )}
 
       <footer className="site-footer">
         © {new Date().getFullYear()}{' '}

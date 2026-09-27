@@ -187,7 +187,7 @@ function PlayRounds({ pin, user, me, questions, players }) {
     setTimeout(() => setPhase('feedback'), 700);
   }
 
-  // Pergi ke soalan seterusnya secara automatik selepas 2.5 saat (gaya Quizizz).
+  // Pergi ke soalan seterusnya secara automatik selepas 2.5 saat.
   useEffect(() => {
     if (phase !== 'feedback') return;
     const t = setTimeout(next, 2500);
