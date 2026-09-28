@@ -1927,6 +1927,391 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-ibadat-upp22024-01",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين عبادات اياله ___.",
+  "options": [
+   "شكور",
+   "ڤاتوه",
+   "اخلاص"
+  ],
+  "answer": 1,
+  "explanation": "عبادات برمعنا ڤاتوه كڤد الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-02",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم طهارة اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "طهارة اياله واجب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-03",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين اءير اد ___.",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "اءير تربهاݢي كڤد امڤت.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-04",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت استنجاء اياله ___.",
+  "options": [
+   "كاچ",
+   "تيسو",
+   "ڤلستيك"
+  ],
+  "answer": 1,
+  "explanation": "تيسو بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-05",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڠݢوتا وضوء اياله ___.",
+  "options": [
+   "موك",
+   "جاري",
+   "مات"
+  ],
+  "answer": 0,
+  "explanation": "ممباسوه موك اياله ركن وضوء.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-06",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بروضوء مڠݢوناكن اءير مطلق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "وضوء مستيله مڠݢوناكن اءير مطلق.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-07",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: هيلڠ عقل بوليه ممبطلكن وضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "هيلڠ عقل ممبطلكن وضوء.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-08",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: صلاة فرض اد ليم وقتو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صلاة فرض اد ليم وقتو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-09",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اءير مطلق اداله اءير يڠ تيدق سوچي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اءير مطلق سوچي لاݢي مڽوچيكن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-10",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حکوم استنجاء اداله سنة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حکوم استنجاء اياله واجب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-11",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ممباچ دعاء سلڤس وضوء اياله ___.",
+  "options": [
+   "صلاة",
+   "طهارة",
+   "سنة",
+   "اءير مستعمل",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "ممباچ دعاء سلڤس وضوء اياله سنة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-12",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤركارا يڠ مواجبكن وضوء اياله ___.",
+  "options": [
+   "صلاة",
+   "طهارة",
+   "سنة",
+   "اءير مستعمل",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "صلاة مواجبكن وضوء.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-13",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منونايكن صلاة فرض اياله ___.",
+  "options": [
+   "صلاة",
+   "طهارة",
+   "سنة",
+   "اءير مستعمل",
+   "واجب"
+  ],
+  "answer": 4,
+  "explanation": "منونايكن صلاة فرض اياله واجب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-14",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبرسيهكن سسواتو درڤد نجيس اياله ___.",
+  "options": [
+   "صلاة",
+   "طهارة",
+   "سنة",
+   "اءير مستعمل",
+   "واجب"
+  ],
+  "answer": 1,
+  "explanation": "طهارة اياله ممبرسيهكن درڤد نجيس.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-15",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي تتاڤي تيدق مڽوچيكن يڠ لاءين اياله ___.",
+  "options": [
+   "صلاة",
+   "طهارة",
+   "سنة",
+   "اءير مستعمل",
+   "واجب"
+  ],
+  "answer": 3,
+  "explanation": "اءير مستعمل سوچي تتاڤي تيدق مڽوچيكن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-16",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ تيدق بوليه دݢوناكن اونتوق استنجاء اياله ___.",
+  "options": [
+   "روتي",
+   "باتو",
+   "كرتس"
+  ],
+  "answer": 0,
+  "explanation": "روتي اياله ماكنن، تيدق بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-17",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباسوه اڠݢوتا ترتنتو مڠݢوناكن اءير مطلق اياله ___.",
+  "options": [
+   "صلاة",
+   "وضوء",
+   "طهارة"
+  ],
+  "answer": 1,
+  "explanation": "وضوء اياله ممباسوه اڠݢوتا ترتنتو دڠن اءير مطلق.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-18",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباسوه كدوا-دوا بله كاكي اياله ___.",
+  "options": [
+   "استنجاء",
+   "ركن صلاة",
+   "ركن وضوء"
+  ],
+  "answer": 2,
+  "explanation": "ممباسوه كدوا بله كاكي اياله ركن وضوء.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-19",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام كدوا اياله ___.",
+  "options": [
+   "ڤواسا بولن رمضان",
+   "صلاة ليم وقتو",
+   "منونايكن حج"
+  ],
+  "answer": 1,
+  "explanation": "ركن إسلام كدوا اياله منديريكن صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22024-20",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو صلاة فرض اياله ___.",
+  "options": [
+   "عصر",
+   "ضحى",
+   "توبة"
+  ],
+  "answer": 0,
+  "explanation": "عصر اياله صلاة فرض.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-ibadat-ppt2024-01",
   "exam": "Darjah 1",
   "subject": "Ibadat",

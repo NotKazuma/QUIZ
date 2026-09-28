@@ -1920,6 +1920,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-tauhid-upp22024-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"كعبة\" اياله ___.",
+  "options": [
+   "ك ع ب خ",
+   "ك ت ا ب",
+   "ك ع ب ة"
+  ],
+  "answer": 2,
+  "explanation": "كعبة = ك + ع + ب + ة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"هيدوڤ\" اياله ___.",
+  "options": [
+   "ه ي د و ف",
+   "ه ي د و ڤ",
+   "ه ي د و ق"
+  ],
+  "answer": 1,
+  "explanation": "هيدوڤ = ه + ي + د + و + ڤ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"ڤرچاي\" اياله ___.",
+  "options": [
+   "ڤ ر چ ا ي",
+   "ي ا ك ي ن",
+   "ڤ ڠ ر ت ي ن"
+  ],
+  "answer": 0,
+  "explanation": "ڤرچاي = ڤ + ر + چ + ا + ي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"ميقيني\" اياله ___.",
+  "options": [
+   "م ن ا ر ي ق",
+   "م ي ڤ ي ن ي",
+   "م ي ق ي ن ي"
+  ],
+  "answer": 2,
+  "explanation": "ميقيني = م + ي + ق + ي + ن + ي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"قيامة\" اياله ___.",
+  "options": [
+   "ق ي ا م ت",
+   "ق ي ا م و",
+   "ق ي ا م ة"
+  ],
+  "answer": 2,
+  "explanation": "قيامة = ق + ي + ا + م + ة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حج اداله ركن إسلام يڠ كليم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حج اياله ركن إسلام يڠ كليم.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حكمة حج اداله اونتوق منمبه دوسا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حج ممبرسيهكن ديري درڤد دوسا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ايمان برارتي يقين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ايمان برمعنا يقين.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ركن ايمان اد 7 ڤركارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ركن ايمان اد 6 ڤركارا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: واجب اورڠ إسلام ممڤلاجري ركن ايمان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ممڤلاجري ركن ايمان اياله واجب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت ملاكوكن حج اياله ___.",
+  "options": [
+   "مكه",
+   "مدينه",
+   "مليسيا"
+  ],
+  "answer": 0,
+  "explanation": "حج دلاكوكن دمكه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منونايكن حج اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "حج واجب اتس اورڠ يڠ مامڤو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان يڠ كتيݢ اياله برايمان كڤد ___.",
+  "options": [
+   "كتاب",
+   "رسول",
+   "قيامة"
+  ],
+  "answer": 0,
+  "explanation": "ركن ايمان كتيݢ اياله برايمان كڤد كتاب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يڠ ممباوا ركن ايمان اياله ___.",
+  "options": [
+   "ادم",
+   "محمد",
+   "ادريس"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ مڠاجر ركن ايمان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمان يڠ تيدق سمڤورنا اياله ايمان يڠ ___.",
+  "options": [
+   "روسق",
+   "سوسه",
+   "باءيق"
+  ],
+  "answer": 0,
+  "explanation": "ايمان يڠ تيدق سمڤورنا اياله ايمان يڠ روسق.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منونايكن حج اياله ___.",
+  "options": [
+   "انم",
+   "ركن ايمان",
+   "واجب",
+   "الرحمن",
+   "برايمان كڤد الله"
+  ],
+  "answer": 2,
+  "explanation": "حج اياله واجب باݢي يڠ مامڤو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دانتارا نام الله يڠ موليا اياله ___.",
+  "options": [
+   "انم",
+   "ركن ايمان",
+   "واجب",
+   "الرحمن",
+   "برايمان كڤد الله"
+  ],
+  "answer": 3,
+  "explanation": "الرحمن اياله ساله ساتو نام الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله ركن ايمان اياله ___.",
+  "options": [
+   "انم",
+   "ركن ايمان",
+   "واجب",
+   "الرحمن",
+   "برايمان كڤد الله"
+  ],
+  "answer": 0,
+  "explanation": "ركن ايمان اد انم.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داسر اوتام اورڠ إسلام اياله ___.",
+  "options": [
+   "انم",
+   "ركن ايمان",
+   "واجب",
+   "الرحمن",
+   "برايمان كڤد الله"
+  ],
+  "answer": 1,
+  "explanation": "ركن ايمان اياله داسر اوتام اورڠ إسلام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان يڠ ڤرتام اياله ___.",
+  "options": [
+   "انم",
+   "ركن ايمان",
+   "واجب",
+   "الرحمن",
+   "برايمان كڤد الله"
+  ],
+  "answer": 4,
+  "explanation": "ركن ايمان ڤرتام اياله برايمان كڤد الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڽمڤورناكن عبادة حج كران ___.",
+  "options": [
+   "الله تعالى",
+   "ݢورو",
+   "ايبو باڤ"
+  ],
+  "answer": 0,
+  "explanation": "كيت برعبادة كران الله تعالى.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه منونايكن عبادة حج اياله ___.",
+  "options": [
+   "كبوسنن",
+   "كاءينصافن",
+   "كسومبوڠن"
+  ],
+  "answer": 1,
+  "explanation": "حج منيمبولكن راس اينصاف.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تونتوتن دالم ڤلقساناءن عبادة حج اياله ___.",
+  "options": [
+   "كسومبوڠن",
+   "كبڠݢاءن",
+   "كأخلاصن"
+  ],
+  "answer": 2,
+  "explanation": "عبادة حج مستيله دلاكوكن دڠن اخلاص.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن نام الله يڠ موليا \"الأسماء الحسنى\" اياله ___.",
+  "options": [
+   "77",
+   "88",
+   "99"
+  ],
+  "answer": 2,
+  "explanation": "الأسماء الحسنى اد 99.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22024-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان كليم اياله ___.",
+  "options": [
+   "برايمان كڤد ملائكة",
+   "برايمان كڤد هاري قيامة",
+   "برايمان كڤد قضاء دان قدر"
+  ],
+  "answer": 1,
+  "explanation": "ركن ايمان كليم اياله برايمان كڤد هاري قيامة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-ppt2024-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",

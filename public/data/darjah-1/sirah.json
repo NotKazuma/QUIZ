@@ -1864,6 +1864,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-sirah-upp22024-01",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: م ح م د = ___",
+  "options": [
+   "احمد",
+   "محمد",
+   "محمود"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي محمد.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-02",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ل ل ا ك ي = ___",
+  "options": [
+   "كالي",
+   "للكي",
+   "للاكي"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي للاكي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-03",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ت ر ح ر م ت = ___",
+  "options": [
+   "حرمت",
+   "حرمات",
+   "ترحرمت"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي ترحرمت.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-04",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ݢ ا د ي س = ___",
+  "options": [
+   "ديسا",
+   "ݢاديس",
+   "كديس"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي ݢاديس.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-05",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: م و ل ي ا = ___",
+  "options": [
+   "مولا",
+   "موال",
+   "موليا"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي موليا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-06",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: طاعة اياله صيفت ترڤوجي سيدتينا آمنة بنت وهب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة سأورڠ يڠ طاعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-07",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤماره اياله صيفت ترڤوجي سيدتينا آمنة بنت وهب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ڤماره بوكن صيفت ترڤوجي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-08",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: صبر اياله صيفت ترڤوجي سيدتينا آمنة بنت وهب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة سأورڠ يڠ صبر.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-09",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ايري هاتي اياله صيفت ترڤوجي سيدتينا آمنة بنت وهب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ايري هاتي بوكن صيفت ترڤوجي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-10",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سوڤن سنتون اياله صيفت ترڤوجي سيدتينا آمنة بنت وهب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة سأورڠ يڠ سوڤن سنتون.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-11",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نݢري عبد الله برنياݢ اياله ___.",
+  "options": [
+   "شام",
+   "مكة",
+   "توركي"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله برنياݢ ك نݢري شام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-12",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام انق آمنة بنت وهب اياله ___.",
+  "options": [
+   "هاشم",
+   "محمد",
+   "اسحاق"
+  ],
+  "answer": 1,
+  "explanation": "انق آمنة اياله نبي محمد ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-13",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت ترڤوجي عبد الله اياله ___.",
+  "options": [
+   "لمه",
+   "مالس",
+   "براني"
+  ],
+  "answer": 2,
+  "explanation": "عبد الله سأورڠ يڠ براني.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-14",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "همبا ڤرمڤوان عبد الله اياله ___.",
+  "options": [
+   "خديجة",
+   "فاطمة",
+   "أم أيمن"
+  ],
+  "answer": 2,
+  "explanation": "أم أيمن اياله همبا ڤرمڤوان عبد الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-15",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايستري عبد الله اياله ___.",
+  "options": [
+   "حليمة",
+   "آمنة",
+   "فاطمة"
+  ],
+  "answer": 1,
+  "explanation": "ايستري عبد الله اياله آمنة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-16",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام باڤ نبي محمد ﷺ اياله ___.",
+  "options": [
+   "مدينة",
+   "عبد الله",
+   "ايبو باڤ",
+   "قريش",
+   "همبا الله"
+  ],
+  "answer": 1,
+  "explanation": "باڤ نبي محمد ﷺ اياله عبد الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-17",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتورونن آمنة بنت وهب اياله ___.",
+  "options": [
+   "مدينة",
+   "عبد الله",
+   "ايبو باڤ",
+   "قريش",
+   "همبا الله"
+  ],
+  "answer": 3,
+  "explanation": "آمنة درڤد كتورونن قريش.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-18",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي عبد الله اياله ___.",
+  "options": [
+   "مدينة",
+   "عبد الله",
+   "ايبو باڤ",
+   "قريش",
+   "همبا الله"
+  ],
+  "answer": 4,
+  "explanation": "عبد الله برمعنا همبا الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-19",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ڤرلو دكاسيهي سلڤس رسول ﷺ اياله ___.",
+  "options": [
+   "مدينة",
+   "عبد الله",
+   "ايبو باڤ",
+   "قريش",
+   "همبا الله"
+  ],
+  "answer": 2,
+  "explanation": "كيت ڤرلو مڠاسيهي ايبو باڤ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-20",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت عبد الله منيڠݢل دنيا اياله ___.",
+  "options": [
+   "مدينة",
+   "عبد الله",
+   "ايبو باڤ",
+   "قريش",
+   "همبا الله"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله منيڠݢل دنيا د مدينة (يثرب).",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-21",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤكرجاءن عبد الله بن عبد المطلب اياله ___.",
+  "options": [
+   "ݢورو",
+   "ڤوليس",
+   "ڤنياݢ"
+  ],
+  "answer": 2,
+  "explanation": "عبد الله سأورڠ ڤنياݢ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-22",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت ترڤوجي عبد الله بن عبد المطلب اياله ___.",
+  "options": [
+   "براني",
+   "مالس",
+   "كاسر"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله سأورڠ يڠ براني.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-23",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام داتوق نبي محمد ﷺ اياله ___.",
+  "options": [
+   "ابو طالب",
+   "عبد الله",
+   "عبد المطلب"
+  ],
+  "answer": 2,
+  "explanation": "داتوق نبي محمد ﷺ اياله عبد المطلب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-24",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي جاهلية اياله ___.",
+  "options": [
+   "ڤنداي",
+   "جاهيل",
+   "بيجق"
+  ],
+  "answer": 1,
+  "explanation": "جاهلية برمعنا جاهيل.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22024-25",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري نبي محمد ﷺ دلاهيركن اياله ___.",
+  "options": [
+   "احد",
+   "اثنين",
+   "ثلاث"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ دلاهيركن ڤد هاري اثنين.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-sirah-ppt2024-01",
   "exam": "Darjah 1",
   "subject": "Sirah",

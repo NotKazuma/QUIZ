@@ -1854,6 +1854,429 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-jawi-upp22024-01",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ب\" ڤد كليمة \"بولا\" براد ___.",
+  "options": [
+   "دأول",
+   "دتڠه",
+   "دأخير"
+  ],
+  "answer": 0,
+  "explanation": "بولا دمولاكن دڠن حروف ب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-02",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ع\" ڤد كليمة \"طمع\" براد ___.",
+  "options": [
+   "دأول",
+   "دتڠه",
+   "دأخير"
+  ],
+  "answer": 2,
+  "explanation": "طمع برأخير دڠن حروف ع.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-03",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ حروف \"ف\" براد دتڠه اياله ___.",
+  "options": [
+   "حفظ",
+   "فاءيل",
+   "اكتيف"
+  ],
+  "answer": 0,
+  "explanation": "دالم حفظ، حروف ف براد دتڠه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-04",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمة يڠ برمولا دڠن حروف \"ڤ\" اياله ___.",
+  "options": [
+   "ڤيو",
+   "ڤاموق",
+   "تاڠن"
+  ],
+  "answer": 0,
+  "explanation": "ڤيو دمولاكن دڠن حروف ڤ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-05",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق حروف \"ف\" برسامبوڠ دتڠه اياله ___.",
+  "options": [
+   "ف",
+   "ـفـ",
+   "ـف"
+  ],
+  "answer": 1,
+  "explanation": "دتڠه كليمة، ف دتوليس ـفـ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-06",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كليمة نذر اد حروف \"ذ\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نذر مڠاندوڠي حروف ذ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-07",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف \"و\" دأول كليمة \"كودا\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كودا دمولاكن دڠن حروف ک.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-08",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ب ا + ت و = باتو",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "با + تو = باتو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-09",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ب و + ل و = بولا",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "بو + لو = بولو، بوكن بولا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-10",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سيكو = سي + كو",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سيكو = سي + كو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-11",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكو كات ترتوتوڤ \"دوا-دوا\" حروف اياله ___.",
+  "options": [
+   "لڠ + ست",
+   "رم + باي",
+   "كڠ + كوڠ"
+  ],
+  "answer": 0,
+  "explanation": "لڠ (2 حروف) + ست (2 حروف).",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-12",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رم + ڤه = ___",
+  "options": [
+   "رومه",
+   "رمڤه",
+   "روبوه"
+  ],
+  "answer": 1,
+  "explanation": "رم + ڤه = رمڤه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-13",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ب ن ت ل = ___",
+  "options": [
+   "بن + تو",
+   "بن + تل",
+   "بن + جير"
+  ],
+  "answer": 1,
+  "explanation": "بنتل = بن + تل.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-14",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكو كات ترتوتوڤ \"دوا-تيݢ\" حروف اياله ___.",
+  "options": [
+   "مڠ + كيس",
+   "لڠ + سل",
+   "لڠ + ست"
+  ],
+  "answer": 0,
+  "explanation": "مڠ (2 حروف) + كيس (3 حروف).",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-15",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كڠ + كوڠ = ___",
+  "options": [
+   "مڠكيس",
+   "ڤيڠݢن",
+   "كڠكوڠ"
+  ],
+  "answer": 2,
+  "explanation": "كڠ + كوڠ = كڠكوڠ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-16",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ت\" دتڠه كليمة: ___",
+  "options": [
+   "ي",
+   "كريتا",
+   "قريش",
+   "جاون",
+   "ه"
+  ],
+  "answer": 1,
+  "explanation": "دالم كريتا، حروف ت براد دتڠه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-17",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ج\" دأول كليمة: ___",
+  "options": [
+   "ي",
+   "كريتا",
+   "قريش",
+   "جاون",
+   "ه"
+  ],
+  "answer": 3,
+  "explanation": "جاون دمولاكن دڠن حروف ج.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-18",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ش\" دأخير كليمة: ___",
+  "options": [
+   "ي",
+   "كريتا",
+   "قريش",
+   "جاون",
+   "ه"
+  ],
+  "answer": 2,
+  "explanation": "قريش برأخير دڠن حروف ش.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-19",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دتڠه كليمة \"ميهون\" اياله ___.",
+  "options": [
+   "ي",
+   "كريتا",
+   "قريش",
+   "جاون",
+   "ه"
+  ],
+  "answer": 4,
+  "explanation": "حروف ه براد دتڠه كليمة ميهون.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-20",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دأخير كليمة \"بلي\" اياله ___.",
+  "options": [
+   "ي",
+   "كريتا",
+   "قريش",
+   "جاون",
+   "ه"
+  ],
+  "answer": 0,
+  "explanation": "بلي برأخير دڠن حروف ي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-21",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رو + سا = ___",
+  "options": [
+   "رودا",
+   "روسا",
+   "روكا"
+  ],
+  "answer": 1,
+  "explanation": "رو + سا = روسا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22024-22",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڠسا = ___",
+  "options": [
+   "اڠ + سا",
+   "اڠ + كا",
+   "اڠ + كور"
+  ],
+  "answer": 0,
+  "explanation": "اڠسا = اڠ + سا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-jawi-ppt2024-01",
   "exam": "Darjah 1",
   "subject": "Jawi",
