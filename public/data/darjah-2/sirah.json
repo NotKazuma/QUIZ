@@ -1,0 +1,463 @@
+[
+ {
+  "id": "darjah-2-sirah-pat2025-01",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه نام بوندا نبي محمد ﷺ؟",
+  "options": [
+   "سيدة آمنة",
+   "سيدة ثويبة الأسلمية",
+   "سيدة حليمة السعدية"
+  ],
+  "answer": 0,
+  "explanation": "بوندا نبي محمد ﷺ اياله آمنة بنت وهب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-02",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤد اول كلاهيرن نبي محمد ﷺ دأسوه اوليه ___.",
+  "options": [
+   "سيدة آمنة",
+   "سيدة زينب",
+   "سيدة حفصة"
+  ],
+  "answer": 0,
+  "explanation": "ڤد اول كلاهيرن، باݢيندا دأسوه اوليه ايبوڽ آمنة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-03",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ دأسوه اوليه ثويبة الأسلمية دڤركمڤوڠن ___.",
+  "options": [
+   "بني شام",
+   "بني هاشم",
+   "بني سعد"
+  ],
+  "answer": 1,
+  "explanation": "ثويبة مڽوسوكن باݢيندا دكالڠن بني هاشم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-04",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كهيدوڤن نبي محمد ﷺ ڤد زمان ديواس ___.",
+  "options": [
+   "تنڠ",
+   "سديه",
+   "منچابر"
+  ],
+  "answer": 2,
+  "explanation": "كهيدوڤن باݢيندا ڤنوه دڠن چابرن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-05",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سورة ڤرتام يڠ دتورونكن كڤد نبي محمد ﷺ دݢوا حراء اياله ___.",
+  "options": [
+   "سورة العلق",
+   "سورة الناس",
+   "سورة الإخلاص"
+  ],
+  "answer": 0,
+  "explanation": "وحي ڤرتام اياله سورة العلق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-06",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نام تاهون كلاهيرن نبي محمد ﷺ = ___",
+  "options": [
+   "كاجه",
+   "ارنب",
+   "اونتا"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ لاهير ڤد تاهون ݢاجه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-07",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: كأداءن نبي محمد ﷺ كتيك دلاهيركن = ___",
+  "options": [
+   "يتيم",
+   "توڠݢل",
+   "ڤياتو"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا لاهير دالم كأداءن يتيم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-08",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: نام ڤڤراڠن يڠ ڤرنه دسرتاءي نبي محمد ﷺ = ___",
+  "options": [
+   "فجار",
+   "سعد",
+   "حجر"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ ڤرنه مڽرتاءي ڤڤراڠن فجار.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-09",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: انسان يڠ ممڤوڽاءي اخلاق ترباءيق = ___",
+  "options": [
+   "محمد",
+   "مبارك",
+   "مجيد"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ ممڤوڽاءي اخلاق ترباءيق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-10",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: وانيتا ڤرتام مملوق إسلام = ___",
+  "options": [
+   "حفصة",
+   "حزيمة",
+   "خديجة"
+  ],
+  "answer": 2,
+  "explanation": "خديجة اياله وانيتا ڤرتام مملوق إسلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-11",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ فصيح بركات-كات كتيك برعمور 9 بولن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ فصيح بركات-كات سجق كچيل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-12",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ابو طالب اداله كتوا عرب قريش.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ابو طالب اياله ڤميمڤين دالم كالڠن قريش.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-13",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ ڤرنه ممباوا باراڠ داݢڠن سيدتنا خديجة كمصر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا ممباوا باراڠ داݢڠن خديجة كشام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-14",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ تله دكورنياكن 7 اورڠ انق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ ممڤوڽاءي 7 اورڠ انق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-15",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ ممڤوڽاءي 15 اورڠ ايستري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "بيلڠن ايستري نبي محمد ﷺ بوكن 15 اورڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-16",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام ڤڠاسوه نبي محمد ﷺ اياله ___.",
+  "options": [
+   "حليمة السعدية",
+   "65 تاهون",
+   "عبد الله",
+   "نبي محمد ﷺ",
+   "8 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "حليمة السعدية اياله ڤڠاسوه نبي محمد ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-17",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوسيا نبي محمد ﷺ كتيك داتوقڽ وفاة اياله ___.",
+  "options": [
+   "حليمة السعدية",
+   "65 تاهون",
+   "عبد الله",
+   "نبي محمد ﷺ",
+   "8 تاهون"
+  ],
+  "answer": 4,
+  "explanation": "عبد المطلب وفاة كتيك باݢيندا برعمور 8 تاهون.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-18",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام كتوا نݢارا إسلام يڠ ڤرتام دمدينة اياله ___.",
+  "options": [
+   "حليمة السعدية",
+   "65 تاهون",
+   "عبد الله",
+   "نبي محمد ﷺ",
+   "8 تاهون"
+  ],
+  "answer": 3,
+  "explanation": "نبي محمد ﷺ اياله كتوا نݢارا إسلام ڤرتام دمدينة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-19",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوسيا خديجة بنت خويلد كتيك منيڠݢل دنيا اياله ___.",
+  "options": [
+   "حليمة السعدية",
+   "65 تاهون",
+   "عبد الله",
+   "نبي محمد ﷺ",
+   "8 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "خديجة منيڠݢل دنيا ڤد اوسيا 65 تاهون.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-20",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انق نبي محمد ﷺ يڠ دبري ݢلرن الطَّيِّب اياله ___.",
+  "options": [
+   "حليمة السعدية",
+   "65 تاهون",
+   "عبد الله",
+   "نبي محمد ﷺ",
+   "8 تاهون"
+  ],
+  "answer": 2,
+  "explanation": "عبد الله دݢلر الطيب دان الطاهر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-21",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ لاهير دالم كأداءن سوده ___.",
+  "options": [
+   "يتيم",
+   "كاي",
+   "ديواس"
+  ],
+  "answer": 0,
+  "explanation": "باڤ باݢيندا وفاة سبلوم باݢيندا لاهير.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-22",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبد المطلب سأورڠ ڤميمڤين مكة يڠ ___.",
+  "options": [
+   "دهورمتي",
+   "ظاليم",
+   "مالس"
+  ],
+  "answer": 0,
+  "explanation": "عبد المطلب سأورڠ ڤميمڤين يڠ دهورمتي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-23",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمور نبي محمد ﷺ كتيك دلنتيق منجادي رسول اياله ___.",
+  "options": [
+   "25 تاهون",
+   "40 تاهون",
+   "63 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا دلنتيق منجادي رسول ڤد اوسيا 40 تاهون.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2025-24",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه كسدرهاناءن دالم كهيدوڤن نبي محمد ﷺ سڤرتي ___.",
+  "options": [
+   "تيدور دأتس تيكر",
+   "ماكن برلبيهن",
+   "ممكاي ڤاكاين مواه"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ هيدوڤ سدرهان، تيدور دأتس تيكر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]

@@ -1,0 +1,482 @@
+[
+ {
+  "id": "darjah-2-ibadat-pat2025-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه بندا كوتور يڠ تيدق نجيس؟",
+  "options": [
+   "داره",
+   "مونته",
+   "لومڤور"
+  ],
+  "answer": 2,
+  "explanation": "لومڤور كوتور تتاڤي تيدق نجيس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين حدث؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "حدث تربهاݢي كڤد دوا: حدث كچيل دان حدث بسر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي وضوء اياله ___.",
+  "options": [
+   "مڽيرم",
+   "مرنجيس",
+   "ممباسوه"
+  ],
+  "answer": 2,
+  "explanation": "وضوء دري سودوت بهاس برمعنا ممباسوه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود اذان؟",
+  "options": [
+   "ممباچ خطبة جمعة",
+   "ماسوق وقتو وضوء",
+   "ماسوق وقتو صلاة فرض"
+  ],
+  "answer": 2,
+  "explanation": "اذان منندكن ماسوق وقتو صلاة فرض.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤرمولاءن صلاة؟",
+  "options": [
+   "ممبري سلام",
+   "ممباچ تهليل",
+   "تكبيرة الإحرام"
+  ],
+  "answer": 2,
+  "explanation": "صلاة دمولاكن دڠن تكبيرة الإحرام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم نجيس = ___",
+  "options": [
+   "كوتور",
+   "سوچي",
+   "نجيس"
+  ],
+  "answer": 0,
+  "explanation": "نجيس اياله كوتور.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: سبب حدث كچيل = ___",
+  "options": [
+   "كنتوت",
+   "مينوم",
+   "ماكن"
+  ],
+  "answer": 0,
+  "explanation": "كنتوت مڽببكن حدث كچيل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: سنة وضوء = ___",
+  "options": [
+   "بركومور",
+   "برچاكڤ",
+   "برصلوات"
+  ],
+  "answer": 0,
+  "explanation": "بركومور اياله سنة وضوء.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: شرط مؤذن = ___",
+  "options": [
+   "ڤرمڤوان",
+   "للاكي",
+   "بالغ"
+  ],
+  "answer": 1,
+  "explanation": "مؤذن مستيله للاكي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤركارا افضل سبلوم صلاة = ___",
+  "options": [
+   "برسوݢي",
+   "تيدور",
+   "ماكن"
+  ],
+  "answer": 0,
+  "explanation": "افضل برسوݢي سبلوم صلاة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: چارا مڽوچيكن نجيس مخففة اد تيݢ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "نجيس مخففة دسوچيكن دڠن مرنجيس اءير.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حدث كچيل دسوچيكن دڠن چارا بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن وضوء.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بروضوء مڠهاڤوسكن دوسا بسر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "وضوء مڠهاڤوسكن دوسا كچيل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: شرط واجب صلاة اداله ݢيلا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "شرط واجب صلاة اياله برعقل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤرمولاءن برسوݢي اداله سبله كانن مولوت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت مولاكن برسوݢي دري سبله كانن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لڠكه ڤرتام مڽوچيكن نجيس متوسطة اياله ___.",
+  "options": [
+   "اقامة",
+   "هيلڠكن عين نجيس",
+   "ترتيب",
+   "منوتوڤ عورة",
+   "سنة مؤكدة"
+  ],
+  "answer": 1,
+  "explanation": "ڤرتام هيلڠكن عين نجيس، كمودين دباسوه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا فرض وضوء اياله ___.",
+  "options": [
+   "اقامة",
+   "هيلڠكن عين نجيس",
+   "ترتيب",
+   "منوتوڤ عورة",
+   "سنة مؤكدة"
+  ],
+  "answer": 2,
+  "explanation": "ترتيب اياله فرض وضوء.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ ممينتا جماعه باڠون اونتوق صلاة اياله ___.",
+  "options": [
+   "اقامة",
+   "هيلڠكن عين نجيس",
+   "ترتيب",
+   "منوتوڤ عورة",
+   "سنة مؤكدة"
+  ],
+  "answer": 0,
+  "explanation": "اقامة دلاءوڠكن اونتوق ممينتا جماعه باڠون صلاة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط صح صلاة اياله ___.",
+  "options": [
+   "اقامة",
+   "هيلڠكن عين نجيس",
+   "ترتيب",
+   "منوتوڤ عورة",
+   "سنة مؤكدة"
+  ],
+  "answer": 3,
+  "explanation": "منوتوڤ عورة اياله شرط صح صلاة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برسوݢي اياله ___.",
+  "options": [
+   "اقامة",
+   "هيلڠكن عين نجيس",
+   "ترتيب",
+   "منوتوڤ عورة",
+   "سنة مؤكدة"
+  ],
+  "answer": 4,
+  "explanation": "برسوݢي اياله سنة مؤكدة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ملاءوڠكن اذان اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "اذان اياله سنة مؤكدة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة ملاءوڠكن اذان دڠن سوارا يڠ ___.",
+  "options": [
+   "ڤرلاهن",
+   "كوات دان مردو",
+   "كاسر"
+  ],
+  "answer": 1,
+  "explanation": "مؤذن سنة مماءوڠكن اذان دڠن سوارا يڠ كوات دان مردو.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ سورة الفاتحة دالم صلاة اداله ركن ___.",
+  "options": [
+   "قولي",
+   "فعلي",
+   "قلبي"
+  ],
+  "answer": 0,
+  "explanation": "ممباچ الفاتحة اياله ركن قولي (ڤرچاكڤن).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-24",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ دعاء افتتاح اداله سنة ___.",
+  "options": [
+   "ابعاض",
+   "هيئة",
+   "مؤكدة"
+  ],
+  "answer": 1,
+  "explanation": "دعاء افتتاح اياله سنة هيئة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2025-25",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠهيلڠكن باو مولوت اداله كلبيهن ___.",
+  "options": [
+   "برسوݢي",
+   "بروضوء",
+   "برصلاة"
+  ],
+  "answer": 0,
+  "explanation": "برسوݢي مڠهيلڠكن باو مولوت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]

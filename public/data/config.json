@@ -203,6 +203,68 @@
           }
         }
       ]
+    },
+    {
+      "id": "darjah-2",
+      "name": "Darjah 2",
+      "desc": "Ujian & peperiksaan sekolah agama Darjah 2",
+      "icon": "num-2",
+      "subjects": [
+        {
+          "id": "jawi",
+          "name": "Jawi",
+          "file": "data/darjah-2/jawi.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "akhlak",
+          "name": "Akhlak",
+          "file": "data/darjah-2/akhlak.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "arab",
+          "name": "Bahasa Arab",
+          "file": "data/darjah-2/arab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "ibadat",
+          "name": "Ibadat",
+          "file": "data/darjah-2/ibadat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "tauhid",
+          "name": "Tauhid",
+          "file": "data/darjah-2/tauhid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "sirah",
+          "name": "Sirah",
+          "file": "data/darjah-2/sirah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        }
+      ]
     }
   ]
 }

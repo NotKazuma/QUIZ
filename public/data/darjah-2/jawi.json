@@ -1,0 +1,404 @@
+[
+ {
+  "id": "darjah-2-jawi-pat2025-01",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه چونتوه حروف يڠ بربوڽي دڠن سنديري (بوڽي جاتي)؟",
+  "options": [
+   "ا",
+   "ح",
+   "ز"
+  ],
+  "answer": 0,
+  "explanation": "ا اياله حروف ووكل يڠ بربوڽي دڠن سنديري.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-02",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه چونتوه حروف ووكل (ا) يڠ دݢوݢوركن؟",
+  "options": [
+   "ڤن",
+   "كڤق",
+   "ورن"
+  ],
+  "answer": 1,
+  "explanation": "دالم كڤق (كاڤق)، حروف ا دݢوݢوركن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-03",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ايجاءن باݢي ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-pat2025-tanjak.jpg",
+  "options": [
+   "تنجق",
+   "تنجاق",
+   "تنجک"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله تنجق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-04",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"لاءين دهولو لاءين ___\".",
+  "options": [
+   "ڤارڠ",
+   "ݢارڠ",
+   "سكارڠ"
+  ],
+  "answer": 2,
+  "explanation": "ڤڤاتة: لاءين دهولو لاءين سكارڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-05",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"سوڠكوق اديق سنتياس ___\".",
+  "options": [
+   "برسيه",
+   "كوتور",
+   "چوموت"
+  ],
+  "answer": 0,
+  "explanation": "سوڠكوق اديق سنتياس برسيه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-06",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه يڠ دلاكوكن اوليه بودق دالم ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-pat2025-sembang.jpg",
+  "options": [
+   "سم + ڤن",
+   "سيم + بڠ",
+   "سيم + ڤڠ"
+  ],
+  "answer": 1,
+  "explanation": "بودق٢ اين سدڠ برسيمبڠ: سيم + بڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-07",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-pat2025-tin.jpg",
+  "options": [
+   "ت + و + ڠ",
+   "ک + و + ن",
+   "ت + ي + ن"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله تين.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-08",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-pat2025-rambut.jpg",
+  "options": [
+   "جڠ + ݢوت",
+   "رام + بوت",
+   "مي + ساي"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله رمبوت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-09",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-pat2025-papan.jpg",
+  "options": [
+   "تن + دا نا + م",
+   "ڤا + ڤن تن + دا",
+   "ڤا + ڤن تو + ليس"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله ڤاڤن تندا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-10",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه يڠ دلاكوكن دالم ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-pat2025-memasak.jpg",
+  "options": [
+   "م + م + ا + س + ق",
+   "م + ن + ا + ر + ي",
+   "م + ڽ + ا + ڽ + ي"
+  ],
+  "answer": 0,
+  "explanation": "ايبو اين سدڠ مماسق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-11",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كا + سوت هي + تم = كاسوت هيتم",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كا + سوت هي + تم = كاسوت هيتم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-12",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: \"تودوڠ ورنا ميره\" اداله ايات سدرهان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ايات اين ڤنديق دان موده، ايايت ايات سدرهان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-13",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كات٢ ايبو هندقله دأيكوت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت مستي مڠيكوت نصيحت ايبو.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-14",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاءين هولو لاءين ___.",
+  "options": [
+   "ڤارڠ",
+   "ميجا",
+   "سمبهيڠ"
+  ],
+  "answer": 0,
+  "explanation": "ڤڤاتة: لاءين هولو لاءين ڤارڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-15",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اديق لتق سوڠكوق دأتس ___.",
+  "options": [
+   "ڤارڠ",
+   "ميجا",
+   "سمبهيڠ"
+  ],
+  "answer": 1,
+  "explanation": "اديق لتق سوڠكوق دأتس ميجا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-16",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باڤق بردعاء سلڤس ___.",
+  "options": [
+   "ڤارڠ",
+   "ميجا",
+   "سمبهيڠ"
+  ],
+  "answer": 2,
+  "explanation": "باڤق بردعاء سلڤس سمبهيڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-17",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "Ular = ___",
+  "options": [
+   "اولر",
+   "اولار",
+   "اولور"
+  ],
+  "answer": 0,
+  "explanation": "Ular دايجا اولر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-18",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اين \"ibu\" ساي = ___",
+  "options": [
+   "ايبو",
+   "ابو",
+   "ايبوو"
+  ],
+  "answer": 0,
+  "explanation": "Ibu دايجا ايبو.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-19",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بواه مڠݢيس ورنان \"hitam\" = ___",
+  "options": [
+   "هيتم",
+   "هيتام",
+   "هتم"
+  ],
+  "answer": 0,
+  "explanation": "Hitam دايجا هيتم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-20",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساي بودق بارو \"belajar\" = ___",
+  "options": [
+   "بلاجر",
+   "بلجر",
+   "بيلاجر"
+  ],
+  "answer": 0,
+  "explanation": "Belajar دايجا بلاجر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2025-21",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كيت واجب صلاة فرض ليم \"waktu\" = ___",
+  "options": [
+   "وقتو",
+   "وكتو",
+   "وقت"
+  ],
+  "answer": 0,
+  "explanation": "Waktu دايجا وقتو.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]
