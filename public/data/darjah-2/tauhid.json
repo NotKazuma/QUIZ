@@ -3322,6 +3322,467 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-tauhid-upp22025-01",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه صيفت مستحيل باݢي الله تعالى؟",
+  "options": [
+   "20",
+   "22",
+   "24"
+  ],
+  "answer": 0,
+  "explanation": "صيفت مستحيل باݢي الله اد 20.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-02",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين العَدَمُ؟",
+  "options": [
+   "اد",
+   "ككل",
+   "تياد"
+  ],
+  "answer": 2,
+  "explanation": "العدم برمعنا تياد.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-03",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه لاون باݢي صيفت القِدَمُ؟",
+  "options": [
+   "العَدَمُ",
+   "الحُدُوثُ",
+   "الكَرَاهَةُ"
+  ],
+  "answer": 1,
+  "explanation": "لاون القدم (سديا اد) اياله الحدوث (بهارو).",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-04",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود الفَنَاءُ؟",
+  "options": [
+   "ككل",
+   "هيدوڤ",
+   "بيناس"
+  ],
+  "answer": 2,
+  "explanation": "الفناء برمعنا بيناس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-05",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود مُمَاثَلَتُهُ لِلْحَوَادِثِ؟",
+  "options": [
+   "بهارو",
+   "بربيلڠ-بيلڠ",
+   "سام دڠن يڠ بهارو"
+  ],
+  "answer": 2,
+  "explanation": "مماثلته للحوادث: برسامأن دڠن سݢالا يڠ بهارو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-06",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مستحيل باݢي الله برحاجت كڤد يڠ لاءين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله تيدق برحاجت كڤد سسياڤا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-07",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: لاون صيفت التَّعَدُّدُ اياله الإِرَادَةُ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "التعدد اياله لاون الوحدانية.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-08",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: لاون صيفت القُدْرَةُ اياله العَجْزُ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "العجز (لمه) لاون القدرة (بركواس).",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-09",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الله تعالى ترڤقسا منجاديكن سسواتو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الله برصيفت الإرادة، تيدق ترڤقسا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-10",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مستحيل الله تعالى برصيفت تيدق مڠتاهوءي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الجهل (جاهيل) مستحيل باݢي الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-11",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي المَوْتُ",
+  "options": [
+   "ماتي",
+   "هيدوڤ",
+   "بركواس"
+  ],
+  "answer": 0,
+  "explanation": "الموت برمعنا ماتي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-12",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت البَصَر",
+  "options": [
+   "العُمْيُ",
+   "الصَّمَمُ",
+   "المَوْتُ"
+  ],
+  "answer": 0,
+  "explanation": "لاون البصر (مليهت) اياله العمى (بوتا).",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-13",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي العُمْيُ",
+  "options": [
+   "اد",
+   "بوتا",
+   "جلس"
+  ],
+  "answer": 1,
+  "explanation": "العمى برمعنا بوتا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-14",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت الكَلَام",
+  "options": [
+   "المَوْتُ",
+   "الجَهْلُ",
+   "البُكْمُ"
+  ],
+  "answer": 2,
+  "explanation": "لاون الكلام اياله البكم (بيسو).",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-15",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت كَوْنُهُ قَادِرًا",
+  "options": [
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ حَيًّا",
+   "كَوْنُهُ عَاجِزًا"
+  ],
+  "answer": 2,
+  "explanation": "لاون كونه قادرا اياله كونه عاجزا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-16",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باݢي صيفت كَوْنُهُ مُرِيدًا.",
+  "options": [
+   "كَوْنُهُ أَصَمَّ",
+   "كَوْنُهُ كَارِهًا",
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ جَاهِلًا",
+   "كَوْنُهُ أَعْمَى"
+  ],
+  "answer": 1,
+  "explanation": "لاون كونه مريدا اياله كونه كارها.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-17",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون كأداءن الله مها مڠتاهوءي.",
+  "options": [
+   "كَوْنُهُ أَصَمَّ",
+   "كَوْنُهُ كَارِهًا",
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ جَاهِلًا",
+   "كَوْنُهُ أَعْمَى"
+  ],
+  "answer": 3,
+  "explanation": "لاون كونه عالما اياله كونه جاهلا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-18",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باݢي صيفت كَوْنُهُ حَيًّا.",
+  "options": [
+   "كَوْنُهُ أَصَمَّ",
+   "كَوْنُهُ كَارِهًا",
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ جَاهِلًا",
+   "كَوْنُهُ أَعْمَى"
+  ],
+  "answer": 2,
+  "explanation": "لاون كونه حيا اياله كونه ميتا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-19",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باݢي صيفت كَوْنُهُ سَمِيعًا.",
+  "options": [
+   "كَوْنُهُ أَصَمَّ",
+   "كَوْنُهُ كَارِهًا",
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ جَاهِلًا",
+   "كَوْنُهُ أَعْمَى"
+  ],
+  "answer": 0,
+  "explanation": "لاون كونه سميعا اياله كونه أصم.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-20",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون كأداءن الله مها مليهت.",
+  "options": [
+   "كَوْنُهُ أَصَمَّ",
+   "كَوْنُهُ كَارِهًا",
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ جَاهِلًا",
+   "كَوْنُهُ أَعْمَى"
+  ],
+  "answer": 4,
+  "explanation": "لاون كونه بصيرا اياله كونه أعمى.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-21",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله صيفت هاروس باݢي الله.",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 0,
+  "explanation": "صيفت هاروس باݢي الله هاڽ ساتو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-22",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم الله منجاديكن مخلوق.",
+  "options": [
+   "هاروس",
+   "واجب",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "منجاديكن مخلوق اياله هاروس باݢي الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-23",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه چيڤتاءن الله.",
+  "options": [
+   "ماتاهاري",
+   "كريتا",
+   "رومه"
+  ],
+  "answer": 0,
+  "explanation": "ماتاهاري اياله چيڤتاءن الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22025-24",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم الله منجاديكن سسأورڠ ايت صيحت.",
+  "options": [
+   "هاروس",
+   "واجب",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "منجاديكن سسأورڠ صيحت اياله هاروس باݢي الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-tauhid-ppt2025-01",
   "exam": "Darjah 2",
   "subject": "Tauhid",

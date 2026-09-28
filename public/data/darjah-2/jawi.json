@@ -3006,6 +3006,411 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-jawi-upp22025-01",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بوڠ + كوس = ___",
+  "options": [
+   "بكوس",
+   "بوڠكس",
+   "بوڠكوس"
+  ],
+  "answer": 2,
+  "explanation": "بوڠ + كوس = بوڠكوس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-02",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمبون = ___",
+  "options": [
+   "تم + بن",
+   "تيم + بون",
+   "توم + بون"
+  ],
+  "answer": 1,
+  "explanation": "تيمبون = تيم + بون.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-03",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق كڤالا حروف \"ج\" دهادڤن.",
+  "options": [
+   "جـ",
+   "ـجـ",
+   "ـج"
+  ],
+  "answer": 0,
+  "explanation": "ج دهادڤن دتوليس جـ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-04",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سوكو كات ترتوتوڤ دان ترتوتوڤ.",
+  "options": [
+   "بوكو",
+   "تيمبا",
+   "سيمبول"
+  ],
+  "answer": 2,
+  "explanation": "سيم + بول، كدوا٢ سوكو كات ترتوتوڤ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-05",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق حروف \"ر\" توڠݢل.",
+  "options": [
+   "ر",
+   "ـر",
+   "لر"
+  ],
+  "answer": 0,
+  "explanation": "ر توڠݢل دتوليس ر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-06",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كا + سوت = كاسوت",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كا + سوت = كاسوت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-07",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كيڤس + اڠين = كيڤس اڠين",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيڤس + اڠين = كيڤس اڠين.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-08",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: \"تودوڠ ورنا ميره\" اداله چونتوه ايات موده.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تودوڠ ورنا ميره اياله فراسا، بوكن ايات.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-09",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بنتوق حروف \"س\" دتڠه چونتوهڽ \"مستي\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دالم مستي، حروف س براد دتڠه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-10",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كوچيڠ ماكن ___",
+  "options": [
+   "بوڠا",
+   "ايكن",
+   "بواه"
+  ],
+  "answer": 1,
+  "explanation": "كوچيڠ ماكن ايكن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-11",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رومه اتس ___",
+  "options": [
+   "بوكيت",
+   "لاڠيت",
+   "تڠݢ"
+  ],
+  "answer": 2,
+  "explanation": "رومه اتس ممڤوڽاءي تڠݢ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-12",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عيني مڠݢوسوق ___",
+  "options": [
+   "چاون",
+   "باجو",
+   "رومڤوت"
+  ],
+  "answer": 1,
+  "explanation": "عيني مڠݢوسوق باجو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-13",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بواه جمبو ___",
+  "options": [
+   "ڤدس",
+   "مانيس",
+   "ماسين"
+  ],
+  "answer": 1,
+  "explanation": "بواه جمبو راساڽ مانيس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-14",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو ساي سوک ___",
+  "options": [
+   "مالم",
+   "هاري",
+   "ماسق"
+  ],
+  "answer": 2,
+  "explanation": "ايبو ساي سوک ماسق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-15",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جاتوه سكالي بوكنله ___",
+  "options": [
+   "سكارڠ",
+   "مالم",
+   "كاله",
+   "تڠڠوڠ",
+   "بلاجر"
+  ],
+  "answer": 2,
+  "explanation": "ڤڤاته: جاتوه سكالي بوكنله كاله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-16",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براني بوات براني ___",
+  "options": [
+   "سكارڠ",
+   "مالم",
+   "كاله",
+   "تڠڠوڠ",
+   "بلاجر"
+  ],
+  "answer": 3,
+  "explanation": "ڤڤاته: براني بوات براني تڠڠوڠ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-17",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤاݢي ڤتڠ سياڠ ___",
+  "options": [
+   "سكارڠ",
+   "مالم",
+   "كاله",
+   "تڠڠوڠ",
+   "بلاجر"
+  ],
+  "answer": 1,
+  "explanation": "ڤاݢي ڤتڠ سياڠ مالم.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-18",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاءين دولو لاءين ___",
+  "options": [
+   "سكارڠ",
+   "مالم",
+   "كاله",
+   "تڠڠوڠ",
+   "بلاجر"
+  ],
+  "answer": 0,
+  "explanation": "لاءين دولو لاءين سكارڠ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-19",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرݢي كسكوله اونتوق ___",
+  "options": [
+   "سكارڠ",
+   "مالم",
+   "كاله",
+   "تڠڠوڠ",
+   "بلاجر"
+  ],
+  "answer": 4,
+  "explanation": "كيت ڤرݢي كسكوله اونتوق بلاجر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-20",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ورنا ڤلاڠي ___",
+  "options": [
+   "چنتيق",
+   "هودوه",
+   "كوتور"
+  ],
+  "answer": 0,
+  "explanation": "ورنا ڤلاڠي ساڠت چنتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-upp22025-21",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوكوق جمبو هيدوڤ ___",
+  "options": [
+   "سوبور",
+   "ماتي",
+   "لاجو"
+  ],
+  "answer": 0,
+  "explanation": "ڤوكوق جمبو هيدوڤ سوبور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-jawi-ppt2025-01",
   "exam": "Darjah 2",
   "subject": "Jawi",

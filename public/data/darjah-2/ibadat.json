@@ -3227,6 +3227,448 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-ibadat-upp22025-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا ماسوق وقتو صلاة؟",
+  "options": [
+   "دعاء",
+   "اذان",
+   "اقامة"
+  ],
+  "answer": 1,
+  "explanation": "اذان منندكن ماسوق وقتو صلاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اذان داڤت مڠهيندركن ديري درڤد ݢڠݢوان ___.",
+  "options": [
+   "راكن",
+   "ملائكة",
+   "شيطان"
+  ],
+  "answer": 2,
+  "explanation": "شيطان لاري اڤابيلا مندڠر اذان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ\" لفظ اذان وقتو ___.",
+  "options": [
+   "مغرب",
+   "صبح",
+   "عشاء"
+  ],
+  "answer": 1,
+  "explanation": "لفظ اين دباچ دالم اذان صبح.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"حَيَّ عَلَى الفَلَاحِ\" ارتيڽ ماريله منوجو ___.",
+  "options": [
+   "صلاة",
+   "مها بسر",
+   "كجاياءن"
+  ],
+  "answer": 2,
+  "explanation": "حي على الفلاح: ماريله منوجو كجاياءن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن سنة كتيك ملاءوڠكن اذان اياله ___.",
+  "options": [
+   "برديري",
+   "برچاكڤ",
+   "برلاري"
+  ],
+  "answer": 0,
+  "explanation": "سنة برديري كتيك ملاءوڠكن اذان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: شرط منجادي بلال اداله مُمَيِّز.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مؤذن مستيله مميز.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بلال بن رباح مؤذن دزمان رسول الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بلال بن رباح اياله مؤذن رسول الله ﷺ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: توجوان اذان ممينتا جماعه باڠون منونايكن صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اين اياله توجوان اقامة؛ اذان مملومكن ماسوق وقتو صلاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: \"لَا إِلٰهَ إِلَّا اللهُ\" برمقصود تياد توهن سلاءين الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "لا إله إلا الله: تياد توهن سلاءين الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مؤذن بوليه بربوال كتيك ملاءوڠكن اذان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "مؤذن تيدق بوليه بربوال كتيك اذان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ملاءوڠكن اذان",
+  "options": [
+   "واجب",
+   "هاروس",
+   "سنة مؤكدة"
+  ],
+  "answer": 2,
+  "explanation": "اذان اياله سنة مؤكدة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط مؤذن",
+  "options": [
+   "همبا",
+   "للاكي",
+   "كافير"
+  ],
+  "answer": 1,
+  "explanation": "مؤذن مستيله للاكي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان اقامة",
+  "options": [
+   "صلاة",
+   "ذيكير",
+   "صلوات"
+  ],
+  "answer": 0,
+  "explanation": "اقامة ممينتا جماعه باڠون اونتوق صلاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الفَلَاح",
+  "options": [
+   "قبلة",
+   "صلاة",
+   "كجاياءن"
+  ],
+  "answer": 2,
+  "explanation": "الفلاح برمعنا كجاياءن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ \"قَدْ قَامَتِ الصَّلَاةُ\"",
+  "options": [
+   "اقامة",
+   "اذان",
+   "صلاة"
+  ],
+  "answer": 0,
+  "explanation": "قد قامت الصلاة اياله لفظ اقامة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ملاءوڠكن اذان.",
+  "options": [
+   "صلاة",
+   "مؤذن",
+   "بردعاء",
+   "الله مها بسر",
+   "دوا كالي"
+  ],
+  "answer": 1,
+  "explanation": "مؤذن اياله اورڠ يڠ ملاءوڠكن اذان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة يڠ دلاكوكن سلڤس اقامة.",
+  "options": [
+   "صلاة",
+   "مؤذن",
+   "بردعاء",
+   "الله مها بسر",
+   "دوا كالي"
+  ],
+  "answer": 0,
+  "explanation": "صلاة دمولاكن سلڤس اقامة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن لفظ \"الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ\".",
+  "options": [
+   "صلاة",
+   "مؤذن",
+   "بردعاء",
+   "الله مها بسر",
+   "دوا كالي"
+  ],
+  "answer": 4,
+  "explanation": "لفظ اين دباچ دوا كالي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن سنة سلڤس اذان دان اقامة.",
+  "options": [
+   "صلاة",
+   "مؤذن",
+   "بردعاء",
+   "الله مها بسر",
+   "دوا كالي"
+  ],
+  "answer": 2,
+  "explanation": "سنة بردعاء سلڤس اذان دان اقامة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود \"اللهُ أَكْبَرُ\".",
+  "options": [
+   "صلاة",
+   "مؤذن",
+   "بردعاء",
+   "الله مها بسر",
+   "دوا كالي"
+  ],
+  "answer": 3,
+  "explanation": "الله أكبر: الله مها بسر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبريتاهوان ماسوقڽ وقتو صلاة.",
+  "options": [
+   "اذان",
+   "اقامة",
+   "خطبة"
+  ],
+  "answer": 0,
+  "explanation": "اذان مماءوڠكن ماسوق وقتو صلاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ سبلوم منديريكن صلاة برجماعه.",
+  "options": [
+   "اقامة",
+   "اذان",
+   "دعاء"
+  ],
+  "answer": 0,
+  "explanation": "اقامة دلاءوڠكن سبلوم صلاة برجماعه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22025-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم اذان دڠن سوارا يڠ قوات.",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "سنة ملاءوڠكن اذان دڠن سوارا يڠ قوات.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-ibadat-ppt2025-01",
   "exam": "Darjah 2",
   "subject": "Ibadat",
