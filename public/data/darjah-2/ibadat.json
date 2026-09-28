@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-2-ibadat-ppt2022-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه بندا يڠ كوتور دان نجيس؟",
+  "options": [
+   "باتو",
+   "كايو",
+   "مونته"
+  ],
+  "answer": 2,
+  "explanation": "مونته اياله نجيس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين نجيس؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 2,
+  "explanation": "نجيس تربهاݢي تيݢ: مغلظة، متوسطة دان مخففة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سبب برلاكو حدث كچيل؟",
+  "options": [
+   "مينوم",
+   "مندي",
+   "كنچيڠ"
+  ],
+  "answer": 2,
+  "explanation": "كنچيڠ مڽببكن حدث كچيل.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب كتيك ممبواڠ اءير.",
+  "options": [
+   "برذيكير",
+   "منوتوڤ كڤالا",
+   "مڠكوسوڠ كاكي"
+  ],
+  "answer": 1,
+  "explanation": "منوتوڤ كڤالا اياله ادب ممبواڠ اءير.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرض وضوء.",
+  "options": [
+   "ممباسوه كاكي",
+   "ممباسوه مولوت",
+   "ممباسوه تليڠا"
+  ],
+  "answer": 0,
+  "explanation": "ممباسوه كدوا كاكي هيڠݢ بوكو لالي اياله فرض وضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بندا كوتور يڠ تيدق نجيس",
+  "options": [
+   "ارق",
+   "داره",
+   "ڤلوه"
+  ],
+  "answer": 2,
+  "explanation": "ڤلوه ماءنسي تيدق نجيس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين حدث",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "حدث تربهاݢي دوا: حدث كچيل دان حدث بسر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن كتيك برحدث كچيل",
+  "options": [
+   "صلاة",
+   "ماكن",
+   "مينوم"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ برحدث كچيل دلارڠ صلاة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة وضوء",
+  "options": [
+   "برجالن",
+   "برچاكڤ",
+   "بركومور"
+  ],
+  "answer": 2,
+  "explanation": "بركومور اياله سنة وضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ممبطلكن وضوء",
+  "options": [
+   "كيلا",
+   "كتاوا",
+   "مناڠيس"
+  ],
+  "answer": 0,
+  "explanation": "هيلڠ عقل سڤرتي ݢيلا ممبطلكن وضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بندا٢ نجيس دحکومكن تيدق سوچي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بندا نجيس حکومڽ تيدق سوچي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: چارا ميوچيكن نجيس مخففة دڠن مڠݢوناكن اءير تانه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "نجيس مخففة دسوچيكن دڠن مرنجيس اءير؛ اءير برچمڤور تانه اونتوق مغلظة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حدث كچيل اياله برلاكو ڤركارا٢ يڠ مواجبكن وضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل مواجبكن وضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حدث كچيل دسوچيكن دڠن مندي واجب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: وضوء ارتيڽ ممباسوه اتاو مڽاڤو اڠݢوتا دمولاءي دڠن نية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله تعريف وضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه نجيس متوسطة.",
+  "options": [
+   "داره",
+   "مغلظة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "لالوان اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "داره اياله نجيس متوسطة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نجيس يڠ دسوچيكن دڠن اءير برچمڤور تانه.",
+  "options": [
+   "داره",
+   "مغلظة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "لالوان اورڠ"
+  ],
+  "answer": 1,
+  "explanation": "نجيس مغلظة دسوچيكن دڠن اءير برچمڤور تانه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت يڠ دلارڠ ممبواڠ اءير.",
+  "options": [
+   "داره",
+   "مغلظة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "لالوان اورڠ"
+  ],
+  "answer": 4,
+  "explanation": "دلارڠ ممبواڠ اءير دلالوان اورڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برچاكڤ-چاكڤ كتيك بروضوء.",
+  "options": [
+   "داره",
+   "مغلظة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "لالوان اورڠ"
+  ],
+  "answer": 2,
+  "explanation": "برچاكڤ كتيك بروضوء اياله مكروه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا كباءيقن بروضوء.",
+  "options": [
+   "داره",
+   "مغلظة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "لالوان اورڠ"
+  ],
+  "answer": 3,
+  "explanation": "بروضوء منداڤت ڤهالا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه بندا كوتور يڠ بوليه ممبطلكن صلاة.",
+  "options": [
+   "نجيس",
+   "ڤلوه",
+   "داكي"
+  ],
+  "answer": 0,
+  "explanation": "نجيس ممبطلكن صلاة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت اونتوق ممباسوه نجيس متوسطة.",
+  "options": [
+   "اءير مطلق",
+   "اءير تيه",
+   "اءير كوڤي"
+  ],
+  "answer": 0,
+  "explanation": "نجيس دباسوه دڠن اءير مطلق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله فرض وضوء.",
+  "options": [
+   "انم",
+   "ليم",
+   "توجوه"
+  ],
+  "answer": 0,
+  "explanation": "فرض وضوء اد انم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-24",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم وضوء اڤابيلا تركنتوت.",
+  "options": [
+   "بطل",
+   "صح",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "كنتوت ممبطلكن وضوء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2022-25",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠݢوناكن اءير برلبيهن كتيك بروضوء.",
+  "options": [
+   "مكروه",
+   "سنة",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "ممبازير اءير كتيك بروضوء اياله مكروه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-ibadat-pat2022-01",
   "exam": "Darjah 2",
   "subject": "Ibadat",

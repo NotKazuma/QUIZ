@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-2-akhlak-ppt2022-01",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تتامو اياله ___.",
+  "options": [
+   "توان رومه",
+   "اورڠ يڠ منزيارهي",
+   "سوري رومه"
+  ],
+  "answer": 1,
+  "explanation": "تتامو اياله اورڠ يڠ داتڠ منزيارهي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-02",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب منريما تتامو.",
+  "options": [
+   "مڠابايكن تتامو",
+   "منوتوڤ عورة",
+   "برچاكڤ كاسر"
+  ],
+  "answer": 1,
+  "explanation": "توان رومه هندقله منوتوڤ عورة كتيك منريما تتامو.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-03",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عورة للاكي اداله درڤد ڤوست هيڠݢ ___.",
+  "options": [
+   "لوتوت",
+   "دادا",
+   "ڤروت"
+  ],
+  "answer": 0,
+  "explanation": "عورة للاكي انتارا ڤوست هيڠݢ لوتوت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-04",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم ماسوق رومه.",
+  "options": [
+   "ممبري سلام",
+   "منجريت",
+   "ممبوات بيسيڠ"
+  ],
+  "answer": 0,
+  "explanation": "بري سلام سبلوم ماسوق رومه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-05",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب ماسوق تاندس.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "منوتوڤ كڤالا",
+   "ماسوق دڠن كاكي كانن"
+  ],
+  "answer": 1,
+  "explanation": "منوتوڤ كڤالا اياله ادب ماسوق تندس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-06",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب تتامو",
+  "options": [
+   "مسرا",
+   "بيسيڠ",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "تتامو هندقله مسرا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-07",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤاكاين يڠ سوڤن",
+  "options": [
+   "كتت",
+   "جارڠ",
+   "لابوه"
+  ],
+  "answer": 2,
+  "explanation": "ڤاكاين لابوه اياله سوڤن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-08",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلوار رومه دڠن كاكي",
+  "options": [
+   "كيري",
+   "كانن",
+   "باتو"
+  ],
+  "answer": 0,
+  "explanation": "كلوار رومه دڠن كاكي كيري.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-09",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن سماس دتاندس",
+  "options": [
+   "چوچي",
+   "ماكن",
+   "كنچيڠ"
+  ],
+  "answer": 1,
+  "explanation": "دلارڠ ماكن ددالم تندس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-10",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب كلوار تاندس",
+  "options": [
+   "دعاء",
+   "صلاة",
+   "مناري"
+  ],
+  "answer": 0,
+  "explanation": "باچ دعاء سلڤس كلوار تندس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-11",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ميمبوت تتامو دڠن سنڠ هاتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تتامو دسمبوت دڠن ݢمبيرا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-12",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: للاكي بوليه مماكاي ڤاكاين سوترا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "للاكي دلارڠ مماكاي سوترا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-13",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مماكاي ڤاكاين دري سبله كانن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سنة مماكاي ڤاكاين دمولاكن دڠن سبله كانن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-14",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مڽوسون كاسوت دڠن راڤي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كاسوت هندقله دسوسون دڠن راڤي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-15",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ماكن دان مينوم ددالم تاندس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "دلارڠ ماكن دان مينوم ددالم تندس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-16",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود تَبَرُّجْ اياله ___.",
+  "options": [
+   "كتت",
+   "برهياس ديري",
+   "كمس",
+   "كانن",
+   "دعاء"
+  ],
+  "answer": 1,
+  "explanation": "تبرج برمعنا برهياس ديري سچارا برلبيهن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-17",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤاكاين يڠ تيدق سوڤن اداله ___.",
+  "options": [
+   "كتت",
+   "برهياس ديري",
+   "كمس",
+   "كانن",
+   "دعاء"
+  ],
+  "answer": 0,
+  "explanation": "ڤاكاين كتت تيدق سوڤن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-18",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبوک كاسوت دان دسوسون دڠن ___.",
+  "options": [
+   "كتت",
+   "برهياس ديري",
+   "كمس",
+   "كانن",
+   "دعاء"
+  ],
+  "answer": 2,
+  "explanation": "كاسوت دسوسون دڠن كمس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-19",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتيك كلوار رومه، كيت هندقله ممباچ ___.",
+  "options": [
+   "كتت",
+   "برهياس ديري",
+   "كمس",
+   "كانن",
+   "دعاء"
+  ],
+  "answer": 4,
+  "explanation": "باچ دعاء كتيك كلوار رومه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-20",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلوار دري تاندس دڠن كاكي ___.",
+  "options": [
+   "كتت",
+   "برهياس ديري",
+   "كمس",
+   "كانن",
+   "دعاء"
+  ],
+  "answer": 3,
+  "explanation": "كلوار تندس دڠن كاكي كانن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-21",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تتامو بوليه ممبري سلام سهيڠݢ ___ كالي.",
+  "options": [
+   "تيݢ",
+   "ليم",
+   "توجوه"
+  ],
+  "answer": 0,
+  "explanation": "تتامو ممبري سلام سهيڠݢ تيݢ كالي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-22",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كيت هندقله مماكاي ڤاكاين يڠ منوتوڤ ___.",
+  "options": [
+   "عورة",
+   "تاڠن",
+   "كاكي"
+  ],
+  "answer": 0,
+  "explanation": "ڤاكاين مستي منوتوڤ عورة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-23",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دلارڠ برڤاكاين ___ دان نيڤيس.",
+  "options": [
+   "كتت",
+   "لابوه",
+   "سوڤن"
+  ],
+  "answer": 0,
+  "explanation": "دلارڠ مماكاي ڤاكاين كتت دان نيڤيس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-24",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تتامو هندقله ممبري ___ كڤد اورڠ يڠ براد ددالم رومه.",
+  "options": [
+   "سلام",
+   "هديه",
+   "واڠ"
+  ],
+  "answer": 0,
+  "explanation": "تتامو ممبري سلام كڤد توان رومه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-ppt2022-25",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢوناكن تاڠن ___ كتيك ممبرسيهكن نجيس.",
+  "options": [
+   "كيري",
+   "كانن",
+   "دوا٢"
+  ],
+  "answer": 0,
+  "explanation": "ݢوناكن تاڠن كيري اونتوق ممبرسيهكن نجيس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-akhlak-pat2022-01",
   "exam": "Darjah 2",
   "subject": "Akhlak",
