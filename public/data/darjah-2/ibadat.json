@@ -1846,6 +1846,488 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-ibadat-upp22024-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط واجب صلاة؟",
+  "options": [
+   "مابوق",
+   "إسلام",
+   "كانق٢"
+  ],
+  "answer": 1,
+  "explanation": "إسلام اياله شرط واجب صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه شرط صح صلاة؟",
+  "options": [
+   "منوتوڤ عورة",
+   "ممبلاكڠكن قبلة",
+   "برحدث كچيل"
+  ],
+  "answer": 0,
+  "explanation": "منوتوڤ عورة اياله شرط صح صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "روكون صلاة تربهاݢي كڤد ___.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "روكون صلاة تربهاݢي تيݢ: قلبي، قولي دان فعلي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برسوݢي اياله ___.",
+  "options": [
+   "مكروه",
+   "واجب",
+   "سنة مؤكدة"
+  ],
+  "answer": 2,
+  "explanation": "برسوݢي اياله سنة مؤكدة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو ڤاليڠ أفضل برسوݢي.",
+  "options": [
+   "كتيك تيدور",
+   "سبلوم صلاة",
+   "سبلوم ماكن"
+  ],
+  "answer": 1,
+  "explanation": "برسوݢي سبلوم صلاة اياله ڤاليڠ أفضل.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بالغ اداله شرط واجب صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بالغ اياله شرط واجب صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: قبلة اومة إسلام مڠهادڤ ككعبة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قبلة اومة إسلام اياله كعبة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ممباچ دعاء قنوت ترماسوق سنة أبعاض.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قنوت اياله سنة أبعاض.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مكروه برسوݢي مڠݢوناكن كايو أراك.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كايو أراك اياله الت برسوݢي يڠ ڤاليڠ باءيق.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ممولاكن ممبروس ݢيݢي ڤد سبله كيري مولوت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سنة مولاكن برسوݢي دري سبله كانن مولوت.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤربواتن دالم ݢمبر اين؟",
+  "image": "images/darjah-2/ibadat-upp22024-solat.jpg",
+  "options": [
+   "صلاة",
+   "وضوء",
+   "تيمم"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر منونجوقكن سأورڠ سدڠ برديري صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا بالغ باݢي للاكي",
+  "options": [
+   "حيض",
+   "مني",
+   "داره"
+  ],
+  "answer": 1,
+  "explanation": "كلوار مني اياله تندا بالغ باݢي للاكي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "روكون قلبي",
+  "options": [
+   "نية",
+   "ركوع",
+   "تكبير"
+  ],
+  "answer": 0,
+  "explanation": "نية اياله روكون قلبي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤربواتن دالم ݢمبر اين؟",
+  "image": "images/darjah-2/ibadat-upp22024-bersugi.jpg",
+  "options": [
+   "وضوء",
+   "صلاة",
+   "سواك"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر منونجوقكن بودق سدڠ برسوݢي (سواك).",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برسوݢي باݢي اورڠ يڠ برڤواسا (سلڤس ݢلينچير)",
+  "options": [
+   "سنة",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "برسوݢي سلڤس ݢلينچير باݢي اورڠ برڤواسا اياله مكروه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠتاهوءي ماسوق وقتو صلاة.",
+  "options": [
+   "مڠݢوسوق ݢيݢي",
+   "سنة هيئات",
+   "چارا برسوݢي",
+   "باچاءن سجود سهوي",
+   "شرط صح صلاة"
+  ],
+  "answer": 4,
+  "explanation": "مڠتاهوءي ماسوق وقتو اياله شرط صح صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ دعاء افتتاح.",
+  "options": [
+   "مڠݢوسوق ݢيݢي",
+   "سنة هيئات",
+   "چارا برسوݢي",
+   "باچاءن سجود سهوي",
+   "شرط صح صلاة"
+  ],
+  "answer": 1,
+  "explanation": "دعاء افتتاح اياله سنة هيئات.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سُبْحَانَ مَنْ لَا يَنَامُ وَلَا يَسْهُو.",
+  "options": [
+   "مڠݢوسوق ݢيݢي",
+   "سنة هيئات",
+   "چارا برسوݢي",
+   "باچاءن سجود سهوي",
+   "شرط صح صلاة"
+  ],
+  "answer": 3,
+  "explanation": "اين اياله باچاءن سجود سهوي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باݢي برسوݢي.",
+  "options": [
+   "مڠݢوسوق ݢيݢي",
+   "سنة هيئات",
+   "چارا برسوݢي",
+   "باچاءن سجود سهوي",
+   "شرط صح صلاة"
+  ],
+  "answer": 0,
+  "explanation": "برسوݢي جوݢ دسبوت مڠݢوسوق ݢيݢي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بركومور-كومور مڠݢوناكن اءير برسيه.",
+  "options": [
+   "مڠݢوسوق ݢيݢي",
+   "سنة هيئات",
+   "چارا برسوݢي",
+   "باچاءن سجود سهوي",
+   "شرط صح صلاة"
+  ],
+  "answer": 2,
+  "explanation": "بركومور دڠن اءير برسيه اياله چارا برسوݢي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دمولاءي تكبيرة الإحرام، دسودهي دڠن سلام.",
+  "options": [
+   "صلاة",
+   "وضوء",
+   "اذان"
+  ],
+  "answer": 0,
+  "explanation": "صلاة دمولاكن دڠن تكبيرة الإحرام دان دأخيري دڠن سلام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سنة أبعاض.",
+  "options": [
+   "تشهد أول",
+   "دعاء افتتاح",
+   "ممباچ سورة"
+  ],
+  "answer": 0,
+  "explanation": "تشهد أول اياله سنة أبعاض.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو يڠ دتونتوت برسوݢي.",
+  "options": [
+   "سبلوم صلاة",
+   "كتيك برماءين",
+   "كتيك ماكن"
+  ],
+  "answer": 0,
+  "explanation": "برسوݢي سڠت دتونتوت سبلوم صلاة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-24",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ دݢوناكن اونتوق برسوݢي.",
+  "options": [
+   "كايو أراك",
+   "كايو جاتي",
+   "ڤنسل"
+  ],
+  "answer": 0,
+  "explanation": "كايو أراك (سواك) اياله الت برسوݢي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp22024-25",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبروس ڤد لاڠيت٢، ݢوسي دان ليده.",
+  "options": [
+   "چارا برسوݢي",
+   "چارا بروضوء",
+   "چارا مندي"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله چارا برسوݢي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-ibadat-ppt2024-01",
   "exam": "Darjah 2",
   "subject": "Ibadat",

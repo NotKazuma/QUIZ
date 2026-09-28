@@ -1882,6 +1882,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-tauhid-upp22024-01",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه صيفت هاروس باݢي الله تعالى؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 0,
+  "explanation": "صيفت هاروس باݢي الله هاڽ ساتو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-02",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم الله منجاديكن مخلوق؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "الله تيدق واجب منجاديكن مخلوق؛ حکومڽ هاروس.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-03",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة دجاديكن درڤد ___.",
+  "options": [
+   "اڤي",
+   "تانه",
+   "چهاي"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة دچيڤتا درڤد چهاي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-04",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توݢس ملائكة جبريل.",
+  "options": [
+   "منيوڤ سڠكاكالا",
+   "منچابوت ڽاوا",
+   "مڽمڤايكن وحي"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة جبريل مڽمڤايكن وحي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-05",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه صيفت ملائكة؟",
+  "options": [
+   "للاكي",
+   "معصوم",
+   "تيدق براوبه"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة برصيفت معصوم، تيدق ملاكوكن دوسا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-06",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: هاروس الله تعالى منجاديكن هوجن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "منجاديكن سسواتو اياله هاروس باݢي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-07",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بيلاڠن ملائكة يڠ واجب دكتاهوءي اد 11.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة يڠ واجب دكتاهوءي اد 10.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-08",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ملائكة بوكن للاكي اتاو ڤرمڤوان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة تيدق برجنتينا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-09",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ملائكة تيدق بوليه براوبه-اوبه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة بوليه منجلما دالم ڤلباݢاي روڤا دڠن ايذين الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-10",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برايمان كڤد ملائكة بوليه منيڠكتكن كتقواءن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد ملائكة منيڠكتكن كتقواءن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-11",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله منجاديكن سسأورڠ ايت كاي",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "منجاديكن سسأورڠ كاي اياله هاروس باݢي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-12",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسواتو يڠ هاروس بوليه اد اتاو بوليه تياد",
+  "options": [
+   "ممكن",
+   "موجود",
+   "معصوم"
+  ],
+  "answer": 0,
+  "explanation": "ممكن اياله سسواتو يڠ بوليه اد اتاو تياد.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-13",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق برايمان كڤد ملائكة",
+  "options": [
+   "إسلام",
+   "كافر",
+   "مؤلف"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ تيدق برايمان كڤد ملائكة منجادي كافر.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-14",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة ڤنجاݢ شرݢ",
+  "options": [
+   "مالك",
+   "رقيب",
+   "رضوان"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة رضوان منجاݢ شرݢ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-15",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مخلوق يڠ سنتياس طاعة ڤرينته الله",
+  "options": [
+   "جين",
+   "ماءنسي",
+   "ملائكة"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة سنتياس طاعة كڤد الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-16",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم الله تعالى منجاديكن هوجن.",
+  "options": [
+   "هاروس",
+   "تانه",
+   "واجب",
+   "برتقوى",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 0,
+  "explanation": "منجاديكن هوجن اياله هاروس باݢي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-17",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد ملائكة.",
+  "options": [
+   "هاروس",
+   "تانه",
+   "واجب",
+   "برتقوى",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 2,
+  "explanation": "برايمان كڤد ملائكة اياله واجب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-18",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اصل كجادين ماءنسي.",
+  "options": [
+   "هاروس",
+   "تانه",
+   "واجب",
+   "برتقوى",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 1,
+  "explanation": "ماءنسي دچيڤتا درڤد تانه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-19",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود ڤركاتاءن \"تفصيلي\".",
+  "options": [
+   "هاروس",
+   "تانه",
+   "واجب",
+   "برتقوى",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 4,
+  "explanation": "تفصيلي برمعنا ساتو ڤرساتو (ترڤرينچي).",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-20",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد ملائكة.",
+  "options": [
+   "هاروس",
+   "تانه",
+   "واجب",
+   "برتقوى",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 3,
+  "explanation": "برايمان كڤد ملائكة منجاديكن كيت برتقوى.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-21",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم الله منجاديكن مخلوق.",
+  "options": [
+   "هاروس",
+   "واجب",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "منجاديكن مخلوق اياله هاروس باݢي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-22",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مخلوق موليا چيڤتاءن الله.",
+  "options": [
+   "ملائكة",
+   "شيطان",
+   "ايبليس"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة اياله مخلوق يڠ موليا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-23",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توݢس ملائكة عزرائيل.",
+  "options": [
+   "منچابوت ڽاوا",
+   "منوروڠكن هوجن",
+   "منيوڤ سڠكاكالا"
+  ],
+  "answer": 0,
+  "explanation": "عزرائيل منچابوت ڽاوا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-24",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة ڤنچاتت عمل كجاهتن.",
+  "options": [
+   "عتيد",
+   "رقيب",
+   "رضوان"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة عتيد منچاتت عمل كجاهتن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp22024-25",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيذا ملائكة دڠن ماءنسي.",
+  "options": [
+   "تيدق ماكن دان مينوم",
+   "برايستري",
+   "بردوسا"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة تيدق ماكن دان مينوم.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-tauhid-ppt2024-01",
   "exam": "Darjah 2",
   "subject": "Tauhid",

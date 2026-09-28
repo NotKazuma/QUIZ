@@ -1920,6 +1920,467 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-akhlak-upp22024-01",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب دالم مجليس علمو؟",
+  "options": [
+   "تيدور",
+   "ممبوات بيسيڠ",
+   "ممبوات چاتتن"
+  ],
+  "answer": 2,
+  "explanation": "ممبوات چاتتن اياله ادب دالم مجليس علمو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-02",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه فائدة برادب دالم مجليس علمو؟",
+  "options": [
+   "دڤندڠ هينا",
+   "منداڤت دوسا",
+   "دڤندڠ موليا"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ برادب دڤندڠ موليا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-03",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كلبيهن منونتوت علمو؟",
+  "options": [
+   "دريضاءي الله",
+   "دموركاءي الله",
+   "ماسوق نراک"
+  ],
+  "answer": 0,
+  "explanation": "منونتوت علمو دريضاءي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-04",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عاقبة تيدق برادب كتيك منونتوت علمو؟",
+  "options": [
+   "بردوسا",
+   "دبركاتي الله",
+   "منداڤت ڤهالا"
+  ],
+  "answer": 0,
+  "explanation": "تيدق برادب كتيك منونتوت علمو مڽببكن دوسا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-05",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب مڠݢوناكن ميديا مسسا؟",
+  "options": [
+   "مڽيباركن عيب",
+   "مليهت معصية",
+   "ڤستيكن صحيح"
+  ],
+  "answer": 2,
+  "explanation": "ڤستيكن معلومت صحيح سبلوم مڽيباركنڽ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-06",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ممباچ دعاء سبلوم منونتوت علمو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باچ دعاء سبلوم منونتوت علمو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-07",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برادب دالم مجليس علمو اكن منداڤت ڤهالا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برادب دالم مجليس علمو منداڤت ڤهالا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-08",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: منونتوت علمو اكن دڤندڠ هينا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ برعلمو دڤندڠ موليا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-09",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مڽيباركن بريتا ڤلسو دالم ميديا مسسا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "دلارڠ مڽيباركن بريتا ڤلسو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-10",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مڠݢوناكن ميديا مسسا دڠن نية يڠ باءيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ݢوناكن ميديا مسسا دڠن نية يڠ باءيق.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-11",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب دالم مجليس علمو",
+  "options": [
+   "سوڤن",
+   "بيسيڠ",
+   "برݢادوه"
+  ],
+  "answer": 0,
+  "explanation": "برسيكڤ سوڤن دالم مجليس علمو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-12",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن منونتوت علمو",
+  "options": [
+   "هينا",
+   "موليا",
+   "بنچي"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ برعلمو منجادي موليا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-13",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عاقبة تيدق برادب كتيك منونتوت علمو",
+  "options": [
+   "دوسا",
+   "ڤهالا",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "تيدق برادب مڽببكن دوسا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-14",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط معلومت يڠ دسيبر",
+  "options": [
+   "بنر",
+   "راݢو",
+   "ڤلسو"
+  ],
+  "answer": 0,
+  "explanation": "معلومت يڠ دسيبر مستي بنر.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-15",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب اوتام مڠݢوناكن ميديا مسسا",
+  "options": [
+   "داڠكل",
+   "بوروق",
+   "امانه"
+  ],
+  "answer": 2,
+  "explanation": "امانه اياله ادب اوتام مڠݢوناكن ميديا مسسا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-16",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فائدة برادب دالم مجليس علمو.",
+  "options": [
+   "برڤادا-ڤادا",
+   "فتنه",
+   "دبريكن كمولياءن",
+   "دموركاءي الله",
+   "علمو موده دفهمي"
+  ],
+  "answer": 4,
+  "explanation": "برادب ممبوليهكن علمو موده دفهمي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-17",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن منونتوت علمو.",
+  "options": [
+   "برڤادا-ڤادا",
+   "فتنه",
+   "دبريكن كمولياءن",
+   "دموركاءي الله",
+   "علمو موده دفهمي"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ منونتوت علمو دبريكن كمولياءن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-18",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كبوروقن تيدق برادب كتيك منونتوت علمو.",
+  "options": [
+   "برڤادا-ڤادا",
+   "فتنه",
+   "دبريكن كمولياءن",
+   "دموركاءي الله",
+   "علمو موده دفهمي"
+  ],
+  "answer": 3,
+  "explanation": "تيدق برادب مڽببكن دموركاءي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-19",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بريتا يڠ تيدق بنر.",
+  "options": [
+   "برڤادا-ڤادا",
+   "فتنه",
+   "دبريكن كمولياءن",
+   "دموركاءي الله",
+   "علمو موده دفهمي"
+  ],
+  "answer": 1,
+  "explanation": "بريتا تيدق بنر بوليه منجادي فتنه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-20",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب اوتام مڠݢوناكن ميديا مسسا.",
+  "options": [
+   "برڤادا-ڤادا",
+   "فتنه",
+   "دبريكن كمولياءن",
+   "دموركاءي الله",
+   "علمو موده دفهمي"
+  ],
+  "answer": 0,
+  "explanation": "ݢوناكن ميديا مسسا سچارا برڤادا-ڤادا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-21",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب دالم مجليس علمو.",
+  "options": [
+   "مندڠر دڠن تكون",
+   "تيدور",
+   "بربوال"
+  ],
+  "answer": 0,
+  "explanation": "مندڠر ڤڠاجرن دڠن تكون.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-22",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كباءيقن برادب دالم مجليس علمو.",
+  "options": [
+   "علمو موده دفهمي",
+   "منداڤت دوسا",
+   "دهينا"
+  ],
+  "answer": 0,
+  "explanation": "برادب ممبوليهكن علمو موده دفهمي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-23",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم مڽيباركن معلومت.",
+  "options": [
+   "ڤستيكن صحيح",
+   "كوڠسي سݢرا",
+   "تمبه چريتا"
+  ],
+  "answer": 0,
+  "explanation": "ڤستيكن معلومت صحيح سبلوم دسيبر.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp22024-24",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب كتيك بركوڠسي معلومت.",
+  "options": [
+   "جوجور",
+   "منيڤو",
+   "مڠومڤت"
+  ],
+  "answer": 0,
+  "explanation": "بركوڠسي معلومت دڠن جوجور.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-akhlak-ppt2024-01",
   "exam": "Darjah 2",
   "subject": "Akhlak",
