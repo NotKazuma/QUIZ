@@ -1869,5 +1869,475 @@
   "explanation": "معجزة ممبوقتيكن كبنرن كنبين.",
   "source": "PAT 2025",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي تَحَنُّث اياله ___.",
+  "options": [
+   "برسمبوڽي",
+   "مڽنديري",
+   "برتفكور"
+  ],
+  "answer": 1,
+  "explanation": "تحنث برمعنا مڽنديري اونتوق برعبادة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا نبي محمد ﷺ منريما وحي ملالوءي ___.",
+  "options": [
+   "إلهام",
+   "تيدور",
+   "صلاة"
+  ],
+  "answer": 0,
+  "explanation": "وحي دتريما ملالوءي إلهام دان چارا لاءين.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ منريما وحي فرتام ڤد ___.",
+  "options": [
+   "17 شعبان",
+   "17 رجب",
+   "17 رمضان"
+  ],
+  "answer": 2,
+  "explanation": "وحي فرتام دتورونكن ڤد 17 رمضان.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كافيلاڠن ڤرتام يڠ منريما دعوه إسلام اياله ___.",
+  "options": [
+   "سيدنا علي",
+   "سيدنا عمر",
+   "سيدنا زيد"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا علي (كانق٢) اياله ساله ساتو يڠ فرتام منريما إسلام.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمفت نبي محمد ﷺ ممفوليهكن سلامت سلڤس دعوهڽ دتولق دطائف اياله بوكيت ___.",
+  "options": [
+   "احد",
+   "صفا",
+   "مروة"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا برليندوڠ دبوكيت احد سلڤس دتولق دطائف.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برتحنث اداله فرسدياءن سبلوم منجادي رسول.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تحنث اياله فرسدياءن سبلوم منجادي رسول.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فوكوق دان كايو ممبري سلام كڤد نبي محمد ﷺ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "معجزة باتو دان فوكوق ممبري سلام كڤد باݢيندا.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ مراسا تاكوت دان كمنتر سلفس منريما وحي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا مراسا تاكوت دان كمنتر سلفس منريما وحي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ مسمفايكن دعوهڽ سچارا برفرينكت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دعوه دسمفايكن سچارا برفرينكت.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام برݢمبڠ ملالوءي فقسأن دان ككراسن سماتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "إسلام برݢمبڠ ملالوءي حكمه دان كأمانن، بوكن ككراسن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مندكتكن ديري كڤد الله.",
+  "options": [
+   "3 تاهون",
+   "برذيكير",
+   "سيدنا ابو بكر"
+  ],
+  "answer": 1,
+  "explanation": "برذيكير اياله چارا مندكتكن ديري كڤد الله.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يڠ منسمفايكن وحي.",
+  "options": [
+   "جبريل",
+   "برذيكير",
+   "المدثر"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل منسمفايكن وحي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سورة يڠ منفرينتهكن نبي محمد ﷺ منتوق دعوه كڤد قومڽ.",
+  "options": [
+   "المدثر",
+   "جبريل",
+   "سيدنا ابو بكر"
+  ],
+  "answer": 0,
+  "explanation": "سورة المدثر منفرينتهكن باݢيندا منتوق دعوه.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توكوه اول يڠ منريما دعوه إسلام.",
+  "options": [
+   "سيدنا ابو بكر",
+   "جبريل",
+   "3 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا ابو بكر اياله توكوه اول يڠ منريما دعوه.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمفوه دعوه سچارا سوليت.",
+  "options": [
+   "3 تاهون",
+   "جبريل",
+   "المدثر"
+  ],
+  "answer": 0,
+  "explanation": "دعوه سوليت برلاكو سلاما 3 تاهون.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-16",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن برتحنث اداله فرسدياءن سبلوم منريما ___.",
+  "options": [
+   "شريعة نبي",
+   "هرتا",
+   "كواسا"
+  ],
+  "answer": 0,
+  "explanation": "برتحنث اداله فرسدياءن سبلوم منريما شريعة نبي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-17",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فركارا يڠ دسمفايكن كفد نبي محمد ﷺ سماس ملالوءي مافي اياله ___.",
+  "options": [
+   "وحي",
+   "هرتا",
+   "كواسا"
+  ],
+  "answer": 0,
+  "explanation": "وحي دسمفايكن كفد باݢيندا.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-18",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ممباوا نبي محمد ﷺ برتمو ورقة بن نوفل اياله ___.",
+  "options": [
+   "سيدتنا خديجة",
+   "أبو جهل",
+   "أبو لهب"
+  ],
+  "answer": 0,
+  "explanation": "سيدتنا خديجة ممباوا باݢيندا برتمو ورقة بن نوفل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-19",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ منجادي رسول كتيك برعمور ___.",
+  "options": [
+   "40 تاهون",
+   "30 تاهون",
+   "50 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا دلنتيق منجادي رسول ڤد عمور 40 تاهون.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-20",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دعوه يڠ دأوجولكن دان منجادي چونتوه اياله ___.",
+  "options": [
+   "دعوه رسول الله ﷺ",
+   "دعوه ايبليس",
+   "دعوه شيطان"
+  ],
+  "answer": 0,
+  "explanation": "دعوه رسول الله ﷺ اياله چونتوه تربايق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-21",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب نبي محمد ﷺ برتحنث دݢوا حراء.",
+  "options": [
+   "منچاري كتنڠن دان كبنرن",
+   "منجادي كاي",
+   "برنياݢ"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا برتحنث اونتوق منچاري كتنڠن دان كبنرن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-22",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمور نبي محمد ﷺ كتيك مڠالمي تندا٢ كنبين.",
+  "options": [
+   "40 تاهون",
+   "25 تاهون",
+   "35 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "تندا٢ كنبين مونچول مندكتي عمور 40 تاهون.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-23",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سورة يڠ دتورونكن سلڤس سورة العلق.",
+  "options": [
+   "المدثر",
+   "الفاتحة",
+   "البقرة"
+  ],
+  "answer": 0,
+  "explanation": "سورة المدثر دتورونكن سلڤس سورة العلق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-24",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت رسول الله ﷺ مولا برتحنث.",
+  "options": [
+   "ݢوا حراء",
+   "مسجد الحرام",
+   "طائف"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا برتحنث دݢوا حراء.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-ppt2026-25",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دوا فرينكت دعوه نبي محمد ﷺ.",
+  "options": [
+   "سوليت دان تربوک",
+   "سوليت سهاج",
+   "تربوک سهاج"
+  ],
+  "answer": 0,
+  "explanation": "دعوه دلاكوكن سچارا سوليت دان تربوک.",
+  "source": "PPT 2026",
+  "perlu_semak": true
  }
 ]

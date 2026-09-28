@@ -1671,5 +1671,475 @@
   "explanation": "تاڠن دݢوناكن اونتوق منوليس خط.",
   "source": "PAT 2025",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-01",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول ڤركاتاءن \"اخلاق\" اياله ___.",
+  "options": [
+   "بر",
+   "تر",
+   "ڤر"
+  ],
+  "answer": 0,
+  "explanation": "بر + اخلاق = براخلاق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-02",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"د\".",
+  "options": [
+   "كدوا",
+   "دنيلاي",
+   "تربائيق"
+  ],
+  "answer": 1,
+  "explanation": "د + نيلاي = دنيلاي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-03",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول \"ک\" اياله ___.",
+  "options": [
+   "كهندق",
+   "ملڠكه",
+   "ڤنياكق"
+  ],
+  "answer": 0,
+  "explanation": "ک + هندق = كهندق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-04",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حاصيل ___ تله دجوال دڤاسر.",
+  "options": [
+   "لارين",
+   "كجاياءن",
+   "بوروان"
+  ],
+  "answer": 1,
+  "explanation": "حاصيل كجاياءن دجوال دڤاسر.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-05",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ايمبوهن دأخير \"كن\".",
+  "options": [
+   "ماسقن",
+   "سوسوان",
+   "لتقكن"
+  ],
+  "answer": 0,
+  "explanation": "ماسق + كن = ماسقكن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-06",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ اياله چونتوه اخلاق يڠ ترباءيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله چونتوه اخلاق يڠ ترباءيق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-07",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"دفرچت\" اياله ڤركاتاءن ايمبوهن دأول \"د\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "د + فرچت = دفرچت.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-08",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "أبو لهب ممبانتو نبي محمد ﷺ دي مكة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "أبو لهب مننتڠ، بوكن ممبانتو نبي محمد ﷺ.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-09",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"برفنداڤتن\" اداله ايمبوهن دأول دان دأخير \"بر + ان\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بر + فنداڤت + ان = برفنداڤتن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-10",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "القرءان اداله سومبر يڠ واجب دفرچاياءي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "القرءان اداله سومبر يڠ واجب دفرچاياءي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-11",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ابڠ ___ تاڠن اديق ايريق كتيك جالن.",
+  "options": [
+   "ملينتس",
+   "منداڤت",
+   "مغكوسوق"
+  ],
+  "answer": 0,
+  "explanation": "ابڠ ملينتس تاڠن اديق ايريق كتيك جالن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-12",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كاكق ___ تمفت ڤرتام دالم ڤڤريقساءن.",
+  "options": [
+   "منداڤت",
+   "ملينتس",
+   "مغكوسوق"
+  ],
+  "answer": 0,
+  "explanation": "كاكق منداڤت تمفت ڤرتام دالم ڤڤريقساءن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-13",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايه ___ باجو سبلوم كمسجد.",
+  "options": [
+   "مغكوسوق",
+   "منداڤت",
+   "ملينتس"
+  ],
+  "answer": 0,
+  "explanation": "ايه مغكوسوق باجو سبلوم كمسجد.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-14",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول دان دأخير فركاتاءن \"برسامأن\".",
+  "options": [
+   "بر + ن",
+   "منداڤت",
+   "كسوكاءن"
+  ],
+  "answer": 0,
+  "explanation": "بر + سام + ن = برسامأن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-15",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ناسي لماق اداله ماكانن ___ اورڠ راماي.",
+  "options": [
+   "كسوكاءن",
+   "منداڤت",
+   "ملينتس"
+  ],
+  "answer": 0,
+  "explanation": "ناسي لماق اداله ماكانن كسوكاءن اورڠ راماي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-16",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "احمد ممبنتو ابڠڽ ___ رومه.",
+  "options": [
+   "ممبرسيهكن",
+   "ممبواڠ",
+   "منجاءوهي"
+  ],
+  "answer": 0,
+  "explanation": "احمد ممبنتو ابڠڽ ممبرسيهكن رومه.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-17",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اديق بارو بلاجر ___ ددالم كولم.",
+  "options": [
+   "برنڠ",
+   "برلاري",
+   "تربڠ"
+  ],
+  "answer": 0,
+  "explanation": "اديق بارو بلاجر برنڠ ددالم كولم.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-18",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوان امينة سأورڠ ___ رومه يڠ راجين.",
+  "options": [
+   "ڤڠهوني",
+   "ڤنجاݢا",
+   "ڤمليك"
+  ],
+  "answer": 0,
+  "explanation": "فوان امينة سأورڠ ڤڠهوني رومه يڠ راجين.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-19",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سموا ___ ايت برجاي سمفاي كڤونچق ݢونوڠ.",
+  "options": [
+   "ڤنداكي",
+   "ڤلاري",
+   "ڤنونتون"
+  ],
+  "answer": 0,
+  "explanation": "سموا ڤنداكي ايت برجاي سمفاي كڤونچق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-20",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عثمان برچيتا-چيتا منجادي ___ كاڤل.",
+  "options": [
+   "نكوذا",
+   "طبيب",
+   "جوروترا"
+  ],
+  "answer": 0,
+  "explanation": "عثمان برچيتا-چيتا منجادي نكوذا كاڤل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-21",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول ڤركاتاءن يڠ برموله دڠن \"س\".",
+  "options": [
+   "سأورڠ",
+   "براخلاق",
+   "دنيلاي"
+  ],
+  "answer": 0,
+  "explanation": "سـ + اورڠ = سأورڠ.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-22",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأخير ڤركاتاءن يڠ برأخير دڠن \"ن\".",
+  "options": [
+   "ماكنن",
+   "ممباچ",
+   "ڤلوكيس"
+  ],
+  "answer": 0,
+  "explanation": "ماكن + ن = ماكنن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-23",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأخير ڤركاتاءن يڠ برأخير دڠن \"ي\".",
+  "options": [
+   "ممبتولي",
+   "مماري",
+   "منجاءوهي"
+  ],
+  "answer": 2,
+  "explanation": "منجاءوه + ي = منجاءوهي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-24",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كات داسر باݢي ڤركاتاءن \"ڤرساتوان\".",
+  "options": [
+   "ساتو",
+   "ڤرسا",
+   "توان"
+  ],
+  "answer": 0,
+  "explanation": "فر + ساتو + ان = ڤرساتوان.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-ppt2026-25",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول دان دأخير فركاتاءن \"ممڤردڠركن\".",
+  "options": [
+   "مم + كن",
+   "ڤر + ان",
+   "بر + كن"
+  ],
+  "answer": 0,
+  "explanation": "مم + ڤردڠر + كن = ممڤردڠركن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
  }
 ]
