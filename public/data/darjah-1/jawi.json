@@ -1,5 +1,388 @@
 [
  {
+  "id": "darjah-1-jawi-upp22022-01",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ج، ح، ___، چ",
+  "options": [
+   "خ",
+   "ص",
+   "ط"
+  ],
+  "answer": 0,
+  "explanation": "توروتن حروف: ج، ح، خ، چ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-02",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ سام بنتوق دڠن \"د\" اياله ___.",
+  "options": [
+   "ذ",
+   "ر",
+   "ز"
+  ],
+  "answer": 0,
+  "explanation": "ذ سام بنتوق دڠن د، بيذاڽ اد تيتيق.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-03",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دتڠه كليمة \"ڤيو\" اياله ___.",
+  "options": [
+   "ف",
+   "ث",
+   "ي"
+  ],
+  "answer": 2,
+  "explanation": "حروف ي براد دتڠه كليمة ڤيو.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-04",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دڤرمولاءن كليمة \"ثلجي\" اياله ___.",
+  "options": [
+   "ت",
+   "ث",
+   "ڽ"
+  ],
+  "answer": 1,
+  "explanation": "ثلجي دمولاكن دڠن حروف ث.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-05",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دڤرمولاءن كليمة يڠ تيدق براوبه بنتوق اياله ___.",
+  "options": [
+   "ب",
+   "ر",
+   "ش"
+  ],
+  "answer": 1,
+  "explanation": "حروف ر تيدق براوبه بنتوق.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-06",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-sudu.jpg",
+  "options": [
+   "س + و + د + و",
+   "ك + ر + ڤ + و",
+   "ڤ + ي + س + ا + و"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله سودو.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-07",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-keju.jpg",
+  "options": [
+   "ب + و + ا + ه",
+   "ن + ا + س + ي",
+   "ك + ي + ج + و"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله كيجو.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-08",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-sikat.jpg",
+  "options": [
+   "ز + ي + ڤ",
+   "س + ي + ك + ت",
+   "ت + و + ا + ل"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله سيكت.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-09",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-ular.jpg",
+  "options": [
+   "ا + ڠ + س + ا",
+   "ا + ر + ن + ب",
+   "ا + و + ل + ر"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله اولر.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-10",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-pisang.jpg",
+  "options": [
+   "د + و + ك + و",
+   "ل + ڠ + س + ت",
+   "ڤ + ي + س + ڠ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله ڤيسڠ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-11",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عس + كر = عسكر",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عس + كر = عسكر.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-12",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حا + كيم = حاكم",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حا + كيم = حاكيم، بوكن حاكم.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-13",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤا + سو = ڤاسو",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤا + سو = ڤاسو.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-14",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كا + كق = كاڤق",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كا + كق = كاكق، بوكن كاڤق.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-15",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تا + لي = تالي",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تا + لي = تالي.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-16",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جا + لن = ___",
+  "options": [
+   "جالن",
+   "شمڤو",
+   "جاري"
+  ],
+  "answer": 0,
+  "explanation": "جا + لن = جالن.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-17",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شم + ڤو = ___",
+  "options": [
+   "جالن",
+   "شمڤو",
+   "سمڤن"
+  ],
+  "answer": 1,
+  "explanation": "شم + ڤو = شمڤو.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-18",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-rusa.jpg",
+  "options": [
+   "كرباو",
+   "روسا",
+   "اڠسا"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله روسا.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-19",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-langsat.jpg",
+  "options": [
+   "لڠست",
+   "دوريان",
+   "رمبوتن"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله بواه لڠست.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-upp22022-20",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-upp22022-wisel.jpg",
+  "options": [
+   "واڠ",
+   "وقتو",
+   "ويسيل"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله ويسيل.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-jawi-ppt2022-01",
   "exam": "Darjah 1",
   "subject": "Jawi",

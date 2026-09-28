@@ -1,5 +1,366 @@
 [
  {
+  "id": "darjah-1-sirah-upp22022-01",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن انق للاكي عبد المطلب اياله ___.",
+  "options": [
+   "8",
+   "9",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "عبد المطلب ممڤوڽاءي 10 اورڠ انق للاكي.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-02",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام باڤ نبي محمد ﷺ اياله ___.",
+  "options": [
+   "عبد الله",
+   "عبد المطلب",
+   "ابو طالب"
+  ],
+  "answer": 0,
+  "explanation": "باڤ نبي محمد ﷺ اياله عبد الله.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-03",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هرتا ڤوساک عبد الله كڤد ايستريڽ اياله ___.",
+  "options": [
+   "اونتا",
+   "لمبو",
+   "ايم"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله منيڠݢلكن ببراڤ ايكور اونتا.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-04",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بڠسا ايبو نبي محمد ﷺ اياله ___.",
+  "options": [
+   "يهودي",
+   "قريش",
+   "نصراني"
+  ],
+  "answer": 1,
+  "explanation": "آمنة درڤد بڠسا قريش.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-05",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت ترڤوجي آمنة اياله ___.",
+  "options": [
+   "كاسر",
+   "سوڤن سنتون",
+   "خيانة"
+  ],
+  "answer": 1,
+  "explanation": "آمنة سأورڠ يڠ سوڤن سنتون.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-06",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "آمنة منيڠݢل دنيا دانتارا مكه دان ___.",
+  "options": [
+   "مكه",
+   "مدينه",
+   "شام"
+  ],
+  "answer": 1,
+  "explanation": "آمنة وفاة د أبواء، دانتارا مكه دان مدينه.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-07",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام همبا عبد الله اياله ___.",
+  "options": [
+   "أم أيمن",
+   "أم سلامة",
+   "أم حبيبة"
+  ],
+  "answer": 0,
+  "explanation": "أم أيمن اياله همبا عبد الله.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-08",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤكرجاءن عبد الله اداله برنياݢ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عبد الله سأورڠ ڤنياݢ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-09",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبد الله سأورڠ يڠ مالس بكرجا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله سأورڠ يڠ راجين دان براني.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-10",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: آمنة وانيتا باءيق دان چنتيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "آمنة وانيتا يڠ باءيق دان چنتيق.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-11",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتورونن عبد الله بن عبد المطلب اياله ___.",
+  "options": [
+   "كلاب",
+   "عرب",
+   "مكه",
+   "شام"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله بركتورونن عرب.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-12",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نسب كتورونن نبي محمد ﷺ سبله ايبو برتمو ڤد ___.",
+  "options": [
+   "كلاب",
+   "عرب",
+   "مكه",
+   "شام"
+  ],
+  "answer": 0,
+  "explanation": "نسب سبله ايه دان ايبو برتمو ڤد كلاب.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-13",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت برلڠسوڠ ڤركهوينن آمنة بنت وهب اياله ___.",
+  "options": [
+   "كلاب",
+   "عرب",
+   "مكه",
+   "شام"
+  ],
+  "answer": 2,
+  "explanation": "ڤركهوينن عبد الله دان آمنة دأداكن دمكه.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-14",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نذر عبد المطلب دݢنتيكن دڠن ___.",
+  "options": [
+   "90 ايكور اونتا",
+   "100 ايكور اونتا",
+   "110 ايكور اونتا"
+  ],
+  "answer": 1,
+  "explanation": "عبد المطلب مڠوربانكن 100 ايكور اونتا.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-15",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا صيفت ترڤوجي باڤ نبي محمد ﷺ اياله ___.",
+  "options": [
+   "سومبوڠ",
+   "رنده ديري",
+   "خيانة"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله سأورڠ يڠ رنده ديري.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-16",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتورونن آمنة بنت وهب اياله ___.",
+  "options": [
+   "بني زهرة",
+   "بني هاشم",
+   "بني عدي"
+  ],
+  "answer": 0,
+  "explanation": "آمنة درڤد بني زهرة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-17",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه مڠنلي عبد الله بن عبد المطلب اياله ___.",
+  "options": [
+   "خيانة",
+   "طاعة",
+   "ڤناكوت"
+  ],
+  "answer": 1,
+  "explanation": "عبد الله طاعة كڤد ايهڽ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-18",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نسب كتورونن سبله ايبو نبي محمد ﷺ اياله ___.",
+  "options": [
+   "هاشم",
+   "عبد المطلب",
+   "وهب بن عبد مناف"
+  ],
+  "answer": 2,
+  "explanation": "آمنة بنت وهب بن عبد مناف.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-upp22022-19",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوسيا نبي محمد ﷺ كتيك ايبوڽ منيڠݢل دنيا اياله ___.",
+  "options": [
+   "5 تاهون",
+   "6 تاهون",
+   "7 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "آمنة وفاة كتيك نبي محمد ﷺ برعمور 6 تاهون.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-sirah-ppt2022-01",
   "exam": "Darjah 1",
   "subject": "Sirah",
