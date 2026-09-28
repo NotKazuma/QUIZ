@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-3-ibadat-pat2022-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا ميوچيكن حدث كچيل؟",
+  "options": [
+   "وضوء",
+   "مندي",
+   "صلاة"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره يڠ كلوار درڤد كمالوان ڤرمڤوان يڠ بروسيا كوراڠ 9 تاهون.",
+  "options": [
+   "حيض",
+   "نفاس",
+   "استحاضة"
+  ],
+  "answer": 2,
+  "explanation": "داره يڠ كلوار سبلوم اوسيا 9 تاهون دسبوت استحاضة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا بالغ باݢي اورڠ للاكي اياله ___.",
+  "options": [
+   "براڠن-اڠن",
+   "تومبوه ميساي",
+   "كلوار داره حيض"
+  ],
+  "answer": 1,
+  "explanation": "تومبوه ميساي اياله تندا بالغ للاكي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب واجب مندي اياله ___.",
+  "options": [
+   "برڤلوه",
+   "تركنتوت",
+   "مليهيركن انق"
+  ],
+  "answer": 2,
+  "explanation": "ملاهيركن انق (ولادة) مواجبكن مندي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم صلاة جمعة اداله ___.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة واجب ك اتس للاكي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيمڤوه ماس حيض ڤاليڠ سيڠكت سهاري سمالم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ماس حيض ڤاليڠ سيڠكت اياله سهاري سمالم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تكليف واجب ملاكوكن فرض عين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ مكلف واجب ملاكوكن فرض عين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: روكون مندي واجب اد انم ڤركارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "روكون مندي واجب اد دوا: نية دان مراتاكن اءير.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اورڠ مسافير واجب مڠرجاكن صلاة جمعة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "مسافير تيدق واجب صلاة جمعة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: خطبة جمعة دباچ ستله ماسوق واقتو ظهر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "خطبة جمعة دباچ ستله ماسوق واقتو ظهر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان ملاءوڠكن اذان دان اقامة اياله اونتوق مڠيرين اورڠ اونتوق ملقساناكن ___.",
+  "options": [
+   "جمعة",
+   "فوجين",
+   "خطبة",
+   "برفواسا",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "اذان دان اقامة مڠيرين اونتوق منديريكن صلاة جمعة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مندي ستله ماسوق إسلام ترماسوق حکوم ___.",
+  "options": [
+   "جمعة",
+   "فوجين",
+   "خطبة",
+   "برفواسا",
+   "سنة"
+  ],
+  "answer": 4,
+  "explanation": "مندي سلڤس ماسوق إسلام اياله سنة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة يڠ ددريكن سچارا برجماعه، سكوراڠ٢ 40 اورڠ اياله صلاة ___.",
+  "options": [
+   "جمعة",
+   "فوجين",
+   "خطبة",
+   "برفواسا",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة مموڤاكن شرط سكوراڠ٢ 40 اورڠ مكلف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خطبة جمعة دمولاكن دڠن ممواداكن ___ كڤد الله.",
+  "options": [
+   "جمعة",
+   "فوجين",
+   "خطبة",
+   "برفواسا",
+   "سنة"
+  ],
+  "answer": 1,
+  "explanation": "خطبة دمولاكن دڠن ڤوجين (فوجين) كڤد الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة دياما كتيك خطيب سدڠ مماچ ___.",
+  "options": [
+   "جمعة",
+   "فوجين",
+   "خطبة",
+   "برفواسا",
+   "سنة"
+  ],
+  "answer": 2,
+  "explanation": "سنة ديام كتيك خطيب مماچ خطبة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن ديري درڤد حدث بسر.",
+  "options": [
+   "مندي واجب",
+   "بروضوء",
+   "برتيمم سهاج"
+  ],
+  "answer": 0,
+  "explanation": "حدث بسر دسوچيكن دڠن مندي واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط واجب صلاة جمعة.",
+  "options": [
+   "للاكي",
+   "برمقيم بوكن مسافير",
+   "برادا دلوار نݢري"
+  ],
+  "answer": 1,
+  "explanation": "شرط واجب صلاة جمعة تيدق سدڠ مسافير.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه صلاة جمعة اياله منمبه ___ سسام إسلام.",
+  "options": [
+   "ڤرڤاداءن",
+   "ڤرموسوهن",
+   "دندم"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة منمبه ڤرڤاداءن سسام إسلام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط٢ خطبة جمعة.",
+  "options": [
+   "دباچ سلڤس ماسوق واقتو ظهر",
+   "دباچ سبلوم صبح",
+   "دباچ ستله عصر"
+  ],
+  "answer": 0,
+  "explanation": "خطبة جمعة دباچ سلڤس ماسوق واقتو ظهر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة سبلوم صلاة جمعة اياله ممباچ خطبة سباڽق ___ كالي.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "خطبة جمعة اد دوا كالي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركارا يڠ مواجبكن مندي.",
+  "options": [
+   "كلوار مني",
+   "تيدور",
+   "برچاكڤ"
+  ],
+  "answer": 0,
+  "explanation": "كلوار مني مواجبكن مندي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط سأورڠ يڠ مكلف.",
+  "options": [
+   "بالغ دان برعقل",
+   "كانق٢",
+   "ݢيلا"
+  ],
+  "answer": 0,
+  "explanation": "مكلف اياله بالغ دان برعقل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندي سلڤس ماسوق إسلام.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "مندي سلڤس ماسوق إسلام اياله سنة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط واجب صلاة جمعة.",
+  "options": [
+   "للاكي بالغ برعقل",
+   "كانق٢",
+   "مسافير"
+  ],
+  "answer": 0,
+  "explanation": "شرط واجب اياله للاكي، بالغ، برعقل، مرديك، برمقيم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2022-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه مندڠر خطبة جمعة.",
+  "options": [
+   "منمبه علمو",
+   "منجادي مالس",
+   "منداڤت دوسا"
+  ],
+  "answer": 0,
+  "explanation": "مندڠر خطبة منمبه علمو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-pat2023-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",

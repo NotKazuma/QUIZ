@@ -1,5 +1,475 @@
 [
  {
+  "id": "darjah-3-tauhid-pat2022-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "روكون ايمان يڠ كأمڤت اياله برايمان كڤد ___.",
+  "options": [
+   "الله",
+   "رسول",
+   "كتاب"
+  ],
+  "answer": 1,
+  "explanation": "روكون ايمان كأمڤت: برايمان كڤد رسول.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود يَوْمُ القَارِعَةِ اياله هاري ___.",
+  "options": [
+   "ڤيمبالسن",
+   "ڤننتوان",
+   "كريبوتن"
+  ],
+  "answer": 2,
+  "explanation": "يوم القارعة برمعنا هاري كريبوتن (يڠ مڠجوتكن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء يڠ تربهاكي كڤد ___ باهاكين.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "قضاء تربهاݢي دوا: مبرم دان معلق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مماهامي سچارا تفصيلي قضاء دان قدر الله تعالى اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "مماهمي سچارا تفصيلي حکومڽ هاروس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فقهاء هاث كڤد الله اداله مقصود ___.",
+  "options": [
+   "ورع",
+   "صبر",
+   "فقر"
+  ],
+  "answer": 2,
+  "explanation": "فقر برمعنا ڤرلوكن/هاجت كڤد الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله فارا نبي براماي سراماي 124,000 اورڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "جومله نبي اياله 124,000 اورڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة اداله هاري كبڠكيتن اورڠ يڠ تله ماتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "هاري قيامة اياله هاري كبڠكيتن سمولا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء برارتي كتتڤن يڠ فستي يڠ تله برلاكو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قضاء اياله كتتڤن يڠ ڤستي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت احسان بركاءيت دڠن نية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "احسان بركاءيت راڤت دڠن نية يڠ اخلاص.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "احسان مماڤو منجادين ماءنسي كريبادين موليا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "احسان ممبنتوق ڤريبادي يڠ موليا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دليل يڠ برسومبركن القرءان دان السنة اياله ___.",
+  "options": [
+   "نقلي",
+   "توكل",
+   "قضاء دان قدر"
+  ],
+  "answer": 0,
+  "explanation": "دليل نقلي برسومبركن القرءان دان السنة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا٢ بسر هاري قيامة اياله ___.",
+  "options": [
+   "نقلي",
+   "توكل",
+   "قضاء دان قدر"
+  ],
+  "answer": 2,
+  "explanation": "چونتوهڽ اياله مونچول دجال، سباهاݢين درڤد قضاء دان قدر الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء يڠ دساندركن كڤد كتنتوان الله يڠ ازلي اداله ___.",
+  "options": [
+   "قضاء مبرم",
+   "قضاء معلق",
+   "توكل"
+  ],
+  "answer": 0,
+  "explanation": "قضاء مبرم اياله كتنتوان ازلي يڠ تيدق براوبه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لبيه برصبر دان رضا اداله حكمه برايمان كڤد ___.",
+  "options": [
+   "قضاء دان قدر",
+   "رسول",
+   "ملائكة"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كڤد قضاء دان قدر ملاهيركن صبر دان رضا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فسره هاث كڤد الله تعالى ارتي ___.",
+  "options": [
+   "توكل",
+   "فقر",
+   "صبر"
+  ],
+  "answer": 0,
+  "explanation": "توكل برمعنا برسره دان برهاث كڤد الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت جوجور دان بنر اياله ارتي صيفت ___.",
+  "options": [
+   "صِدْق",
+   "أَمَانَة",
+   "تَبْلِيغ"
+  ],
+  "answer": 0,
+  "explanation": "صدق برمعنا جوجور دان بنر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مونچولڽ سأورڠ ڤمبوهوڠ بسر دأخير زمان دسبوت مونچولڽ ___.",
+  "options": [
+   "دجال",
+   "إمام مهدي",
+   "يأجوج مأجوج"
+  ],
+  "answer": 0,
+  "explanation": "دجال اياله ڤمبوهوڠ بسر يڠ مونچول اخير زمان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي قدر ڤد بهاس اياله ___.",
+  "options": [
+   "اوكورن يڠ تنتو",
+   "كڤستين",
+   "كتتڤن"
+  ],
+  "answer": 0,
+  "explanation": "قدر برمعنا اوكورن يڠ تنتو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "احسان مننتيغن ماءنسي ملاكوكن كباءيقن دڠن ___.",
+  "options": [
+   "اخلاص",
+   "رياء",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "احسان منتونتوت نية يڠ اخلاص.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود وَأَحْسِنُ اياله ___.",
+  "options": [
+   "ملاكوكن كباءيقن",
+   "ملاكوكن كجاهتن",
+   "برمالس-مالسن"
+  ],
+  "answer": 0,
+  "explanation": "وأحسن برمعنا دان لاكوكنله كباءيقن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد نبي دان رسول.",
+  "options": [
+   "منجاديكن مريك چونتوه تلادن",
+   "منجادي سومبوڠ",
+   "مالس برعبادة"
+  ],
+  "answer": 0,
+  "explanation": "كيت منجاديكن رسول سباݢاي چونتوه تلادن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم فرچاي كڤد هاري قيامة.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد هاري قيامة اياله واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد قضاء دان قدر.",
+  "options": [
+   "صبر مڠهادڤي داݢڠ",
+   "برڤوتوس اسا",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كڤد قضاء دان قدر منجاديكن كيت صبر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-24",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كڤنتيڠن احسان دالم كهيدوڤن ماءنسي.",
+  "options": [
+   "ممبنتوق ڤريبادي موليا",
+   "منجادي ككجم",
+   "ساليڠ برموسوهن"
+  ],
+  "answer": 0,
+  "explanation": "احسان ممبنتوق ڤريبادي يڠ موليا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2022-25",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كباءيقن يڠ منتيغ دالم إسلام.",
+  "options": [
+   "كأمانن دان كسجهترءان",
+   "ڤرڤچهن",
+   "ڤرموسوهن"
+  ],
+  "answer": 0,
+  "explanation": "إسلام ممباوا كأمانن دان كسجهترءان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-pat2023-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",
