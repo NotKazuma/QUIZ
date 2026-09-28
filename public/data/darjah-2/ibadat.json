@@ -1843,5 +1843,485 @@
   "explanation": "برسوݢي مڠهيلڠكن باو مولوت.",
   "source": "PAT 2025",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين بندا٢ كوتور؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 1,
+  "explanation": "كوتورن تربهاݢي دوا: نجيس دان حدث.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي نجيس مُغَلَّظَة؟",
+  "options": [
+   "برت",
+   "ريڠن",
+   "ڤرتڠهن"
+  ],
+  "answer": 0,
+  "explanation": "مغلظة برمعنا برت.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا ميوچيكن حدث كچيل؟",
+  "options": [
+   "مندي",
+   "وضوء",
+   "استنجاء"
+  ],
+  "answer": 1,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله فرض وضوء اد ___.",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 2,
+  "explanation": "فرض وضوء اد انم.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برچاكڤ-چاكڤ كتيك بروضوء اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "برچاكڤ كتيك بروضوء اياله مكروه.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نجيس مُغَلَّظَة دسوچيكن دڠن اءير يڠ برچمڤور تانه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نجيس مغلظة دباسوه توجوه كالي، ساتو دانتاراڽ برچمڤور تانه.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حدث تربهاݢي كڤد تيݢ بهاݢين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حدث تربهاݢي دوا: حدث كچيل دان حدث بسر.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سنة مڠهادڤ قبلة كتيك بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مڠهادڤ قبلة اياله سنة وضوء.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: انتارا كباءيقن بروضوء داڤت مڠهاڤوسكن دوسا بسر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "وضوء مڠهاڤوسكن دوسا٢ كچيل، بوكن دوسا بسر.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: شرط سأورڠ مؤذن هندقله للاكي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مؤذن مستيله للاكي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام اءير يڠ برسيه.",
+  "options": [
+   "مُطْلَق",
+   "مُغَلَّظَة",
+   "مُخَفَّفَة"
+  ],
+  "answer": 0,
+  "explanation": "اءير مطلق اياله اءير يڠ سوچي لاݢي مڽوچيكن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب٢ برحدث كچيل.",
+  "options": [
+   "مونته",
+   "مڠواڤ",
+   "كنچيڠ"
+  ],
+  "answer": 2,
+  "explanation": "كنچيڠ مڽببكن حدث كچيل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرض وضوء.",
+  "options": [
+   "نية",
+   "سلام",
+   "صلاة"
+  ],
+  "answer": 0,
+  "explanation": "نية اياله فرض وضوء يڠ ڤرتام.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندهولوكن اڠݢوتا سبله كانن دري كيري.",
+  "options": [
+   "واجب",
+   "سنة",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "مندهولوكن كانن اياله سنة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا ماسوق وقتو صلاة.",
+  "options": [
+   "اذان",
+   "خطبة",
+   "صلوات"
+  ],
+  "answer": 0,
+  "explanation": "اذان منندكن ماسوق وقتو صلاة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بندا كوتور يڠ ممبطلكن صلاة.",
+  "options": [
+   "منوتوڤ كڤالا",
+   "حدث كچيل",
+   "منيڠݢيكن شعار إسلام",
+   "داره",
+   "تيدق سوچي"
+  ],
+  "answer": 3,
+  "explanation": "داره اياله نجيس يڠ ممبطلكن صلاة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم بندا٢ نجيس.",
+  "options": [
+   "منوتوڤ كڤالا",
+   "حدث كچيل",
+   "منيڠݢيكن شعار إسلام",
+   "داره",
+   "تيدق سوچي"
+  ],
+  "answer": 4,
+  "explanation": "بندا نجيس حکومڽ تيدق سوچي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو بهاݢين حدث.",
+  "options": [
+   "منوتوڤ كڤالا",
+   "حدث كچيل",
+   "منيڠݢيكن شعار إسلام",
+   "داره",
+   "تيدق سوچي"
+  ],
+  "answer": 1,
+  "explanation": "حدث تربهاݢي كڤد حدث كچيل دان حدث بسر.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب٢ كتيك ممبواڠ اءير.",
+  "options": [
+   "منوتوڤ كڤالا",
+   "حدث كچيل",
+   "منيڠݢيكن شعار إسلام",
+   "داره",
+   "تيدق سوچي"
+  ],
+  "answer": 0,
+  "explanation": "منوتوڤ كڤالا اياله ادب ممبواڠ اءير.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا توجوان اذان.",
+  "options": [
+   "منوتوڤ كڤالا",
+   "حدث كچيل",
+   "منيڠݢيكن شعار إسلام",
+   "داره",
+   "تيدق سوچي"
+  ],
+  "answer": 2,
+  "explanation": "اذان منيڠݢيكن شعار إسلام.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن نجيس مُخَفَّفَة اياله ___.",
+  "options": [
+   "مرنجيس اءير",
+   "مندي",
+   "برتيمم"
+  ],
+  "answer": 0,
+  "explanation": "نجيس مخففة دسوچيكن دڠن مرنجيس اءير.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن كتيك برحدث كچيل اياله ___.",
+  "options": [
+   "صلاة",
+   "ماكن",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ برحدث كچيل دلارڠ صلاة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن ممباسوه اڠݢوتا يڠ دمولاكن دڠن نية اياله ___.",
+  "options": [
+   "وضوء",
+   "استنجاء",
+   "برسوݢي"
+  ],
+  "answer": 0,
+  "explanation": "وضوء دمولاكن دڠن نية.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-24",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤركارا يڠ ممبطلكن وضوء اياله ___.",
+  "options": [
+   "كنتوت",
+   "باچ القرءان",
+   "مينوم اءير"
+  ],
+  "answer": 0,
+  "explanation": "كنتوت ممبطلكن وضوء.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-ppt2026-25",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ملاءوڠكن اذان اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "اذان حکومڽ سنة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
  }
 ]
