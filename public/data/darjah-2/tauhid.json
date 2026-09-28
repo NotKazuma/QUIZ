@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-2-tauhid-pat2024-01",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا برايمان كڤد الله؟",
+  "options": [
+   "يقين",
+   "راݢو٢",
+   "واس٢"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله دڠن يقين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-02",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي صيفت القِدَمُ؟",
+  "options": [
+   "اد",
+   "ككل",
+   "سديا اد"
+  ],
+  "answer": 2,
+  "explanation": "القدم برمعنا سديا اد (تيدق برڤرمولاءن).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-03",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم الله منورونكن هوجن؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "هاروس باݢي الله منورونكن اتاو تيدق منورونكن هوجن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-04",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه اصل كجادين ملائكة؟",
+  "options": [
+   "تانه",
+   "چهاي",
+   "اڤي"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة دچيڤتا درڤد چهاي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-05",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم ڤرچاي كڤد كتاب؟",
+  "options": [
+   "واجب",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "ڤرچاي كڤد كتاب اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-06",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ارتي السَّمْعُ = ___",
+  "options": [
+   "ككل",
+   "مندڠر",
+   "مليهت"
+  ],
+  "answer": 1,
+  "explanation": "السمع برمعنا مندڠر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-07",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: صيفت مستحيل اتس الله = ___",
+  "options": [
+   "الوجود",
+   "البقاء",
+   "الفناء"
+  ],
+  "answer": 2,
+  "explanation": "الفناء (بيناس) اياله مستحيل باݢي الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-08",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ملائكة يڠ منچاتت عمل كباءيقن = ___",
+  "options": [
+   "رضوان",
+   "رقيب",
+   "عتيد"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة رقيب منچاتت عمل باءيق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-09",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: كتاب يڠ دتورونكن كڤد نبي عيسى = ___",
+  "options": [
+   "التوراة",
+   "الزبور",
+   "الإنجيل"
+  ],
+  "answer": 2,
+  "explanation": "الإنجيل دتورونكن كڤد نبي عيسى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-10",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حكمه برايمان كڤد كتاب = ___",
+  "options": [
+   "تكون",
+   "ڤندوان",
+   "لارڠن"
+  ],
+  "answer": 1,
+  "explanation": "كتاب منجادي ڤندوان هيدوڤ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-11",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تومبوه-تومبوهن اداله چيڤتاءن الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سموا تومبوهن دچيڤتا اوليه الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-12",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مستحيل الله تعالى برصيفت ترڤقسا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله بركهندق، مستحيل الله ترڤقسا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-13",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ملائكة ترديري درڤد للاكي دان ڤرمڤوان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة بوكن للاكي دان بوكن ڤرمڤوان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-14",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كيت واجب مڠتاهوءي 10 نام ملائكة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اد 10 ملائكة يڠ واجب دكتاهوءي نامان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-15",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: القرءان دتورونكن دالم بهاس عبراني.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "القرءان دتورونكن دالم بهاس عرب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-16",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "القدرة ارتيڽ ___.",
+  "options": [
+   "مطلق",
+   "واجب",
+   "بركواس",
+   "كتقواءن",
+   "معصوم"
+  ],
+  "answer": 2,
+  "explanation": "القدرة برمعنا بركواس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-17",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى بنر٢ بركواس سچارا ___.",
+  "options": [
+   "مطلق",
+   "واجب",
+   "بركواس",
+   "كتقواءن",
+   "معصوم"
+  ],
+  "answer": 0,
+  "explanation": "كواس الله اياله مطلق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-18",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة برصيفت ___.",
+  "options": [
+   "مطلق",
+   "واجب",
+   "بركواس",
+   "كتقواءن",
+   "معصوم"
+  ],
+  "answer": 4,
+  "explanation": "ملائكة معصوم درڤد دوسا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-19",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد ملائكة داڤت منيڠكتكن ___.",
+  "options": [
+   "مطلق",
+   "واجب",
+   "بركواس",
+   "كتقواءن",
+   "معصوم"
+  ],
+  "answer": 3,
+  "explanation": "برايمان كڤد ملائكة منيڠكتكن كتقواءن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-20",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد كتاب اداله ___.",
+  "options": [
+   "مطلق",
+   "واجب",
+   "بركواس",
+   "كتقواءن",
+   "معصوم"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كڤد كتاب اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-21",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايمان كڤد الله داڤت منچݢه ___.",
+  "options": [
+   "كموڠكرن",
+   "كباءيقن",
+   "كصيحتن"
+  ],
+  "answer": 0,
+  "explanation": "ايمان منچݢه ڤربواتن موڠكر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-22",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كَوْنُهُ بَصِيرًا ارتيڽ كأداءن الله تعالى يڠ مها ___.",
+  "options": [
+   "مليهت",
+   "مندڠر",
+   "بركواس"
+  ],
+  "answer": 0,
+  "explanation": "كونه بصيرا برمعنا الله مها مليهت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-23",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان يڠ كدوا اياله برايمان كڤد ___.",
+  "options": [
+   "ملائكة",
+   "كتاب",
+   "رسول"
+  ],
+  "answer": 0,
+  "explanation": "ركن ايمان كدوا اياله برايمان كڤد ملائكة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-24",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتاب يڠ دتورونكن كڤد نبي عيسى عليه السلام اياله ___.",
+  "options": [
+   "التوراة",
+   "الزبور",
+   "الإنجيل"
+  ],
+  "answer": 2,
+  "explanation": "الإنجيل دتورونكن كڤد نبي عيسى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2024-25",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تيدق برايمان كڤد كتاب منجادي ___.",
+  "options": [
+   "مسلم",
+   "كافر",
+   "مؤمن"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ تيدق برايمان كڤد كتاب منجادي كافر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-tauhid-pat2025-01",
   "exam": "Darjah 2",
   "subject": "Tauhid",
