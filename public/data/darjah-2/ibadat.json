@@ -1,5 +1,448 @@
 [
  {
+  "id": "darjah-2-ibadat-pat2022-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بندا٢ كوتور تربهاݢي كڤد براڤ بهاݢين؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "كوتورن تربهاݢي دوا: نجيس دان حدث.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين نجيس؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "نجيس تربهاݢي تيݢ: مغلظة، متوسطة دان مخففة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا مڽوچيكن نجيس متوسطة؟",
+  "options": [
+   "باسوه دڠن اءير برسيه ساتو كالي",
+   "باسوه دڠن اءير برسيه انم كالي",
+   "باسوه دڠن اءير برچمڤور تانه ساتو كالي"
+  ],
+  "answer": 0,
+  "explanation": "نجيس متوسطة دباسوه دڠن اءير برسيه هيڠݢ هيلڠ صيفتڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ممبطلكن وضوء.",
+  "options": [
+   "تيدور يڠ تتڤ ڤوڠݢوڠ",
+   "كلوار سسواتو درڤد قبل اتاو دبر",
+   "برسنتوهن كوليت للاكي دان ڤرمڤوان يڠ محرم"
+  ],
+  "answer": 1,
+  "explanation": "كلوار سسواتو درڤد قبل اتاو دبر ممبطلكن وضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود نجيس مخففة اياله ___.",
+  "options": [
+   "برت",
+   "ريڠن",
+   "ڤرتڠهن"
+  ],
+  "answer": 1,
+  "explanation": "مخففة برمعنا ريڠن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين حدث اد ___.",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 1,
+  "explanation": "حدث تربهاݢي دوا: حدث كچيل دان حدث بسر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مڽوچيكن حدث كچيل اياله ___.",
+  "options": [
+   "مندي",
+   "بروضوء",
+   "بركومور"
+  ],
+  "answer": 1,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ممباسوه تليڠا كتيك بروضوء اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "روكون"
+  ],
+  "answer": 0,
+  "explanation": "مڽاڤو تليڠا اياله سنة وضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢلرن باݢي اورڠ يڠ ملاءوڠكن اذان اياله ___.",
+  "options": [
+   "نوجا",
+   "إمام",
+   "مؤذن"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ ملاءوڠكن اذان دڤڠݢيل مؤذن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مكروه برچاكڤ-چاكڤ كتيك بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برچاكڤ كتيك بروضوء اياله مكروه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اقامة برتوجوان ممينتا جماعة باڠون اونتوق ملقساناكن صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اقامة دلاءوڠكن سوڤايا جماعة باڠون اونتوق صلاة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سنة اذان دان اقامة ممبلاكڠكن قبلة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سنة اذان دان اقامة مڠهادڤ قبلة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برسوݢي حکومڽ سنة مؤكدة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برسوݢي اياله سنة مؤكدة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم بندا٢ نجيس اياله ___.",
+  "options": [
+   "سنة هيئات",
+   "سوجود سهوي",
+   "كنتوت",
+   "تيدق سوچي",
+   "للاكي"
+  ],
+  "answer": 3,
+  "explanation": "بندا نجيس حکومڽ تيدق سوچي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ممبطلكن وضوء اياله ___.",
+  "options": [
+   "سنة هيئات",
+   "سوجود سهوي",
+   "كنتوت",
+   "تيدق سوچي",
+   "للاكي"
+  ],
+  "answer": 2,
+  "explanation": "كنتوت ممبطلكن وضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط٢ مؤذن اياله ___.",
+  "options": [
+   "سنة هيئات",
+   "سوجود سهوي",
+   "كنتوت",
+   "تيدق سوچي",
+   "للاكي"
+  ],
+  "answer": 4,
+  "explanation": "مؤذن مستيله سأورڠ للاكي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤابيلا ترلوڤا ممباچ دعاء قنوت كتيك صلاة صبح، ___.",
+  "options": [
+   "سنة هيئات",
+   "سوجود سهوي",
+   "كنتوت",
+   "تيدق سوچي",
+   "للاكي"
+  ],
+  "answer": 1,
+  "explanation": "ترلوڤا قنوت (سنة ابعاض) سنة دݢنتيكن دڠن سوجود سهوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠڠكت تاڠن كتيك اعتدال اياله ___.",
+  "options": [
+   "سنة هيئات",
+   "سوجود سهوي",
+   "كنتوت",
+   "تيدق سوچي",
+   "للاكي"
+  ],
+  "answer": 0,
+  "explanation": "مڠڠكت تاڠن كتيك اعتدال اياله سنة هيئات.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير باسوهن ميوچيكن نجيس مغلظة هندقله ساتو كالي برچمڤور ___.",
+  "options": [
+   "تانه",
+   "ڤاسير",
+   "سابون"
+  ],
+  "answer": 0,
+  "explanation": "نجيس مغلظة دباسوه توجوه كالي، ساتو دانتاراڽ برچمڤور تانه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ترماسوق دالم فرض وضوء اياله ___.",
+  "options": [
+   "ممباسوه موک",
+   "بركومور",
+   "مڽاڤو تليڠا"
+  ],
+  "answer": 0,
+  "explanation": "ممباسوه موک اياله فرض وضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ملاءوڠكن اذان اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "اذان حکومڽ سنة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم اورڠ يڠ صلاة دالم كأداءن برحدث بسر اياله ___.",
+  "options": [
+   "تيدق صح",
+   "صح",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "صلاة اورڠ يڠ برحدث تيدق صح.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2022-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا الت٢ برسوݢي اياله ___.",
+  "options": [
+   "بروس ݢيݢي",
+   "سيكت",
+   "ساڤو تاڠن"
+  ],
+  "answer": 0,
+  "explanation": "بروس ݢيݢي بوليه دݢوناكن اونتوق برسوݢي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-ibadat-pat2023-01",
   "exam": "Darjah 2",
   "subject": "Ibadat",

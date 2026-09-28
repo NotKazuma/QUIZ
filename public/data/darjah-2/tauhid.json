@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-2-tauhid-pat2022-01",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم برايمان كڤد الله؟",
+  "options": [
+   "واجب",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله اياله واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-02",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي اجمالي؟",
+  "options": [
+   "ڤنديق",
+   "ريڠكس",
+   "ترڤرينچي"
+  ],
+  "answer": 1,
+  "explanation": "اجمالي برمعنا ريڠكس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-03",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه صيفت مستحيل اتس الله؟",
+  "options": [
+   "سڤولوه",
+   "ليم بلس",
+   "دوا ڤولوه"
+  ],
+  "answer": 2,
+  "explanation": "صيفت مستحيل باݢي الله اد دوا ڤولوه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-04",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه لاون صيفت كَوْنُهُ مَيِّتًا؟",
+  "options": [
+   "كَوْنُهُ حَيًّا",
+   "كَوْنُهُ جَاهِلًا",
+   "كَوْنُهُ كَارِهًا"
+  ],
+  "answer": 0,
+  "explanation": "كونه ميتا (كأداءن ماتي) لاونڽ كونه حيا (كأداءن هيدوڤ).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-05",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي صيفت هاروس ڤد الله تعالى؟",
+  "options": [
+   "واجب منجاديكن",
+   "مستي منجاديكن",
+   "تيدق واجب منجاديكن"
+  ],
+  "answer": 2,
+  "explanation": "هاروس باݢي الله اياله تيدق واجب منجاديكن سسواتو اتاو منيڠݢلكنڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-06",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى برصيفت اد.",
+  "options": [
+   "القدم",
+   "البقاء",
+   "الوجود"
+  ],
+  "answer": 2,
+  "explanation": "الوجود برمعنا اد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-07",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت هيدوڤ الله تعالى.",
+  "options": [
+   "الموت",
+   "السمع",
+   "الحياة"
+  ],
+  "answer": 2,
+  "explanation": "الحياة برمعنا هيدوڤ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-08",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت البقاء.",
+  "options": [
+   "العدم",
+   "العجز",
+   "الفناء"
+  ],
+  "answer": 2,
+  "explanation": "البقاء (ككل) لاونڽ الفناء (بيناس).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-09",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي الصَّمَمُ.",
+  "options": [
+   "تولي",
+   "بوتا",
+   "بيسو"
+  ],
+  "answer": 0,
+  "explanation": "الصمم برمعنا تولي، لاون صيفت السمع.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-10",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منجادي ڤندوان هيدوڤ.",
+  "options": [
+   "بوكو",
+   "كتاب",
+   "قاموس"
+  ],
+  "answer": 1,
+  "explanation": "كتاب الله منجادي ڤندوان هيدوڤ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-11",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ماءنسي دان حيوان دجاديكن اوليه الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سموا مخلوق دچيڤتا اوليه الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-12",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الوحدانية ارتيڽ بركواس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الوحدانية برمعنا اسا؛ بركواس اياله القدرة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-13",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: البصر ارتيڽ مليهت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "البصر برمعنا مليهت.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-14",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: التعدد لاون باݢي صيفت القدرة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "التعدد لاون الوحدانية؛ لاون القدرة اياله العجز.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-15",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مستحيل الله تعالى برصيفت ترڤقسا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله تيدق ترڤقسا؛ الله برصيفت الإرادة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-16",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه صيفت ترڤوجي.",
+  "options": [
+   "الإرادة",
+   "ملائكة",
+   "احسان",
+   "كتاب",
+   "منيڠكتكن كأيمانن"
+  ],
+  "answer": 2,
+  "explanation": "احسان اياله صيفت ترڤوجي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-17",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت بركهندق الله تعالى.",
+  "options": [
+   "الإرادة",
+   "ملائكة",
+   "احسان",
+   "كتاب",
+   "منيڠكتكن كأيمانن"
+  ],
+  "answer": 0,
+  "explanation": "الإرادة برمعنا بركهندق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-18",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مخلوق يڠ دجاديكن درڤد چهاي.",
+  "options": [
+   "الإرادة",
+   "ملائكة",
+   "احسان",
+   "كتاب",
+   "منيڠكتكن كأيمانن"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة دچيڤتا درڤد چهاي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-19",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد ملائكة.",
+  "options": [
+   "الإرادة",
+   "ملائكة",
+   "احسان",
+   "كتاب",
+   "منيڠكتكن كأيمانن"
+  ],
+  "answer": 4,
+  "explanation": "برايمان كڤد ملائكة منيڠكتكن كأيمانن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-20",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلام الله يڠ دوحيوكن كڤد نبي محمد ﷺ.",
+  "options": [
+   "الإرادة",
+   "ملائكة",
+   "احسان",
+   "كتاب",
+   "منيڠكتكن كأيمانن"
+  ],
+  "answer": 3,
+  "explanation": "كتاب اياله كلام الله يڠ دوحيوكن كڤد رسول.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-21",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملقساناكن ڤرينته الله دان منجاءوهي ___.",
+  "options": [
+   "لارڠنڽ",
+   "سوروهنڽ",
+   "كتابڽ"
+  ],
+  "answer": 0,
+  "explanation": "تقوى اياله ملقساناكن ڤرينته الله دان منجاءوهي لارڠنڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-22",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "القدرة ارتيڽ ___.",
+  "options": [
+   "بركواس",
+   "مندڠر",
+   "مڠتاهوءي"
+  ],
+  "answer": 0,
+  "explanation": "القدرة برمعنا بركواس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-23",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى مندڠر تنڤا ___.",
+  "options": [
+   "تليڠا",
+   "ماتا",
+   "مولوت"
+  ],
+  "answer": 0,
+  "explanation": "الله مندڠر تنڤا تليڠا، تيدق سام دڠن مخلوق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-24",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توݢس ملائكة عزرائيل اياله ___.",
+  "options": [
+   "منچابوت ڽاوا",
+   "منوروڠكن هوجن",
+   "منيوڤ سڠكاكالا"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة عزرائيل منچابوت ڽاوا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-pat2022-25",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتاب القرءان دتورونكن كڤد ___.",
+  "options": [
+   "نبي محمد ﷺ",
+   "نبي موسى",
+   "نبي عيسى"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دتورونكن كڤد نبي محمد ﷺ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-tauhid-pat2023-01",
   "exam": "Darjah 2",
   "subject": "Tauhid",

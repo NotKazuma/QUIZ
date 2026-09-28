@@ -1,5 +1,411 @@
 [
  {
+  "id": "darjah-2-jawi-pat2022-01",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه سوكو كات تربوک دان تربوک؟",
+  "options": [
+   "ايم",
+   "كودا",
+   "ايكن"
+  ],
+  "answer": 1,
+  "explanation": "كو + دا، كدوا٢ سوكو كات تربوک.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-02",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه سوكو كات ترتوتوڤ؟",
+  "options": [
+   "ڤاسو",
+   "كايو",
+   "بيک"
+  ],
+  "answer": 2,
+  "explanation": "بيک برأخير دڠن حروف مات.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-03",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سوكو كات ترتوتوڤ دان ترتوتوڤ؟",
+  "options": [
+   "كلاڤ",
+   "سنتن",
+   "سوتوڠ"
+  ],
+  "answer": 1,
+  "explanation": "سن + تن، كدوا٢ سوكو كات ترتوتوڤ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-04",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه جنيس ايات \"سوڠكوق اتس ميجا\"؟",
+  "options": [
+   "ايات موده",
+   "ايات لڠكڤ",
+   "ايات سدرهان"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله ايات موده.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-05",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤادن حروف دڠن ݢمبر اين.",
+  "image": "images/darjah-2/jawi-pat2022-celak.jpg",
+  "options": [
+   "حله",
+   "جلس",
+   "چلق"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر منونجوقكن مات يڠ دچلق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-06",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤادن حروف دڠن ݢمبر اين.",
+  "image": "images/darjah-2/jawi-pat2022-pintu.jpg",
+  "options": [
+   "ڤنتو",
+   "ڤنداي",
+   "ڤنتول"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر منونجوقكن ڤينتو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-07",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤادن حروف دڠن ݢمبر اين.",
+  "image": "images/darjah-2/jawi-pat2022-bawang.jpg",
+  "options": [
+   "براوڠ",
+   "بوروڠ",
+   "باوڠ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله باوڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-08",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق حروف سين دتڠه.",
+  "options": [
+   "ـسـ",
+   "س",
+   "سـ"
+  ],
+  "answer": 0,
+  "explanation": "سين دتڠه دتوليس ـسـ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-09",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤركاتاءن \"رماج\" ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوک.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ر + ما + ج، تيݢ سوكو كات تربوک.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-10",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: \"كورما\" اياله حروف ووكل (ي) يڠ دككلكن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كورما مڠككلكن ووكل (و).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-11",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤركاتاءن \"ڤينتس\" چونتوه ووكل (ا) يڠ دكوڠكوڠكن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تس دالم ڤينتس تيدق دتوليس دڠن الف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-12",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: \"تيمبڠ\" اياله چونتوه ووكل (و) اتاو (ي) ككل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تيمبڠ مڠككلكن ووكل (ي).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-13",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن سبنر \"چات\" اياله ___.",
+  "options": [
+   "چت",
+   "روندا",
+   "مانيس",
+   "سكارڠ",
+   "امق"
+  ],
+  "answer": 0,
+  "explanation": "ايجاءن سبنر اياله چت.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-14",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه حروف ووكل (و) دككلكن اياله ___.",
+  "options": [
+   "چت",
+   "روندا",
+   "مانيس",
+   "سكارڠ",
+   "امق"
+  ],
+  "answer": 1,
+  "explanation": "روندا مڠككلكن ووكل (و).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-15",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاءين هولو لاءين ڤارڠ، لاءين دولو لاءين ___.",
+  "options": [
+   "چت",
+   "روندا",
+   "مانيس",
+   "سكارڠ",
+   "امق"
+  ],
+  "answer": 3,
+  "explanation": "لاءين دولو لاءين سكارڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-16",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "راس بواه مڠݢيس ساڠت ___.",
+  "options": [
+   "چت",
+   "روندا",
+   "مانيس",
+   "سكارڠ",
+   "امق"
+  ],
+  "answer": 2,
+  "explanation": "بواه مڠݢيس راساڽ مانيس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-17",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كوچيڠ ماكن ___.",
+  "options": [
+   "ايكن",
+   "رومڤوت",
+   "ڤاسير"
+  ],
+  "answer": 0,
+  "explanation": "كوچيڠ ماكن ايكن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-18",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن اصل \"جم\" اياله ___.",
+  "options": [
+   "جام",
+   "جيم",
+   "جوم"
+  ],
+  "answer": 0,
+  "explanation": "ايجاءن اصل جم اياله جام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-19",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو منواڠ بوبور كدالم ___.",
+  "options": [
+   "مڠكوق",
+   "ڤاسو",
+   "بوكو"
+  ],
+  "answer": 0,
+  "explanation": "بوبور دتواڠ كدالم مڠكوق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-20",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوڠكوق اديق برورنا ___.",
+  "options": [
+   "هيتم",
+   "سدڤ",
+   "لاجو"
+  ],
+  "answer": 0,
+  "explanation": "سوڠكوق بياساڽ برورنا هيتم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-pat2022-21",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بواه چمڤدق دلوار ___.",
+  "options": [
+   "ڤاݢر",
+   "رومه",
+   "كولم"
+  ],
+  "answer": 0,
+  "explanation": "ڤڤاته: بواه چمڤدق دلوار ڤاݢر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-jawi-pat2023-01",
   "exam": "Darjah 2",
   "subject": "Jawi",

@@ -1,5 +1,448 @@
 [
  {
+  "id": "darjah-2-sirah-pat2022-01",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه نبي محمد ﷺ دلاهيركن؟",
+  "options": [
+   "12 ربيع الأول",
+   "13 ربيع الأول",
+   "12 ربيع الأخير"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ دلاهيركن ڤد 12 ربيع الأول.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-02",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه بوندا نبي محمد ﷺ؟",
+  "options": [
+   "سيدة آمنة",
+   "سيدتنا عائشة",
+   "سيدتنا خديجة"
+  ],
+  "answer": 0,
+  "explanation": "بوندا نبي محمد ﷺ اياله آمنة بنت وهب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-03",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤريستيوا يڠ برلاكو سماس كلاهيرن نبي محمد ﷺ؟",
+  "options": [
+   "كعبة رونتوه",
+   "برهالا هنچور",
+   "تيدق دختنكن"
+  ],
+  "answer": 1,
+  "explanation": "برهالا-برهالا دسكليليڠ كعبة هنچور كتيك كلاهيرن باݢيندا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-04",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دماناكه قوم عرب بڠساون مڠهنتر انق كچيلڽ اونتوق دأسوه؟",
+  "options": [
+   "دالم مكة",
+   "لوار مكة",
+   "لوار مدينة"
+  ],
+  "answer": 1,
+  "explanation": "انق-انق بڠساون عرب دهنتر ك ڤدالمن دلوار مكة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-05",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه ايستري ڤرتام نبي محمد ﷺ؟",
+  "options": [
+   "سَوْدَة بنت زَمْعَة",
+   "خَدِيجَة بنت خُوَيْلِد",
+   "عَائِشَة بنت أبي بكر"
+  ],
+  "answer": 1,
+  "explanation": "ايستري ڤرتام باݢيندا اياله خديجة بنت خويلد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-06",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بوروڠ يڠ مڠهنچوركن تنترا برݢاجه.",
+  "options": [
+   "موراي",
+   "ابابيل",
+   "مرڤاتي"
+  ],
+  "answer": 1,
+  "explanation": "بوروڠ ابابيل مڠهنچوركن تنترا أبرهة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-07",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كدودوقن تاڠن نبي محمد ﷺ سماس دلاهيركن (منونجوق ك ___).",
+  "options": [
+   "اودارا",
+   "بومي",
+   "لاڠيت"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا دلاهيركن دڠن كدوا تاڠن برڤاوت ڤد بومي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-08",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كرجا يڠ دلاكوكن رسول الله ﷺ كتيك كچيل.",
+  "options": [
+   "منبڠ",
+   "مڠݢمبالا",
+   "ممبورو"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا مڠݢمبالا كمبيڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-09",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله انق نبي محمد ﷺ.",
+  "options": [
+   "انم",
+   "لاڤن",
+   "توجوه"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ ممڤوڽاءي 7 اورڠ انق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-10",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ دلاهيركن ڤد هاري اثنين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا دلاهيركن ڤد هاري اثنين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-11",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ فصيح بركات-كات كتيك برعمور 9 بولن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا فصيح بركات-كات ڤد عمور 9 بولن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-12",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سلوروه عالم براس سديه دڠن كلاهيرن نبي محمد ﷺ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سلوروه عالم براس ݢمبيرا دڠن كلاهيرن باݢيندا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-13",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ دأسوه داتوقڽ سماس براوسيا 6 تاهون.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سلڤس بونداڽ وفاة، باݢيندا دأسوه اوليه داتوقڽ عبد المطلب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-14",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود محمد.",
+  "options": [
+   "15 تاهون",
+   "ترڤوجي",
+   "ثُوَيْبَة الأَسْلَمِية",
+   "ݢوا حراء",
+   "6 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "محمد برمعنا يڠ ترڤوجي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-15",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام ايبو سوسوان نبي محمد ﷺ.",
+  "options": [
+   "15 تاهون",
+   "ترڤوجي",
+   "ثُوَيْبَة الأَسْلَمِية",
+   "ݢوا حراء",
+   "6 تاهون"
+  ],
+  "answer": 2,
+  "explanation": "ثويبة الأسلمية اياله انتارا ايبو سوسوان باݢيندا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-16",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوسيا نبي محمد ﷺ كتيك بونداڽ وفاة.",
+  "options": [
+   "15 تاهون",
+   "ترڤوجي",
+   "ثُوَيْبَة الأَسْلَمِية",
+   "ݢوا حراء",
+   "6 تاهون"
+  ],
+  "answer": 4,
+  "explanation": "آمنة وفاة كتيك باݢيندا برعمور 6 تاهون.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-17",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمور نبي محمد ﷺ كتيك ترليبت دالم ڤراڠ فجار.",
+  "options": [
+   "15 تاهون",
+   "ترڤوجي",
+   "ثُوَيْبَة الأَسْلَمِية",
+   "ݢوا حراء",
+   "6 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا ترليبت دالم ڤراڠ فجار ڤد عمور 15 تاهون.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-18",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت رسول الله ﷺ منريما وحي.",
+  "options": [
+   "15 تاهون",
+   "ترڤوجي",
+   "ثُوَيْبَة الأَسْلَمِية",
+   "ݢوا حراء",
+   "6 تاهون"
+  ],
+  "answer": 3,
+  "explanation": "وحي ڤرتام دتريما دݢوا حراء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-19",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انسان يڠ ساڠت ايستيميوا اياله ___.",
+  "options": [
+   "نبي محمد ﷺ",
+   "أبو لهب",
+   "أبرهة"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله انسان يڠ ڤاليڠ ايستيميوا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-20",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله ملنتيق نبي محمد ﷺ سباݢاي ___.",
+  "options": [
+   "رسول",
+   "راج",
+   "ڤنديتا"
+  ],
+  "answer": 0,
+  "explanation": "الله ملنتيق نبي محمد ﷺ سباݢاي رسول.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-21",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت عبادة يڠ دبينا اوليه نبي محمد ﷺ اداله ___.",
+  "options": [
+   "مسجد",
+   "رومه",
+   "ڤاسر"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ ممبينا مسجد، سڤرتي مسجد قباء دان مسجد النبوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-22",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وانيتا ڤرتام مملوق إسلام برنام ___.",
+  "options": [
+   "خديجة",
+   "عائشة",
+   "حليمة"
+  ],
+  "answer": 0,
+  "explanation": "سيدتنا خديجة اياله وانيتا ڤرتام مملوق إسلام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-sirah-pat2022-23",
+  "exam": "Darjah 2",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ منرڤكن كسدرهاناءن دالم كهيدوڤن سڤرتي ___.",
+  "options": [
+   "ماكن ماكنن يڠ ريڠكس",
+   "ممبازير",
+   "مڠومڤول هرتا"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا هيدوڤ دڠن سدرهان، سڤرتي ماكن سچارا ريڠكس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-sirah-pat2023-01",
   "exam": "Darjah 2",
   "subject": "Sirah",
