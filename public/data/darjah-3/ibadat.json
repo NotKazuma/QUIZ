@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-3-ibadat-pat2023-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤركارا يڠ مڽببكن حدث كچيل؟",
+  "options": [
+   "هيلڠ عقل",
+   "كلوار اءير مني",
+   "كلوار داره حيض"
+  ],
+  "answer": 0,
+  "explanation": "هيلڠ عقل مڽببكن حدث كچيل؛ مني دان حيض مڽببكن حدث بسر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه داره يڠ كلوار سلڤس ملاهيركن انق؟",
+  "options": [
+   "ولادة",
+   "حيض",
+   "نفاس"
+  ],
+  "answer": 2,
+  "explanation": "داره سلڤس ملاهيركن انق دسبوت نفاس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي بالغ ڤد بهاس.",
+  "options": [
+   "داتڠ",
+   "مميز",
+   "سمڤاي"
+  ],
+  "answer": 2,
+  "explanation": "بالغ برمعنا سمڤاي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم صلاة جمعة؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "صلاة جمعة واجب ك اتس للاكي يڠ چوكوڤ شرط.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ركن خطبة جمعة يڠ ڤرتام؟",
+  "options": [
+   "ڤوجين كڤد الله",
+   "ڤسنن اونتوق برتقوى",
+   "ممباچ ساتو ايات القرءان"
+  ],
+  "answer": 0,
+  "explanation": "ركن خطبة ڤرتام اياله ممڤوجي الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: چارا ميوچيكن حدث بسر دڠن مندي واجب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حدث بسر دسوچيكن دڠن مندي واجب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بلاجر القرءان هاڽ سلڤس بالغ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "القرءان دڤلاجري سجق كچيل لاݢي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سنة بروضوء دهولو سبلوم مندي واجب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بروضوء سبلوم مندي واجب اياله سنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: واجب ممتوڠ كوكو ڤد هاري جمعة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ممتوڠ كوكو ڤد هاري جمعة اياله سنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اورڠ يڠ ممباچ خطبة دݢلر خطيب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤمباچ خطبة دسبوت خطيب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه ماس حيض ڤاليڠ سيڠكت.",
+  "options": [
+   "للاكي",
+   "طاعة ڤرينته الله",
+   "ملاهيركن انق",
+   "سهاري سمالم",
+   "صلاة جمعة"
+  ],
+  "answer": 3,
+  "explanation": "ماس حيض ڤاليڠ سيڠكت اياله سهاري سمالم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب٢ واجب مندي باݢي ڤرمڤوان.",
+  "options": [
+   "للاكي",
+   "طاعة ڤرينته الله",
+   "ملاهيركن انق",
+   "سهاري سمالم",
+   "صلاة جمعة"
+  ],
+  "answer": 2,
+  "explanation": "ملاهيركن انق (ولادة) مواجبكن مندي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة يڠ ددريكن دڠن ددهولوءي دوا خطبة.",
+  "options": [
+   "للاكي",
+   "طاعة ڤرينته الله",
+   "ملاهيركن انق",
+   "سهاري سمالم",
+   "صلاة جمعة"
+  ],
+  "answer": 4,
+  "explanation": "صلاة جمعة ددهولوءي دوا خطبة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا حكمة صلاة جمعة.",
+  "options": [
+   "للاكي",
+   "طاعة ڤرينته الله",
+   "ملاهيركن انق",
+   "سهاري سمالم",
+   "صلاة جمعة"
+  ],
+  "answer": 1,
+  "explanation": "صلاة جمعة منونجوقكن طاعة كڤد ڤرينته الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط خطبة جمعة.",
+  "options": [
+   "للاكي",
+   "طاعة ڤرينته الله",
+   "ملاهيركن انق",
+   "سهاري سمالم",
+   "صلاة جمعة"
+  ],
+  "answer": 0,
+  "explanation": "خطيب مستيله للاكي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن حدث كچيل.",
+  "options": [
+   "بروضوء",
+   "مندي واجب",
+   "برسوݢي"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دلارڠ كتيك حيض.",
+  "options": [
+   "صلاة",
+   "برذيكير",
+   "ماكن"
+  ],
+  "answer": 0,
+  "explanation": "ڤرمڤوان حيض دلارڠ صلاة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ركن مندي واجب.",
+  "options": [
+   "نية",
+   "بسملة",
+   "بركومور"
+  ],
+  "answer": 0,
+  "explanation": "نية اياله ركن مندي واجب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط واجب صلاة جمعة.",
+  "options": [
+   "للاكي",
+   "كانق٢",
+   "ڤرمڤوان"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة واجب ك اتس للاكي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ديام كتيك خطيب ممباچ خطبة.",
+  "options": [
+   "سنة",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "ديام كتيك خطبة اياله سنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره يڠ كلوار دري كمالوان ڤرمڤوان سلڤس تيمڤوه حيض.",
+  "options": [
+   "استحاضة",
+   "نفاس",
+   "ولادة"
+  ],
+  "answer": 0,
+  "explanation": "داره سلڤس تيمڤوه حيض اياله استحاضة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو تندا بالغ باݢي ڤرمڤوان.",
+  "options": [
+   "كلوار داره حيض",
+   "تيدور",
+   "برڤواسا"
+  ],
+  "answer": 0,
+  "explanation": "حيض اياله تندا بالغ باݢي ڤرمڤوان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندي كران صلاة مينتا هوجن.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "مندي اونتوق صلاة استسقاء اياله سنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بيلڠن ركعة صلاة جمعة؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة دوا ركعة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-pat2023-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمة مندڠر خطبة.",
+  "options": [
+   "منمبه علمو",
+   "منجادي مالس",
+   "منداڤت دوسا"
+  ],
+  "answer": 0,
+  "explanation": "مندڠر خطبة منمبه علمو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-pat2024-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",

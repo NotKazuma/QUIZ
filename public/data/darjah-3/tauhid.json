@@ -1,5 +1,448 @@
 [
  {
+  "id": "darjah-3-tauhid-pat2023-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد رسول اداله ___.",
+  "options": [
+   "هاروس",
+   "سنة مؤكدة",
+   "واجب فرض عين"
+  ],
+  "answer": 2,
+  "explanation": "برايمان كڤد رسول اياله واجب فرض عين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا٢ كچيل هاري قيامة اياله ___.",
+  "options": [
+   "مونچول امام مهدي",
+   "انق درهاک كڤد ايبو باڤ",
+   "تورون نبي عيسى المسيح"
+  ],
+  "answer": 1,
+  "explanation": "انق درهاک اياله تندا كچيل؛ ياڠ لاءين تندا بسر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منتڤكن سواتو قدر ترتنتو ارتي باݢي ___.",
+  "options": [
+   "قدر",
+   "قضاء",
+   "ازلي"
+  ],
+  "answer": 0,
+  "explanation": "قدر برمعنا منتڤكن سواتو قدر (اوكورن) ترتنتو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء يڠ دساندركن كڤد كتنتوان الله يڠ ازلي اداله قضاء ___.",
+  "options": [
+   "قدر",
+   "مُعَلَّق",
+   "مُبْرَم"
+  ],
+  "answer": 2,
+  "explanation": "قضاء مبرم اياله كتنتوان ازلي يڠ تيدق براوبه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا مقام٢ ڤرجالنن منوجو كرضاءن الله تعالى اداله ___.",
+  "options": [
+   "رياء",
+   "توبة",
+   "تكبور"
+  ],
+  "answer": 1,
+  "explanation": "توبة اياله مقام ڤرتام منوجو كرضاءن الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: يَوْمُ الدِّين اداله هاري كدهشتن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "يوم الدين برمعنا هاري ڤمبالسن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اورڠ يڠ برايمان كڤد قضاء دان قدر باڽق برشكور.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كڤد قضاء دان قدر منجاديكن كيت برشكور.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: انتارا تونتوتن كونسيڤ احسان اياله تَزْكِيَّةُ النَّفْس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "احسان منونتوت ڤمبرسيهن جيوا (تزكية النفس).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: احسان اداله مرتبة يڠ ڤاليڠ رنده.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "احسان اياله مرتبة يڠ ڤاليڠ تيڠݢي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢلرن باݢي رسول يڠ ممڤوڽاءي كصبرن يڠ تيڠݢي ___.",
+  "options": [
+   "هاري قيامة",
+   "احسان",
+   "اخلاص",
+   "اولوالعزم",
+   "كفور"
+  ],
+  "answer": 3,
+  "explanation": "أولو العزم اياله رسول يڠ ساڠت تيڠݢي كصبرنڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كبڠكيتن سمولا اورڠ يڠ تله ماتي ڤد ___.",
+  "options": [
+   "هاري قيامة",
+   "احسان",
+   "اخلاص",
+   "اولوالعزم",
+   "كفور"
+  ],
+  "answer": 0,
+  "explanation": "ماءنسي دبڠكيتكن سمولا ڤد هاري قيامة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منافيكن قضاء الله تعالى اداله ___.",
+  "options": [
+   "هاري قيامة",
+   "احسان",
+   "اخلاص",
+   "اولوالعزم",
+   "كفور"
+  ],
+  "answer": 4,
+  "explanation": "منافيكن قضاء الله اياله كفور.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "احسان بركاءيت راڤت دڠن نية يڠ ___.",
+  "options": [
+   "هاري قيامة",
+   "احسان",
+   "اخلاص",
+   "اولوالعزم",
+   "كفور"
+  ],
+  "answer": 2,
+  "explanation": "احسان مموڠكينكن نية يڠ اخلاص.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مندوروڠ ماءنسي مڠوكوه هوبوڠن باءيق اداله حكمه ___.",
+  "options": [
+   "هاري قيامة",
+   "احسان",
+   "اخلاص",
+   "اولوالعزم",
+   "كفور"
+  ],
+  "answer": 1,
+  "explanation": "احسان مڠوكوهكن هوبوڠن باءيق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باݢي صيفت امانه اياله ___.",
+  "options": [
+   "خيانة",
+   "صدق",
+   "تبليغ"
+  ],
+  "answer": 0,
+  "explanation": "لاون امانه اياله خيانة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سموا مخلوق اكن دهيمڤونكن دڤادڠ ___.",
+  "options": [
+   "محشر",
+   "عرفة",
+   "بدر"
+  ],
+  "answer": 0,
+  "explanation": "مخلوق دهيمڤونكن دڤادڠ محشر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملتقكن دان مموتوسكن سسواتو حکوم ارتي ___.",
+  "options": [
+   "قضاء",
+   "قدر",
+   "توبة"
+  ],
+  "answer": 0,
+  "explanation": "قضاء برمعنا ملتقكن دان مموتوسكن حکوم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه قضاء مُعَلَّق اياله ___.",
+  "options": [
+   "دعاء بوليه مڠوبه تقدير",
+   "كماتين",
+   "جنتينا"
+  ],
+  "answer": 0,
+  "explanation": "قضاء معلق بوليه براوبه دڠن دعاء دان اوسها.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن يڠ منيتيقبرتكن كهيدوڤن كروحانين اداله ___.",
+  "options": [
+   "اهل تصوف",
+   "اهل نجوم",
+   "اهل سيحير"
+  ],
+  "answer": 0,
+  "explanation": "اهل تصوف منيتيقبرتكن كهيدوڤن كروحانين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد نبي دان رسول.",
+  "options": [
+   "منجاديكن مريك چونتوه تلادن",
+   "منجادي سومبوڠ",
+   "مالس برعبادة"
+  ],
+  "answer": 0,
+  "explanation": "كيت منجاديكن رسول سباݢاي چونتوه تلادن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سواسان هاري قيامة.",
+  "options": [
+   "ݢونوڠ هنچور",
+   "تنڠ",
+   "ݢمبيرا"
+  ],
+  "answer": 0,
+  "explanation": "ڤد هاري قيامة ݢونوڠ-ݢاناڠ هنچور.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد قضاء دان قدر.",
+  "options": [
+   "صبر مڠهادڤي داݢڠ",
+   "برڤوتوس اسا",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كڤد قضاء دان قدر منجاديكن كيت صبر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2023-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كڤنتيڠن احسان دالم كهيدوڤن ماءنسي.",
+  "options": [
+   "ممبنتوق ڤريبادي موليا",
+   "منجادي ككجم",
+   "ساليڠ برموسوهن"
+  ],
+  "answer": 0,
+  "explanation": "احسان ممبنتوق ڤريبادي يڠ موليا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-pat2024-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",
