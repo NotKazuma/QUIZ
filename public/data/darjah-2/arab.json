@@ -1,5 +1,473 @@
 [
  {
+  "id": "darjah-2-arab-pat2023-01",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الكُتُبُ عَلَى ___",
+  "options": [
+   "الرُّفُوفِ",
+   "السَّرِيرِ",
+   "الأَرِيكَةِ"
+  ],
+  "answer": 0,
+  "explanation": "بوكو٢ دأتس راق: عَلَى الرُّفُوفِ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-02",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"ميسين باسوه\" = ___",
+  "options": [
+   "السَّلَّةُ",
+   "الغَسَّالَةُ",
+   "الغُرْفَةُ"
+  ],
+  "answer": 1,
+  "explanation": "الغَسَّالَةُ برمعنا ميسين باسوه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-03",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "العَدَدُ ١٨ : ___",
+  "options": [
+   "سَبْعَ عَشْرَةَ",
+   "تِسْعَ عَشْرَةَ",
+   "ثَمَانِيَ عَشْرَةَ"
+  ],
+  "answer": 2,
+  "explanation": "١٨ دسبوت ثَمَانِيَ عَشْرَةَ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-04",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هُوَ آدَابُ الخُرُوجِ مِنَ الفَصْلِ؟",
+  "options": [
+   "بِالسَّلَامِ",
+   "تَفَضَّلْ",
+   "بِاسْتِئْذَانٍ"
+  ],
+  "answer": 2,
+  "explanation": "كلوار كلس دڠن ممينتا كبنرن: بِاسْتِئْذَانٍ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-05",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-pat2023-sarir.jpg",
+  "options": [
+   "مَطْبَخٌ",
+   "مِرْوَحَةٌ",
+   "سَرِيرٌ"
+  ],
+  "answer": 2,
+  "explanation": "سَرِيرٌ برمعنا كاتيل.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-06",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-pat2023-khimar.jpg",
+  "options": [
+   "جَوْرَبٌ",
+   "قَمِيصٌ",
+   "خِمَارٌ"
+  ],
+  "answer": 2,
+  "explanation": "خِمَارٌ برمعنا تودوڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-07",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "١١ = ___",
+  "options": [
+   "أَحَدَ عَشَرَ",
+   "اِثْنَا عَشَرَ",
+   "ثَلَاثَةَ عَشَرَ"
+  ],
+  "answer": 0,
+  "explanation": "١١ دسبوت أَحَدَ عَشَرَ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-08",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-pat2023-fasl.jpg",
+  "options": [
+   "مَكْتَبٌ",
+   "دَفْتَرٌ",
+   "فَصْلٌ"
+  ],
+  "answer": 2,
+  "explanation": "فَصْلٌ برمعنا بيليق درجه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-09",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَاذَا تَقُولُ البِنْتُ؟",
+  "image": "images/darjah-2/arab-pat2023-hadiyyah.jpg",
+  "options": [
+   "شُكْرًا",
+   "طَبْعًا",
+   "جَيِّدًا"
+  ],
+  "answer": 0,
+  "explanation": "اڤابيلا منريما هديه كيت مڠوچڤكن شُكْرًا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-10",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مُزَارِعٌ يَعْمَلُ فِي مَزْرَعٍ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "ڤتاني بكرجا دلادڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-11",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "تَلْبَسُ المُسْلِمَاتُ الخِمَارَ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "وانيتا مسلمة مماكاي تودوڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-12",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عِشْرُونَ كِتَابًا = ١٩ كِتَابًا.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "عِشْرُونَ اياله ٢٠، بوكن ١٩.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-13",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ فَصْلٌ نَظِيفٌ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "فَصْلٌ اياله مذكر، مك هَذَا فَصْلٌ نَظِيفٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-14",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَعْطِنِي الكِتَابَ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "أَعْطِنِي الكِتَابَ: بريكن ساي بوكو ايت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-15",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هُوَ؟",
+  "image": "images/darjah-2/arab-pat2023-muhandis.jpg",
+  "options": [
+   "الأَرِيكَةُ",
+   "١٧",
+   "مُهَنْدِسٌ",
+   "النَّظِيفَةَ",
+   "المِرْحَاضِ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر سأورڠ جوروترا: مُهَنْدِسٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-16",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ ___",
+  "image": "images/darjah-2/arab-pat2023-arikah.jpg",
+  "options": [
+   "الأَرِيكَةُ",
+   "١٧",
+   "مُهَنْدِسٌ",
+   "النَّظِيفَةَ",
+   "المِرْحَاضِ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر سوفا: الأَرِيكَةُ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-17",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَلْبَسُ العِمَامَةَ ___",
+  "options": [
+   "الأَرِيكَةُ",
+   "١٧",
+   "مُهَنْدِسٌ",
+   "النَّظِيفَةَ",
+   "المِرْحَاضِ"
+  ],
+  "answer": 3,
+  "explanation": "أَلْبَسُ العِمَامَةَ النَّظِيفَةَ: ساي مماكاي سربن يڠ برسيه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-18",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "سَبْعَ عَشْرَةَ = ___",
+  "options": [
+   "الأَرِيكَةُ",
+   "١٧",
+   "مُهَنْدِسٌ",
+   "النَّظِيفَةَ",
+   "المِرْحَاضِ"
+  ],
+  "answer": 1,
+  "explanation": "سَبْعَ عَشْرَةَ = ١٧.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-19",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَا أُسْتَاذَةُ، أَسْتَأْذِنُكِ إِلَى ___",
+  "options": [
+   "الأَرِيكَةُ",
+   "١٧",
+   "مُهَنْدِسٌ",
+   "النَّظِيفَةَ",
+   "المِرْحَاضِ"
+  ],
+  "answer": 4,
+  "explanation": "ساي مينتا ايذين ك تندس: إِلَى المِرْحَاضِ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-20",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "___ فِي المَحْكَمَةِ.",
+  "image": "images/darjah-2/arab-pat2023-qadi.jpg",
+  "options": [
+   "القَاضِي",
+   "الطَّبِيبُ",
+   "المُزَارِعُ"
+  ],
+  "answer": 0,
+  "explanation": "حاكيم بكرجا دمحكمه: القَاضِي فِي المَحْكَمَةِ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-21",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَطْ + بَ + خٌ = ___",
+  "options": [
+   "مَطْبَخٌ",
+   "مَطْعَمٌ",
+   "مَكْتَبٌ"
+  ],
+  "answer": 0,
+  "explanation": "مَطْ + بَ + خٌ = مَطْبَخٌ (داڤور).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-22",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "١٣ = ___",
+  "options": [
+   "ثَلَاثَةَ عَشَرَ",
+   "أَرْبَعَةَ عَشَرَ",
+   "ثَلَاثُونَ"
+  ],
+  "answer": 0,
+  "explanation": "١٣ دسبوت ثَلَاثَةَ عَشَرَ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-23",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فَصْلِي هَادِئٌ وَ ___",
+  "options": [
+   "نَظِيفٌ",
+   "وَسِخٌ",
+   "مَكْسُورٌ"
+  ],
+  "answer": 0,
+  "explanation": "كلس ساي تنڠ دان برسيه: هَادِئٌ وَنَظِيفٌ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-pat2023-24",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "شُكْرًا ___",
+  "options": [
+   "جَزِيلًا",
+   "كَثِيرًا",
+   "كَبِيرًا"
+  ],
+  "answer": 0,
+  "explanation": "شُكْرًا جَزِيلًا: تريما كاسيه باڽق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-arab-pat2024-01",
   "exam": "Darjah 2",
   "subject": "Bahasa Arab",

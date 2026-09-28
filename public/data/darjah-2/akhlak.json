@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-2-akhlak-pat2023-01",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كواجيڤن ڤنريما تتامو؟",
+  "options": [
+   "مڤاكيتي تتامو",
+   "ممالوكن تتامو",
+   "مموليـاكن تتامو"
+  ],
+  "answer": 2,
+  "explanation": "كيت واجب مموليـاكن تتامو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-02",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري٢ ڤاكاين يڠ منوتوڤ عورة باݢي ڤرمڤوان؟",
+  "options": [
+   "كتت دان سيڠكت",
+   "لوڠݢر دان سليسا",
+   "نيڤيس دان سمڤيت"
+  ],
+  "answer": 1,
+  "explanation": "ڤاكاين ڤرمڤوان هندقله لوڠݢر دان سليسا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-03",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سبلوم ماسوق روماه؟",
+  "options": [
+   "ممبري سلام",
+   "مماكاي كاسوت",
+   "ماسوق دڠن كاكي كيري"
+  ],
+  "answer": 0,
+  "explanation": "كيت ممبري سلام سبلوم ماسوق روماه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-04",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سماس ددالم تندس؟",
+  "options": [
+   "تيدق ترلالو لام ددالم تندس",
+   "ماكن دان مينوم ددالم تندس",
+   "برچاكڤ-چاكڤ ددالم تندس"
+  ],
+  "answer": 0,
+  "explanation": "كيت تيدق بوليه ترلالو لام ددالم تندس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-05",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب دالم مجليس علمو؟",
+  "options": [
+   "ممباچ دعاء",
+   "ممبوات بيسيڠ",
+   "برماءين دان بركوراو"
+  ],
+  "answer": 0,
+  "explanation": "كيت ممباچ دعاء دالم مجليس علمو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-06",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: چيري ڤاكاين يڠ سوڤن = ___",
+  "options": [
+   "كتت",
+   "لوڠݢر",
+   "سيڠكت"
+  ],
+  "answer": 1,
+  "explanation": "ڤاكاين يڠ سوڤن اياله لوڠݢر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-07",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب سبلوم ماسوق تندس = ___",
+  "options": [
+   "باچ دعاء",
+   "باچ بوكو",
+   "باچ مجله"
+  ],
+  "answer": 0,
+  "explanation": "كيت ممباچ دعاء سبلوم ماسوق تندس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-08",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ادب كتيك ددالم مسجد = ___",
+  "options": [
+   "برذيكير",
+   "بركوراو",
+   "بيسيڠ"
+  ],
+  "answer": 0,
+  "explanation": "كيت برذيكير كتيك ددالم مسجد.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-09",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: فاءيده برادب دالم مجليس علمو = ___",
+  "options": [
+   "دهينا",
+   "دموركاءي",
+   "دحرمتي"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ برادب دالم مجليس علمو اكن دحرمتي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-10",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: مڤمڤايكن ڤركارا يڠ بنر ملالوءي ميديا = ___",
+  "options": [
+   "تيكس",
+   "توليس",
+   "مسسا"
+  ],
+  "answer": 2,
+  "explanation": "كيت مڤمڤايكن ڤركارا يڠ بنر ملالوءي ميديا مسسا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-11",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ماسوق كروماه دڠن مندهولوءي كاكي كانن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت ماسوق روماه دڠن كاكي كانن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-12",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كلوار تندس دڠن كاكي كيري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت كلوار تندس دڠن كاكي كانن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-13",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كلوار دري مسجد دڠن سوڤن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت كلوار مسجد دڠن سوڤن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-14",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤنونتوت علمو اكن منداڤت كريضاءن الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤنونتوت علمو اكن منداڤت كريضاءن الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-15",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ݢوناكن ميديا مسسا اونتوق مڤيبركن بريتا ڤلسو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت تيدق بوليه مڤيبركن بريتا ڤلسو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-16",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سباݢاي تتامو هندقله منجاݢ ادب كتيك ___.",
+  "options": [
+   "بربوال",
+   "باءيق",
+   "مسجد",
+   "الله",
+   "عورة"
+  ],
+  "answer": 0,
+  "explanation": "تتامو هندقله منجاݢ ادب كتيك بربوال.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-17",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هندقله مماكاي ڤاكاين يڠ منوتوڤ ___.",
+  "options": [
+   "بربوال",
+   "باءيق",
+   "مسجد",
+   "الله",
+   "عورة"
+  ],
+  "answer": 4,
+  "explanation": "كيت مماكاي ڤاكاين يڠ منوتوڤ عورة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-18",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلوار دري روماه دڠن توجوان يڠ ___.",
+  "options": [
+   "بربوال",
+   "باءيق",
+   "مسجد",
+   "الله",
+   "عورة"
+  ],
+  "answer": 1,
+  "explanation": "كيت كلوار روماه دڠن توجوان يڠ باءيق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-19",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ دعاء كتيك كلوار دري ___.",
+  "options": [
+   "بربوال",
+   "باءيق",
+   "مسجد",
+   "الله",
+   "عورة"
+  ],
+  "answer": 2,
+  "explanation": "كيت ممباچ دعاء كتيك كلوار دري مسجد.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-20",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تيدق منجاݢ ادب كتيك منونتوت علمو اكن دموركاءي ___.",
+  "options": [
+   "بربوال",
+   "باءيق",
+   "مسجد",
+   "الله",
+   "عورة"
+  ],
+  "answer": 3,
+  "explanation": "اورڠ يڠ تيدق برادب اكن دموركاءي الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-21",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كيت دلارڠ مماكاي ڤاكاين يڠ نيڤيس دان ___.",
+  "options": [
+   "سمڤيت",
+   "لوڠݢر",
+   "برسيه"
+  ],
+  "answer": 0,
+  "explanation": "كيت دلارڠ مماكاي ڤاكاين يڠ نيڤيس دان سمڤيت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-22",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هندقله ممينتا ايذين ايبو باڤ سبلوم ___.",
+  "options": [
+   "كلوار روماه",
+   "تيدور",
+   "ماكن"
+  ],
+  "answer": 0,
+  "explanation": "كيت ممينتا ايذين ايبو باڤ سبلوم كلوار روماه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-23",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هندقله ماسوق كمسجد دالم كأداءن ___.",
+  "options": [
+   "سوچي",
+   "كوتور",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "كيت ماسوق مسجد دالم كأداءن سوچي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-24",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برعلمو اكن دڤندڠ ___.",
+  "options": [
+   "موليا",
+   "هينا",
+   "بياسا"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ برعلمو اكن دڤندڠ موليا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-pat2023-25",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢوناكنله ميديا مسسا اونتوق مڤمڤايكن ڤركارا يڠ ___.",
+  "options": [
+   "بنر",
+   "ساله",
+   "فتنه"
+  ],
+  "answer": 0,
+  "explanation": "كيت ݢوناكن ميديا مسسا اونتوق مڤمڤايكن ڤركارا يڠ بنر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-akhlak-pat2024-01",
   "exam": "Darjah 2",
   "subject": "Akhlak",

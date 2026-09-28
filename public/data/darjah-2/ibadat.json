@@ -1,5 +1,447 @@
 [
  {
+  "id": "darjah-2-ibadat-pat2023-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين حدث؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "حدث تربهاݢي كڤد حدث كچيل دان حدث بسر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سنة٢ وضوء؟",
+  "options": [
+   "ممباسوه تليڠا",
+   "ممباسوه موك",
+   "ممباسوه كاكي"
+  ],
+  "answer": 0,
+  "explanation": "مڽاڤو تليڠا اياله سنة وضوء؛ موك دان كاكي اياله فرض.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط٢ صح صلاة؟",
+  "options": [
+   "منوتوڤ عورة",
+   "ممباچ بسم الله",
+   "مڠوچڤكن سلام"
+  ],
+  "answer": 0,
+  "explanation": "منوتوڤ عورة اياله شرط صح صلاة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤربواتن باݢي ممبرسيهكن مولوت دان ݢيݢي؟",
+  "options": [
+   "بروضوء",
+   "برسوݢي",
+   "براستنجاء"
+  ],
+  "answer": 1,
+  "explanation": "برسوݢي ممبرسيهكن مولوت دان ݢيݢي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين نجيس اد ___.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "نجيس تربهاݢي كڤد تيݢ: مغلظة، متوسطة دان مخففة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرض وضوء اد ___.",
+  "options": [
+   "انم",
+   "توجوه",
+   "لاڤن"
+  ],
+  "answer": 0,
+  "explanation": "فرض وضوء اد انم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط مؤذن اياله ___.",
+  "options": [
+   "وضوء",
+   "مرتد",
+   "للاكي"
+  ],
+  "answer": 2,
+  "explanation": "مؤذن مستيله للاكي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن قلبي دالم صلاة اياله ___.",
+  "options": [
+   "نية",
+   "سلام",
+   "فاتحة"
+  ],
+  "answer": 0,
+  "explanation": "نية اياله ركن قلبي (هاتي).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ماسوق تندس دڠن كاكي كيري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ادب ماسوق تندس اياله دڠن كاكي كيري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بطل وضوء جک تيدور مڠيريڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تيدور يڠ تيدق تتڤ ڤوڠݢوڠ ممبطلكن وضوء.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حکوم اقامة اداله واجب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اقامة اياله سنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حکوم برسوݢي سبلوم صلاة اياله سنة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برسوݢي سبلوم صلاة اياله سنة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كلبيهن برسوݢي اياله منچرهكن ڤڠليهتن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "انتارا كلبيهن برسوݢي اياله منچرهكن ڤڠليهتن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن كتيك برحدث كچيل اياله ___.",
+  "options": [
+   "سنة ابعاض",
+   "صلاة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "اذان"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ برحدث كچيل دلارڠ صلاة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كباءيقن بروضوء اياله ___.",
+  "options": [
+   "سنة ابعاض",
+   "صلاة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "اذان"
+  ],
+  "answer": 3,
+  "explanation": "بروضوء منداڤت ڤهالا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مملومكن اورڠ راماي تنتڠ ماسوق وقتو صلاة اياله ___.",
+  "options": [
+   "سنة ابعاض",
+   "صلاة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "اذان"
+  ],
+  "answer": 4,
+  "explanation": "اذان مملومكن ماسوق وقتو صلاة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ تحية اول اياله ___.",
+  "options": [
+   "سنة ابعاض",
+   "صلاة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "اذان"
+  ],
+  "answer": 0,
+  "explanation": "تحية اول اياله سنة ابعاض.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برسوݢي باݢي اورڠ يڠ برڤواسا (سلڤس ݢلينچير) اياله ___.",
+  "options": [
+   "سنة ابعاض",
+   "صلاة",
+   "مكروه",
+   "منداڤت ڤهالا",
+   "اذان"
+  ],
+  "answer": 2,
+  "explanation": "مكروه برسوݢي باݢي اورڠ برڤواسا سلڤس ݢلينچير ماتاهاري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برچاكڤ-چاكڤ كتيك بروضوء اياله ___.",
+  "options": [
+   "مكروه",
+   "واجب",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "برچاكڤ كتيك بروضوء اياله مكروه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبريتاهو اورڠ راماي تله ماسوق وقتو صلاة اياله ___.",
+  "options": [
+   "اذان",
+   "اقامة",
+   "خطبة"
+  ],
+  "answer": 0,
+  "explanation": "اذان مماءوڠكن ماسوق وقتو صلاة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا سنة اذان دان اقامة اياله ___.",
+  "options": [
+   "مڠهادڤ قبلة",
+   "دودوق",
+   "برچاكڤ"
+  ],
+  "answer": 0,
+  "explanation": "سنة مڠهادڤ قبلة كتيك اذان دان اقامة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن ممبري سلام كدوا اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "سلام كدوا اياله سنة؛ سلام ڤرتام اياله ركن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-pat2023-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه الت برسوݢي اياله ___.",
+  "options": [
+   "كايو اراك",
+   "كايو جاتي",
+   "ڤنسل"
+  ],
+  "answer": 0,
+  "explanation": "كايو اراك (سيواك) اياله الت برسوݢي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-ibadat-pat2024-01",
   "exam": "Darjah 2",
   "subject": "Ibadat",
