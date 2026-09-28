@@ -1,0 +1,482 @@
+[
+ {
+  "id": "darjah-3-sirah-pat2025-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي وحي؟",
+  "options": [
+   "كلام الله ﷻ",
+   "كلام صحابة",
+   "كلام ملائكة"
+  ],
+  "answer": 0,
+  "explanation": "وحي اياله كلام الله يڠ دسمڤايكن كڤد نبي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا تندا٢ كنبين.",
+  "options": [
+   "برميمڤي مليهت اڤي",
+   "برميمڤي مليهت چهاي",
+   "برميمڤي ڤركارا بوروق"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا برميمڤي مليهت چهاي سڤرتي چهاي صبح.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ منننتڠ دعوه نبي محمد ﷺ؟",
+  "options": [
+   "ابو بكر",
+   "ابو لهب",
+   "خالد الوليد"
+  ],
+  "answer": 1,
+  "explanation": "ابو لهب منننتڠ دعوه باݢيندا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن ڤمولاوان ترهادڤ بني مطلب دان بني هاشم.",
+  "options": [
+   "هوبوڠن برتمبه ارت",
+   "بكلن ماكنن برتمبه",
+   "ڤڽيقساءن برتمبه برت"
+  ],
+  "answer": 2,
+  "explanation": "ڤمولاوان منمبهكن ڤڽيقساءن ك اتس مريك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "القرءان دتورونكن دالم تيمڤوه ___.",
+  "options": [
+   "21 تاهون",
+   "22 تاهون",
+   "23 تاهون"
+  ],
+  "answer": 2,
+  "explanation": "القرءان دتورونكن سچارا برانسور سلاما 23 تاهون.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تندا كنبين نبي محمد ﷺ ترسرله سجق لاهير.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تندا كنبين تله كليهتن سجق باݢيندا لاهير.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ساله ساتو چارا وحي الله ﷻ دتورونكن ملالوءي ميمڤي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ميمڤي يڠ بنر اياله ساله ساتو چارا وحي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ابو جهل تله ميلامتكن نبي محمد ﷺ درڤد دبونوه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ابو جهل اياله موسوه يڠ چوبا ممبونوه باݢيندا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: رسول الله ﷺ تله منجادڠكن برهجره كحبشة كران راجاڽ يڠ عاديل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "راج حبشة (النجاشي) عاديل، مك صحابة دسوروه برهجره ك سان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كتاب توراة مروڤاكن معجزة نبي محمد ﷺ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "معجزة نبي محمد ﷺ اياله القرءان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڽنديري بيبراڤ مالم دان برعبادة ارتي باݢي ___.",
+  "options": [
+   "اهلي نجوم",
+   "تَحَنُّث",
+   "بولن",
+   "40 تاهون",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 1,
+  "explanation": "تحنث برمعنا مڽنديري دان برعبادة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ منجادي رسول كتيك برعمور ___.",
+  "options": [
+   "اهلي نجوم",
+   "تَحَنُّث",
+   "بولن",
+   "40 تاهون",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 3,
+  "explanation": "باݢيندا دلنتيق منجادي رسول ڤد عمور 40 تاهون.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرچاي كڤد الله ﷻ اساس دعوه ___.",
+  "options": [
+   "اهلي نجوم",
+   "تَحَنُّث",
+   "بولن",
+   "40 تاهون",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 4,
+  "explanation": "اساس دعوه نبي محمد ﷺ اياله ڤرچاي كڤد الله.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤننتڠ دعوه منودوه نبي محمد ﷺ سباݢاي ___.",
+  "options": [
+   "اهلي نجوم",
+   "تَحَنُّث",
+   "بولن",
+   "40 تاهون",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 0,
+  "explanation": "ڤننتڠ منودوه باݢيندا سباݢاي اهلي نجوم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ كافر منچابر نبي محمد ﷺ ممبله ___.",
+  "options": [
+   "اهلي نجوم",
+   "تَحَنُّث",
+   "بولن",
+   "40 تاهون",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ كافر منچابر باݢيندا ممبله بولن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-16",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سلڤس منريما وحي، نبي محمد ﷺ ڤولڠ دڠن ڤراساءن ___.",
+  "options": [
+   "تاكوت دان ݢمنر",
+   "ݢمبيرا",
+   "مراه"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا ڤولڠ دالم كأداءن تاكوت دان ݢمنر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-17",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وحي كدوا يڠ دتورونكن كڤد نبي محمد ﷺ اياله سورة ___.",
+  "options": [
+   "المدثر",
+   "الفاتحة",
+   "البقرة"
+  ],
+  "answer": 0,
+  "explanation": "وحي كدوا اياله سورة المدثر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-18",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب قوم قريش منننتڠ دعوه كران تاكوت هيلڠ ___.",
+  "options": [
+   "كدودوقن دان كواس",
+   "رومه",
+   "كاون"
+  ],
+  "answer": 0,
+  "explanation": "مريك تاكوت هيلڠ كدودوقن دان كواس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-19",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمولاوان ترهادڤ كلوارݢ نبي محمد ﷺ دڠن ملارڠ ___.",
+  "options": [
+   "برنياݢ دان بركهوين",
+   "صلاة",
+   "برجالن"
+  ],
+  "answer": 0,
+  "explanation": "قريش ملارڠ برنياݢ دان بركهوين دڠن بني هاشم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-20",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معجزة برمقصود يڠ ___.",
+  "options": [
+   "ملمهكن",
+   "مڽنڠكن",
+   "منيدوركن"
+  ],
+  "answer": 0,
+  "explanation": "معجزة برمعنا ڤركارا لوار بياسا يڠ ملمهكن ڤننتڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-21",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب نبي محمد ﷺ برتحنث.",
+  "options": [
+   "منچاري كتنڠن دان كبنرن",
+   "ممبورو",
+   "برنياݢ"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا برتحنث اونتوق منچاري كتنڠن دان كبنرن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-22",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا ڤرمولاءن كنبين رسول الله ﷺ.",
+  "options": [
+   "ميمڤي يڠ بنر",
+   "ميمڤي بوروق",
+   "تيدق برميمڤي"
+  ],
+  "answer": 0,
+  "explanation": "ميمڤي يڠ بنر اياله تندا ڤرمولاءن كنبين.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-23",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "يڠ برسام نبي محمد ﷺ بردعوه كطائف.",
+  "options": [
+   "زيد بن حارثة",
+   "ابو بكر",
+   "علي"
+  ],
+  "answer": 0,
+  "explanation": "زيد بن حارثة منماني باݢيندا كطائف.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-24",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معجزة تربسر رسول الله ﷺ.",
+  "options": [
+   "القرءان",
+   "توراة",
+   "إنجيل"
+  ],
+  "answer": 0,
+  "explanation": "القرءان اياله معجزة تربسر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2025-25",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠاڤ معجزة دكورنياكن كڤد نبي محمد ﷺ؟",
+  "options": [
+   "ممبوقتيكن كنبين",
+   "منچاري كاي",
+   "ممبازير"
+  ],
+  "answer": 0,
+  "explanation": "معجزة ممبوقتيكن كبنرن كنبين.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]
