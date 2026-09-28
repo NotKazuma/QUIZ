@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-1-sirah-ppt2022-01",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ح د ي ث = ___",
+  "options": [
+   "حدث",
+   "حديث",
+   "حدود"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي حديث.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-02",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: س ج ا ر ه = ___",
+  "options": [
+   "سجاده",
+   "سجاره",
+   "ساجاره"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي سجاره.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-03",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ا ن س ا ن = ___",
+  "options": [
+   "اخلاص",
+   "احسان",
+   "انسان"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي انسان.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-04",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ا ي ك و ت ن = ___",
+  "options": [
+   "ايكت",
+   "ايكوتن",
+   "ايكورن"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي ايكوتن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-05",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤ و ت ر ا = ___",
+  "options": [
+   "فتوى",
+   "ڤوترا",
+   "ڤوتري"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي ڤوترا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-06",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"علمو\" اياله ___.",
+  "options": [
+   "ع ا ل م",
+   "ع ل م و",
+   "ع ل و م"
+  ],
+  "answer": 1,
+  "explanation": "علمو = ع + ل + م + و.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-07",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"ريڠكس\" اياله ___.",
+  "options": [
+   "ت ڠ ك س",
+   "ب ي ڠ ك س",
+   "ر ي ڠ ك س"
+  ],
+  "answer": 2,
+  "explanation": "ريڠكس = ر + ي + ڠ + ك + س.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-08",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"دعوه\" اياله ___.",
+  "options": [
+   "د ع ا ء",
+   "د ع و ه",
+   "د ع و ى"
+  ],
+  "answer": 1,
+  "explanation": "دعوه = د + ع + و + ه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-09",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"مشاركت\" اياله ___.",
+  "options": [
+   "م ش ه و ر",
+   "م ش و ا ر ت",
+   "م ش ا ر ك ت"
+  ],
+  "answer": 2,
+  "explanation": "مشاركت = م + ش + ا + ر + ك + ت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-10",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"كمبيڠ\" اياله ___.",
+  "options": [
+   "ك ا ت ق",
+   "ك ي ب ش",
+   "ك م ب ي ڠ"
+  ],
+  "answer": 2,
+  "explanation": "كمبيڠ = ك + م + ب + ي + ڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-11",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كاجين = ك + ا + ج + ي + ن",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كاجين دايجا ك + ا + ج + ي + ن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-12",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اخيرة = ا + خ + ي + ر + ة",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اخيرة دايجا ا + خ + ي + ر + ة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-13",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: واجب = و + ا + ج + ن",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "واجب دايجا و + ا + ج + ب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-14",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: معجزة = م + ع + ج + ز + ة",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "معجزة دايجا م + ع + ج + ز + ة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-15",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ذوريت = ذ + و + ر + ي + ا + ت",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ذوريت دايجا ذ + و + ر + ي + ت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-16",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سومبر رجوعن سيرة اياله ___.",
+  "options": [
+   "زمزم",
+   "ابراهيم",
+   "نسب",
+   "سيرة",
+   "القرءان"
+  ],
+  "answer": 4,
+  "explanation": "القرءان اياله سومبر سيرة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-17",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "روايت هيدوڤ نبي اياله ___.",
+  "options": [
+   "زمزم",
+   "ابراهيم",
+   "نسب",
+   "سيرة",
+   "القرءان"
+  ],
+  "answer": 3,
+  "explanation": "سيرة اياله روايت هيدوڤ نبي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-18",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جالور كتورونن كلوارݢ اياله ___.",
+  "options": [
+   "زمزم",
+   "ابراهيم",
+   "نسب",
+   "سيرة",
+   "القرءان"
+  ],
+  "answer": 2,
+  "explanation": "نسب اياله جالور كتورونن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-19",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يڠ دݢلر أولو العزم اياله نبي ___.",
+  "options": [
+   "زمزم",
+   "ابراهيم",
+   "نسب",
+   "سيرة",
+   "القرءان"
+  ],
+  "answer": 1,
+  "explanation": "نبي ابراهيم اياله ساله سأورڠ أولو العزم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-20",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام اءير يڠ سوچي دمكة اياله ___.",
+  "options": [
+   "زمزم",
+   "ابراهيم",
+   "نسب",
+   "سيرة",
+   "القرءان"
+  ],
+  "answer": 0,
+  "explanation": "اءير زمزم براد دمكه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-21",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ سجاره اياله ___.",
+  "options": [
+   "ڤرچاي",
+   "ڤربواتن",
+   "ڤريستيوا"
+  ],
+  "answer": 2,
+  "explanation": "سجاره منچاتتكن ڤريستيوا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-22",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ايكوتن يڠ ترباءيق اياله ___.",
+  "options": [
+   "راكن٢",
+   "ايبو باڤ",
+   "رسول الله ﷺ"
+  ],
+  "answer": 2,
+  "explanation": "رسول الله ﷺ اياله ايكوتن ترباءيق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-23",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام نبي يڠ ممبينا كعبة برسام نبي ابراهيم اياله ___.",
+  "options": [
+   "نبي نوح",
+   "نبي اسماعيل",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 1,
+  "explanation": "نبي اسماعيل ممبنتو نبي ابراهيم ممبينا كعبة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-24",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام ايبو نبي اسماعيل اياله ___.",
+  "options": [
+   "حواء",
+   "هاجر",
+   "آمنة"
+  ],
+  "answer": 1,
+  "explanation": "ايبو نبي اسماعيل اياله هاجر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-sirah-ppt2022-25",
+  "exam": "Darjah 1",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام انق نبي ابراهيم اياله ___.",
+  "options": [
+   "موسى",
+   "داود",
+   "اسحاق"
+  ],
+  "answer": 2,
+  "explanation": "نبي اسحاق اياله انق نبي ابراهيم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-sirah-pat2022-01",
   "exam": "Darjah 1",
   "subject": "Sirah",

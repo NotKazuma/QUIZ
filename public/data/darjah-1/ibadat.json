@@ -1,5 +1,488 @@
 [
  {
+  "id": "darjah-1-ibadat-ppt2022-01",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ش ر ي ع ة = ___",
+  "options": [
+   "شرع",
+   "شهادة",
+   "شريعة"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي شريعة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-02",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ط ه ا ر ة = ___",
+  "options": [
+   "طاعة",
+   "طواف",
+   "طهارة"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي طهارة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-03",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ع ب ا د ا ت = ___",
+  "options": [
+   "عقد",
+   "عادت",
+   "عبادات"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي عبادات.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-04",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: م ڽ و چ ي ك ن = ___",
+  "options": [
+   "مڽوچيكن",
+   "مڠوتوركن",
+   "ممبرسيهكن"
+  ],
+  "answer": 0,
+  "explanation": "حروف٢ اين دسوسون منجادي مڽوچيكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-05",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: م ك ل ف = ___",
+  "options": [
+   "مكلف",
+   "مسلم",
+   "مؤلف"
+  ],
+  "answer": 0,
+  "explanation": "حروف٢ اين دسوسون منجادي مكلف.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-06",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عبادة دالم ݢمبر اين؟",
+  "image": "images/darjah-1/ibadat-ppt2022-sedekah.jpg",
+  "options": [
+   "ممباچ",
+   "مڠحفظ",
+   "برصدقة"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين منونجوقكن سسأورڠ برصدقة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-07",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عبادة دالم ݢمبر اين؟",
+  "image": "images/darjah-1/ibadat-ppt2022-tawaf.jpg",
+  "options": [
+   "اذان",
+   "صلاة",
+   "طواف"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين منونجوقكن اورڠ برطواف مڠليليڠي كعبة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-08",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/ibadat-ppt2022-sungai.jpg",
+  "options": [
+   "هوجن",
+   "ثلجي",
+   "سوڠاي"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله سوڠاي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-09",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "استنجاء = ___",
+  "options": [
+   "إسلام",
+   "ايتيله",
+   "استنجاء"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ دسوسون منجادي استنجاء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-10",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسيه = ___",
+  "options": [
+   "برحدث",
+   "برسيه",
+   "برسوچي"
+  ],
+  "answer": 2,
+  "explanation": "برسيه سام معنا دڠن برسوچي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-11",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ف + ا + ت + و + ه = ڤاتوه",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤ + ا + ت + و + ه = ڤاتوه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-12",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: س + م + ب + ه = سمباه",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "س + م + ب + ه = سمبه، بوكن سمباه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-13",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ص + ل + ا + ة = صلاة",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ص + ل + ا + ة = صلاة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-14",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤ + ه + ا + ل + ا = ڤهالا",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤ + ه + ا + ل + ا = ڤهالا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-15",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ب + ر + چ + ي + ب + و + ق = برچيبوق",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حروف٢ اين منجادي برچيبوق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-16",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين عبادات اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "برڤواسا",
+   "طهارة",
+   "اءير مطلق",
+   "توجوان طهارة"
+  ],
+  "answer": 0,
+  "explanation": "عبادات برمعنا ڤاتوه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-17",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبرسيهكن سسواتو درڤد نجيس اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "برڤواسا",
+   "طهارة",
+   "اءير مطلق",
+   "توجوان طهارة"
+  ],
+  "answer": 2,
+  "explanation": "طهارة اياله ممبرسيهكن درڤد نجيس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-18",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مليندوڠي ديري دري ڤڽاكيت اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "برڤواسا",
+   "طهارة",
+   "اءير مطلق",
+   "توجوان طهارة"
+  ],
+  "answer": 4,
+  "explanation": "طهارة برتوجوان مليندوڠي ديري درڤد ڤڽاكيت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-19",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي لاݢي مڽوچيكن اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "برڤواسا",
+   "طهارة",
+   "اءير مطلق",
+   "توجوان طهارة"
+  ],
+  "answer": 3,
+  "explanation": "اءير مطلق سوچي لاݢي مڽوچيكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-20",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه عبادات يڠ واجب دلاكوكن اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "برڤواسا",
+   "طهارة",
+   "اءير مطلق",
+   "توجوان طهارة"
+  ],
+  "answer": 1,
+  "explanation": "برڤواسا دبولن رمضان اياله واجب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-21",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه اورڠ يڠ برعقل لاݢي بالغ؟",
+  "options": [
+   "مكلف",
+   "تكليف",
+   "مؤلف"
+  ],
+  "answer": 0,
+  "explanation": "مكلف اياله اورڠ يڠ برعقل دان بالغ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-22",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كورنيا الله كڤد اورڠ يڠ برسوچي اياله ___.",
+  "options": [
+   "دوسا",
+   "هديه",
+   "ڤهالا"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ برسوچي منداڤت ڤهالا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-23",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله بهاݢين اءير؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 2,
+  "explanation": "اءير تربهاݢي كڤد امڤت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-24",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم استنجاء؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "استنجاء اياله واجب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-ppt2022-25",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين استنجاء؟",
+  "options": [
+   "سوچيكن تاڠن",
+   "سوچيكن كاكي",
+   "سوچيكن قبل دان دبر"
+  ],
+  "answer": 2,
+  "explanation": "استنجاء اياله مڽوچيكن قبل دان دبر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-ibadat-pat2022-01",
   "exam": "Darjah 1",
   "subject": "Ibadat",

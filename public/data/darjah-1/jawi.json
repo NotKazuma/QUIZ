@@ -1,5 +1,495 @@
 [
  {
+  "id": "darjah-1-jawi-ppt2022-01",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "س، ___، ص، ض",
+  "options": [
+   "ش",
+   "ط",
+   "ع"
+  ],
+  "answer": 0,
+  "explanation": "توروتن حروف: س، ش، ص، ض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-02",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف٢ يڠ تيدق برتيتيق اياله ___.",
+  "options": [
+   "ب، ت",
+   "ف، ق",
+   "ر، ل"
+  ],
+  "answer": 2,
+  "explanation": "ر دان ل تيدق برتيتيق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-03",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ سام بنتوق دڠن \"ط\" اياله ___.",
+  "options": [
+   "ص",
+   "ض",
+   "ظ"
+  ],
+  "answer": 2,
+  "explanation": "ظ سام بنتوق دڠن ط، بيذاڽ اد تيتيق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-04",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دتڠه كليمة \"كتم\" اياله ___.",
+  "options": [
+   "ت",
+   "ک",
+   "م"
+  ],
+  "answer": 0,
+  "explanation": "حروف ت براد دتڠه كليمة كتم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-05",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف دڤرمولاءن كليمة \"چاون\" اياله ___.",
+  "options": [
+   "ج",
+   "ح",
+   "چ"
+  ],
+  "answer": 2,
+  "explanation": "چاون دمولاكن دڠن حروف چ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-06",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-zirafah.jpg",
+  "options": [
+   "كودا",
+   "روسا",
+   "زيرافه"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله زيرافه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-07",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-senduk.jpg",
+  "options": [
+   "كلس",
+   "سوديڤ",
+   "سندوق"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله سندوق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-08",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-garpu.jpg",
+  "options": [
+   "ݢرڤو",
+   "سودو",
+   "ڤيڠݢن"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله ݢرڤو.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-09",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-anggur.jpg",
+  "options": [
+   "ايڤل",
+   "لڠست",
+   "دوريان"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله بواه لڠست.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-10",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-biskut.jpg",
+  "options": [
+   "بواه",
+   "ناسي",
+   "بيسكوت"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله بيسكوت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-11",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سم + ڤن = سمڤن",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سم + ڤن = سمڤن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-12",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: با + كول = باكول",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "با + كول = باكول.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-13",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سي + كت = سيكب",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سي + كت = سيكت، بوكن سيكب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-14",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ل + ي + ن + ت + ح = لينته",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حروف ترأخير لينته اياله ه، بوكن ح.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-15",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ع + ي + ك + ر = عسكر",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "عسكر دايجا ع + س + ك + ر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-16",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ثل + جي = ___",
+  "options": [
+   "روسا",
+   "چيريق",
+   "ثلجي",
+   "فيري",
+   "سودو"
+  ],
+  "answer": 2,
+  "explanation": "ثل + جي = ثلجي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-17",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "في + ري = ___",
+  "options": [
+   "روسا",
+   "چيريق",
+   "ثلجي",
+   "فيري",
+   "سودو"
+  ],
+  "answer": 3,
+  "explanation": "في + ري = فيري.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-18",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رو + سا = ___",
+  "options": [
+   "روسا",
+   "چيريق",
+   "ثلجي",
+   "فيري",
+   "سودو"
+  ],
+  "answer": 0,
+  "explanation": "رو + سا = روسا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-19",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چي + ريق = ___",
+  "options": [
+   "روسا",
+   "چيريق",
+   "ثلجي",
+   "فيري",
+   "سودو"
+  ],
+  "answer": 1,
+  "explanation": "چي + ريق = چيريق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-20",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سو + دو = ___",
+  "options": [
+   "روسا",
+   "چيريق",
+   "ثلجي",
+   "فيري",
+   "سودو"
+  ],
+  "answer": 4,
+  "explanation": "سو + دو = سودو.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-21",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-udang.jpg",
+  "options": [
+   "ايكن",
+   "كتم",
+   "اودڠ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله اودڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-22",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-kerusi.jpg",
+  "options": [
+   "ميجا",
+   "كروسي",
+   "بوكو"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله كروسي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-23",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-arnab.jpg",
+  "options": [
+   "ارنب",
+   "اولر",
+   "كودا"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله ارنب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-24",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-tangan.jpg",
+  "options": [
+   "كاكي",
+   "تاڠن",
+   "جاري"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر اين اياله تاڠن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-jawi-ppt2022-25",
+  "exam": "Darjah 1",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-1/jawi-ppt2022-pasu.jpg",
+  "options": [
+   "ڤاءيل",
+   "ڤاكو",
+   "ڤاسو"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله ڤاسو بوڠا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-jawi-pat2022-01",
   "exam": "Darjah 1",
   "subject": "Jawi",

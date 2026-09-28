@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-1-tauhid-ppt2022-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤ ر ي ن ت ه = ___",
+  "options": [
+   "ڤاتوه",
+   "ڤڽرهن",
+   "ڤرينته"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي ڤرينته.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ش ه ا د ة = ___",
+  "options": [
+   "شهدة",
+   "شهادة",
+   "شهيد"
+  ],
+  "answer": 1,
+  "explanation": "حروف٢ اين دسوسون منجادي شهادة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: س ل ا م = ___",
+  "options": [
+   "سلم",
+   "اسلم",
+   "سلام"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي سلام.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: م س ل م = ___",
+  "options": [
+   "مالم",
+   "ماسم",
+   "مسلم"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي مسلم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ه ي د و ڤ = ___",
+  "options": [
+   "هيڠكڤ",
+   "هيدوڠ",
+   "هيدوڤ"
+  ],
+  "answer": 2,
+  "explanation": "حروف٢ اين دسوسون منجادي هيدوڤ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"إسلام\" اياله ___.",
+  "options": [
+   "إ س ل ا م",
+   "إ س ا ل م",
+   "إ س ا ل ا م"
+  ],
+  "answer": 0,
+  "explanation": "إسلام = إ + س + ل + ا + م.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"ڤاتوه\" اياله ___.",
+  "options": [
+   "ڤ ا ر و ه",
+   "ڤ ا ت و ه",
+   "ڤ ا ت و ة"
+  ],
+  "answer": 1,
+  "explanation": "ڤاتوه = ڤ + ا + ت + و + ه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"ميسكين\" اياله ___.",
+  "options": [
+   "م س ك ي ن",
+   "م ي س ك ن",
+   "م ي س ك ي ن"
+  ],
+  "answer": 2,
+  "explanation": "ميسكين = م + ي + س + ك + ي + ن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"تراويح\" اياله ___.",
+  "options": [
+   "ت ر ا و ح",
+   "ت ر و ي ح",
+   "ت ر ا و ي ح"
+  ],
+  "answer": 2,
+  "explanation": "تراويح = ت + ر + ا + و + ي + ح.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن يڠ بتول باݢي \"سيمبول\" اياله ___.",
+  "options": [
+   "س ي م و ل",
+   "س م ب و ل",
+   "س ي م ب و ل"
+  ],
+  "answer": 2,
+  "explanation": "سيمبول = س + ي + م + ب + و + ل.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: إسلام اݢام يڠ بنر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ارتي شهادة اياله ڤڠاكوان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "شهادة برمعنا ڤڠاكوان اتاو ڤڽقسين.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: صلاة داڤت منچݢه كموڠكرن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صلاة منچݢه ڤربواتن كجي دان موڠكر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ڤواسا تيدق مڽيحتكن بادن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ڤواسا مڽيحتكن بادن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: عبادة حج بوليه منيمبولكن راس كاءينصافن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حج منيمبولكن راس اينصاف.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ممڤلاجري ركن إسلام اياله ___.",
+  "options": [
+   "فقير",
+   "ڤواسا",
+   "واجب",
+   "مكلف",
+   "شهادة"
+  ],
+  "answer": 2,
+  "explanation": "ممڤلاجري ركن إسلام اياله واجب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملقساناكن حق الله دان رسولڽ اياله ___.",
+  "options": [
+   "فقير",
+   "ڤواسا",
+   "واجب",
+   "مكلف",
+   "شهادة"
+  ],
+  "answer": 4,
+  "explanation": "شهادة اياله مڠاكو الله سباݢاي توهن دان محمد سباݢاي رسول.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ عاقل لاݢي بالغ اياله ___.",
+  "options": [
+   "فقير",
+   "ڤواسا",
+   "واجب",
+   "مكلف",
+   "شهادة"
+  ],
+  "answer": 3,
+  "explanation": "مكلف اياله اورڠ يڠ عاقل دان بالغ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن يڠ برحق منريما زكاة اياله ___.",
+  "options": [
+   "فقير",
+   "ڤواسا",
+   "واجب",
+   "مكلف",
+   "شهادة"
+  ],
+  "answer": 0,
+  "explanation": "فقير اياله ساله ساتو اصناف زكاة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن مناهن ديري درڤد ماكن دان مينوم اياله ___.",
+  "options": [
+   "فقير",
+   "ڤواسا",
+   "واجب",
+   "مكلف",
+   "شهادة"
+  ],
+  "answer": 1,
+  "explanation": "ڤواسا اياله مناهن ديري درڤد ماكن دان مينوم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله ركن إسلام اياله ___.",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 1,
+  "explanation": "ركن إسلام اد ليم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منديريكن صلاة فرض اياله ___.",
+  "options": [
+   "حرام",
+   "سنة",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "منديريكن صلاة فرض اياله واجب.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط واجب زكاة اياله ___.",
+  "options": [
+   "مسلم",
+   "كافير",
+   "كفور"
+  ],
+  "answer": 0,
+  "explanation": "زكاة واجب اتس اورڠ مسلم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عبادة فرض دبولن رمضان؟",
+  "options": [
+   "حج",
+   "ڤواسا",
+   "صدقة"
+  ],
+  "answer": 1,
+  "explanation": "ڤواسا اياله فرض دبولن رمضان.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-ppt2022-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ركن إسلام كليم؟",
+  "options": [
+   "برڤواسا",
+   "مڠلواركن زكاة",
+   "مڠرجاكن حج"
+  ],
+  "answer": 2,
+  "explanation": "ركن إسلام كليم اياله منونايكن حج.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-pat2022-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",
