@@ -2886,6 +2886,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-akhlak-upp22025-01",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤروسيس مريحتكن ديري اياله ___.",
+  "options": [
+   "مندي",
+   "وضوء",
+   "تيدور"
+  ],
+  "answer": 2,
+  "explanation": "تيدور مريحتكن ديري.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-02",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوسيسي تيدور رسول الله ﷺ اياله ___.",
+  "options": [
+   "ترلنتڠ",
+   "منياروڤ",
+   "مڠيريڠ"
+  ],
+  "answer": 2,
+  "explanation": "رسول الله ﷺ تيدور مڠيريڠ كسبله كانن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-03",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن سبلوم تيدور اياله ___.",
+  "options": [
+   "برماءين",
+   "برذيكير",
+   "برچريتا"
+  ],
+  "answer": 1,
+  "explanation": "كيت برذيكير سبلوم تيدور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-04",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب باڠون تيدور اياله ___.",
+  "options": [
+   "مينوم اءير",
+   "ڤاكاي باجو",
+   "ݢوسوق ݢيݢي"
+  ],
+  "answer": 2,
+  "explanation": "سلڤس باڠون تيدور كيت مڠݢوسوق ݢيݢي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-05",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريبادي مسلم سجاتي اياله ___.",
+  "options": [
+   "كبرسيهن",
+   "كبوروقن",
+   "ككوتورن"
+  ],
+  "answer": 0,
+  "explanation": "مسلم سجاتي منجاݢ كبرسيهن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-06",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ادب سبلوم تيدور اداله مڠمبيل وضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سنة بروضوء سبلوم تيدور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-07",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حكمه تيدور باݢي ماءنسي اداله مروسقكن اوتق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تيدور مريحتكن اوتق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-08",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ممباچ ايات الكرسي اداله ذيكير سبلوم تيدور.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سنة ممباچ ايات الكرسي سبلوم تيدور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-09",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيدور يڠ ساله مڽببكن صيحت توبوه بادن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تيدور يڠ ساله منجيجسكن كصيحتن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-10",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مڠݢوسوق ݢيݢي دڠن كايو سوݢي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كايو سوݢي بوليه دݢوناكن اونتوق مڠݢوسوق ݢيݢي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-11",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم تيدور اياله ___.",
+  "options": [
+   "بردعاء",
+   "برچاكڤ",
+   "برچريتا"
+  ],
+  "answer": 0,
+  "explanation": "كيت بردعاء سبلوم تيدور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-12",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدور دڠن چارا يڠ بتول منجاديكن بادن ___.",
+  "options": [
+   "صيحت",
+   "سيقسا",
+   "ساكيت"
+  ],
+  "answer": 0,
+  "explanation": "تيدور دڠن بتول منجاݢ كصيحتن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-13",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برميمڤي ڤركارا يڠ باءيق، كيت ___.",
+  "options": [
+   "منجريت",
+   "برشكور",
+   "برݢوراو"
+  ],
+  "answer": 1,
+  "explanation": "كيت برشكور كڤد الله اتس ميمڤي يڠ باءيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-14",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن ستله ممبواڠ اءير اياله ___.",
+  "options": [
+   "مندي",
+   "وضوء",
+   "چيبوق"
+  ],
+  "answer": 2,
+  "explanation": "كيت برچيبوق (استنجاء) ستله ممبواڠ اءير.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-15",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت مڠݢوسوق ݢيݢي اياله ___.",
+  "options": [
+   "بروس",
+   "سابون",
+   "سيواك"
+  ],
+  "answer": 2,
+  "explanation": "سيواك اياله الت مڠݢوسوق ݢيݢي يڠ سنة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-16",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدور يڠ منجادي عبادة اياله تيدور چارا ___.",
+  "options": [
+   "الله",
+   "عورة",
+   "لمبب",
+   "رسول الله",
+   "ڤهالا"
+  ],
+  "answer": 3,
+  "explanation": "تيدور مڠيكوت چارا رسول الله ﷺ منجادي عبادة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-17",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان تيدور منوروت إسلام اياله منداڤت ___.",
+  "options": [
+   "الله",
+   "عورة",
+   "لمبب",
+   "رسول الله",
+   "ڤهالا"
+  ],
+  "answer": 4,
+  "explanation": "تيدور مڠيكوت سنة منداڤت ڤهالا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-18",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جك برميمڤي بوروق، ڤرلو برليندوڠ دڠن ___.",
+  "options": [
+   "الله",
+   "عورة",
+   "لمبب",
+   "رسول الله",
+   "ڤهالا"
+  ],
+  "answer": 0,
+  "explanation": "كيت برليندوڠ دڠن الله درڤد ميمڤي بوروق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-19",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا تيدور يڠ ساله مڽببكن اوتق منجادي ___.",
+  "options": [
+   "الله",
+   "عورة",
+   "لمبب",
+   "رسول الله",
+   "ڤهالا"
+  ],
+  "answer": 2,
+  "explanation": "تيدور يڠ ساله ممبواتكن اوتق لمبب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-20",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ إسلام واجب مماكاي ڤاكاين منوتوڤ ___.",
+  "options": [
+   "الله",
+   "عورة",
+   "لمبب",
+   "رسول الله",
+   "ڤهالا"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ إسلام واجب منوتوڤ عورة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-21",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا تيدور رسول الله ﷺ اياله مڠهادڤ كأره ___.",
+  "options": [
+   "قبلة",
+   "جالن",
+   "دينديڠ"
+  ],
+  "answer": 0,
+  "explanation": "رسول الله ﷺ تيدور مڠهادڤ قبلة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-22",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"اَللّٰهُمَّ بِاسْمِكَ أَمُوتُ وَأَحْيَا\" اياله دعاء ___.",
+  "options": [
+   "سبلوم ماكن",
+   "سبلوم تيدور",
+   "باڠون تيدور"
+  ],
+  "answer": 1,
+  "explanation": "دعاء اين دباچ سبلوم تيدور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-23",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دانتارا ادب باڠون تيدور اياله ___.",
+  "options": [
+   "ماكن",
+   "مندي",
+   "مينوم"
+  ],
+  "answer": 1,
+  "explanation": "كيت مندي سلڤس باڠون تيدور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-24",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منجاݢ كبرسيهن اياله واجب كأتس اورڠ ___.",
+  "options": [
+   "كافر",
+   "مرتد",
+   "إسلام"
+  ],
+  "answer": 2,
+  "explanation": "منجاݢ كبرسيهن واجب اتس اورڠ إسلام.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-akhlak-upp22025-25",
+  "exam": "Darjah 1",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كوكو تاڠن دان كاكي يڠ تله ڤنجڠ هندقله ___.",
+  "options": [
+   "دڤوتوڠ",
+   "دورناكن",
+   "دكيلتكن"
+  ],
+  "answer": 0,
+  "explanation": "كوكو يڠ ڤنجڠ هندقله دڤوتوڠ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-akhlak-pat2025-01",
   "exam": "Darjah 1",
   "subject": "Akhlak",

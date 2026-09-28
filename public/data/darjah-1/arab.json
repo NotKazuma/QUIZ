@@ -2724,6 +2724,450 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-arab-upp22025-01",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "السَّلَامُ عَلَيْكُمْ ← ___",
+  "options": [
+   "أَنَا بِخَيْرٍ",
+   "أَهْلًا وَسَهْلًا",
+   "وَعَلَيْكُمُ السَّلَامُ"
+  ],
+  "answer": 2,
+  "explanation": "جواڤن سلام اياله وَعَلَيْكُمُ السَّلَامُ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-02",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "صَبَاحَ الخَيْرِ ← ___",
+  "options": [
+   "الحَمْدُ لِلَّهِ",
+   "صَبَاحَ النُّورِ",
+   "مَسَاءَ النُّورِ"
+  ],
+  "answer": 1,
+  "explanation": "جواڤن صَبَاحَ الخَيْرِ اياله صَبَاحَ النُّورِ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-03",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-1/arab-upp22025-sinn.jpg",
+  "options": [
+   "سِنٌّ",
+   "أُذُنٌ",
+   "أَنْفٌ"
+  ],
+  "answer": 0,
+  "explanation": "سِنٌّ برمعنا ݢيݢي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-04",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هَذَا؟",
+  "image": "images/darjah-1/arab-upp22025-ab.jpg",
+  "options": [
+   "أَبٌ",
+   "أُمٌّ",
+   "جَدَّةٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر سأورڠ للاكي: أَبٌ (باڤ).",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-05",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-upp22025-karasi.jpg",
+  "options": [
+   "فَصْلٌ",
+   "زُبَالَةٌ",
+   "كَرَاسِيٌّ"
+  ],
+  "answer": 2,
+  "explanation": "كَرَاسِيٌّ برمعنا كروسي٢.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-06",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا عَيْنٌ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "عَيْنٌ اياله مؤنث، مك دݢوناكن هَذِهِ عَيْنٌ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-07",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ أُخْتٌ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "هَذِهِ أُخْتٌ: اين كاكق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-08",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "ثَلَاثُ أَقْلَامٍ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "ثَلَاثَةُ أَقْلَامٍ برمعنا تيݢ باتڠ ڤن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-09",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هُوَ فَتَحَ البَابَ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "هُوَ فَتَحَ البَابَ: دي ممبوك ڤينتو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-10",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَيْفَ حَالُكَ؟ أَنَا بِخَيْرٍ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "كَيْفَ حَالُكَ؟ دجواب أَنَا بِخَيْرٍ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-11",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَنْ هَذَا؟",
+  "image": "images/darjah-1/arab-upp22025-jadd.jpg",
+  "options": [
+   "جَدٌّ",
+   "أَخٌ",
+   "أُخْتٌ"
+  ],
+  "answer": 0,
+  "explanation": "جَدٌّ برمعنا دتوق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-12",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: ٤ = ___",
+  "options": [
+   "وَاحِدٌ",
+   "أَرْبَعَةٌ",
+   "عَشَرَةٌ"
+  ],
+  "answer": 1,
+  "explanation": "٤ دسبوت أَرْبَعَةٌ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-13",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مُحَمَّدٌ فَتَحَ ___",
+  "options": [
+   "البَابَ",
+   "الدَّرْسَ",
+   "الفَصْلَ"
+  ],
+  "answer": 0,
+  "explanation": "مُحَمَّدٌ فَتَحَ البَابَ: محمد ممبوك ڤينتو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-14",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَا هَذِهِ؟",
+  "image": "images/darjah-1/arab-upp22025-sabburah.jpg",
+  "options": [
+   "مَكْتَبٌ",
+   "قُمَامَةٌ",
+   "سَبُّورَةٌ"
+  ],
+  "answer": 2,
+  "explanation": "سَبُّورَةٌ برمعنا ڤاڤن هيتم.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-15",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَتِّبِ الحُرُوفَ: مَا هَذَا؟",
+  "image": "images/darjah-1/arab-upp22025-computer.jpg",
+  "options": [
+   "المَلَفُّ",
+   "الكَلِمَةُ",
+   "الكُمْبِيُوتَرُ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله كومڤيوتر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-16",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مُ + عَ + لِّ + مٌ = ___",
+  "options": [
+   "ةٌ",
+   "مُعَلِّمٌ",
+   "فَصْلٌ",
+   "رُكْبَةٌ",
+   "ذَ"
+  ],
+  "answer": 1,
+  "explanation": "مُ + عَ + لِّ + مٌ = مُعَلِّمٌ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-17",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رُ + كْـ + بَـ + ةٌ = ___",
+  "options": [
+   "ةٌ",
+   "مُعَلِّمٌ",
+   "فَصْلٌ",
+   "رُكْبَةٌ",
+   "ذَ"
+  ],
+  "answer": 3,
+  "explanation": "رُ + كْـ + بَـ + ةٌ = رُكْبَةٌ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-18",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"كلس\" بِاللُّغَةِ العَرَبِيَّةِ = ___",
+  "options": [
+   "ةٌ",
+   "مُعَلِّمٌ",
+   "فَصْلٌ",
+   "رُكْبَةٌ",
+   "ذَ"
+  ],
+  "answer": 2,
+  "explanation": "كلس دالم بهاس عرب اياله فَصْلٌ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-19",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَشُمُّ بِـ ___",
+  "options": [
+   "الأَنْفِ",
+   "اليَدِ",
+   "الرَّأْسِ"
+  ],
+  "answer": 0,
+  "explanation": "أَشُمُّ بِالأَنْفِ: ساي مڠهيدو دڠن هيدوڠ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-20",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَبِي ___",
+  "options": [
+   "طَالِبَةٌ",
+   "مُعَلِّمٌ",
+   "مُعَلِّمَةٌ"
+  ],
+  "answer": 1,
+  "explanation": "أَبِي اياله للاكي: أَبِي مُعَلِّمٌ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-21",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"ثَمَانِيَةٌ\" فِي الرَّقْمِ = ___",
+  "options": [
+   "٣",
+   "٤",
+   "٨"
+  ],
+  "answer": 2,
+  "explanation": "ثَمَانِيَةٌ = ٨.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-22",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَنَسَ صَفْوَانُ ___",
+  "options": [
+   "الزُّبَالَةَ",
+   "الدَّرْسَ",
+   "النَّافِذَةَ"
+  ],
+  "answer": 0,
+  "explanation": "كَنَسَ الزُّبَالَةَ: مڽاڤو سمڤه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-arab-upp22025-23",
+  "exam": "Darjah 1",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَا عَائِشَةُ، اِقْرَئِي ___",
+  "options": [
+   "المَلَفَّ",
+   "الكِتَابَ",
+   "السَّبُّورَةَ"
+  ],
+  "answer": 1,
+  "explanation": "اِقْرَئِي الكِتَابَ: باچله بوكو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-arab-pat2025-01",
   "exam": "Darjah 1",
   "subject": "Bahasa Arab",

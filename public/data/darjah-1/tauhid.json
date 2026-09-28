@@ -2864,6 +2864,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-tauhid-upp22025-01",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود ركن إسلام اياله ___.",
+  "options": [
+   "يقين",
+   "اساس",
+   "ڤرچاي"
+  ],
+  "answer": 1,
+  "explanation": "ركن برمعنا اساس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-02",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام يڠ كدوا اياله ___.",
+  "options": [
+   "صلاة",
+   "زكاة",
+   "حج"
+  ],
+  "answer": 0,
+  "explanation": "ركن إسلام كدوا اياله منديريكن صلاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-03",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠوچڤ دوا كليمة شهادة اياله ___.",
+  "options": [
+   "سنة",
+   "هاروس",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "مڠوچڤ دوا كليمة شهادة اياله واجب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-04",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة دمولاكن دڠن ___.",
+  "options": [
+   "دودوق",
+   "برچاكڤ",
+   "تكبيرة الإحرام"
+  ],
+  "answer": 2,
+  "explanation": "صلاة دمولاكن دڠن تكبيرة الإحرام.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-05",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منديريكن صلاة اياله ___.",
+  "options": [
+   "فرض عين",
+   "فرض كفاية",
+   "فرض صبح"
+  ],
+  "answer": 0,
+  "explanation": "منديريكن صلاة اياله فرض عين.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-06",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ركن إسلام تيدق واجب دڤلاجري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ركن إسلام واجب دڤلاجري.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-07",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: انق كونچي شرݢ دوا كليمة شهادة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دوا كليمة شهادة اياله انق كونچي شرݢ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-08",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: صلاة منجاءوهكن ديري درڤد الله تعالى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "صلاة مندكتكن ديري كڤد الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-09",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: زكاة اياله مڠلواركن هرتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "زكاة اياله مڠلواركن سبهاݢين هرتا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-10",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: زكاة داڤت مڠرتكن صلة الرحيم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "زكاة مڠرتكن هوبوڠن سسام مسلم.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-11",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اݢام يڠ بنر اياله ___.",
+  "options": [
+   "يهودي",
+   "إسلام",
+   "نصراني"
+  ],
+  "answer": 1,
+  "explanation": "إسلام اياله اݢام يڠ بنر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-12",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن إسلام يڠ كتيݢ اياله ___.",
+  "options": [
+   "ڤواسا",
+   "حج",
+   "زكاة"
+  ],
+  "answer": 2,
+  "explanation": "ركن إسلام كتيݢ اياله مڠلواركن زكاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-13",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود أَشْهَدُ اياله ___.",
+  "options": [
+   "اكو برسقسي",
+   "اكو مليهت",
+   "اكو مندڠر"
+  ],
+  "answer": 0,
+  "explanation": "أَشْهَدُ برمعنا اكو برسقسي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-14",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه صلاة فرض اياله ___.",
+  "options": [
+   "تراويح",
+   "مغرب",
+   "حاجة"
+  ],
+  "answer": 1,
+  "explanation": "مغرب اياله صلاة فرض.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-15",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين زكاة اد ___.",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 1,
+  "explanation": "زكاة تربهاݢي كڤد دوا: زكاة فطرة دان زكاة هرتا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-16",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بولن دواجبكن برڤواسا اياله ___.",
+  "options": [
+   "طاعة",
+   "صلاة",
+   "رمضان",
+   "بركة",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "واجب برڤواسا دبولن رمضان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-17",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملقساناكن ڤرينته الله اياله ___.",
+  "options": [
+   "طاعة",
+   "صلاة",
+   "رمضان",
+   "بركة",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "طاعة اياله ملقساناكن ڤرينته الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-18",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة يڠ منچݢه كموڠكرن اياله ___.",
+  "options": [
+   "طاعة",
+   "صلاة",
+   "رمضان",
+   "بركة",
+   "واجب"
+  ],
+  "answer": 1,
+  "explanation": "صلاة منچݢه ڤربواتن كجي دان موڠكر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-19",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڠلواركن زكاة اياله ___.",
+  "options": [
+   "طاعة",
+   "صلاة",
+   "رمضان",
+   "بركة",
+   "واجب"
+  ],
+  "answer": 4,
+  "explanation": "مڠلواركن زكاة اياله واجب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-20",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمة مڠلواركن زكاة اياله ___.",
+  "options": [
+   "طاعة",
+   "صلاة",
+   "رمضان",
+   "بركة",
+   "واجب"
+  ],
+  "answer": 3,
+  "explanation": "زكاة منجاديكن هرتا بركة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-21",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين إسلام؟",
+  "options": [
+   "ڤڽرهن",
+   "ڤرلاكوان",
+   "ڤڠليهتن"
+  ],
+  "answer": 0,
+  "explanation": "إسلام برمعنا ڤڽرهن ديري كڤد الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-22",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ شهادة اياله ___.",
+  "options": [
+   "اَللّٰهُ أَكْبَرُ",
+   "سُبْحَانَ اللهِ",
+   "لَا إِلَهَ إِلَّا اللهُ"
+  ],
+  "answer": 2,
+  "explanation": "لَا إِلَهَ إِلَّا اللهُ اياله لفظ شهادة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-23",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه لفظ سأورڠ مسلم؟",
+  "options": [
+   "كليمة شهادة",
+   "ركن إسلام",
+   "ركن ايمان"
+  ],
+  "answer": 0,
+  "explanation": "سأورڠ مسلم ملفظكن كليمة شهادة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-24",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه سوروهن الله؟",
+  "options": [
+   "مالس",
+   "طاعة",
+   "ايڠكر"
+  ],
+  "answer": 1,
+  "explanation": "الله مڽوروه كيت طاعة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-tauhid-upp22025-25",
+  "exam": "Darjah 1",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن يڠ منريما زكاة اياله ___.",
+  "options": [
+   "كاي",
+   "كافر",
+   "ميسكين"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ ميسكين برحق منريما زكاة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-tauhid-pat2025-01",
   "exam": "Darjah 1",
   "subject": "Tauhid",

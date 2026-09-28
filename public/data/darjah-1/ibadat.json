@@ -2887,6 +2887,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-1-ibadat-upp22025-01",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود عبادات اياله ___.",
+  "options": [
+   "ڤاتوه",
+   "اڠݢن",
+   "ايڠكر"
+  ],
+  "answer": 0,
+  "explanation": "عبادات برمعنا ڤاتوه كڤد الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-02",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم طهارة اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "طهارة اياله واجب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-03",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم اءير مطلق اياله ___.",
+  "options": [
+   "هاروس",
+   "مكروه",
+   "سوچي"
+  ],
+  "answer": 2,
+  "explanation": "اءير مطلق اياله سوچي لاݢي مڽوچيكن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-04",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه اءير مطلق اياله ___.",
+  "options": [
+   "اءير ميلو",
+   "اءير هوجن",
+   "اءير سيرڤ"
+  ],
+  "answer": 1,
+  "explanation": "اءير هوجن اياله اءير مطلق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-05",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت استنجاء اياله ___.",
+  "options": [
+   "كاچ",
+   "تولڠ",
+   "كرتس"
+  ],
+  "answer": 2,
+  "explanation": "كرتس (تيسو) بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-06",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ممبرسيهكن ديري دري نجيس = ___",
+  "options": [
+   "دعاء",
+   "صلاة",
+   "طهارة"
+  ],
+  "answer": 2,
+  "explanation": "طهارة اياله ممبرسيهكن ديري درڤد نجيس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-07",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: بهاݢين اءير = ___",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 2,
+  "explanation": "اءير تربهاݢي كڤد امڤت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-08",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: ڤڠرتين استنجاء = ___",
+  "options": [
+   "مندي",
+   "وضوء",
+   "چيبوق"
+  ],
+  "answer": 2,
+  "explanation": "استنجاء برمعنا برچيبوق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-09",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: حکوم استنجاء = ___",
+  "options": [
+   "حرام",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "استنجاء اياله واجب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-10",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوسون حروف: بوكن الت استنجاء = ___",
+  "options": [
+   "كاچ",
+   "باتو",
+   "تيسو"
+  ],
+  "answer": 0,
+  "explanation": "كاچ ليچين، تيدق بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-11",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: طهارة داڤت منجاءوهي ڤڽاكيت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كبرسيهن منجاءوهكن ڤڽاكيت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-12",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حکوم اءير متنجس اياله تيدق سوچي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اءير متنجس تيدق سوچي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-13",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اءير ليماو اداله اءير مطلق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اءير ليماو بوكن اءير مطلق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-14",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تولڠ اداله الت استنجاء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تولڠ تيدق بوليه دݢوناكن اونتوق استنجاء.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-15",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: استنجاء مڠݢوناكن اءير مطلق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت براستنجاء دڠن اءير مطلق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-16",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "طاعة ملاكوكن ڤرينته الله اياله ___.",
+  "options": [
+   "واجب",
+   "كاءين",
+   "عبادات",
+   "اءير مستعمل",
+   "3 كالي"
+  ],
+  "answer": 2,
+  "explanation": "عبادات اياله طاعة ملاكوكن ڤرينته الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-17",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي تتاڤي تيدق مڽوچيكن اياله ___.",
+  "options": [
+   "واجب",
+   "كاءين",
+   "عبادات",
+   "اءير مستعمل",
+   "3 كالي"
+  ],
+  "answer": 3,
+  "explanation": "اءير مستعمل سوچي تتاڤي تيدق مڽوچيكن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-18",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم استنجاء باݢي مكلف اياله ___.",
+  "options": [
+   "واجب",
+   "كاءين",
+   "عبادات",
+   "اءير مستعمل",
+   "3 كالي"
+  ],
+  "answer": 0,
+  "explanation": "استنجاء واجب باݢي مكلف.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-19",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بندا كست يڠ بوليه مڠهيلڠكن نجيس اياله ___.",
+  "options": [
+   "واجب",
+   "كاءين",
+   "عبادات",
+   "اءير مستعمل",
+   "3 كالي"
+  ],
+  "answer": 1,
+  "explanation": "كاءين يڠ كست بوليه مڠهيلڠكن نجيس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-20",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سكورڠ-كورڠڽ استنجاء (دڠن بندا كست) ___.",
+  "options": [
+   "واجب",
+   "كاءين",
+   "عبادات",
+   "اءير مستعمل",
+   "3 كالي"
+  ],
+  "answer": 4,
+  "explanation": "استنجاء دڠن بندا كست سكورڠ-كورڠڽ 3 كالي سافو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-21",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبرسيهكن ديري دري نجيس دان حدث اياله ___.",
+  "options": [
+   "برسوݢي",
+   "ڤواسا",
+   "طهارة"
+  ],
+  "answer": 2,
+  "explanation": "طهارة اياله ممبرسيهكن ديري درڤد نجيس دان حدث.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-22",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان طهارة اياله ___.",
+  "options": [
+   "برڤڽاكيت",
+   "بردوسا",
+   "منداڤت ڤهالا"
+  ],
+  "answer": 2,
+  "explanation": "برطهارة منداڤت ڤهالا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-23",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي لاݢي مڽوچيكن اياله ___.",
+  "options": [
+   "اءير مطلق",
+   "اءير متنجس",
+   "اءير مشمس"
+  ],
+  "answer": 0,
+  "explanation": "اءير مطلق سوچي لاݢي مڽوچيكن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-24",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ ترجمور دباوه ڤانس ماتاهاري اياله ___.",
+  "options": [
+   "اءير مستعمل",
+   "اءير مشمس",
+   "اءير متنجس"
+  ],
+  "answer": 1,
+  "explanation": "اءير مشمس ترجمور دباوه ڤانس ماتاهاري.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-1-ibadat-upp22025-25",
+  "exam": "Darjah 1",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برچيبوق سلڤس ممبواڠ اءير كچيل اياله ___.",
+  "options": [
+   "تيمم",
+   "صلاة",
+   "استنجاء"
+  ],
+  "answer": 2,
+  "explanation": "برچيبوق دڤڠݢيل استنجاء.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-1-ibadat-pat2025-01",
   "exam": "Darjah 1",
   "subject": "Ibadat",
