@@ -922,6 +922,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-tauhid-ppt2024-01",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم برايمان كڤد الله تعالى؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-02",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي وُجُود؟",
+  "options": [
+   "اد",
+   "سديا",
+   "بركواس"
+  ],
+  "answer": 0,
+  "explanation": "وجود برمعنا اد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-03",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكمه برايمان كڤد الله تعالى؟",
+  "options": [
+   "سديه",
+   "راݢو٢",
+   "هاتي تنڠ"
+  ],
+  "answer": 2,
+  "explanation": "ايمان منجاديكن هاتي تنڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-04",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي البَقَاء اياله ___.",
+  "options": [
+   "كواس",
+   "ككل",
+   "مندڠر"
+  ],
+  "answer": 1,
+  "explanation": "البقاء برمعنا ككل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-05",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه كجادين عالم يڠ دچيڤتا اوليه الله تعالى.",
+  "options": [
+   "سكوله",
+   "بولن",
+   "رومه"
+  ],
+  "answer": 1,
+  "explanation": "بولن اياله چيڤتاءن الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-06",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: القِدَم ارتيڽ سديا اد.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "القدم برمعنا سديا اد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-07",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الإِرَادَة ارتيڽ بركهندق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الإرادة برمعنا بركهندق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-08",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الوَحْدَانِيَّة ارتيڽ مندڠر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الوحدانية برمعنا اسا؛ مندڠر اياله السمع.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-09",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: صيفت يڠ واجب باݢي الله اد 20.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صيفت واجب باݢي الله اد 20.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-10",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الله تعالى اد ڤرمولاءن دان كسودهن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الله تيدق برڤرمولاءن دان تيدق بركسودهن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-11",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي القُدْرَةُ",
+  "options": [
+   "ككل",
+   "بركواس",
+   "بركهندق"
+  ],
+  "answer": 1,
+  "explanation": "القدرة برمعنا بركواس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-12",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي العِلْمُ",
+  "options": [
+   "مندڠر",
+   "مليهت",
+   "مڠتاهوءي"
+  ],
+  "answer": 2,
+  "explanation": "العلم برمعنا مڠتاهوءي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-13",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي الحَيَاةُ",
+  "options": [
+   "اد",
+   "ككل",
+   "هيدوڤ"
+  ],
+  "answer": 2,
+  "explanation": "الحياة برمعنا هيدوڤ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-14",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى مندڠر تنڤا ___",
+  "options": [
+   "مات",
+   "مولوت",
+   "تليڠا"
+  ],
+  "answer": 2,
+  "explanation": "الله مندڠر تنڤا تليڠا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-15",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت \"الوُجُود\"",
+  "options": [
+   "العدم",
+   "الحدوث",
+   "الفناء"
+  ],
+  "answer": 0,
+  "explanation": "لاون الوجود (اد) اياله العدم (تياد).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-16",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي \"الفَنَاءُ\".",
+  "options": [
+   "كأداءن يڠ ترڤقسا",
+   "البُكْمُ",
+   "مُمَاثَلَتُهُ لِلْحَوَادِثِ",
+   "المَوْتُ",
+   "بيناس"
+  ],
+  "answer": 4,
+  "explanation": "الفناء برمعنا بيناس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-17",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باݢي صيفت مُخَالَفَتُهُ لِلْحَوَادِثِ.",
+  "options": [
+   "كأداءن يڠ ترڤقسا",
+   "البُكْمُ",
+   "مُمَاثَلَتُهُ لِلْحَوَادِثِ",
+   "المَوْتُ",
+   "بيناس"
+  ],
+  "answer": 2,
+  "explanation": "لاونڽ اياله مماثلته للحوادث (برسامأن دڠن مخلوق).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-18",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مستحيل الله تعالى برصيفت بيسو.",
+  "options": [
+   "كأداءن يڠ ترڤقسا",
+   "البُكْمُ",
+   "مُمَاثَلَتُهُ لِلْحَوَادِثِ",
+   "المَوْتُ",
+   "بيناس"
+  ],
+  "answer": 1,
+  "explanation": "البكم برمعنا بيسو.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-19",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باݢي صيفت الحَيَاةُ.",
+  "options": [
+   "كأداءن يڠ ترڤقسا",
+   "البُكْمُ",
+   "مُمَاثَلَتُهُ لِلْحَوَادِثِ",
+   "المَوْتُ",
+   "بيناس"
+  ],
+  "answer": 3,
+  "explanation": "لاون الحياة (هيدوڤ) اياله الموت (ماتي).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-20",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كَوْنُهُ كَارِهًا.",
+  "options": [
+   "كأداءن يڠ ترڤقسا",
+   "البُكْمُ",
+   "مُمَاثَلَتُهُ لِلْحَوَادِثِ",
+   "المَوْتُ",
+   "بيناس"
+  ],
+  "answer": 0,
+  "explanation": "كونه كارها: كأداءن ترڤقسا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-21",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كَوْنُهُ عَالِمًا.",
+  "options": [
+   "كأداءن مڠتاهوءي",
+   "كأداءن هيدوڤ",
+   "كأداءن بركواس"
+  ],
+  "answer": 0,
+  "explanation": "كونه عالما: كأداءن مڠتاهوءي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-22",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كأداءن الله تعالى يڠ مها بركات-كات.",
+  "options": [
+   "كَوْنُهُ مُتَكَلِّمًا",
+   "كَوْنُهُ سَمِيعًا",
+   "كَوْنُهُ بَصِيرًا"
+  ],
+  "answer": 0,
+  "explanation": "كونه متكلما: كأداءن بركات-كات.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-23",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه صيفت مستحيل باݢي الله تعالى.",
+  "options": [
+   "العَدَمُ",
+   "الوُجُودُ",
+   "القِدَمُ"
+  ],
+  "answer": 0,
+  "explanation": "العدم (تياد) مستحيل باݢي الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-24",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ تركاندوڠ دالم ركن ايمان.",
+  "options": [
+   "برايمان كڤد الله",
+   "صلاة",
+   "ڤواسا"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله اياله ركن ايمان ڤرتام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-ppt2024-25",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي صيفت \"الفَنَاءُ\".",
+  "options": [
+   "بيناس",
+   "ككل",
+   "هيدوڤ"
+  ],
+  "answer": 0,
+  "explanation": "الفناء برمعنا بيناس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-tauhid-pat2024-01",
   "exam": "Darjah 2",
   "subject": "Tauhid",

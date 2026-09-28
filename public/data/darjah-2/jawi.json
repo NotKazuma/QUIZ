@@ -890,6 +890,468 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-jawi-ppt2024-01",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سامبوڠكن ڤركاتاءن: ت + لور",
+  "options": [
+   "تيدور",
+   "تلور",
+   "تابور"
+  ],
+  "answer": 1,
+  "explanation": "ت + لور = تلور.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-02",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-ppt2024-gajah.jpg",
+  "options": [
+   "ݢاجه",
+   "ݢارم",
+   "ݢالي"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله ݢاجه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-03",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بڠ + كو = ___",
+  "options": [
+   "بڠسل",
+   "بڠكو",
+   "بڠكاي"
+  ],
+  "answer": 1,
+  "explanation": "بڠ + كو = بڠكو.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-04",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لڠست = ___",
+  "options": [
+   "لڠ + ست",
+   "لڠ + سوڠ",
+   "لڠ + سير"
+  ],
+  "answer": 0,
+  "explanation": "لڠست = لڠ + ست.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-05",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠكوق = ___",
+  "options": [
+   "مڠ + سا",
+   "مڠ + كوق",
+   "مڠ + كيس"
+  ],
+  "answer": 1,
+  "explanation": "مڠكوق = مڠ + كوق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-06",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ک + تا + وا = كتاوا",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ک + تا + وا = كتاوا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-07",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف ووكل \"ي\" مواكيلي ووكل \"a\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ووكل ا مواكيلي بوڽي a؛ ي مواكيلي i دان e.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-08",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كور + ما = كورما",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كور + ما = كورما.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-09",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سوم + بو = سومبوڠ",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سوم + بو = سومبو.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-10",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ringkas = ريڠكس",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ringkas دايجا ريڠكس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-11",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-ppt2024-helang.jpg",
+  "options": [
+   "هلڠ",
+   "هيلڠ",
+   "هالڠ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اين اياله بوروڠ هلڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-12",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاءن اصل جم",
+  "options": [
+   "جوم",
+   "جام",
+   "جيم"
+  ],
+  "answer": 1,
+  "explanation": "ايجاءن اصل جم اياله جام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-13",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢمبر اين؟",
+  "image": "images/darjah-2/jawi-ppt2024-kunci.jpg",
+  "options": [
+   "كوڤي",
+   "كوچيڠ",
+   "كونچي"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر اين اياله كونچي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-14",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكو كات ترتوتوڤ + سوكو كات تربوک",
+  "options": [
+   "سا + تو",
+   "سو + چي",
+   "بن + تل"
+  ],
+  "answer": 2,
+  "explanation": "سوكو كات ترتوتوڤ + تربوک = بن + تل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-15",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چوندوڠ",
+  "options": [
+   "چونتوه",
+   "چوندوڠ",
+   "چونتيڠ"
+  ],
+  "answer": 1,
+  "explanation": "چ + و + ن + د + و + ڠ = چوندوڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-16",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكو كات تربوک.",
+  "options": [
+   "ݢلس",
+   "سقسي",
+   "چنتيق",
+   "ڤا",
+   "سيمڤن"
+  ],
+  "answer": 3,
+  "explanation": "ڤا برأخير دڠن ووكل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-17",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف ووكل (ي) دتڠه سوكو كات.",
+  "options": [
+   "ݢلس",
+   "سقسي",
+   "چنتيق",
+   "ڤا",
+   "سيمڤن"
+  ],
+  "answer": 4,
+  "explanation": "سيمڤن مڠاندوڠي ووكل ي دتڠه سوكو كات.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-18",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سق + سي",
+  "options": [
+   "ݢلس",
+   "سقسي",
+   "چنتيق",
+   "ڤا",
+   "سيمڤن"
+  ],
+  "answer": 1,
+  "explanation": "سق + سي = سقسي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-19",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "cantik دالم ايجاءن جاوي.",
+  "options": [
+   "ݢلس",
+   "سقسي",
+   "چنتيق",
+   "ڤا",
+   "سيمڤن"
+  ],
+  "answer": 2,
+  "explanation": "cantik دايجا چنتيق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-20",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سامبوڠكن سوكو كات \"ڤ + لي + تا\".",
+  "options": [
+   "ڤليتا",
+   "ڤلاتا",
+   "ڤوليتا"
+  ],
+  "answer": 0,
+  "explanation": "ڤ + لي + تا = ڤليتا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-21",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سوكو كات تربوک + سوكو كات ترتوتوڤ.",
+  "options": [
+   "ماكن",
+   "كاكي",
+   "بنتل"
+  ],
+  "answer": 0,
+  "explanation": "ما (تربوک) + كن (ترتوتوڤ).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-22",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سامبوڠكن حروف: ب + ق + ت + ي",
+  "options": [
+   "بقتي",
+   "بكتي",
+   "بقاتي"
+  ],
+  "answer": 0,
+  "explanation": "ب + ق + ت + ي = بقتي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-23",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جاويكن ڤركاتاءن \"TUNJANG\".",
+  "options": [
+   "تونجڠ",
+   "تونجاڠ",
+   "تنجڠ"
+  ],
+  "answer": 0,
+  "explanation": "TUNJANG دايجا تونجڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-jawi-ppt2024-24",
+  "exam": "Darjah 2",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سامبوڠكن حروف: ج + و + ڠ + ك + و + ڠ",
+  "options": [
+   "جوڠكوڠ",
+   "جڠكوڠ",
+   "جوڠكڠ"
+  ],
+  "answer": 0,
+  "explanation": "ج + و + ڠ + ك + و + ڠ = جوڠكوڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-jawi-pat2024-01",
   "exam": "Darjah 2",
   "subject": "Jawi",
