@@ -1,5 +1,465 @@
 [
  {
+  "id": "darjah-3-sirah-pat2024-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود تَحَنُّث اداله ___.",
+  "options": [
+   "ممبولي",
+   "ميلمي",
+   "مڽنديري"
+  ],
+  "answer": 2,
+  "explanation": "تحنث برمعنا مڽنديري دان برعبادة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سبب نبي محمد ﷺ برتحنث؟",
+  "options": [
+   "منوليس القرءان",
+   "منچاري مسئله",
+   "منجاءوهكن معصية"
+  ],
+  "answer": 2,
+  "explanation": "باݢيندا برتحنث اونتوق منجاءوهكن ديري درڤد معصية قومڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا٢ كنبين رسول ﷺ؟",
+  "options": [
+   "برميمڤي بولن تربله",
+   "برميمڤي مليهت چهاي يڠ تراڠ",
+   "برميمڤي ڤركارا٢ بوروق سلام 6 بولن"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا برميمڤي مليهت چهاي يڠ تراڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ملائكة يڠ ممباوا وحي ڤرتام؟",
+  "options": [
+   "جبريل",
+   "ميكائيل",
+   "اسرافيل"
+  ],
+  "answer": 0,
+  "explanation": "جبريل ممباوا وحي ڤرتام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه ڤراساءن نبي محمد ﷺ سلڤس منريما وحي ڤرتام؟",
+  "options": [
+   "تاكوت",
+   "ݢمبيرا",
+   "سديه"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا ڤولڠ دالم كأداءن تاكوت دان ݢمنر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: وحي كدوا اداله ڤرينته دعوه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "وحي كدوا (سورة المدثر) ممرينتهكن دعوه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ بردعوه دڠن 3 ڤريڠكت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دعوه برمولا سچارا سمبوڽي، كڤد كلوارݢ تردكت، كمودين سچارا تراڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سيدتنا خديجة بنت خويلد ڤرمڤوان ڤرتام مملوق إسلام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "خديجة اياله وانيتا ڤرتام مملوق إسلام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مدينة نݢارا إسلام ڤرتام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مدينة اياله نݢارا إسلام ڤرتام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: نبي محمد ﷺ بردعوه ديمن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا بردعوه دمكة دان مدينة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دعوه سچارا سوليت دكوتا ___.",
+  "options": [
+   "كعبة",
+   "ابو جهل",
+   "مكة",
+   "برهالا",
+   "ابو طالب"
+  ],
+  "answer": 2,
+  "explanation": "دعوه دمكة ساڠت سوكر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دعوه رسول ﷺ منجاجسكن ڤڽمباهن ___.",
+  "options": [
+   "كعبة",
+   "ابو جهل",
+   "مكة",
+   "برهالا",
+   "ابو طالب"
+  ],
+  "answer": 3,
+  "explanation": "رسول ﷺ منيڠݢلكن ڤڽمباهن برهالا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ منننتڠ دعوه رسول ﷺ ___.",
+  "options": [
+   "كعبة",
+   "ابو جهل",
+   "مكة",
+   "برهالا",
+   "ابو طالب"
+  ],
+  "answer": 1,
+  "explanation": "ابو جهل منننتڠ دعوه رسول ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دتواڠ نجيس كتيك باݢيندا سدڠ سجود د ___.",
+  "options": [
+   "كعبة",
+   "ابو جهل",
+   "مكة",
+   "برهالا",
+   "ابو طالب"
+  ],
+  "answer": 0,
+  "explanation": "قريش منواڠ نجيس كتيك باݢيندا سجود دكعبة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمولاوان دسببكن رسول ﷺ دسوكوڠ اوليه ___.",
+  "options": [
+   "كعبة",
+   "ابو جهل",
+   "مكة",
+   "برهالا",
+   "ابو طالب"
+  ],
+  "answer": 4,
+  "explanation": "ابو طالب مليندوڠي رسول ﷺ، مك قريش مموليقن بني هاشم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-16",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وحي دسمڤايكن اوليه الله كڤد ___.",
+  "options": [
+   "نبي دان رسول",
+   "ملائكة",
+   "راج"
+  ],
+  "answer": 0,
+  "explanation": "وحي دسمڤايكن كڤد نبي دان رسول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-17",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وحي ڤرتام برلاكو ڤد بولن ___.",
+  "options": [
+   "رمضان",
+   "شوال",
+   "محرم"
+  ],
+  "answer": 0,
+  "explanation": "وحي ڤرتام دتورونكن ڤد بولن رمضان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-18",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريستيوا بولن تربله دوا اداله بوقتي ___.",
+  "options": [
+   "معجزة",
+   "ارهاص",
+   "كرامة"
+  ],
+  "answer": 0,
+  "explanation": "بولن تربله اياله معجزة نبي محمد ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-19",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "القرءان دتورونكن سچارا برڤريڠكت سلام 23 تاهون.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دتورونكن سچارا برانسور سلاما 23 تاهون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-20",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا لوار بياسا يڠ برلاكو ڤد نبي دان رسول.",
+  "options": [
+   "معجزة",
+   "سيحير",
+   "ميمڤي"
+  ],
+  "answer": 0,
+  "explanation": "معجزة اياله ڤركارا لوار بياسا ڤد نبي دان رسول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-21",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه خديجة منناڠكن نبي محمد ﷺ سلڤس برتمو جبريل؟",
+  "options": [
+   "ممبري كتنڠن دان سليموت",
+   "مماراهي",
+   "منيڠݢلكن باݢيندا"
+  ],
+  "answer": 0,
+  "explanation": "خديجة منيليموتي دان منناڠكن باݢيندا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-22",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه عمور نبي محمد ﷺ كتيك دلنتيق منجادي رسول؟",
+  "options": [
+   "40 تاهون",
+   "30 تاهون",
+   "50 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا دلنتيق منجادي رسول ڤد عمور 40 تاهون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-23",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠاڤاكه رسول ﷺ مميليه هجرة كحبشة؟",
+  "options": [
+   "راجاڽ عاديل",
+   "دكت دڠن مكة",
+   "باڽق هرتا"
+  ],
+  "answer": 0,
+  "explanation": "راج حبشة (النجاشي) عاديل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-pat2024-24",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دماناكه تمڤت ڤرجنجين عقبة برلاكو؟",
+  "options": [
+   "منى",
+   "مدينة",
+   "طائف"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين عقبة برلاكو دبوكيت عقبة، منى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-sirah-pat2025-01",
   "exam": "Darjah 3",
   "subject": "Sirah",

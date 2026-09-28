@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-3-jawi-pat2024-01",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركاتاءن ايمبوهن دأول \"تر\"؟",
+  "options": [
+   "تربڠ",
+   "ترڠ",
+   "تربواڠ"
+  ],
+  "answer": 2,
+  "explanation": "تر + بواڠ = تربواڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-02",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"مم\".",
+  "options": [
+   "منديديق",
+   "ممبري",
+   "منداڤت"
+  ],
+  "answer": 1,
+  "explanation": "مم + بري = ممبري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-03",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركاتاءن ايمبوهن دأول \"ڤن\".",
+  "options": [
+   "ڤنديديق",
+   "ڤڠوتور",
+   "ڤڠيكوت"
+  ],
+  "answer": 0,
+  "explanation": "ڤن + ديديق = ڤنديديق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-04",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركاتاءن ايمبوهن دأخير \"ن\".",
+  "options": [
+   "ماسقن",
+   "بنتوان",
+   "بوروان"
+  ],
+  "answer": 0,
+  "explanation": "ماسق + ن = ماسقن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-05",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركاتاءن ايمبوهن دأول دان دأخير \"دڤر + كن\".",
+  "options": [
+   "دڤرستوجوءي",
+   "دڤرسمبهكن",
+   "دڤرچاياءي"
+  ],
+  "answer": 1,
+  "explanation": "دڤر + سمبه + كن = دڤرسمبهكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-06",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: چونتوه ڤركاتاءن \"دنيلاي\" اداله ايمبوهن دأول \"د\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "د + نيلاي = دنيلاي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-07",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ݢورو ميمق كڤوتوسن ڤڤريقساءن سكوله اݢام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ايجاءن يڠ بتول اياله ميميق/مڠيمق؛ ايات اين ساله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-08",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كرجا٢ ڤردالمن سوڠاي سدڠ دلاكوكن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ايات اين بتول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-09",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: كدودوقن تيتيق حروف \"ث\" براد سلاري دتڠه بادن حروفڽ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تيݢ تيتيق ث براد دأتس بادن حروف.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-10",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: حروف اول برسامبوڠ تروس ڤد حروف سلڤسڽ سڤرتي \"لر\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ل برسامبوڠ دڠن ر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-11",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كيت واجب ___ نعمت الله.",
+  "options": [
+   "منوليس",
+   "منشكوري",
+   "مناءيق",
+   "ڤمباكرن",
+   "مماهاءي"
+  ],
+  "answer": 1,
+  "explanation": "كيت واجب منشكوري نعمت الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-12",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كراجاءن ملارڠ ملاكوكن ___ سچارا تربوک.",
+  "options": [
+   "منوليس",
+   "منشكوري",
+   "مناءيق",
+   "ڤمباكرن",
+   "مماهاءي"
+  ],
+  "answer": 3,
+  "explanation": "ڤمباكرن تربوک دلارڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-13",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سني خط اياله سني كماهيرن ___ توليسن عرب اتاو توليسن جاوي.",
+  "options": [
+   "منوليس",
+   "منشكوري",
+   "مناءيق",
+   "ڤمباكرن",
+   "مماهاءي"
+  ],
+  "answer": 0,
+  "explanation": "خط اياله سني منوليس توليسن عرب اتاو جاوي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-14",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايكور حروف ج ___ بنتوق ايكور حروف ع.",
+  "options": [
+   "منوليس",
+   "منشكوري",
+   "مناءيق",
+   "ڤمباكرن",
+   "مماهاءي"
+  ],
+  "answer": 4,
+  "explanation": "ايكور ج مماهاءي (مڽرومڤاءي) ايكور ع.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-15",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"فل\" اداله چونتوه حروف اول برسامبوڠ ___.",
+  "options": [
+   "منوليس",
+   "منشكوري",
+   "مناءيق",
+   "ڤمباكرن",
+   "مماهاءي"
+  ],
+  "answer": 2,
+  "explanation": "ف برسامبوڠ مناءيق كڤد ل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-16",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركاتاءن ايمبوهن \"م\" (me).",
+  "options": [
+   "ملوكيس",
+   "ڤلوكيس",
+   "لوكيسن"
+  ],
+  "answer": 0,
+  "explanation": "م + لوكيس = ملوكيس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-17",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "علي برتوكس سباݢاي سأورڠ ڤڠ ___.",
+  "options": [
+   "اول",
+   "ندالي",
+   "تاهو"
+  ],
+  "answer": 0,
+  "explanation": "ڤڠاول = ڤڠ + اول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-18",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأخير \"ان\" (an).",
+  "options": [
+   "ماكنن",
+   "ممباچ",
+   "ڤلوكيس"
+  ],
+  "answer": 0,
+  "explanation": "ماكن + ن = ماكنن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-19",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رومه ساي ___ دڠن هوتن باندر.",
+  "options": [
+   "بردكتن",
+   "دكتي",
+   "منديكت"
+  ],
+  "answer": 0,
+  "explanation": "رومه ساي بردكتن دڠن هوتن باندر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-20",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كات داسر ڤركاتاءن برايمبوهن \"ملاين\" اياله ___.",
+  "options": [
+   "لاين",
+   "ملاي",
+   "ملا"
+  ],
+  "answer": 0,
+  "explanation": "م + لاين = ملاين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-21",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"مڠـ\".",
+  "options": [
+   "مڠاجر",
+   "ڤڠاجر",
+   "اجرن"
+  ],
+  "answer": 0,
+  "explanation": "مڠ + اجر = مڠاجر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-22",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول ڤركاتاءن \"ڤمبريسيه\".",
+  "options": [
+   "ڤم",
+   "مم",
+   "بر"
+  ],
+  "answer": 0,
+  "explanation": "ڤم + برسيه = ڤمبرسيه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-23",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كات داسر باݢي ڤركاتاءن \"سأيرس\".",
+  "options": [
+   "ايرس",
+   "سأير",
+   "اير"
+  ],
+  "answer": 0,
+  "explanation": "سـ + ايرس = سأيرس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-24",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول دان دأخير باݢي \"برڤندوكن\".",
+  "options": [
+   "بر + ن",
+   "بر + كن",
+   "ڤ + ن"
+  ],
+  "answer": 1,
+  "explanation": "بر + ڤندو + كن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-pat2024-25",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمبوهن دأول دان دأخير باݢي \"مڠحاصيلكن\".",
+  "options": [
+   "مڠ + كن",
+   "م + ن",
+   "ڤڠ + ان"
+  ],
+  "answer": 0,
+  "explanation": "مڠ + حاصيل + كن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-jawi-pat2025-01",
   "exam": "Darjah 3",
   "subject": "Jawi",

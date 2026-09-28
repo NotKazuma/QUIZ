@@ -277,7 +277,7 @@
           "name": "Jawi",
           "file": "data/darjah-3/jawi.json",
           "test": {
-            "questions": 19,
+            "questions": 20,
             "minutes": 20
           }
         },

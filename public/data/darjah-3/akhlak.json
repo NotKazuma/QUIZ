@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-3-akhlak-pat2024-01",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورڠ يڠ بربودي.",
+  "options": [
+   "رامه مسرا",
+   "برماسم موک",
+   "ڤنتيڠكن ديري"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ بربودي رامه دان مسرا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-02",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ برفائده.",
+  "options": [
+   "برماءين ݢيم",
+   "ممبرسيهكن رومه",
+   "مروسقكن هرتا بندا"
+  ],
+  "answer": 1,
+  "explanation": "ممبرسيهكن رومه اياله ڤركارا برفائده.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-03",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي امانه ڤد بهاس.",
+  "options": [
+   "كتنڠن",
+   "تاكوت",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "امانه دري سودوت بهاس برمعنا كتنڠن/كأمانن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-04",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب ديري سنديري.",
+  "options": [
+   "برݢوراو سندا",
+   "ممبواڠ ماس",
+   "منجاݢ كصيحتن"
+  ],
+  "answer": 2,
+  "explanation": "منجاݢ كصيحتن اياله تڠݢوڠجواب ديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-05",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا اونتوق منچاڤاي صيفت محبة.",
+  "options": [
+   "كدكوت",
+   "تيدق مڠهرݢاءي",
+   "منيڠݢلكن سݢالا معصية"
+  ],
+  "answer": 2,
+  "explanation": "منيڠݢلكن معصية ممبنتو منچاڤاي محبة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-06",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: جوجور اداله چيري اورڠ يڠ امانه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ امانه برصيفت جوجور.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-07",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برنياݢ اداله چونتوه تڠݢوڠجواب دسكوله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تڠݢوڠجواب دسكوله اياله بلاجر دڠن تكون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-08",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مڠرتكن صلة الرحيم اداله عملن بركاسيه سايڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صلة الرحيم منونجوقكن كاسيه سايڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-09",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مليهت ڤركارا يڠ دحرامكن كتيك منزيارهي اورڠ ساكيت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كيت منجاݢ ڤندڠن كتيك منزيارهي اورڠ ساكيت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-10",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: استقامة دڠن اڠݢوتا بادن اداله سنتياس ملاكوكن عبادة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "استقامة دڠن اڠݢوتا: سنتياس برعبادة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-11",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه تڠݢوڠجواب سأورڠ موريد اياله ___.",
+  "options": [
+   "باچاءن",
+   "استقامة",
+   "تنڤا محبة",
+   "مڠولڠكاجي ڤلاجرن",
+   "اورڠ ساكيت"
+  ],
+  "answer": 3,
+  "explanation": "موريد برتڠݢوڠجواب مڠولڠكاجي ڤلاجرن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-12",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هيلڠ كبركتن اداله عاقبة بوروق ___.",
+  "options": [
+   "باچاءن",
+   "استقامة",
+   "تنڤا محبة",
+   "مڠولڠكاجي ڤلاجرن",
+   "اورڠ ساكيت"
+  ],
+  "answer": 2,
+  "explanation": "تنڤا محبة، هيدوڤ هيلڠ كبركتن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-13",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملاهيركن كسدرن اداله حكمه منزيارهي ___.",
+  "options": [
+   "باچاءن",
+   "استقامة",
+   "تنڤا محبة",
+   "مڠولڠكاجي ڤلاجرن",
+   "اورڠ ساكيت"
+  ],
+  "answer": 4,
+  "explanation": "منزيارهي اورڠ ساكيت ملاهيركن كسدرن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-14",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مميليهارا صلاة ليم وقتو اداله ڤونچا ڤنكوهن ___.",
+  "options": [
+   "باچاءن",
+   "استقامة",
+   "تنڤا محبة",
+   "مڠولڠكاجي ڤلاجرن",
+   "اورڠ ساكيت"
+  ],
+  "answer": 1,
+  "explanation": "مميليهارا صلاة اياله تندا استقامة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-15",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين القرءان ڤد بهاس اياله ___.",
+  "options": [
+   "باچاءن",
+   "استقامة",
+   "تنڤا محبة",
+   "مڠولڠكاجي ڤلاجرن",
+   "اورڠ ساكيت"
+  ],
+  "answer": 0,
+  "explanation": "القرءان برمعنا باچاءن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-16",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه عملن بربودي بهاس موريد كڤد ݢورو اياله ___.",
+  "options": [
+   "ممبري سلام",
+   "ممبنته",
+   "مڠابايكن"
+  ],
+  "answer": 0,
+  "explanation": "موريد ممبري سلام كڤد ݢورو.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-17",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "موتو كرجا چمرلڠ اداله كباءيقن ___.",
+  "options": [
+   "امانه",
+   "خيانة",
+   "مالس"
+  ],
+  "answer": 0,
+  "explanation": "كرجا يڠ چمرلڠ لاهير درڤد صيفت امانه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-18",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله دبريكن ݢلرن \"الأمين\" كران ___.",
+  "options": [
+   "امانه دان جوجور",
+   "كاي",
+   "كوات"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا دݢلر الأمين كران امانه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-19",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط دالم استقامة اداله ممڤرباڽقكن ___.",
+  "options": [
+   "عمل صالح",
+   "برماءين",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "استقامة: ممڤرباڽقكن عمل صالح.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-20",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم ممباچ القرءان اياله ___.",
+  "options": [
+   "بروضوء",
+   "ماكن",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "بروضوء سبلوم ممباچ القرءان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-21",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كلبيهن صيفت امانه؟",
+  "options": [
+   "دڤرچاي اورڠ",
+   "دبنچي",
+   "دسيسيهكن"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ امانه دڤرچاي راماي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-22",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دلارڠ سماس منزيارهي اورڠ ساكيت.",
+  "options": [
+   "ترلالو لام",
+   "بردعاء",
+   "ممبري سوكوڠن"
+  ],
+  "answer": 0,
+  "explanation": "جاڠن ترلالو لام منزيارهي اورڠ ساكيت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-23",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن باءيق سسأورڠ يڠ براستقامة.",
+  "options": [
+   "هيدوڤ تنڠ",
+   "هيدوڤ ݢليسه",
+   "مودا براوبه"
+  ],
+  "answer": 0,
+  "explanation": "استقامة ممبري كتنڠن جيوا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-24",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باݢي القرءان.",
+  "options": [
+   "الفرقان",
+   "الإنجيل",
+   "الزبور"
+  ],
+  "answer": 0,
+  "explanation": "الفرقان اياله نام لاءين القرءان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-pat2024-25",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سلڤس ممباچ القرءان.",
+  "options": [
+   "بردعاء",
+   "مملمڤر مصحف",
+   "منيڠݢلكن مصحف دلنتاي"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء سلڤس ممباچ القرءان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-akhlak-pat2025-01",
   "exam": "Darjah 3",
   "subject": "Akhlak",

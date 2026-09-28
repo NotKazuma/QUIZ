@@ -1,5 +1,485 @@
 [
  {
+  "id": "darjah-3-arab-pat2024-01",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُصَلِّي ___ الصُّبْحِ مَعَ أَبِي.",
+  "options": [
+   "صَلَاةَ",
+   "رِيَاضَةَ",
+   "فُطُورَ"
+  ],
+  "answer": 0,
+  "explanation": "ساي صلاة صبح برسام ايه: أُصَلِّي صَلَاةَ الصُّبْحِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-02",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُحِبُّ أَنْ أَشْرَبَ ___",
+  "options": [
+   "الخُبْزَ",
+   "البَيْضَ",
+   "عَصِيرَ المَنْجَةِ"
+  ],
+  "answer": 2,
+  "explanation": "يڠ دمينوم اياله جوس: عَصِيرَ المَنْجَةِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-03",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَبِيعُ ___ فِي سُوقِ الفَوَاكِهِ.",
+  "options": [
+   "اللَّحْمَ",
+   "البَبَايَا",
+   "الدَّجَاجَةَ"
+  ],
+  "answer": 1,
+  "explanation": "بتيق (البَبَايَا) اياله بواه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-04",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الفِلْفِلُ طَازَجٌ طَعْمُهُ ___",
+  "options": [
+   "حُلْوٌ",
+   "حَارٌّ",
+   "مُرٌّ"
+  ],
+  "answer": 1,
+  "explanation": "چيلي راساڽ ڤدس: حَارٌّ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-05",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَعِيشُ ___ فِي البَرِّ وَالبَحْرِ.",
+  "options": [
+   "الأَسَدُ",
+   "الزَّرَافَةُ",
+   "التِّمْسَاحُ"
+  ],
+  "answer": 2,
+  "explanation": "بوايا هيدوڤ دداراتن دان دأءير.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-06",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِثْنَانِ وَعِشْرُونَ : ٢٢",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "اِثْنَانِ وَعِشْرُونَ = ٢٢.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-07",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مُ + سَا + بَ + قَ + ةٌ = مُسَابَقَةٌ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "حروف دالم كوتق اياله مُ سَا عَ دَ ةٌ = مُسَاعَدَةٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-08",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "لُغَةُ القُرْآنِ هِيَ لُغَةُ العَرَبِيَّةِ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "بهاس القرءان اياله بهاس عرب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-09",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"أَحْمَرُ\" بِاللُّغَةِ المَلَايُوِيَّةِ \"ڤوتيه\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "أَحْمَرُ برمعنا ميره؛ ڤوتيه اياله أَبْيَضُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-10",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا كُرْسِيٌّ أَسْوَدُ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "كُرْسِيٌّ مذكر، سسواي دڠن أَسْوَدُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-11",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُرَاجِعُ دُرُوسِي فِي ___",
+  "options": [
+   "الدَّجَاجَةَ",
+   "المَسَاءِ",
+   "نَظِيفٍ",
+   "لَذِيذٌ",
+   "فِيلٌ"
+  ],
+  "answer": 1,
+  "explanation": "ساي مڠولڠكاجي ڤلاجرن ڤد وقتو ڤتڠ: فِي المَسَاءِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-12",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَطْبُخُ ___ المَقْلِيَّةَ.",
+  "options": [
+   "الدَّجَاجَةَ",
+   "المَسَاءِ",
+   "نَظِيفٍ",
+   "لَذِيذٌ",
+   "فِيلٌ"
+  ],
+  "answer": 0,
+  "explanation": "ساي مماسق ايم ݢورڠ: الدَّجَاجَةَ المَقْلِيَّةَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-13",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "المَنْجَةُ طَعْمُهَا ___",
+  "options": [
+   "الدَّجَاجَةَ",
+   "المَسَاءِ",
+   "نَظِيفٍ",
+   "لَذِيذٌ",
+   "فِيلٌ"
+  ],
+  "answer": 3,
+  "explanation": "مڠݢ راساڽ سدڤ: لَذِيذٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-14",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِغْسِلِ اللَّيْمُونَ بِمَاءٍ ___",
+  "options": [
+   "الدَّجَاجَةَ",
+   "المَسَاءِ",
+   "نَظِيفٍ",
+   "لَذِيذٌ",
+   "فِيلٌ"
+  ],
+  "answer": 2,
+  "explanation": "باسوه لايمو دڠن اءير برسيه: بِمَاءٍ نَظِيفٍ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-15",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"ݢاجه\" بِاللُّغَةِ العَرَبِيَّةِ ___",
+  "options": [
+   "الدَّجَاجَةَ",
+   "المَسَاءِ",
+   "نَظِيفٍ",
+   "لَذِيذٌ",
+   "فِيلٌ"
+  ],
+  "answer": 4,
+  "explanation": "ݢاجه = فِيلٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-16",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَعِيشُ الأَسَدُ فِي ___",
+  "options": [
+   "الغَابَةِ",
+   "البَحْرِ",
+   "النَّهْرِ"
+  ],
+  "answer": 0,
+  "explanation": "سيڠ هيدوڤ دهوتن: فِي الغَابَةِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-17",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٧٠ = ___",
+  "options": [
+   "سَبْعُونَ",
+   "سَبْعَةَ عَشَرَ",
+   "سِتُّونَ"
+  ],
+  "answer": 0,
+  "explanation": "٧٠ = سَبْعُونَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-18",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "وَاحِدٌ وَسِتُّونَ : ___",
+  "options": [
+   "٦١",
+   "١٦",
+   "٧١"
+  ],
+  "answer": 0,
+  "explanation": "وَاحِدٌ وَسِتُّونَ = ٦١.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-19",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنَا رَئِيسُ ___",
+  "options": [
+   "الفَصْلِ",
+   "الفِيلِ",
+   "اللَّيْمُونِ"
+  ],
+  "answer": 0,
+  "explanation": "ساي كتوا كلس: رَئِيسُ الفَصْلِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-20",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كُرَةُ ___",
+  "options": [
+   "القَدَمِ",
+   "الطَّعَامِ",
+   "المَاءِ"
+  ],
+  "answer": 0,
+  "explanation": "بولا سيڤق: كُرَةُ القَدَمِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-21",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "دَ + جَا + جَ + ةٌ = ___",
+  "options": [
+   "دَجَاجَةٌ",
+   "دَرَّاجَةٌ",
+   "زُجَاجَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "دَ + جَا + جَ + ةٌ = دَجَاجَةٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-22",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "سَبْ + عُو + نَ = ___",
+  "options": [
+   "سَبْعُونَ",
+   "تِسْعُونَ",
+   "سِتُّونَ"
+  ],
+  "answer": 0,
+  "explanation": "سَبْ + عُو + نَ = سَبْعُونَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-23",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اَلْ + سَيْ + يَا + رَ + ةِ = ___",
+  "options": [
+   "السَّيَّارَةِ",
+   "الطَّيَّارَةِ",
+   "السَّاعَةِ"
+  ],
+  "answer": 0,
+  "explanation": "حروف دسمبوڠ منجادي السَّيَّارَةِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-24",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَخْ + ضَ + رُ = ___",
+  "options": [
+   "أَخْضَرُ",
+   "أَحْمَرُ",
+   "أَصْفَرُ"
+  ],
+  "answer": 0,
+  "explanation": "أَخْ + ضَ + رُ = أَخْضَرُ (هيجاو).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-pat2024-25",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَكْ + تَ + بٌ = ___",
+  "options": [
+   "مَكْتَبٌ",
+   "مَلْعَبٌ",
+   "مَطْبَخٌ"
+  ],
+  "answer": 0,
+  "explanation": "مَكْ + تَ + بٌ = مَكْتَبٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-arab-pat2025-01",
   "exam": "Darjah 3",
   "subject": "Bahasa Arab",

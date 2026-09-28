@@ -1,5 +1,466 @@
 [
  {
+  "id": "darjah-3-tauhid-pat2024-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم تيدق ڤرچاي كڤد رسول اداله ___.",
+  "options": [
+   "سست",
+   "كافير",
+   "منافق"
+  ],
+  "answer": 1,
+  "explanation": "تيدق ڤرچاي كڤد رسول منجاديكن سسأورڠ كافر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا٢ بسر هاري قيامة اياله ___.",
+  "options": [
+   "مونچول دجال",
+   "ڤرزيناءن برلواسا",
+   "ترجادي باڽق ڤمبونوهن"
+  ],
+  "answer": 0,
+  "explanation": "مونچول دجال اياله تندا بسر قيامة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان يڠ كأنم اياله ___.",
+  "options": [
+   "برايمان كڤد رسول",
+   "برايمان كڤد هاري قيامة",
+   "برايمان كڤد قضاء دان قدر"
+  ],
+  "answer": 2,
+  "explanation": "ركن ايمان كأنم: قضاء دان قدر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صدقه بوليه منولق بلاء اداله چونتوه قضاء ___.",
+  "options": [
+   "مُبْرَم",
+   "مُعَلَّق",
+   "قدر"
+  ],
+  "answer": 1,
+  "explanation": "قضاء معلق بوليه براوبه دڠن صدقه دان دعاء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا منچاڤاي مرتبة احسان اياله ___.",
+  "options": [
+   "راس تقوى",
+   "منيمبولكن راس بڠݢ",
+   "ممبڠكيتكن ڤراساءن رياء"
+  ],
+  "answer": 0,
+  "explanation": "راس تقوى ممبنتو منچاڤاي احسان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: رسول أُولُو العَزْمِ اد ليم اورڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "أولو العزم: نوح، ابراهيم، موسى، عيسى دان محمد ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: يَوْمُ النَّدَامَةِ اياله هاري ڤڽسلن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "يوم الندامة برمعنا هاري ڤڽسلن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: برايمان كڤد قضاء دان قدر منجاديكن سسأورڠ برصيفت سومبوڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ايمان كڤد قضاء دان قدر منجاديكن كيت رنده ديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مقصود احسان اياله كجاهتن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "احسان برمعنا كباءيقن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: چارا منچاڤاي مرتبة احسان اياله راس تقوى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "راس تقوى ممبنتو منچاڤاي احسان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي دان رسول يڠ تراخير اياله ___.",
+  "options": [
+   "موليا",
+   "كفور",
+   "إحسان",
+   "هاري قيامة",
+   "نبي محمد"
+  ],
+  "answer": 4,
+  "explanation": "نبي محمد ﷺ اياله نبي دان رسول تراخير.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيوڤن سڠكاكالا يڠ ڤرتام اداله تندا ___.",
+  "options": [
+   "موليا",
+   "كفور",
+   "إحسان",
+   "هاري قيامة",
+   "نبي محمد"
+  ],
+  "answer": 3,
+  "explanation": "تيوڤن سڠكاكالا ڤرتام منندكن برلاكوڽ قيامة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منولق قدر الله تعالى اياله ___.",
+  "options": [
+   "موليا",
+   "كفور",
+   "إحسان",
+   "هاري قيامة",
+   "نبي محمد"
+  ],
+  "answer": 1,
+  "explanation": "منولق قدر الله اياله كفور.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبرسيهن هاتي دان جيوا اداله كونسيڤ ___.",
+  "options": [
+   "موليا",
+   "كفور",
+   "إحسان",
+   "هاري قيامة",
+   "نبي محمد"
+  ],
+  "answer": 2,
+  "explanation": "احسان منكنكن ڤمبرسيهن هاتي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه احسان اياله ممبنتو منجان كڤريبادين يڠ ___.",
+  "options": [
+   "موليا",
+   "كفور",
+   "إحسان",
+   "هاري قيامة",
+   "نبي محمد"
+  ],
+  "answer": 0,
+  "explanation": "احسان ممبنتو ممبنتوق ڤريبادي موليا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت واجب باݢي رسول اياله ___.",
+  "options": [
+   "صدق",
+   "كذب",
+   "خيانة"
+  ],
+  "answer": 0,
+  "explanation": "صدق (بنر) اياله صيفت واجب رسول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤد هاري قيامة سواسان دڤادڠ محشر ساڠت ___.",
+  "options": [
+   "ڤنس تريق",
+   "سجوق",
+   "تنڠ"
+  ],
+  "answer": 0,
+  "explanation": "ماتاهاري دكت دان كأداءن ساڠت ڤنس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ڤرچاي كڤد قضاء دان قدر اداله ___.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد قضاء دان قدر اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء يڠ دساندركن كڤد كتنتوان الله يڠ ازلي اداله قضاء ___.",
+  "options": [
+   "مُبْرَم",
+   "مُعَلَّق",
+   "مقيد"
+  ],
+  "answer": 0,
+  "explanation": "قضاء مبرم اياله كتنتوان ازلي يڠ تيدق براوبه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كمبالي طاعة كڤد الله تعالى اداله ارتي ___.",
+  "options": [
+   "توبة",
+   "تقوى",
+   "توكل"
+  ],
+  "answer": 0,
+  "explanation": "توبة برمعنا كمبالي طاعة كڤد الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برايمان كڤد نبي دان رسول.",
+  "options": [
+   "مڠيكوت اجرن مريك",
+   "منولق اجرن",
+   "مڠابايكن"
+  ],
+  "answer": 0,
+  "explanation": "كيت مڠيكوت اجرن نبي دان رسول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كأداءن ماءنسي دان جين كتيك دهيمڤونكن سمولا.",
+  "options": [
+   "تاكوت دان چمس",
+   "ݢمبيرا",
+   "تنڠ"
+  ],
+  "answer": 0,
+  "explanation": "مريك دالم كأداءن تاكوت دان چمس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد قضاء دان قدر.",
+  "options": [
+   "صبر مڠهادڤي داݢڠ",
+   "برڤوتوس اسا",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كڤد قضاء دان قدر منجاديكن كيت صبر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-pat2024-24",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كومڤونن ڤنتيڠ اݢام إسلام.",
+  "options": [
+   "ايمان، إسلام دان احسان",
+   "صلاة دان زكاة",
+   "حج دان عمرة"
+  ],
+  "answer": 0,
+  "explanation": "تيݢ كومڤونن: ايمان، إسلام دان احسان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-pat2025-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",
