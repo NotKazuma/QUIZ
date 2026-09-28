@@ -1440,6 +1440,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-akhlak-upp12024-01",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سباݢاي تتامو؟",
+  "options": [
+   "ممبري سلام",
+   "ممبوات بيسيڠ",
+   "دودوق لام"
+  ],
+  "answer": 0,
+  "explanation": "تتامو هندقله ممبري سلام.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-02",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب برڤاكاين مڠيكوت شريعة إسلام؟",
+  "options": [
+   "ڤاكاين كوتور",
+   "منوتوڤ عورة",
+   "ڤاكاين كتت"
+  ],
+  "answer": 1,
+  "explanation": "ڤاكاين مستي منوتوڤ عورة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-03",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري ڤاكاين يڠ سوڤن؟",
+  "options": [
+   "جارڠ",
+   "سيڠكت",
+   "تيدق كتت"
+  ],
+  "answer": 2,
+  "explanation": "ڤاكاين سوڤن تيدق كتت.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-04",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سبلوم ماسوق رومه؟",
+  "options": [
+   "مماكاي كاسوت",
+   "ملڠكه كاكي كانن",
+   "ملڠكه كاكي كيري"
+  ],
+  "answer": 1,
+  "explanation": "ماسوق رومه دڠن كاكي كانن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-05",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب كلوار رومه.",
+  "options": [
+   "تيدق بردعاء",
+   "ممينتا ايذين",
+   "كلوار كاكي كانن"
+  ],
+  "answer": 1,
+  "explanation": "مينتا ايذين درڤد ايبو باڤ سبلوم كلوار رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-06",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تتامو ڤرلو برڤاكاين سوڤن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تتامو هندقله برڤاكاين سوڤن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-07",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: منريما تتامو دڠن واجه يڠ مانيس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "توان رومه منريما تتامو دڠن واجه مانيس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-08",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: مماكاي ڤاكاين دري سبله كيري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سنة مماكاي ڤاكاين دمولاكن دڠن سبله كانن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-09",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: للاكي بوليه مماكاي سوترا دان امس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "للاكي دلارڠ مماكاي سوترا دان امس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-10",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ممباچ دعاء سبلوم ماسوق رومه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باچ دعاء سبلوم ماسوق رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-11",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كواجيڤن تتامو",
+  "options": [
+   "سوڤن",
+   "بيسيڠ",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "تتامو هندقله برسيكڤ سوڤن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-12",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سباݢاي تتامو",
+  "options": [
+   "برلاري",
+   "برسلام",
+   "برݢادوه"
+  ],
+  "answer": 1,
+  "explanation": "تتامو هندقله ممبري سلام.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-13",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب برڤاكاين",
+  "options": [
+   "سيڠكت",
+   "برسيه",
+   "كوتور"
+  ],
+  "answer": 1,
+  "explanation": "ڤاكاين هندقله برسيه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-14",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤاكاين سوڤن",
+  "options": [
+   "لوڠݢر",
+   "نيڤيس",
+   "سيڠكت"
+  ],
+  "answer": 0,
+  "explanation": "ڤاكاين سوڤن اياله لوڠݢر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-15",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب كلوار رومه",
+  "options": [
+   "بردعاء",
+   "برلاري",
+   "بربوال"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء سبلوم كلوار رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-16",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سباݢاي توان رومه.",
+  "options": [
+   "ممبوک كاسوت",
+   "ادب ماسوق رومه",
+   "ممولياكن تتامو",
+   "ادب كلوار رومه",
+   "چيري ڤاكاين للاكي"
+  ],
+  "answer": 2,
+  "explanation": "توان رومه ممولياكن تتامو.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-17",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منوتوڤ اڠݢوتا انتارا ڤوست هيڠݢ لوتوت.",
+  "options": [
+   "ممبوک كاسوت",
+   "ادب ماسوق رومه",
+   "ممولياكن تتامو",
+   "ادب كلوار رومه",
+   "چيري ڤاكاين للاكي"
+  ],
+  "answer": 4,
+  "explanation": "عورة للاكي انتارا ڤوست هيڠݢ لوتوت.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-18",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم ماسوق رومه.",
+  "options": [
+   "ممبوک كاسوت",
+   "ادب ماسوق رومه",
+   "ممولياكن تتامو",
+   "ادب كلوار رومه",
+   "چيري ڤاكاين للاكي"
+  ],
+  "answer": 0,
+  "explanation": "بوک كاسوت سبلوم ماسوق رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-19",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ بسملة دان دعاء.",
+  "options": [
+   "ممبوک كاسوت",
+   "ادب ماسوق رومه",
+   "ممولياكن تتامو",
+   "ادب كلوار رومه",
+   "چيري ڤاكاين للاكي"
+  ],
+  "answer": 1,
+  "explanation": "باچ بسملة دان دعاء كتيك ماسوق رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-20",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مماكاي كاسوت يڠ سسواي.",
+  "options": [
+   "ممبوک كاسوت",
+   "ادب ماسوق رومه",
+   "ممولياكن تتامو",
+   "ادب كلوار رومه",
+   "چيري ڤاكاين للاكي"
+  ],
+  "answer": 3,
+  "explanation": "ڤاكاي كاسوت يڠ سسواي كتيك كلوار رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-21",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سباݢاي تتامو.",
+  "options": [
+   "تيدق ترلالو لام",
+   "ممبوات بيسيڠ",
+   "منينجاو-نينجاو"
+  ],
+  "answer": 0,
+  "explanation": "تتامو جاڠن ترلالو لام.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-22",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ ڤاكاين ڤرمڤوان مڠيكوت شرع.",
+  "options": [
+   "منوتوڤ سلوروه بادن كچوالي موک دان تاڤق تاڠن",
+   "سيڠكت",
+   "كتت"
+  ],
+  "answer": 0,
+  "explanation": "عورة ڤرمڤوان اياله سلوروه بادن كچوالي موک دان تاڤق تاڠن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-23",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ ڤاكاين يڠ دلارڠ.",
+  "options": [
+   "جارڠ",
+   "لوڠݢر",
+   "برسيه"
+  ],
+  "answer": 0,
+  "explanation": "ڤاكاين جارڠ دلارڠ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-24",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب كتيك ماسوق رومه.",
+  "options": [
+   "ممبري سلام",
+   "برلاري",
+   "منجريت"
+  ],
+  "answer": 0,
+  "explanation": "بري سلام كتيك ماسوق رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-akhlak-upp12024-25",
+  "exam": "Darjah 2",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب كتيك كلوار رومه.",
+  "options": [
+   "بردعاء",
+   "مڽاڽي",
+   "برلاري"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء كتيك كلوار رومه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-akhlak-ppt2024-01",
   "exam": "Darjah 2",
   "subject": "Akhlak",

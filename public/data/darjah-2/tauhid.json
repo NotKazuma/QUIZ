@@ -1402,6 +1402,486 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-tauhid-upp12024-01",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم برايمان كڤد الله؟",
+  "options": [
+   "واجب",
+   "هاروس",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله اياله واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-02",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه كجادين عالم يڠ دچيڤتاكن الله تعالى؟",
+  "options": [
+   "سكوله",
+   "باڠونن",
+   "تومبوه-تومبوهن"
+  ],
+  "answer": 2,
+  "explanation": "تومبوه-تومبوهن اياله چيڤتاءن الله؛ سكوله دان باڠونن دبينا اوليه ماءنسي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-03",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي الوُجُود اياله ___.",
+  "options": [
+   "اد",
+   "توڠݢل",
+   "برديري دڠن سنديريڽ"
+  ],
+  "answer": 0,
+  "explanation": "الوجود برمعنا اد.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-04",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي البَقَاء؟",
+  "options": [
+   "اد",
+   "ككل",
+   "مڠتاهوءي"
+  ],
+  "answer": 1,
+  "explanation": "البقاء برمعنا ككل.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-05",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي قِيَامُهُ تَعَالَى بِنَفْسِهِ اياله ___.",
+  "options": [
+   "بركهندق",
+   "تيدق بربيلڠ",
+   "برديري دڠن سنديري"
+  ],
+  "answer": 2,
+  "explanation": "قيامه تعالى بنفسه: برديري دڠن سنديري.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-06",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: واجب برايمان كڤد الله دان رسول.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله دان رسول اياله واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-07",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: ملقساناكن سݢالا ڤرينته الله تعالى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ برايمان ملقساناكن ڤرينته الله.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-08",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الله تعالى برصيفت قدم برمعنا الله تعالى بركواس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "القدم برمعنا سديا اد؛ بركواس اياله القدرة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-09",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: الإِرَادَة ارتيڽ بركهندق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الإرادة برمعنا بركهندق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-10",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: البَصَر ارتيڽ بركات-كات.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "البصر برمعنا مليهت؛ بركات-كات اياله الكلام.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-11",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايمان كڤد الله",
+  "options": [
+   "واجب",
+   "هاروس",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد الله اياله واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-12",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد الله تعالى",
+  "options": [
+   "تنڠ",
+   "سوسه",
+   "ساكيت"
+  ],
+  "answer": 0,
+  "explanation": "ايمان منجاديكن هاتي تنڠ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-13",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى ككل سلاما-لاماڽ",
+  "options": [
+   "القدم",
+   "السمع",
+   "البقاء"
+  ],
+  "answer": 2,
+  "explanation": "البقاء برمعنا ككل.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-14",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اسا اتاو تيدق بربيلڠ",
+  "options": [
+   "القدرة",
+   "الإرادة",
+   "الوحدانية"
+  ],
+  "answer": 2,
+  "explanation": "الوحدانية برمعنا اسا.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-15",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي الحَيَاة",
+  "options": [
+   "مندڠر",
+   "مليهت",
+   "هيدوڤ"
+  ],
+  "answer": 2,
+  "explanation": "الحياة برمعنا هيدوڤ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-16",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اد الله تعالى.",
+  "options": [
+   "الوُجُود",
+   "الكَلَام",
+   "كَوْنُهُ مُرِيدًا",
+   "قِيَامُهُ تَعَالَى بِنَفْسِهِ",
+   "تيدق سروڤا دڠن يڠ بهارو"
+  ],
+  "answer": 0,
+  "explanation": "الوجود برمعنا اد.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-17",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي مُخَالَفَتُهُ تَعَالَى لِلْحَوَادِثِ.",
+  "options": [
+   "الوُجُود",
+   "الكَلَام",
+   "كَوْنُهُ مُرِيدًا",
+   "قِيَامُهُ تَعَالَى بِنَفْسِهِ",
+   "تيدق سروڤا دڠن يڠ بهارو"
+  ],
+  "answer": 4,
+  "explanation": "الله تيدق سروڤا دڠن سݢالا يڠ بهارو.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-18",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برديري الله دڠن سنديريڽ.",
+  "options": [
+   "الوُجُود",
+   "الكَلَام",
+   "كَوْنُهُ مُرِيدًا",
+   "قِيَامُهُ تَعَالَى بِنَفْسِهِ",
+   "تيدق سروڤا دڠن يڠ بهارو"
+  ],
+  "answer": 3,
+  "explanation": "قيامه تعالى بنفسه: برديري دڠن سنديري.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-19",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بركات-كات الله تعالى.",
+  "options": [
+   "الوُجُود",
+   "الكَلَام",
+   "كَوْنُهُ مُرِيدًا",
+   "قِيَامُهُ تَعَالَى بِنَفْسِهِ",
+   "تيدق سروڤا دڠن يڠ بهارو"
+  ],
+  "answer": 1,
+  "explanation": "الكلام برمعنا بركات-كات.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-20",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كأداءن الله تعالى بركهندق.",
+  "options": [
+   "الوُجُود",
+   "الكَلَام",
+   "كَوْنُهُ مُرِيدًا",
+   "قِيَامُهُ تَعَالَى بِنَفْسِهِ",
+   "تيدق سروڤا دڠن يڠ بهارو"
+  ],
+  "answer": 2,
+  "explanation": "كونه مريدا: كأداءن بركهندق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-21",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملقساناكن سݢالا ڤرينته الله دان منجاءوهي ___.",
+  "options": [
+   "لارڠنڽ",
+   "سوروهنڽ",
+   "كتابڽ"
+  ],
+  "answer": 0,
+  "explanation": "تقوى: ملقساناكن ڤرينته دان منجاءوهي لارڠن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-22",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنتياس برصيفت احسان كڤد سموا ___.",
+  "options": [
+   "مخلوق",
+   "باتو",
+   "بينتڠ"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ برايمان برصيفت احسان كڤد سموا مخلوق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-23",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت واجب باݢي الله اياله ___.",
+  "options": [
+   "20",
+   "13",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "صيفت واجب باݢي الله اد 20.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-24",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت القدرة ارتيڽ ___.",
+  "options": [
+   "بركواس",
+   "بركهندق",
+   "مڠتاهوءي"
+  ],
+  "answer": 0,
+  "explanation": "القدرة برمعنا بركواس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-tauhid-upp12024-25",
+  "exam": "Darjah 2",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله مندڠر تيدق مڠݢوناكن ___.",
+  "options": [
+   "تليڠا",
+   "مات",
+   "مولوت"
+  ],
+  "answer": 0,
+  "explanation": "الله مندڠر تنڤا تليڠا.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-tauhid-ppt2024-01",
   "exam": "Darjah 2",
   "subject": "Tauhid",

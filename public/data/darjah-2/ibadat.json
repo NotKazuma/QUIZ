@@ -1365,6 +1365,487 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-ibadat-upp12024-01",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي نجيس؟",
+  "options": [
+   "بندا٢ برسيه",
+   "بندا٢ بوروق",
+   "بندا٢ كوتور"
+  ],
+  "answer": 2,
+  "explanation": "نجيس اياله بندا كوتور يڠ منچݢه صح صلاة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-02",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا بريكوت مروڤاكن بندا كوتور يڠ دحکومكن نجيس؟",
+  "options": [
+   "داره",
+   "ڤلوه",
+   "تاهي مات"
+  ],
+  "answer": 0,
+  "explanation": "داره اياله نجيس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-03",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نجيس تربهاݢي كڤد ___ بهاݢين.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "نجيس تربهاݢي تيݢ: مغلظة، متوسطة دان مخففة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-04",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه نجيس مُغَلَّظَة اياله ___.",
+  "options": [
+   "انجيڠ",
+   "برواڠ",
+   "هريماو"
+  ],
+  "answer": 0,
+  "explanation": "انجيڠ اياله نجيس مغلظة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-05",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مواجبكن وضوء اياله ___.",
+  "options": [
+   "حدث كچيل",
+   "حدث بسر",
+   "بادن كوتور"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل مواجبكن وضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-06",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيدق صح صلاة اورڠ يڠ برحدث كچيل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صلاة مستي دالم كأداءن سوچي درڤد حدث.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-07",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: دلارڠ ممباوا القرءان كتيك ممبواڠ اءير.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دلارڠ ممباوا القرءان ك تندس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-08",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: فرض وضوء اد ليم ڤركارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "فرض وضوء اد انم.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-09",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: سنة بردعاء سلڤس بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء سلڤس وضوء اياله سنة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-10",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: تيدق بطل وضوء باݢي اورڠ يڠ ڤيتم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ڤيتم (هيلڠ عقل) ممبطلكن وضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-11",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق سوچي",
+  "options": [
+   "باسوه",
+   "مندي",
+   "نجيس"
+  ],
+  "answer": 2,
+  "explanation": "بندا نجيس حکومڽ تيدق سوچي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-12",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله بهاݢين حدث",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "حدث تربهاݢي دوا: حدث كچيل دان حدث بسر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-13",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه حدث كچيل",
+  "options": [
+   "حيض",
+   "مونته",
+   "كنتوت"
+  ],
+  "answer": 2,
+  "explanation": "كنتوت مڽببكن حدث كچيل.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-14",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن دالم ݢمبر اين اياله ___.",
+  "image": "images/darjah-2/ibadat-upp12024-wuduk.jpg",
+  "options": [
+   "صلاة",
+   "مندي",
+   "وضوء"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر منونجوقكن سأورڠ بودق سدڠ بروضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-15",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برچاكڤ-چاكڤ كتيك بروضوء",
+  "options": [
+   "سنة",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "برچاكڤ كتيك بروضوء اياله مكروه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-16",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بندا كوتور يڠ تيدق نجيس.",
+  "options": [
+   "دعاء ماسوق تندس",
+   "طواف",
+   "بركومور-كومور",
+   "داكي",
+   "داره"
+  ],
+  "answer": 3,
+  "explanation": "داكي اياله بندا كوتور يڠ تيدق نجيس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-17",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه نجيس مُتَوَسِّطَة.",
+  "options": [
+   "دعاء ماسوق تندس",
+   "طواف",
+   "بركومور-كومور",
+   "داكي",
+   "داره"
+  ],
+  "answer": 4,
+  "explanation": "داره اياله نجيس متوسطة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-18",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن كتيك برحدث كچيل.",
+  "options": [
+   "دعاء ماسوق تندس",
+   "طواف",
+   "بركومور-كومور",
+   "داكي",
+   "داره"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ برحدث كچيل دلارڠ طواف.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-19",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اَللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الخُبُثِ وَالخَبَائِثِ.",
+  "options": [
+   "دعاء ماسوق تندس",
+   "طواف",
+   "بركومور-كومور",
+   "داكي",
+   "داره"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله دعاء ماسوق تندس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-20",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة٢ وضوء.",
+  "options": [
+   "دعاء ماسوق تندس",
+   "طواف",
+   "بركومور-كومور",
+   "داكي",
+   "داره"
+  ],
+  "answer": 2,
+  "explanation": "بركومور اياله سنة وضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-21",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نجيس يڠ دباسوه دڠن اءير يڠ برچمڤور تانه.",
+  "options": [
+   "مُغَلَّظَة",
+   "مُتَوَسِّطَة",
+   "مُخَفَّفَة"
+  ],
+  "answer": 0,
+  "explanation": "نجيس مغلظة دسوچيكن دڠن اءير برچمڤور تانه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-22",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن حدث كچيل.",
+  "options": [
+   "بروضوء",
+   "مندي",
+   "برسوݢي"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-23",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو درڤد ڤركارا يڠ ممبطلكن وضوء.",
+  "options": [
+   "كنتوت",
+   "مينوم",
+   "برجالن"
+  ],
+  "answer": 0,
+  "explanation": "كنتوت ممبطلكن وضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-24",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا٢ يڠ مكروه كتيك بروضوء.",
+  "options": [
+   "ممبازير اءير",
+   "بركومور",
+   "مڠهادڤ قبلة"
+  ],
+  "answer": 0,
+  "explanation": "ممبازير اءير كتيك بروضوء اياله مكروه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-ibadat-upp12024-25",
+  "exam": "Darjah 2",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا كباءيقن بروضوء.",
+  "options": [
+   "منداڤت ڤهالا",
+   "منداڤت دوسا",
+   "منجادي مالس"
+  ],
+  "answer": 0,
+  "explanation": "بروضوء منداڤت ڤهالا.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-ibadat-ppt2024-01",
   "exam": "Darjah 2",
   "subject": "Ibadat",
