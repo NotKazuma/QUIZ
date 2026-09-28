@@ -1423,6 +1423,477 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-2-arab-ppt2025-01",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هُوَ؟",
+  "image": "images/darjah-2/arab-ppt2025-tayyar.jpg",
+  "options": [
+   "طَيَّارٌ",
+   "عَسْكَرِيٌّ",
+   "شُرْطِيٌّ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر جوروتربڠ: طَيَّارٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-02",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-2/arab-ppt2025-tawilah.jpg",
+  "options": [
+   "مِرْوَحَةٌ",
+   "بَلْكُونَةٌ",
+   "طَاوِلَةٌ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر ميجا: طَاوِلَةٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-03",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-ppt2025-rufuf.jpg",
+  "options": [
+   "رُفُوفٌ",
+   "سَرِيرٌ",
+   "مِصْبَاحٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر راق بوكو: رُفُوفٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-04",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ ___",
+  "options": [
+   "سِرْوَالٌ",
+   "بَلُوزَةٌ",
+   "خِمَارٌ"
+  ],
+  "answer": 1,
+  "explanation": "هَذِهِ اونتوق مؤنث: هَذِهِ بَلُوزَةٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-05",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "خِمَارٌ ___",
+  "options": [
+   "وَسِخَةٌ",
+   "نَظِيفٌ",
+   "نَظِيفَةٌ"
+  ],
+  "answer": 1,
+  "explanation": "خِمَارٌ مذكر، مك صيفتڽ نَظِيفٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-06",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ \"شُرْطِيٌّ\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "شُرْطِيٌّ مذكر، مك يڠ بتول: هَذَا شُرْطِيٌّ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-07",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"كاتيل\" هُوَ \"سَرِيرٌ\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "سَرِيرٌ برمعنا كاتيل.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-08",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِ - رْ - وَ - حَ - ةٌ = مِرْوَحَةٌ",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "م + ر + و + ح + ة = مِرْوَحَةٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-09",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُرَتِّبُ الكُتُبَ عَلَى الرُّفُوفِ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "ساي مڽوسون بوكو دأتس راق.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-10",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ سِرْوَالٌ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "سِرْوَالٌ مذكر، مك يڠ بتول: هَذَا سِرْوَالٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-11",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هُوَ؟",
+  "image": "images/darjah-2/arab-ppt2025-syurti.jpg",
+  "options": [
+   "عَسْكَرِيٌّ",
+   "شُرْطِيٌّ",
+   "مُزَارِعٌ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر ڤوليس: شُرْطِيٌّ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-12",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-ppt2025-misbah.jpg",
+  "options": [
+   "مِصْبَاحٌ",
+   "مِرْوَحَةٌ",
+   "مَطْبَخٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر لمڤو: مِصْبَاحٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-13",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-2/arab-ppt2025-arikah.jpg",
+  "options": [
+   "أَرِيكَةٌ",
+   "رُفُوفٌ",
+   "سَرِيرٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر سوفا: أَرِيكَةٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-14",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-ppt2025-qamis.jpg",
+  "options": [
+   "جَوْرَبٌ",
+   "قَمِيصٌ",
+   "سِرْوَالٌ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر باجو: قَمِيصٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-15",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-2/arab-ppt2025-hiza.jpg",
+  "options": [
+   "خِمَارٌ",
+   "جَوْرَبٌ",
+   "حِذَاءٌ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر كاسوت: حِذَاءٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-16",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟",
+  "image": "images/darjah-2/arab-ppt2025-mirwahah.jpg",
+  "options": [
+   "الأَرِيكَةَ",
+   "مِرْوَحَةٌ",
+   "الجَوْرَبَ",
+   "الرِّدَاءَ",
+   "سَرِيرٌ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر كيڤس: مِرْوَحَةٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-17",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا ___",
+  "image": "images/darjah-2/arab-ppt2025-sarir.jpg",
+  "options": [
+   "الأَرِيكَةَ",
+   "مِرْوَحَةٌ",
+   "الجَوْرَبَ",
+   "الرِّدَاءَ",
+   "سَرِيرٌ"
+  ],
+  "answer": 4,
+  "explanation": "ݢمبر كاتيل: هَذَا سَرِيرٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-18",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُزَيِّنُ ___",
+  "options": [
+   "الأَرِيكَةَ",
+   "مِرْوَحَةٌ",
+   "الجَوْرَبَ",
+   "الرِّدَاءَ",
+   "سَرِيرٌ"
+  ],
+  "answer": 0,
+  "explanation": "ساي مڠهياس سوفا: أُزَيِّنُ الأَرِيكَةَ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-19",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَلْبَسُ الوَلَدُ ___ النَّظِيفَ.",
+  "options": [
+   "الأَرِيكَةَ",
+   "مِرْوَحَةٌ",
+   "الجَوْرَبَ",
+   "الرِّدَاءَ",
+   "سَرِيرٌ"
+  ],
+  "answer": 2,
+  "explanation": "بودق ايت مماكاي ستوكين يڠ برسيه.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-20",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَضَعُ ___ النَّظِيفَ عَلَى الكَتِفِ.",
+  "options": [
+   "الأَرِيكَةَ",
+   "مِرْوَحَةٌ",
+   "الجَوْرَبَ",
+   "الرِّدَاءَ",
+   "سَرِيرٌ"
+  ],
+  "answer": 3,
+  "explanation": "ساي لتقكن سلندڠ يڠ برسيه دأتس باهو: الرِّدَاءَ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-21",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِ رْ حَ ا ضٌ : ___",
+  "options": [
+   "مِرْحَاضٌ",
+   "مِصْبَاحٌ",
+   "مِرْوَحَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "م + ر + ح + ا + ض = مِرْحَاضٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-22",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "بَ لْ كُ و نَ ةٌ : ___",
+  "options": [
+   "بَلْكُونَةٌ",
+   "بَلُوزَةٌ",
+   "طَاوِلَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "ب + ل + ك + و + ن + ة = بَلْكُونَةٌ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-23",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُرَتِّبُ ___",
+  "options": [
+   "السَّرِيرَ",
+   "الطَّيَّارَ",
+   "الشُّرْطِيَّ"
+  ],
+  "answer": 0,
+  "explanation": "ساي ممبريسكن كاتيل: أُرَتِّبُ السَّرِيرَ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-2-arab-ppt2025-24",
+  "exam": "Darjah 2",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَلْبَسُ ___ النَّظِيفَ.",
+  "options": [
+   "القَمِيصَ",
+   "المِرْحَاضَ",
+   "المَطْبَخَ"
+  ],
+  "answer": 0,
+  "explanation": "ساي مماكاي باجو يڠ برسيه.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-2-arab-pat2025-01",
   "exam": "Darjah 2",
   "subject": "Bahasa Arab",
