@@ -1,5 +1,565 @@
 [
  {
+  "id": "darjah-4-tafsir-pat2024-01",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توجوان ممبلنجاكن هرتا ڤد جالن الله برداسركن سورة البقرة ايات 261؟",
+  "options": [
+   "رياء",
+   "بڠݢ",
+   "سوك"
+  ],
+  "answer": 2,
+  "explanation": "توجوانڽ اياله منچاري كرضاءن الله، بوكن رياء اتاو بڠݢ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-02",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"مَثَلُ\"؟",
+  "options": [
+   "ڤلنجا",
+   "بنتوان",
+   "بنديڠن"
+  ],
+  "answer": 2,
+  "explanation": "مَثَلُ برمعنا بنديڠن (ڤروماڤاءن).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-03",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه امانه ماءنسي كڤد ماءنسي برداسركن سورة النساء ايات 58؟",
+  "options": [
+   "منجاݢ ديري",
+   "برچاكڤ بنر",
+   "ملاكوكن زنا"
+  ],
+  "answer": 1,
+  "explanation": "برچاكڤ بنر اياله امانه سسام ماءنسي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-04",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه ݢولوڠن يڠ سنة ممبري سلام كڤد ݢولوڠن يڠ لبيه توا برداسركن سورة النساء ايات 88؟",
+  "options": [
+   "ايه",
+   "نينيق",
+   "داتوق"
+  ],
+  "answer": 0,
+  "explanation": "يڠ لبيه مودا ممبري سلام كڤد يڠ لبيه توا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-05",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برداسركن سورة النساء ايات 86، مڠاڤاكه سنة ممبري سلام؟",
+  "options": [
+   "دعاء",
+   "بڠݢ",
+   "ڤوجين"
+  ],
+  "answer": 0,
+  "explanation": "سلام اياله دعاء كسجهتراءن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-06",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله كنداءن ڤهالا باݢي عمل كباءيقن برداسركن تفسير ايات 60 سورة الأنعام؟",
+  "options": [
+   "سڤولوه",
+   "دوا ڤولوه",
+   "امڤت ڤولوه"
+  ],
+  "answer": 0,
+  "explanation": "ساتو كباءيقن دبالس سڤولوه ݢندا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-07",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي بِالْحَسَنَةِ؟",
+  "options": [
+   "سسياڤا",
+   "عمل كباءيقن",
+   "سدڠ مريك"
+  ],
+  "answer": 1,
+  "explanation": "بالحسنة برمعنا عمل كباءيقن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-08",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برداسركن ايات 160 سورة الأنعام، دماناكه تمڤت ماءنسي مڠمڤول ڤهالا؟",
+  "options": [
+   "دنيا",
+   "اخرة",
+   "عالم"
+  ],
+  "answer": 0,
+  "explanation": "دنيا اياله تمڤت مڠمڤول ڤهالا اونتوق اخرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-09",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرينته الله كڤد ماءنسي برداسركن فرمان الله دالم سورة الأعراف ايات 23 اياله ___.",
+  "options": [
+   "معصية",
+   "برعبادة",
+   "كجاهيلن"
+  ],
+  "answer": 1,
+  "explanation": "ماءنسي دڤرينتهكن برعبادة كڤد الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-10",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ سݢرا دلاكوكن جك ملاكوكن دوسا مروجوع ڤد سورة الأعراف ايات 23 اياله ___.",
+  "options": [
+   "برتوبة",
+   "برجوال",
+   "برسلامن"
+  ],
+  "answer": 0,
+  "explanation": "سݢرا برتوبة كڤد الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-11",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو ركن دالم منونايكن عبادة منوروت حديث اياله ___.",
+  "options": [
+   "نية",
+   "اوچڤن",
+   "ڤرلاكوان"
+  ],
+  "answer": 0,
+  "explanation": "نية اياله ركن دالم ستياڤ عبادة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-12",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منوروت حديث، عملن اخلاص مستيله دلاكوكن كران ___.",
+  "options": [
+   "ايبو",
+   "باڤ",
+   "الله"
+  ],
+  "answer": 2,
+  "explanation": "عملن اخلاص دلاكوكن كران الله سمات-مات.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-13",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يڠ مڠاجر حقيقة إسلام كڤد رسول الله منوروت حديث اياله ___.",
+  "options": [
+   "ملائكة رقيب",
+   "ملائكة عتيد",
+   "ملائكة جبريل"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة جبريل مڠاجر حقيقة إسلام كڤد رسول الله ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-14",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مروجوع حديث روايت مسلم، عملن يڠ مروڤاكن تياڠ اݢام اياله ___.",
+  "options": [
+   "حج",
+   "زكاة",
+   "صلاة"
+  ],
+  "answer": 2,
+  "explanation": "صلاة اياله تياڠ اݢام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-15",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مروجوع حديث روايت مسلم، ركن ايمان يڠ كأمڤت اياله ___.",
+  "options": [
+   "برايمان كڤد الله",
+   "برايمان كڤد كتاب",
+   "برايمان كڤد رسول"
+  ],
+  "answer": 2,
+  "explanation": "ركن ايمان كأمڤت اياله برايمان كڤد رسول.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-16",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كلمة \"بِاللهِ\" اياله ___.",
+  "options": [
+   "كڤد الله",
+   "كڤد تقدير",
+   "دان كتاب-كتابڽ"
+  ],
+  "answer": 0,
+  "explanation": "بالله برمعنا كڤد الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-17",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مروجوع حديث، برايكوت مروڤاكن اورڠ يڠ برصيفت احسان كچوالي ___.",
+  "options": [
+   "يقين",
+   "راجين",
+   "بربوات كجاهتن"
+  ],
+  "answer": 2,
+  "explanation": "بربوات كجاهتن بوكن صيفت احسان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-18",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مروجوع حديث، برايكوت اداله صيفت ماءنسي يڠ طاعة كڤد ڤرينته الله كچوالي ___.",
+  "options": [
+   "خيانة",
+   "جوجور",
+   "اخلاص"
+  ],
+  "answer": 0,
+  "explanation": "خيانة بوكن صيفت اورڠ يڠ طاعة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-19",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ برلاكو ڤد هاري قيامة مروجوع حديث روايت مسلم اياله ___.",
+  "options": [
+   "هورو هارا دان عالم هنچور",
+   "هاري ݢمبيرا",
+   "مخلوق هيدوڤ"
+  ],
+  "answer": 0,
+  "explanation": "هاري قيامة برلاكو هورو هارا دان عالم هنچور.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-20",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠاجرن حديث تنتڠ هاري قيامة اياله ___.",
+  "options": [
+   "كيت هندقله برشكور",
+   "ستياڤ عملن اكن دبالس",
+   "تيدق ڤرلو برايمان"
+  ],
+  "answer": 1,
+  "explanation": "ستياڤ عملن اكن دبالس ڤد هاري قيامة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-21",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبلنجاكن هرتا ڤد جالن الله دبالس دڠن ڤهالا برݢندا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله ممبالس دڠن ڤهالا برݢندا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-22",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "امانه واجب دتونايكن كڤد يڠ برحق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "امانه واجب دتونايكن كڤد يڠ برحق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-23",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبري سلام اياله عملن يڠ دتونتوت دالم إسلام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ممبري سلام اياله عملن يڠ دتونتوت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-24",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو كباءيقن دبالس دڠن سڤولوه ݢندا ڤهالا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ساتو كباءيقن دبالس سڤولوه ݢندا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-25",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نية تيدق ڤنتيڠ دالم ستياڤ عبادة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "نية ساڠت ڤنتيڠ، اي اياله ركن عبادة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-26",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة اياله تياڠ اݢام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صلاة اياله تياڠ اݢام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-27",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة جبريل داتڠ مڠاجر حقيقة ايمان دان إسلام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل مڠاجر حقيقة ايمان، إسلام دان احسان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-28",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "احسان برمقصود برعبادة سأوله-اوله مليهت الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "احسان: برعبادة سأوله-اوله مليهت الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-29",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برتوبة هندقله دتڠݢوهكن كموضين هاري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "برتوبة هندقله دلاكوكن دڠن سݢرا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2024-30",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة ڤستي برلاكو دان واجب دايماني.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد هاري قيامة اياله واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tafsir-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Tafsir",
