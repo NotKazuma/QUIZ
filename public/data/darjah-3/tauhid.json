@@ -913,6 +913,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-tauhid-ppt2024-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي رسول ڤد بهاس؟",
+  "options": [
+   "ڤڠتاهوان",
+   "ڤراوتوسن",
+   "ڤرخبرن"
+  ],
+  "answer": 1,
+  "explanation": "رسول برمعنا ڤراوتوسن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه نبي دان رسول يڠ تراخير؟",
+  "options": [
+   "نبي آدم",
+   "نبي هود",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ اياله نبي دان رسول تراخير.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله رسول يڠ واجب دكتاهوءي اياله ___.",
+  "options": [
+   "23 اورڠ",
+   "24 اورڠ",
+   "25 اورڠ"
+  ],
+  "answer": 2,
+  "explanation": "رسول يڠ واجب دكتاهوءي اد 25 اورڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت ___ ارتيڽ جوجور.",
+  "options": [
+   "صِدْق",
+   "أَمَانَة",
+   "تَبْلِيغ"
+  ],
+  "answer": 0,
+  "explanation": "صدق برمعنا جوجور.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة برمولا درڤد تيوڤن ___ يڠ ڤرتام.",
+  "options": [
+   "اڠين",
+   "ريبوت",
+   "سڠكاكالا"
+  ],
+  "answer": 2,
+  "explanation": "قيامة برمولا دڠن تيوڤن سڠكاكالا ڤرتام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة اداله هاري كهنچورن عالم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "هاري قيامة اياله هاري كهنچورن عالم.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا تندا كچيل هاري قيامة اداله مونچول دجّال.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "مونچول دجّال اياله تندا بسر، بوكن تندا كچيل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "يَوْمُ الحِسَاب ارتيڽ هاري ڤرهيتوڠن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "يوم الحساب برمعنا هاري ڤرهيتوڠن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انم اورڠ رسول دبري ݢلرن أُولُو العَزْم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "أولو العزم اد ليم اورڠ رسول.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كِتْمَان اداله صيفت مستحيل باݢي رسول.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كتمان (مڽمبوڽيكن) اياله صيفت مستحيل باݢي رسول.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي دان رسول يڠ ڤرتام.",
+  "options": [
+   "آدم",
+   "أيوب",
+   "إدريس"
+  ],
+  "answer": 0,
+  "explanation": "نبي آدم اياله نبي دان رسول يڠ ڤرتام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله صيفت واجب باݢي رسول.",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "صيفت واجب رسول اد امڤت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كِذْبٌ.",
+  "options": [
+   "جاهيل",
+   "خيانة",
+   "دوستا"
+  ],
+  "answer": 2,
+  "explanation": "كذب برمعنا دوستا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سواسان هاري قيامة.",
+  "options": [
+   "تنڠ",
+   "امان",
+   "هنچور"
+  ],
+  "answer": 2,
+  "explanation": "سواسان هاري قيامة ساڠت هنچور.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم رسول برصيفت سڤرتي ماءنسي بياسا.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "رسول برصيفت سڤرتي ماءنسي بياسا اياله هاروس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ ممڤوڽاءي كصبرن يڠ تيڠݢي.",
+  "options": [
+   "أُولُو العَزْم",
+   "يَوْمُ القَارِعَةِ",
+   "ڤادڠ محشر"
+  ],
+  "answer": 0,
+  "explanation": "أولو العزم اياله رسول يڠ تيڠݢي كصبرنڽ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت دهيمڤونكن ماءنسي ڤد هاري قيامة.",
+  "options": [
+   "ڤادڠ محشر",
+   "أُولُو العَزْم",
+   "رسول"
+  ],
+  "answer": 0,
+  "explanation": "ماءنسي دهيمڤونكن دڤادڠ محشر.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دڤرينتهكن اونتوق مڽمڤايكن وحي.",
+  "options": [
+   "رسول",
+   "ڤادڠ محشر",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "رسول دڤرينتهكن مڽمڤايكن وحي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باݢي هاري قيامة.",
+  "options": [
+   "يَوْمُ القَارِعَةِ",
+   "رسول",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "يوم القارعة اياله نام لاءين هاري قيامة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد رسول.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد رسول اياله واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠهولو سكالين نبي دان رسول اياله ___.",
+  "options": [
+   "نبي محمد ﷺ",
+   "نبي آدم",
+   "نبي نوح"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله ڤڠهولو سكالين نبي دان رسول.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاڠن رسول يڠ مڽمڤايكن شريعة.",
+  "options": [
+   "25 اورڠ",
+   "23 اورڠ",
+   "40 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "رسول يڠ واجب دكتاهوءي اد 25 اورڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي صيفت صِدْق.",
+  "options": [
+   "بنر",
+   "دوستا",
+   "خيانة"
+  ],
+  "answer": 0,
+  "explanation": "صدق برمعنا بنر.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-24",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا تندا بسر هاري قيامة.",
+  "options": [
+   "مونچول دجّال",
+   "انق درهاک",
+   "علمو دأڠكت"
+  ],
+  "answer": 0,
+  "explanation": "مونچول دجّال اياله تندا بسر هاري قيامة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2024-25",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن ماءنسي يڠ اكن منداڤت ناءوڠن الله ڤد هاري قيامة.",
+  "options": [
+   "ڤميمڤين يڠ عاديل",
+   "اورڠ يڠ خيانة",
+   "اورڠ يڠ سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "ڤميمڤين يڠ عاديل منداڤت ناءوڠن الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-pat2024-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",

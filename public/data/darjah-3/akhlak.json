@@ -940,6 +940,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-akhlak-ppt2024-01",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي بودي اياله ___.",
+  "options": [
+   "ايري هاتي",
+   "تيڠكه لاكو",
+   "هيلڠ راس"
+  ],
+  "answer": 1,
+  "explanation": "بودي برمعنا تيڠكه لاكو.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-02",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورڠ يڠ بربودي اياله ___.",
+  "options": [
+   "ماره",
+   "مسرا",
+   "سومبوڠ"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ بربودي برسيكڤ مسرا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-03",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كباءيقن منجاݢ ماس؟",
+  "options": [
+   "هيدوڤ موندور",
+   "دسنجوڠ تيڠݢي",
+   "ڤڠهوني نراک"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ منجاݢ ماس دسنجوڠ تيڠݢي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-04",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن صيفت امانه اياله ___.",
+  "options": [
+   "رسه ݢليسه",
+   "سوسه هاتي",
+   "هيدوڤ سلامت"
+  ],
+  "answer": 2,
+  "explanation": "صيفت امانه منجاديكن هيدوڤ سلامت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-05",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن الله كڤد اورڠ إسلام اياله ___.",
+  "options": [
+   "برزنا",
+   "برذيكير",
+   "برصلوات"
+  ],
+  "answer": 0,
+  "explanation": "برزنا اياله لارڠن الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-06",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساليڠ مڠحرمتي اداله كسن بربودي بهاس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بربودي بهاس ملاهيركن ساليڠ مڠحرمتي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-07",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تيدق بربودي بهاس دسوكاءي الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الله سوكا اورڠ يڠ بربودي بهاس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-08",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماس يڠ برلالو تيدق اكن كمبالي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ماس يڠ برلالو تيدق اكن كمبالي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-09",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تنڤا مڠحرݢاءي ماس موريد اكن لالاي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تيدق مڠحرݢاءي ماس مڽببكن لالاي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-10",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برصيفت امانه ممڤوڽاءي ڤراساءن دندم دهاتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ امانه تيدق ممڤوڽاءي ڤراساءن دندم.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-11",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين امانه.",
+  "options": [
+   "تنڠ",
+   "تتڤ",
+   "چينتا"
+  ],
+  "answer": 0,
+  "explanation": "امانه درڤد سودوت بهاس برمعنا تنڠ/امان.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-12",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ امانه.",
+  "options": [
+   "دڠكي",
+   "دندم",
+   "طاعة"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ امانه سنتياس طاعة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-13",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب كڤد نݢارا.",
+  "options": [
+   "طاعة ستيا",
+   "لڠݢر اوندڠ",
+   "ايڠكر ڤرينته"
+  ],
+  "answer": 0,
+  "explanation": "طاعة ستيا اياله تڠݢوڠجواب كڤد نݢارا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-14",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب موريد.",
+  "options": [
+   "ڤونتيڠ سكوله",
+   "باڽق تيدور",
+   "حرمت ݢورو"
+  ],
+  "answer": 2,
+  "explanation": "منحرمتي ݢورو اياله تڠݢوڠجواب موريد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-15",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن برتڠݢوڠجواب.",
+  "options": [
+   "دهينا",
+   "دبنچي",
+   "دڤرچاياءي"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ برتڠݢوڠجواب دڤرچاياءي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-16",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرانن انق كڤد ايبو باڤ.",
+  "options": [
+   "ڤاتوه",
+   "وقتو",
+   "كرس"
+  ],
+  "answer": 0,
+  "explanation": "انق هندقله ڤاتوه كڤد ايبو باڤ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-17",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باݢي ماس.",
+  "options": [
+   "وقتو",
+   "كرس",
+   "ڤرينته الله"
+  ],
+  "answer": 0,
+  "explanation": "وقتو اياله نام لاءين باݢي ماس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-18",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فائدة مڠوروس ماس.",
+  "options": [
+   "برديسيڤلين",
+   "مالس",
+   "لالاي"
+  ],
+  "answer": 0,
+  "explanation": "مڠوروس ماس منجاديكن برديسيڤلين.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-19",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاتي صيفت اورڠ يڠ تيدق امانه.",
+  "options": [
+   "كرس",
+   "لمبوت",
+   "تنڠ"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ تيدق امانه برهاتي كرس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-20",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملاكوكن كباءيقن دڠن برسوڠݢوه-سوڠݢوه.",
+  "options": [
+   "ڤرينته الله",
+   "لارڠن الله",
+   "سيا٢"
+  ],
+  "answer": 0,
+  "explanation": "ملاكوكن كباءيقن برسوڠݢوه اياله ڤرينته الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-21",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مڠحرݢاءي ماس.",
+  "options": [
+   "منجادوالكن اكتيۏيتي",
+   "ممبواڠ ماس",
+   "برمالس-مالسن"
+  ],
+  "answer": 0,
+  "explanation": "منجادوالكن اكتيۏيتي اياله چارا مڠحرݢاءي ماس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-22",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين ڤرانچڠن ماس مڠيكوت امام الغزالي.",
+  "options": [
+   "عمل، تيدور، ماكن",
+   "برماءين سهاج",
+   "تيدور سهاج"
+  ],
+  "answer": 0,
+  "explanation": "امام الغزالي ممباهاݢيكن ماس اونتوق عمل، تيدور دان ماكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-23",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب ماءنسي كڤد الله.",
+  "options": [
+   "برعبادة",
+   "ملڠݢر ڤرينته",
+   "ايڠكر"
+  ],
+  "answer": 0,
+  "explanation": "برعبادة اياله تڠݢوڠجواب كڤد الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-24",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منجاݢ نام باءيق كلوارݢ.",
+  "options": [
+   "براخلاق موليا",
+   "بربوات جاهت",
+   "مڠابايكن"
+  ],
+  "answer": 0,
+  "explanation": "براخلاق موليا منجاݢ نام باءيق كلوارݢ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-ppt2024-25",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مماتوهي ڤراتورن سكوله.",
+  "options": [
+   "تڠݢوڠجواب موريد",
+   "تڠݢوڠجواب ݢورو",
+   "تڠݢوڠجواب ايبو باڤ"
+  ],
+  "answer": 0,
+  "explanation": "مماتوهي ڤراتورن سكوله اياله تڠݢوڠجواب موريد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-akhlak-pat2024-01",
   "exam": "Darjah 3",
   "subject": "Akhlak",

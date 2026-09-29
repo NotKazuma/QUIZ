@@ -950,6 +950,478 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-arab-ppt2024-01",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَذْهَبُ إِلَى المَدْرَسَةِ فِي السَّاعَةِ ___",
+  "options": [
+   "الخَامِسَةِ صَبَاحًا",
+   "السَّابِعَةِ مَسَاءً",
+   "السَّابِعَةِ صَبَاحًا"
+  ],
+  "answer": 2,
+  "explanation": "ساي ك سكوله ڤوكول توجوه ڤاݢي: السَّابِعَةِ صَبَاحًا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-02",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا ___",
+  "image": "images/darjah-3/arab-ppt2024-khubz.jpg",
+  "options": [
+   "خُبْزٌ",
+   "بَيْضٌ",
+   "حَلِيبٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر روتي: خُبْزٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-03",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذِهِ؟ هَذِهِ ___",
+  "image": "images/darjah-3/arab-ppt2024-manjah.jpg",
+  "options": [
+   "مَنْجَةٌ",
+   "بِطِّيخٌ",
+   "بُرْتُقَالٌ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر مڠݢ: مَنْجَةٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-04",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "البِطِّيخُ حَجْمُهُ ___",
+  "options": [
+   "كَبِيرٌ",
+   "صَغِيرٌ",
+   "حَامِضٌ"
+  ],
+  "answer": 0,
+  "explanation": "تمبيكاي ساءيزڽ بسر: كَبِيرٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-05",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَغْسِلُ الخَضْرَوَاتِ بِ ___",
+  "options": [
+   "المَاءِ",
+   "الثَّلْجِ",
+   "السُّكَّرِ"
+  ],
+  "answer": 0,
+  "explanation": "ساءورن دباسوه دڠن اءير: بِالمَاءِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-06",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الأَرُزُّ المَقْلِيُّ فِي المَلَايُوِيَّةِ \"ناسي ݢورڠ\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "الأَرُزُّ المَقْلِيُّ برمعنا ناسي ݢورڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-07",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "تُرِيدُ أَنْ تَشْتَرِيَ مَوْزًا.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "اندا ماهو ممبلي ڤيسڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-08",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا فِلْفِلٌ، طَعْمُهُ حَارٌّ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "چيلي راساڽ ڤدس: حَارٌّ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-09",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَأْكُلُ أَسَدٌ أَوْرَاقَ الشَّجَرِ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "سيڠ ماكن داݢيڠ، بوكن داءون.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-10",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"لمبو\" فِي اللُّغَةِ العَرَبِيَّةِ \"البَقَرُ\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "لمبو = البَقَرُ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-11",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُرَاجِعُ دُرُوسِي فِي ___",
+  "options": [
+   "المَسَاءِ",
+   "المَلْعَبِ",
+   "السَّمَكِ"
+  ],
+  "answer": 0,
+  "explanation": "ساي مڠولڠكاجي ڤلاجرن ڤد واقتو ڤتڠ: فِي المَسَاءِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-12",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَلْعَبُ فِي ___",
+  "options": [
+   "المَلْعَبِ",
+   "المَسَاءِ",
+   "اللَّيْمُونِ"
+  ],
+  "answer": 0,
+  "explanation": "ساي برماءين دڤادڠ: فِي المَلْعَبِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-13",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "آكُلُ الأَرُزَّ مَعَ ___ المَشْوِيِّ.",
+  "options": [
+   "السَّمَكِ",
+   "المَلْعَبِ",
+   "المَسَاءِ"
+  ],
+  "answer": 0,
+  "explanation": "ساي ماكن ناسي دڠن ايكن باكر: السَّمَكِ المَشْوِيِّ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-14",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ فَرَاوِلَةٌ طَعْمُهَا ___",
+  "options": [
+   "لَذِيذٌ",
+   "المَلْعَبِ",
+   "السَّمَكِ"
+  ],
+  "answer": 0,
+  "explanation": "ستروبري راساڽ سدڤ: لَذِيذٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-15",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "زِدِ المِلْحَ وَعَصِيرَ ___",
+  "options": [
+   "اللَّيْمُونِ",
+   "المَلْعَبِ",
+   "المَسَاءِ"
+  ],
+  "answer": 0,
+  "explanation": "تمبه ݢرم دان جوس لايمو: عَصِيرَ اللَّيْمُونِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-16",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُمَارِسُ الرِّيَاضَةَ فِي السَّاعَةِ ___",
+  "options": [
+   "السَّادِسَةِ صَبَاحًا",
+   "الثَّانِيَةَ عَشْرَةَ",
+   "الوَاحِدَةِ لَيْلًا"
+  ],
+  "answer": 0,
+  "explanation": "ساي برسوكن ڤوكول انم ڤاݢي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-17",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"ايم\" فِي اللُّغَةِ العَرَبِيَّةِ ___",
+  "options": [
+   "الدَّجَاجُ",
+   "البَقَرُ",
+   "السَّمَكُ"
+  ],
+  "answer": 0,
+  "explanation": "ايم = الدَّجَاجُ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-18",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا العِنَبُ حَجْمُهُ ___",
+  "options": [
+   "صَغِيرٌ",
+   "كَبِيرٌ",
+   "طَوِيلٌ"
+  ],
+  "answer": 0,
+  "explanation": "انݢور ساءيزڽ كچيل: صَغِيرٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-19",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "طَعْمُ الجَزَرِ ___",
+  "options": [
+   "حُلْوٌ",
+   "حَارٌّ",
+   "مُرٌّ"
+  ],
+  "answer": 0,
+  "explanation": "لوبق مره راساڽ مانيس: حُلْوٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-20",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَعِيشُ أَسَدٌ فِي ___",
+  "options": [
+   "الغَابَةِ",
+   "البَحْرِ",
+   "المَطْبَخِ"
+  ],
+  "answer": 0,
+  "explanation": "سيڠ هيدوڤ دهوتن: فِي الغَابَةِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-21",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رِ + يَ + ا + ضَ + ةٌ = ___",
+  "options": [
+   "رِيَاضَةٌ",
+   "رِيَادَةٌ",
+   "زِيَارَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "ر + ي + ا + ض + ة = رِيَاضَةٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-22",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فُ + طُ + و + رٌ = ___",
+  "options": [
+   "فُطُورٌ",
+   "فُتُورٌ",
+   "فُطُرٌ"
+  ],
+  "answer": 0,
+  "explanation": "ف + ط + و + ر = فُطُورٌ (سارڤن).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-23",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"جمبو باتو\" فِي اللُّغَةِ العَرَبِيَّةِ ___",
+  "options": [
+   "جَوَافَةٌ",
+   "مَنْجَةٌ",
+   "بِطِّيخٌ"
+  ],
+  "answer": 0,
+  "explanation": "جمبو باتو = جَوَافَةٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-24",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"نانس\" فِي اللُّغَةِ العَرَبِيَّةِ ___",
+  "options": [
+   "أَنَانَاسٌ",
+   "بُرْتُقَالٌ",
+   "عِنَبٌ"
+  ],
+  "answer": 0,
+  "explanation": "نانس = أَنَانَاسٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-ppt2024-25",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِثْلُ الحَيَوَانَاتِ ___",
+  "options": [
+   "أَسَدٌ",
+   "خُبْزٌ",
+   "مَنْجَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "أَسَدٌ (سيڠ) اياله چونتوه حيوان.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-arab-pat2024-01",
   "exam": "Darjah 3",
   "subject": "Bahasa Arab",
