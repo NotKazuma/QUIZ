@@ -470,6 +470,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-tauhid-ppt2023-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ ڤرتام اياله ___.",
+  "options": [
+   "نبي آدم",
+   "نبي نوح",
+   "نبي لوط"
+  ],
+  "answer": 0,
+  "explanation": "نبي آدم اياله رسول يڠ ڤرتام.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد صيفت٢ رسول اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كڤد صيفت رسول اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله رسول يڠ واجب دكتاهوءي اياله ___.",
+  "options": [
+   "ليم",
+   "ليم بلس",
+   "دوا ڤولوه ليم"
+  ],
+  "answer": 2,
+  "explanation": "رسول يڠ واجب دكتاهوءي اد 25 اورڠ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن يڠ منداڤت ناءوڠن الله اياله ___.",
+  "options": [
+   "اورڠ كافير",
+   "ماءنسي فاسق",
+   "ڤميمڤين يڠ عاديل"
+  ],
+  "answer": 2,
+  "explanation": "ڤميمڤين يڠ عاديل منداڤت ناءوڠن الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باݢي هاري قيامة اياله ___.",
+  "options": [
+   "يوم القارعة",
+   "يوم الاحد",
+   "يوم الاربعاء"
+  ],
+  "answer": 0,
+  "explanation": "يوم القارعة اياله نام لاءين هاري قيامة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ منداڤت شريعة اد انم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "رسول أولو العزم اد ليم، بوكن انم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي دان رسول سأورڠ للاكي ڤيليهن الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي دان رسول اداله للاكي ڤيليهن الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جالن يڠ بنر برداسركن القرءان سهاج.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "جالن يڠ بنر برداسركن القرءان دان السنة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مونچول دجّال تندا كچيل هاري قيامة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "مونچول دجّال اياله تندا بسر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هندقله سنتياس برذيكير كڤد الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كيت هندقله سنتياس برذيكير كڤد الله.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠهولو سكالين نبي.",
+  "options": [
+   "محمد",
+   "موسى",
+   "عيسى"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله ڤڠهولو سكالين نبي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول أُولُو العَزْم.",
+  "options": [
+   "آدم",
+   "نوح",
+   "يونس"
+  ],
+  "answer": 1,
+  "explanation": "نبي نوح اياله انتارا رسول أولو العزم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاس كتاب توراة.",
+  "options": [
+   "عرب",
+   "ملايو",
+   "عبراني"
+  ],
+  "answer": 2,
+  "explanation": "كتاب توراة دالم بهاس عبراني.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ڤرچاي هاري قيامة.",
+  "options": [
+   "سنة",
+   "حرام",
+   "واجب"
+  ],
+  "answer": 2,
+  "explanation": "ڤرچاي هاري قيامة اياله واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كِذْبٌ.",
+  "options": [
+   "بنر",
+   "دوستا",
+   "جوجور"
+  ],
+  "answer": 1,
+  "explanation": "كذب برمعنا دوستا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي رسول ڤد بهاس.",
+  "options": [
+   "ڤراوتوسن",
+   "بنر",
+   "الدُّخَان"
+  ],
+  "answer": 0,
+  "explanation": "رسول برمعنا ڤراوتوسن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ ممڤوڽاءي كصبرن تيڠݢي.",
+  "options": [
+   "أُولُو العَزْم",
+   "بنر",
+   "الدُّخَان"
+  ],
+  "answer": 0,
+  "explanation": "أولو العزم اياله رسول يڠ تيڠݢي كصبرنڽ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود صِدْق.",
+  "options": [
+   "بنر",
+   "الدُّخَان",
+   "هاري قيامة"
+  ],
+  "answer": 0,
+  "explanation": "صدق برمعنا بنر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كهنچورن عالم.",
+  "options": [
+   "هاري قيامة",
+   "بنر",
+   "الدُّخَان"
+  ],
+  "answer": 0,
+  "explanation": "هاري قيامة اياله كهنچورن عالم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اصڤ يڠ مڠعاقبتكن ڤناكيت.",
+  "options": [
+   "الدُّخَان",
+   "بنر",
+   "أُولُو العَزْم"
+  ],
+  "answer": 0,
+  "explanation": "الدخان (اصڤ) اياله انتارا تندا بسر قيامة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "روكون ايمان يڠ كأمڤت.",
+  "options": [
+   "برايمان كڤد رسول",
+   "برايمان كڤد الله",
+   "برايمان كڤد قضاء دان قدر"
+  ],
+  "answer": 0,
+  "explanation": "روكون ايمان كأمڤت: برايمان كڤد رسول.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي بَلَادَة.",
+  "options": [
+   "بودوه",
+   "بيجق",
+   "بنر"
+  ],
+  "answer": 0,
+  "explanation": "بلادة برمعنا بودوه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله صيفت واجب باݢي رسول.",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 0,
+  "explanation": "صيفت واجب رسول اد امڤت.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-24",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا كچيل هاري قيامة.",
+  "options": [
+   "انق درهاک كڤد ايبو باڤ",
+   "مونچول دجّال",
+   "ماتاهاري تربيت دبارت"
+  ],
+  "answer": 0,
+  "explanation": "انق درهاک اياله تندا كچيل قيامة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-ppt2023-25",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد هاري قيامة.",
+  "options": [
+   "منجادي لبيه برهاتي٢",
+   "منجادي سومبوڠ",
+   "مالس برعبادة"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كڤد هاري قيامة منجاديكن كيت لبيه برهاتي٢.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-pat2023-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",

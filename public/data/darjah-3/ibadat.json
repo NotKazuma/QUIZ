@@ -480,6 +480,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-ibadat-ppt2023-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين حدث؟",
+  "options": [
+   "كسوچين",
+   "كبرسيهن",
+   "ككوتورن"
+  ],
+  "answer": 2,
+  "explanation": "حدث اياله ككوتورن معنوي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه تيمڤوه ماس ڤاليڠ سيڠكت كلوارڽ داره حيض؟",
+  "options": [
+   "سهاري سمالم",
+   "انم هاري انم مالم",
+   "15 هاري 15 مالم"
+  ],
+  "answer": 0,
+  "explanation": "حيض ڤاليڠ سيڠكت سهاري سمالم.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن داره نفاس اياله ___.",
+  "options": [
+   "برسوكي",
+   "بروضوء",
+   "مندي واجب"
+  ],
+  "answer": 2,
+  "explanation": "نفاس دسوچيكن دڠن مندي واجب.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام ڤركمبڠن عمور ماءنسي دري سمبيلن (9) تاهون هيڠݢ 15 تاهون.",
+  "options": [
+   "بايي",
+   "رماج",
+   "كانق٢"
+  ],
+  "answer": 1,
+  "explanation": "عمور 9 هيڠݢ 15 تاهون اياله ڤريڠكت رماج.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا تندا بالغ باݢي اورڠ ڤرمڤوان اياله ___.",
+  "options": [
+   "سوارا ڤچه",
+   "كلوار مني",
+   "كلوار داره حيض"
+  ],
+  "answer": 2,
+  "explanation": "كلوار داره حيض اياله تندا بالغ ڤرمڤوان.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هيلڠ عقل بوليه مڽببكن حدث كچيل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "هيلڠ عقل مڽببكن حدث كچيل.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برحدث بسر بوليه منونايكن صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ برحدث بسر دلارڠ صلاة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "استحاضة تيدق ممڤوڽاءي تيمڤوه ماس ترتنتو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "استحاضة تيدق ممڤوڽاءي تيمڤوه ترتنتو.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورڠ يڠ بالغ اداله تيدق ماتڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ بالغ برفيكيرن ماتڠ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تله بالغ دواجبكن منونايكن صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ بالغ واجب منونايكن صلاة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب حدث بسر.",
+  "options": [
+   "كيلا",
+   "ولادة",
+   "تيدور"
+  ],
+  "answer": 1,
+  "explanation": "ولادة (برسالين) مڽببكن حدث بسر.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دبنركن كتيك حيض.",
+  "options": [
+   "صلاة",
+   "طواف",
+   "ذيكير"
+  ],
+  "answer": 2,
+  "explanation": "برذيكير دبنركن كتيك حيض.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره ڤڽاكيت سلڤس تيمڤوه حيض.",
+  "options": [
+   "حيض",
+   "نفاس",
+   "استحاضة"
+  ],
+  "answer": 2,
+  "explanation": "استحاضة اياله داره ڤڽاكيت.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي بالغ ڤد بهاس.",
+  "options": [
+   "مميز",
+   "عمور",
+   "سمڤاي"
+  ],
+  "answer": 2,
+  "explanation": "بالغ برمعنا سمڤاي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريڠكت عمور ماءنسي يڠ ڤاليڠ توا.",
+  "options": [
+   "توا",
+   "بايي",
+   "رماج"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر اورڠ توا منونجوقكن ڤريڠكت توا.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ككوتورن يڠ بوليه دليهت.",
+  "options": [
+   "نجيس",
+   "حدث كچيل",
+   "ساتو لحظة"
+  ],
+  "answer": 0,
+  "explanation": "نجيس اياله ككوتورن يڠ بوليه دليهت.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود سسواتو يڠ ممبطلكن وضوء.",
+  "options": [
+   "حدث كچيل",
+   "نجيس",
+   "منوتوڤ عورة"
+  ],
+  "answer": 0,
+  "explanation": "سسواتو يڠ ممبطلكن وضوء اياله حدث كچيل.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه ماس ڤاليڠ سيڠكت باݢي داره نفاس.",
+  "options": [
+   "ساتو لحظة",
+   "دباسوه",
+   "نجيس"
+  ],
+  "answer": 0,
+  "explanation": "نفاس ڤاليڠ سيڠكت ساتو لحظة.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن داره استحاضة.",
+  "options": [
+   "دباسوه",
+   "نجيس",
+   "منوتوڤ عورة"
+  ],
+  "answer": 0,
+  "explanation": "داره استحاضة دباسوه هيڠݢ برسيه.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب يڠ واجب دلقساناكن ستله بالغ.",
+  "options": [
+   "منوتوڤ عورة",
+   "نجيس",
+   "ساتو لحظة"
+  ],
+  "answer": 0,
+  "explanation": "منوتوڤ عورة واجب ستله بالغ.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ككوتورن يڠ تيدق بوليه دليهت.",
+  "options": [
+   "حدث",
+   "نجيس",
+   "داكي"
+  ],
+  "answer": 0,
+  "explanation": "حدث اياله ككوتورن يڠ تيدق كليهتن.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ دلارڠ كتيك حيض.",
+  "options": [
+   "صلاة",
+   "برذيكير",
+   "ممباچ دعاء"
+  ],
+  "answer": 0,
+  "explanation": "صلاة دلارڠ كتيك حيض.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريڠكت ڤركمبڠن عمور ماءنسي.",
+  "options": [
+   "بايي، كانق٢، رماج، ديواس",
+   "بايي سهاج",
+   "رماج سهاج"
+  ],
+  "answer": 0,
+  "explanation": "ڤريڠكت: بايي، كانق٢، رماج، ديواس.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو درڤد تندا بالغ باݢي اورڠ للاكي.",
+  "options": [
+   "كلوار مني",
+   "كلوار حيض",
+   "ولادة"
+  ],
+  "answer": 0,
+  "explanation": "كلوار مني اياله تندا بالغ للاكي.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2023-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤركارا فرض عين.",
+  "options": [
+   "صلاة ليم واقتو",
+   "صلاة جنازه",
+   "بلاجر عبادة سنة"
+  ],
+  "answer": 0,
+  "explanation": "صلاة ليم واقتو اياله فرض عين.",
+  "source": "PPT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-pat2023-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",
