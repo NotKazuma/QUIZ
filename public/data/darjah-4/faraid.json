@@ -1,0 +1,549 @@
+[
+ {
+  "id": "darjah-4-faraid-pat2025-01",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي فرائض قد شرع؟",
+  "options": [
+   "بهاݢين",
+   "دتنتوكن",
+   "فنيلقن"
+  ],
+  "answer": 1,
+  "explanation": "فرائض برمعنا بهاݢين يݢ دتنتوكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-02",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه نسبه ساتو باݢين اونتوق للاكي دبانديݢكن انق فرمفوان؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 1,
+  "explanation": "نسبه اياله دوا باݢي ساتو (للاكي دوا كالي ݢندا فرمفوان).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-03",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه فائدة مماجاري علمو فرائض؟",
+  "options": [
+   "بري حق واريث",
+   "كالقكن كظاليمن",
+   "برلاكو كأدولن"
+  ],
+  "answer": 0,
+  "explanation": "بري حق واريث اياله فائدة مماجاري علمو فرائض.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-04",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي وَارِيثٌ؟",
+  "options": [
+   "واريث مݢلواركن هرتا",
+   "اورݢ يݢ مڠيݢكلكن هرتا",
+   "اورݢ يݢ منريما هرتا"
+  ],
+  "answer": 2,
+  "explanation": "واريث اياله اورݢ يݢ منريما هرتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-05",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه ركن ممفوساكاءي؟",
+  "options": [
+   "فَرْضٌ",
+   "وَارِثٌ",
+   "وَلَاء"
+  ],
+  "answer": 1,
+  "explanation": "وارث اياله ركن ممفوساكاءي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-06",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه انتارا برايكوت شرط ممفوساكاءي؟",
+  "options": [
+   "موٓرث دصحكن ماتي",
+   "واريث دصحكن ماتي",
+   "انق كاندوݢن هيدوف اتاو ماتي"
+  ],
+  "answer": 0,
+  "explanation": "موٓرث دصحكن ماتي اياله شرط ممفوساكاءي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-07",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا ممبوقتيكن واريث سي ماتي ايت ماسيه هيدوف؟",
+  "options": [
+   "تياد هوبوݢن",
+   "يقين برنزر هيدوف",
+   "يقين تله ماتي"
+  ],
+  "answer": 1,
+  "explanation": "يقين برنزر هيدوف اياله چارا ممبوقتيكن واريث ماسيه هيدوف.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-08",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دمانكاه تمفتڽ هرتا ڤفمفينن سي ماتي يݢ تيدق دكتاهوءي منݢكلكن واريث؟",
+  "options": [
+   "سوراو",
+   "مسجد",
+   "بيت المال"
+  ],
+  "answer": 2,
+  "explanation": "هرتا ايت دسيمفن دبيت المال.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-09",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاݢن واريث يݢ ممفوساكاءي هرتا اد ___.",
+  "options": [
+   "سفولوه",
+   "ليم بلس",
+   "تيك فولوه"
+  ],
+  "answer": 0,
+  "explanation": "واريث يݢ ممفوساكاءي هرتا اد سفولوه ݢولوݢن للاكي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-10",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث للاكي اياله ___.",
+  "options": [
+   "باف",
+   "باف مرتوا",
+   "باف سوسوان"
+  ],
+  "answer": 0,
+  "explanation": "باف اياله واريث للاكي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-11",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبوتن باكي اورݢ يݢ توان ممرديكاكن همبا اياله ___.",
+  "options": [
+   "وَارِثٌ",
+   "مُعْتِقٌ",
+   "مُوَرِّثٌ"
+  ],
+  "answer": 1,
+  "explanation": "معتق اياله توان يݢ ممرديكاكن همبا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-12",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث فرمفوان اياله ___.",
+  "options": [
+   "ايبو",
+   "ايبو سوسوان",
+   "ايبو كد ايبو"
+  ],
+  "answer": 0,
+  "explanation": "ايبو اياله واريث فرمفوان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-13",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توان يݢ مممرديكاكن هامبا دفݢݢيل ___.",
+  "options": [
+   "وَارِثٌ",
+   "مُعْتِقٌ",
+   "مُوَرِّثٌ"
+  ],
+  "answer": 1,
+  "explanation": "معتق اياله توان يݢ ممرديكاكن هامبا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-14",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاݢن واريث٢ يݢ فاليݢ برحق ممفوساكاءي هرتا اياله ___.",
+  "options": [
+   "4 اورݢ",
+   "6 اورݢ",
+   "7 اورݢ"
+  ],
+  "answer": 1,
+  "explanation": "6 اورݢ واريث فاليݢ برحق ممفوساكاءي هرتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-15",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ذَوِي الأَرْحَامِ قد بهاس اياله ___.",
+  "options": [
+   "كتوروننڽ",
+   "اهلي فرض",
+   "هوبوݢن قرابت"
+  ],
+  "answer": 2,
+  "explanation": "ذوي الأرحام برمعنا هوبوݢن قرابت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-16",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ذَوِي الأَرْحَامِ فيهاق للاكي اياله ___.",
+  "options": [
+   "انق للاكي",
+   "باف كد للاكي",
+   "چوچو للاكي درفد انق فرمفوان"
+  ],
+  "answer": 2,
+  "explanation": "چوچو للاكي درفد انق فرمفوان اياله ذوي الأرحام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-17",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروفاكن ذوي الأرحام فرمفوان كچوالي ___.",
+  "options": [
+   "ايبو كد للاكي",
+   "ايبو ساودارا سبله ايبو",
+   "انق فرمفوان"
+  ],
+  "answer": 2,
+  "explanation": "انق فرمفوان اياله واريث اهلي فرض، بوكن ذوي الأرحام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-18",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب اداله سبب ذوي الأرحام بوليه ممفوساكاءي هرتا ايالة ___.",
+  "options": [
+   "تياد اهلي فرض",
+   "اد اهلي عصبة",
+   "اد اصل الوارث"
+  ],
+  "answer": 0,
+  "explanation": "ذوي الأرحام ممفوساكاءي هرتا جک تياد اهلي فرض دان عصبة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-19",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه سبب٢ مݢهالݢ سسأورݢ منريما فوساك؟",
+  "options": [
+   "قرابت",
+   "همبا",
+   "إسلام"
+  ],
+  "answer": 1,
+  "explanation": "منجادي همبا مݢهالݢ سسأورݢ منريما فوساك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-20",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سبب واريث ترهالݢ منريما فوساك سي ماتي؟",
+  "options": [
+   "فركاهوين",
+   "حاكيم يݢ منجاتوهكن حکوم",
+   "سقسي دالم كيس ممبونوه موٓرث"
+  ],
+  "answer": 2,
+  "explanation": "سقسي دالم كيس ممبونوه موٓرث مݢهالݢ منريما فوساك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-21",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فركارا يݢ دافت دأيلقكن جک مماجاري علمو فرائض اياله ___.",
+  "options": [
+   "كظاليمن",
+   "قرابت",
+   "انق للاكي"
+  ],
+  "answer": 0,
+  "explanation": "مماجاري فرائض دافت مݢيلقكن كظاليمن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-22",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب يݢ مموبوليهكن سأورݢ مماوريث هرتا اياله ___.",
+  "options": [
+   "قرابت",
+   "كظاليمن",
+   "امفت"
+  ],
+  "answer": 0,
+  "explanation": "قرابت (هوبوݢن كلوارݢ) مموبوليهكن سسأورݢ مماوريث.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-23",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله كولوݢن يݢ مماوريث هرتا اياله ___.",
+  "options": [
+   "امفت",
+   "قرابت",
+   "انق للاكي"
+  ],
+  "answer": 0,
+  "explanation": "كولوݢن يݢ مماوريث هرتا اد امفت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-24",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث للاكي يݢ فاليݢ اوتام منريما هرتا اياله ___.",
+  "options": [
+   "انق للاكي",
+   "امفت",
+   "قرابت"
+  ],
+  "answer": 0,
+  "explanation": "انق للاكي اياله واريث فاليݢ اوتام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-25",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود مُوَرِّثٌ اياله ___.",
+  "options": [
+   "اورݢ يݢ مݢيݢكلكن هرتا",
+   "اورݢ يݢ منريما هرتا",
+   "اورݢ يݢ ممرديكاكن همبا"
+  ],
+  "answer": 0,
+  "explanation": "مورث اياله اورݢ يݢ مݢيݢكلكن هرتا (سي ماتي).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-26",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط ممفوساكاءي مواجبكن قدر وصية هرتا دبݢرقن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قدر وصية هرتا دبݢرقن سبلوم فمباهاݢين فوساك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-27",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ذَوِي الأَرْحَامِ فد بهاس اياله هوبوݢن قرابت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ذوي الأرحام برمعنا هوبوݢن قرابت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-28",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب ذوي الأرحام بوليه ممفوساكاءي هرتا اياله تياد اهلي فرض دان عصبة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ذوي الأرحام مماوريث جک تياد اهلي فرض دان عصبة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2025-29",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوݢن يݢ ترهالݢ درفد منريما فوساك اياله همبا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "همبا ترهالݢ درفد منريما فوساك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]

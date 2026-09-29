@@ -1,0 +1,572 @@
+[
+ {
+  "id": "darjah-4-muamalat-pat2025-01",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤݢرتين البَيْعُ قد بهاس؟",
+  "options": [
+   "فرجنجين",
+   "فميليقن",
+   "فرتوكرن هرتا"
+  ],
+  "answer": 2,
+  "explanation": "البيع برمعنا فرتوكرن هرتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-02",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه بنتوق معاملة يڠ دحلالكن مݢيكوت شرع؟",
+  "options": [
+   "ربا",
+   "جوال بلي",
+   "منچوري"
+  ],
+  "answer": 1,
+  "explanation": "جوال بلي اياله معاملة يڠ دحلالكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-03",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله ركن جوال بلي؟",
+  "options": [
+   "دوا",
+   "امفت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "ركن جوال بلي اد امفت: فنجوال، فمبلي، برڠ دان صيغة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-04",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام حکوم جوال بلي يڠ تيدق مماتوهي شرع؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 2,
+  "explanation": "جوال بلي يڠ تيدق مماتوهي شرع حکومڽ حرام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-05",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تاجوق يڠ منجلسكن قاعده منجينجم؟",
+  "options": [
+   "الهِبَةُ",
+   "البَيْعُ",
+   "العَارِيَّةُ"
+  ],
+  "answer": 0,
+  "explanation": "الهبة برکاءيت دݢن ممبري تنفا بالسن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-06",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم منجينجمكن فاٰيوڠ سوقتو هوجن؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "منجينجمكن فايوڠ حکومڽ هاروس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-07",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي المُعِيرُ؟",
+  "options": [
+   "اورݢ يݢ ممينجم",
+   "اورݢ يݢ ممبري ڤينجمن",
+   "اورݢ يݢ مݢوروس هرتا"
+  ],
+  "answer": 1,
+  "explanation": "المعير اياله اورݢ يݢ ممبري ڤينجمن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-08",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه انتارا برايكوت شرط اورݢ يݢ مميرمي؟",
+  "options": [
+   "سجارا ترفقسا",
+   "سجارا سوكاريلا",
+   "ممفوڽاءي كيلا"
+  ],
+  "answer": 1,
+  "explanation": "فميرمي مستي مميرمكن سجارا سوكاريلا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-09",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط باكي المستعير اد ___.",
+  "options": [
+   "دوا",
+   "امفت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "شرط المستعير اد دوا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-10",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتو لفظ قبول باكي العارية اياله ___.",
+  "options": [
+   "ساي فينجم",
+   "ساي جوال",
+   "ساي هيبهكن"
+  ],
+  "answer": 0,
+  "explanation": "لفظ قبول العارية اياله \"ساي فينجم\".",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-11",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "المستعير واجب مݢمباليكن بارڠ يݢ هيلڠ دسببكن ___.",
+  "options": [
+   "منجاݢ دݢن باءيق",
+   "چوايان مغيكوت كأيذينن",
+   "چوما دݢن امانه"
+  ],
+  "answer": 1,
+  "explanation": "منجاديكن حکوم مميمنجمكن بارݢ يݢ دفينجم كران چوايان مغيكوت كأيذينن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-12",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مميمنجمكن بارݢ يݢ دفينجم كفد اورݢ لاءين تنفا ايذين المعير اداله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 2,
+  "explanation": "مميمنجمكن تنفا ايذين حکومڽ حرام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-13",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"البَيِّعَانِ بِالخِيَارِ مَا لَمْ يَتَفَرَّقَا\" اداله دليل ___.",
+  "options": [
+   "الخِيَارُ",
+   "السَّلَمُ",
+   "القِرَاضُ"
+  ],
+  "answer": 0,
+  "explanation": "حديث اين اداله دليل الخيار.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-14",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس٢ الخيار اد ___.",
+  "options": [
+   "دوا",
+   "امفت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "جنيس خيار اد دوا: خيار مجليس دان خيار عيب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-15",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمفوه ماس باكي خيار شرط اياله تيدق ملبيهي ___.",
+  "options": [
+   "3 هاري",
+   "7 هاري",
+   "30 هاري"
+  ],
+  "answer": 0,
+  "explanation": "خيار شرط تيدق ملبيهي 3 هاري.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-16",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خيار يݢ برلاكو افابيلا تردافت كروسقن فد بارݢ جوالن دناماكن خيار ___.",
+  "options": [
+   "شرط",
+   "عيب",
+   "مجليس"
+  ],
+  "answer": 1,
+  "explanation": "خيار عيب برلاكو كران كروسقن فد بارݢ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-17",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ركن هبة كچوالي ___.",
+  "options": [
+   "الواهب",
+   "الموهوب",
+   "المستعير"
+  ],
+  "answer": 2,
+  "explanation": "المستعير بوكن ركن هبة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-18",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط اداله شرط الواهب كفد هبة كچوالي ___.",
+  "options": [
+   "بالغ دان چرديق",
+   "سمفورنا عقل",
+   "دفقسا سوک ريلا"
+  ],
+  "answer": 2,
+  "explanation": "الواهب مستي سوكاريلا، بوكن دفقسا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-19",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه انتارا برايكوت شرط الموهوب؟",
+  "options": [
+   "تيدق برنيلاي",
+   "هرتا يݢ حلال",
+   "هرتا اورݢ لاءين"
+  ],
+  "answer": 1,
+  "explanation": "الموهوب مستيله هرتا يݢ حلال.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-20",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه القَبْضُ بوليه برلاكو باكي هرتا الية؟",
+  "options": [
+   "تله مݢواساءي هرتا",
+   "بلوم منريما هرتا",
+   "مݢوسوݢكن هرتا ترسبوت"
+  ],
+  "answer": 0,
+  "explanation": "القبض برلاكو افابيلا تله مݢواساءي هرتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-21",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مميليه جادي بلي اتاو تيدق دسبوت ___.",
+  "options": [
+   "الخِيَارُ",
+   "خِيَارُ مَجْلِسٍ",
+   "هَارُوس"
+  ],
+  "answer": 0,
+  "explanation": "الخيار اياله مميليه جادي بلي اتاو تيدق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-22",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فنجوال دان فمبلي ماسيه دتمفت جوال بلي دسبوت ___.",
+  "options": [
+   "خِيَارُ مَجْلِسٍ",
+   "الخِيَارُ",
+   "هَارُوس"
+  ],
+  "answer": 0,
+  "explanation": "خيار مجليس برلاكو سلاݢي ماسيه دتمفت جوال بلي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-23",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب كوكور حق خيار مجليس اياله ___.",
+  "options": [
+   "مݢݢکلكن مجليس",
+   "ملقساناكن جوال بلي",
+   "مماكاي بارݢ"
+  ],
+  "answer": 0,
+  "explanation": "مݢݢکلكن مجليس مݢكوكوركن حق خيار مجليس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-24",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ملتقكن شرط دالم جوال بلي اياله ___.",
+  "options": [
+   "هَارُوس",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "ملتقكن شرط دالم جوال بلي حکومڽ هاروس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-25",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب برلاكوڽ خيار عيب اياله ___.",
+  "options": [
+   "اد كروسقن",
+   "منݢكلكن مجليس",
+   "ملقساناكن جوال بلي"
+  ],
+  "answer": 0,
+  "explanation": "خيار عيب برلاكو كران اد كروسقن فد بارݢ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-26",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فمبرين دݢن مݢهارفكن فهالا اياله ___.",
+  "options": [
+   "هبة",
+   "شرة",
+   "قرض"
+  ],
+  "answer": 0,
+  "explanation": "هبة اياله فمبرين دݢن مݢهارفكن فهالا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-27",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم معاملة برنتوق هبة اياله ___.",
+  "options": [
+   "هَارُوس",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "معاملة هبة حکومڽ هاروس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-28",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط اورݢ يݢ منريما هبة اياله ___.",
+  "options": [
+   "برعقل",
+   "كانق٢",
+   "ݢيلا"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ يݢ منريما هبة مستي برعقل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-29",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ يݢ منونجوقكن صيغة هبة اياله ___.",
+  "options": [
+   "ساي هيبهكن",
+   "ساي جوال",
+   "ساي فينجم"
+  ],
+  "answer": 0,
+  "explanation": "\"ساي هيبهكن\" اياله لفظ صيغة هبة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2025-30",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورݢ يݢ منريما هبة تله مماتيكن بارݢ يݢ دهيبهكن اياله ___.",
+  "options": [
+   "الموهوب له",
+   "الواهب",
+   "المستعير"
+  ],
+  "answer": 0,
+  "explanation": "الموهوب له اياله اورݢ يݢ منريما هبة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]

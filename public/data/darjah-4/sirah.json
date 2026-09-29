@@ -1,0 +1,571 @@
+[
+ {
+  "id": "darjah-4-sirah-pat2025-01",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مينومن يڠ دفيليه بݢيندا ﷺ سماس فريستيوا إسراء دان معراج؟",
+  "options": [
+   "تمر",
+   "خمر",
+   "مادو"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا مميليه سوسو، بوكن خمر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-02",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام ݢلرن سيدنا ابو بكر؟",
+  "options": [
+   "الأمين",
+   "الأسد",
+   "الصديق"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا ابو بكر دبري ݢلرن الصديق.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-03",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكمه دسباليق فريستيوا إسراء دان معراج؟",
+  "options": [
+   "مݢوكتكن كصبرن",
+   "مرندهكن ايختن",
+   "منمبه كواتن ايمان"
+  ],
+  "answer": 2,
+  "explanation": "إسراء دان معراج مݢوكوهكن ايمان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-04",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيافاكه يڠ مݢكنتيكن رسول الله ﷺ دتمفت تيدورڽ كتيك فريستيوا هجره؟",
+  "options": [
+   "ابو بكر الصديق",
+   "عامر بن فهيرة",
+   "علي بن ابو طالب"
+  ],
+  "answer": 2,
+  "explanation": "علي بن ابو طالب مݢكنتيكن باݢيندا دتمفت تيدور.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-05",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤا لاماكه باݢيندا ﷺ منتف دمسجد قباء؟",
+  "options": [
+   "دوا هاري",
+   "ليم هاري",
+   "امفت هاري"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا منتف دمسجد قباء سلاما ليم هاري.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-06",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيافاكه يڠ ممبينا مسجد النبوي؟",
+  "options": [
+   "نبي ابراهيم عليه السلام",
+   "نبي محمد ﷺ",
+   "نبي موسى عليه السلام"
+  ],
+  "answer": 1,
+  "explanation": "نبي محمد ﷺ ممبينا مسجد النبوي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-07",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه كنجرن فهالا يڠ دفراوليهي افابيلا صلاة دمسجد النبوي؟",
+  "options": [
+   "1,000",
+   "10,000",
+   "100,000"
+  ],
+  "answer": 1,
+  "explanation": "صلاة دمسجد النبوي دبري ݢنجرن 10,000 كالي فهالا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-08",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توجوان رسول الله ﷺ منكارا رحمة اونتوق سلوروه عالم؟",
+  "options": [
+   "بهاكيا ددنيا",
+   "بهاكيا دمحشر",
+   "بهاكيا ددنيا دان اخرة"
+  ],
+  "answer": 2,
+  "explanation": "توجوانڽ اياله بهاكيا ددنيا دان اخرة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-09",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتيك برلاكو فرݢن، رسول الله ﷺ منجواب سبباكاي ___.",
+  "options": [
+   "تنترا",
+   "قورور",
+   "فيمفين"
+  ],
+  "answer": 2,
+  "explanation": "باݢيندا مݢجواب سباݢاي فيمفين اومت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-10",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فوست فرداݢڠن يڠ تركنل دتانه عرب اداله ___.",
+  "options": [
+   "شام",
+   "مكة",
+   "جدة"
+  ],
+  "answer": 1,
+  "explanation": "مكة اياله فوست فرداݢڠن يڠ تركنل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-11",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ منجالين هوبوڠن دڠن نݢارا إسلام بوكن ملالوءي چارا ___.",
+  "options": [
+   "فرنياݢاءن",
+   "دفلوماتيك",
+   "فرصاوداراءن"
+  ],
+  "answer": 0,
+  "explanation": "فرنياݢاءن بوكن چارا مݢجالين هوبوڠن دفلوماتيك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-12",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بݢيندا مݢاداكن هوبوڠن دفلوماتيك دݢن ݢولوݢن يڠ بوكن إسلام اونتوق ___.",
+  "options": [
+   "مݢوبوهكن اومت إسلام",
+   "مݢاجق ماسوق إسلام",
+   "مݢيرتكن فرساودارأن"
+  ],
+  "answer": 1,
+  "explanation": "توجوان اوتاماڽ اياله مݢاجق ماسوق إسلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-13",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه كيكيه اورڠ كافير يڠ منننتڠ فمرثاءي إسلام اداله ___.",
+  "options": [
+   "صبر",
+   "توكل",
+   "جهاد"
+  ],
+  "answer": 0,
+  "explanation": "صبر اياله كيكيه ترهادف كافير يڠ منننتڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-14",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برجهاد اكن مندافت ___.",
+  "options": [
+   "كلمهن",
+   "كرضاءن",
+   "كبيناساءن"
+  ],
+  "answer": 1,
+  "explanation": "برجهاد ممبري كرضاءن الله.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-15",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤݢرڠن الأحزاب برلاكو دالم بولن ___.",
+  "options": [
+   "رجب",
+   "شعبان",
+   "شوال"
+  ],
+  "answer": 2,
+  "explanation": "ڤݢرڠن الأحزاب برلاكو دالم بولن شوال.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-16",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صحابة يڠ دتݢكف اوليه مشركين مكة سبلوم بيعة الرضوان اياله ___.",
+  "options": [
+   "سيدنا حمزة",
+   "سيدنا علي",
+   "سيدنا عثمان"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا عثمان بن عفان دتݢكف اوليه مشركين مكة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-17",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسن ڤرجنجين حديبية؟",
+  "options": [
+   "نݢارا امان دامي",
+   "يهودي تله دأوسير",
+   "إسلام سماكين ملواس"
+  ],
+  "answer": 2,
+  "explanation": "إسلام سماكين ملواس سلفس فرجنجين حديبية.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-18",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تنترا إسلام اكن سلامت براد دتمفت يڠ ___.",
+  "options": [
+   "مدرسة",
+   "مسجد الحرام",
+   "رومه ابو سفيان"
+  ],
+  "answer": 2,
+  "explanation": "رومه ابو سفيان دجاديكن تمفت فرليندوڠن دالم فمبوكاءن مكة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-19",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فربواتن رسول الله ﷺ كتيك طواف دكعبة تركاندوڠ سعي دان ___.",
+  "options": [
+   "توجوه فوسيڠن",
+   "صلاة سنة",
+   "خطبة"
+  ],
+  "answer": 0,
+  "explanation": "طواف تركاندوڠ توجوه فوسيڠن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-20",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ مسلم يڠ برجاي اياله تكس دالم فركارا عقيدة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مسلم برجاي تتف تكس دالم عقيدة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-21",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فريواتي ملائكة ترهادف رسول الله ﷺ سبلوم إسراء دان معراج.",
+  "options": [
+   "دبله دادا",
+   "هجرة",
+   "مسجد قباء"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة ممبله دان منچوچي دادا باݢيندا سبلوم إسراء دان معراج.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-22",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برفينده درڤد ساتو تمفت كسواتو تمفت.",
+  "options": [
+   "هجرة",
+   "مدينة",
+   "حديبية"
+  ],
+  "answer": 0,
+  "explanation": "هجرة برمعنا برفينده تمفت.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-23",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرلمباݢاءن فرتام ددنيا.",
+  "options": [
+   "مسجد قباء",
+   "هجرة",
+   "مدينة"
+  ],
+  "answer": 0,
+  "explanation": "مسجد قباء اياله فرلمباݢاءن فرتام يڠ دبينا رسول الله ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-24",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ددريكن فد تاهون ك 14 كرسولن.",
+  "options": [
+   "مدينة",
+   "هجرة",
+   "مسجد قباء"
+  ],
+  "answer": 0,
+  "explanation": "نݢارا إسلام مدينة ددريكن فد تاهون ك 14 كرسولن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-25",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرجنجين انتارا رسول الله ﷺ دان مشركين مكة.",
+  "options": [
+   "حديبية",
+   "هجرة",
+   "مدينة"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين حديبية انتارا رسول الله ﷺ دان مشركين مكة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-26",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاريخ برلاكوڽ فريستيوا إسراء دان معراج.",
+  "options": [
+   "27 رجب",
+   "1 محرم",
+   "10 ذو الحجة"
+  ],
+  "answer": 0,
+  "explanation": "إسراء دان معراج برلاكو ڤد 27 رجب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-27",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاورن هديه يڠ باكي بيرجاي منولق كفد رسول الله ﷺ سبݢاي شافيق.",
+  "options": [
+   "هرتا دان كدودوقن",
+   "بنتوان تنترا",
+   "كواسا"
+  ],
+  "answer": 0,
+  "explanation": "قوم قريش مناورکن هرتا دان كدودوقن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-28",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مسجد يڠ برڏكتن دݢن كعبة دفݢݢيل ___.",
+  "options": [
+   "مسجد الحرام",
+   "مسجد قباء",
+   "مسجد النبوي"
+  ],
+  "answer": 0,
+  "explanation": "مسجد الحرام برڏكتن دݢن كعبة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-29",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاريخ برلاكوڽ فݢرڠن بدر.",
+  "options": [
+   "17 رمضان تاهون 2 هجرية",
+   "1 شوال",
+   "10 ذو الحجة"
+  ],
+  "answer": 0,
+  "explanation": "ڤݢرڠن بدر برلاكو 17 رمضان تاهون 2 هجرية.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2025-30",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله فندودوق بني خزاعة يڠ ترقربان.",
+  "options": [
+   "23 اورڠ",
+   "10 اورڠ",
+   "40 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "23 اورڠ بني خزاعة ترقربان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]

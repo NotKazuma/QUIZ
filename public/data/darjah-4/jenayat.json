@@ -1,0 +1,572 @@
+[
+ {
+  "id": "darjah-4-jenayat-pat2025-01",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه جنايه قد هرتا؟",
+  "options": [
+   "مروموفق",
+   "مموبونوه",
+   "منچدراكن"
+  ],
+  "answer": 0,
+  "explanation": "مروموفق (منچوري) اياله چونتوه جنايه قد هرتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-02",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم ممبونوه دڠن سڠاج؟",
+  "options": [
+   "دية",
+   "كفارة",
+   "قصاص"
+  ],
+  "answer": 2,
+  "explanation": "ممبونوه سڠاج حکومڽ قصاص.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-03",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جنيس ممبونوه؟",
+  "options": [
+   "دوا",
+   "تيك",
+   "امفت"
+  ],
+  "answer": 1,
+  "explanation": "ممبونوه تربهاݢي تيك.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-04",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي كافر حربي؟",
+  "options": [
+   "كافر ذمي",
+   "كافر باير جزية",
+   "كافر يݢ باݢي دڠن إسلام"
+  ],
+  "answer": 2,
+  "explanation": "كافر حربي اياله كافر يݢ ممرڠي إسلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-05",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه دوا جنيس ممبونوه ترساله؟",
+  "options": [
+   "ممبونوه دݢن سݢاج",
+   "ممبونوه يݢ تيدق دسݢاجكن",
+   "ممبونوه سرفا مسلم"
+  ],
+  "answer": 1,
+  "explanation": "ممبونوه ترساله اياله ممبونوه يݢ تيدق دسݢاجكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-06",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم باكي ممبونوه يݢ مروفاكن سݢاج؟",
+  "options": [
+   "دحکوم قصاص",
+   "تيدق دبالس قصاص",
+   "واجب مماباير دية"
+  ],
+  "answer": 0,
+  "explanation": "ممبونوه سݢاج دحکوم قصاص.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-07",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جنيس٢ كسالهن يݢ واجب دحکوم قصاص؟",
+  "options": [
+   "دوا",
+   "تيك",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "قصاص واجب باكي دوا جنيس كسالهن: نياوا دان اݢكوتا بادن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-08",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم يݢ دكناكن جک دماتيكن عضو تربوت باد سسأورݢ؟",
+  "options": [
+   "دية مغلظة",
+   "دية مخففة",
+   "تيدق واجب قصاص"
+  ],
+  "answer": 2,
+  "explanation": "تيدق واجب قصاص جک تياد قصد جناية.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-09",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط حکوم قصاص دݢن سبب كچدراءن ايالة ___.",
+  "options": [
+   "برعقل",
+   "هيلݢ عقل",
+   "كانق٢"
+  ],
+  "answer": 0,
+  "explanation": "شرط قصاص ايالة برعقل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-10",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم فموتوݢن دݢن يݢ تيدق مروفوغسي برفوغسي ايالة ___.",
+  "options": [
+   "دية",
+   "غُرّة",
+   "قصاص"
+  ],
+  "answer": 1,
+  "explanation": "غرة اياله دية باكي كاندوݢن يݢ ݢوݢور.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-11",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم دية مخففة برتوكر برتوكر كفد مغلظة اڤبيلا ___.",
+  "options": [
+   "دبونوه دتانه حلال",
+   "دبونوه دالم بولن رمضان",
+   "دبونوه دالم بولن شوال"
+  ],
+  "answer": 1,
+  "explanation": "دية منجادي مغلظة اڤابيلا دبونوه دالم بولن حرام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-12",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله دية ممبونوه فرمفوان سچارا سݢاج ايالة ___.",
+  "options": [
+   "20 ايکور اونتا",
+   "30 ايکور اونتا",
+   "40 ايکور اونتا"
+  ],
+  "answer": 0,
+  "explanation": "دية ممبونوه فرمفوان سݢاج ايالة 20 ايکور اونتا (سفاروه درفد للاكي).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-13",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم دية كران ملوكاكن كأوفاياءن اورغ يهودي كفد اورغ إسلام ايالة ___.",
+  "options": [
+   "1/2 دية مسلم",
+   "1/3 دية مسلم",
+   "1/4 دية مسلم"
+  ],
+  "answer": 0,
+  "explanation": "دية اهل كتاب اياله سفاروه درفد دية مسلم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-14",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي حُكُومَة ايالة ___.",
+  "options": [
+   "بالس بونوه",
+   "كنتي روݢي",
+   "دكناكن تعزير"
+  ],
+  "answer": 1,
+  "explanation": "حكومة برمعنا كنتي روݬي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-15",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم دية مموتوغ دوا فركلڠن تاغن ايالة ___.",
+  "options": [
+   "20 ايکور اونتا",
+   "50 ايکور اونتا",
+   "100 ايکور اونتا"
+  ],
+  "answer": 2,
+  "explanation": "دية مموتوغ دوا فركلڠن تاغن (كدوا) ايالة 100 ايکور اونتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-16",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم دية مموتوغ ليده ايالة ___.",
+  "options": [
+   "50 ايکور اونتا",
+   "60 ايکور اونتا",
+   "100 ايکور اونتا"
+  ],
+  "answer": 2,
+  "explanation": "دية مموتوغ ليده ايالة 100 ايکور اونتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-17",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت ايالة حکوم دية منجابوت كيکي كچوالي ___.",
+  "options": [
+   "5% دية",
+   "5 ايکور اونتا",
+   "50 ايکور اونتا"
+  ],
+  "answer": 1,
+  "explanation": "5 ايکور اونتا بوكن حکوم دية اونتوق كيکي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-18",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حکوم دية مغهيلڠكن دايا فرتوترن كچوالي ___.",
+  "options": [
+   "10 ايکور اونتا",
+   "100 ايکور اونتا",
+   "دكيرا مݢيكوت درجت دية سمفورنا"
+  ],
+  "answer": 0,
+  "explanation": "10 ايکور اونتا بوكن حکوم دية اونتوق فرتوترن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-19",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه انتارا برايكوت مروفاكن دية يݢ دكناكن كران هيلݢ عقل؟",
+  "options": [
+   "تيدق دكناكن دية جک هيلݢ عقل سمبوه",
+   "دكناكن دية جک هيلݢ عقل سمبوه",
+   "دكناكن دية 100 اونتا جک تياد هارفن سمبوه"
+  ],
+  "answer": 2,
+  "explanation": "دية 100 اونتا دكناكن جک تياد هارفن سمبوه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-20",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه انتارا برايكوت جنيس كفارة قمبونوهن؟",
+  "options": [
+   "ممبايار دية سهاج",
+   "مرديكاكن همبا",
+   "برفواسا دوا بولن"
+  ],
+  "answer": 1,
+  "explanation": "مرديكاكن همبا اياله ساله ساتو جنيس كفارة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-21",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ممبونوه دݢن سݢاج.",
+  "options": [
+   "قصاص",
+   "50 اونتا",
+   "قول جديد"
+  ],
+  "answer": 0,
+  "explanation": "ممبونوه سݢاج دحکوم قصاص.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-22",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فنداڤت يݢ ممبوليهكن دية بترتوكر درف اونتا كفد وݢ.",
+  "options": [
+   "قول جديد",
+   "قصاص",
+   "مغلظة"
+  ],
+  "answer": 0,
+  "explanation": "قول جديد ممبوليهكن فرتوكرن دية اونتا كفد وݢ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-23",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية يݢ دكناكن كأتس ممبونوه دالم بولن حرام.",
+  "options": [
+   "مغلظة",
+   "100 اونتا",
+   "50 اونتا"
+  ],
+  "answer": 0,
+  "explanation": "مغلظة اياله دية يݢ دبرتكن كران ممبونوه دالم بولن حرام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-24",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مموتوغ هيدوغ.",
+  "options": [
+   "100 اونتا",
+   "50 اونتا",
+   "قصاص"
+  ],
+  "answer": 0,
+  "explanation": "دية مموتوغ هيدوغ ايالة 100 ايکور اونتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-25",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مموتوغ ساتو تلينݢا.",
+  "options": [
+   "50 اونتا",
+   "100 اونتا",
+   "قول جديد"
+  ],
+  "answer": 0,
+  "explanation": "دية مموتوغ ساتو تلينݢا ايالة 50 ايکور اونتا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-26",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو جنيس ديه.",
+  "options": [
+   "دية مغلظة",
+   "قول جديد",
+   "قصاص"
+  ],
+  "answer": 0,
+  "explanation": "دية مغلظة اياله ساله ساتو جنيس دية.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-27",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم دية فرمفوان خنثى مشكل.",
+  "options": [
+   "دكيرا سفرتي للاكي",
+   "دكيرا سفرتي فرمفوان",
+   "تيدق دكناكن دية"
+  ],
+  "answer": 0,
+  "explanation": "خنثى مشكل دكيرا سفرتي للاكي دالم حکوم دية.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-28",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جناية يݢ تيدق فرلو قصاص.",
+  "options": [
+   "ترساله",
+   "سݢاج",
+   "شبه سݢاج"
+  ],
+  "answer": 0,
+  "explanation": "ممبونوه ترساله تيدق دحکوم قصاص.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-29",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس فمبونوهن يݢ دكناكن كفارة.",
+  "options": [
+   "سموا جنيس فمبونوهن",
+   "ترساله سهاج",
+   "سݢاج سهاج"
+  ],
+  "answer": 0,
+  "explanation": "سموا جنيس فمبونوهن دكناكن كفارة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2025-30",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو بنتوق كفارة فمبونوهن.",
+  "options": [
+   "فواسا دوا بولن برتوروت",
+   "دية 100 اونتا",
+   "قصاص"
+  ],
+  "answer": 0,
+  "explanation": "فواسا دوا بولن برتوروت اياله ساله ساتو بنتوق كفارة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]

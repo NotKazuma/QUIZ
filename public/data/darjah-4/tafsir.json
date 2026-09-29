@@ -1,0 +1,572 @@
+[
+ {
+  "id": "darjah-4-tafsir-pat2025-01",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كنجرن باكي اورݢ يݢ برصدقه؟",
+  "options": [
+   "هرتا",
+   "فهالا",
+   "كسوسهن"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ برصدقه مندافت ݢنجرن فهالا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-02",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توجوان برصدقه؟",
+  "options": [
+   "مݢريما فوجين",
+   "منداڤت كدودوقن",
+   "منريما كردوقن الله ﷺ"
+  ],
+  "answer": 2,
+  "explanation": "توجوان برصدقه اياله منريما كرضاءن الله ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-03",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي فركاتاءن \"مَثَلٌ\"؟",
+  "options": [
+   "كهندق",
+   "كروكن",
+   "بنديڠن"
+  ],
+  "answer": 2,
+  "explanation": "مثل برمعنا بنديڠن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-04",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله واڠ يݢ ددرماكن اوليه عبدالرحمن بن عوف دالم فرݢن تبوك؟",
+  "options": [
+   "4000 درهم",
+   "4500 درهم",
+   "5000 درهم"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا عبدالرحمن بن عوف مندرماكن 5000 درهم.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-05",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا منجالنكن حکوم منجالنكن حکوم سسام ماءنسي؟",
+  "options": [
+   "ظاليم",
+   "عاديل",
+   "مميليه"
+  ],
+  "answer": 1,
+  "explanation": "حکوم مستي دجالنكن دݢن عاديل.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-06",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه امانه ماءنسي كفد الله ﷺ؟",
+  "options": [
+   "منجاك رهسيا",
+   "منجاك ديري درفد بهاي",
+   "منجاك دان مماتوهي فرينته الله"
+  ],
+  "answer": 2,
+  "explanation": "امانه كفد الله اياله منجاك دان مماتوهي فرينتهڽ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-07",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري٢ اورݢ يݢ عاديل؟",
+  "options": [
+   "فيليه كاسيه سسام ماءنسي",
+   "مݢحكوم سچارا سقسام",
+   "برات سبله"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ عاديل مݢحكوم سچارا سقسام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-08",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود \"يَأْمُرُكُمْ\"؟",
+  "options": [
+   "انتارا ماءنسي",
+   "كامو مݢحكوم",
+   "منيوروه كامو"
+  ],
+  "answer": 2,
+  "explanation": "يأمركم برمعنا منيوروه كامو.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-09",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جواڤن اوچافن سلام يݢ لبيه بايق ايالة ___.",
+  "options": [
+   "السلام عليكم",
+   "وعليكم السلام",
+   "وعليكم السلام ورحمة الله وبركاته"
+  ],
+  "answer": 2,
+  "explanation": "جواڤن تربايق اياله وعليكم السلام ورحمة الله وبركاته.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-10",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مݢجواب سلام اياله ___.",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "مݢجواب سلام حکومڽ واجب.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-11",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مماچ كاسيه ساياݢ دان دعاء اياله ___.",
+  "options": [
+   "مݢهارف فوجين",
+   "مݢجواب سلام",
+   "ممبري فحرمتن"
+  ],
+  "answer": 1,
+  "explanation": "سلام مماچ كاسيه ساياݢ دان دعاء، اياله مݢجواب سلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-12",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن يݢ دلاكوكن مستيله دسرتاءي دݢن ___.",
+  "options": [
+   "نية",
+   "احسان",
+   "هارفن"
+  ],
+  "answer": 0,
+  "explanation": "ستياف عملن مستي دسرتاءي دݢن نية.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-13",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي نية دري سݢي بهاس اياله ___.",
+  "options": [
+   "هارفن",
+   "هوراءين",
+   "قصد"
+  ],
+  "answer": 2,
+  "explanation": "نية دري سݢي بهاس برمعنا قصد.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-14",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود فركاتاءن \"لِدُنْيَا\" اياله ___.",
+  "options": [
+   "كران اي",
+   "سسوݢكوهڽ دنيا",
+   "كران دنيا"
+  ],
+  "answer": 2,
+  "explanation": "لدنيا برمعنا كران دنيا.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-15",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يݢ ممفايكن كفد رسول الله ﷺ معناهوي حقيقت إسلام اياله ___.",
+  "options": [
+   "جبريل",
+   "ميكائيل",
+   "عزرائيل"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل ممفايكن حقيقت إسلام كفد رسول الله ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-16",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة يݢ دفرينتهكن فد 27 رجب اياله ___.",
+  "options": [
+   "حج",
+   "زكاة",
+   "فواسا"
+  ],
+  "answer": 0,
+  "explanation": "حج دفرينتهكن فد 27 رجب دالم فريستيوا إسراء دان معراج.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-17",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله مروفاكن ركن إسلام كچوالي ___.",
+  "options": [
+   "مݢلوارکن زكاة",
+   "برفواسا دبولن رمضان",
+   "منووچف دوا كليمة شهادة"
+  ],
+  "answer": 2,
+  "explanation": "منووچف دوا كليمة شهادة اياله ركن إيمان، بوكن إسلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-18",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله مروفاكن فݢرتين دوا كليمة شهادة كچوالي ___.",
+  "options": [
+   "لفظ كإسلامن",
+   "ركن إسلام فرتام",
+   "لندسن كهيدوفن سأورݢ إسلام"
+  ],
+  "answer": 1,
+  "explanation": "دوا كليمة شهادة اياله ركن إيمان فرتام، بوكن ركن إسلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-19",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ احسان اياله ___.",
+  "options": [
+   "امانه دان جوجور",
+   "منطاعتي فرينته الله ﷺ",
+   "سنتياس برسيكف رياء"
+  ],
+  "answer": 1,
+  "explanation": "احسان اياله منطاعتي فرينته الله ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-20",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مݢحياتي احسان دالم كهيدوفن اياله ___.",
+  "options": [
+   "ميمبه الله ﷺ",
+   "برشكور اتس نعمت الله ﷺ",
+   "ملوفاكن نعمت الله"
+  ],
+  "answer": 1,
+  "explanation": "برشكور اتس نعمت الله ﷺ اياله چارا مݢحياتي احسان.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-21",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ اوچفن سلام.",
+  "options": [
+   "السلام عليكم",
+   "سنة",
+   "اورغ كافر"
+  ],
+  "answer": 0,
+  "explanation": "السلام عليكم اياله لفظ اوچفن سلام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-22",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مݢجواب سلام.",
+  "options": [
+   "سنة",
+   "السلام عليكم",
+   "نبي آدم"
+  ],
+  "answer": 0,
+  "explanation": "مݢجواب سلام حکومڽ سنة (اتاو واجب كفايه).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-23",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كولوݢن يݢ مݢانجوركن شيطان سباݢاي سهابتڽ.",
+  "options": [
+   "اورغ كافر",
+   "نبي آدم",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "اورغ كافر مݢانجوركن شيطان سباݢاي سهابتڽ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-24",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يݢ دكلواركن دري شرݢ كران هاسوتن ابليس.",
+  "options": [
+   "نبي آدم",
+   "اورغ كافر",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "نبي آدم دكلواركن دري شرݢ كران هاسوتن ابليس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-25",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي فركاتاءن \"رَبَّنَا\".",
+  "options": [
+   "واهاي توهن كامي",
+   "سلام سجهترا",
+   "توهن كامي بركواس"
+  ],
+  "answer": 0,
+  "explanation": "ربنا برمعنا واهاي توهن كامي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-26",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فݢرتين ايمان يݢ ممبنركن هاتي دان براقرار دݢن ليدة.",
+  "options": [
+   "ايمان اجمالي",
+   "ايمان تفصيلي",
+   "ايمان مطلق"
+  ],
+  "answer": 0,
+  "explanation": "ايمان اجمالي اياله ممبنركن هاتي دان براقرار دݢن ليدة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-27",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت واجب باكي رسول الله.",
+  "options": [
+   "صدق",
+   "كذب",
+   "خيانة"
+  ],
+  "answer": 0,
+  "explanation": "صدق اياله صيفت واجب باكي رسول الله.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-28",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله ﷺ مستحيل برصيفت دݢن سكالا صيفت.",
+  "options": [
+   "ككوراݢن",
+   "كسمفورناءن",
+   "كمولياءن"
+  ],
+  "answer": 0,
+  "explanation": "الله مستحيل برصيفت دݢن سكالا صيفت ككوراݢن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-29",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي احسان دالم بهاس برمقصود.",
+  "options": [
+   "كباءيقن",
+   "كجاهتن",
+   "كسومبوݢن"
+  ],
+  "answer": 0,
+  "explanation": "احسان دالم بهاس برمقصود كباءيقن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2025-30",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ احسان اياله مراس نعمت الله دالم مݢرجاكن.",
+  "options": [
+   "عبادة",
+   "معصية",
+   "كجاهتن"
+  ],
+  "answer": 0,
+  "explanation": "احسان مراس نعمت الله دالم مݢرجاكن عبادة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ }
+]
