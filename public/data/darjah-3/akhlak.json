@@ -1410,6 +1410,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-akhlak-upp22024-01",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چارا استقامة دݢن اݢݢوتا بادن؟",
+  "options": [
+   "عبادة",
+   "شهادة",
+   "صلوات"
+  ],
+  "answer": 0,
+  "explanation": "استقامة دڠن اݢݢوتا بادن اياله برعبادة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-02",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه فوڠسي يڠ مبنتو سسأورڠ مفراوليه استقامة؟",
+  "options": [
+   "منداڤت دوسا",
+   "منداڤت هداية",
+   "منداڤت فݢكت"
+  ],
+  "answer": 1,
+  "explanation": "استقامة دبنتو دڠن منداڤت هداية.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-03",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه يڠ منجادي فنداون اومت ماءنسي؟",
+  "options": [
+   "توحيد",
+   "القرءان",
+   "مجاله"
+  ],
+  "answer": 1,
+  "explanation": "القرءان اياله فنداون اومت ماءنسي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-04",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام لاءين باݢي القرءان؟",
+  "options": [
+   "الدُّخَان",
+   "الكِتَابُ",
+   "النِّسَاء"
+  ],
+  "answer": 1,
+  "explanation": "الكتاب اياله نام لاءين القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-05",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سماس مباچ القرءان؟",
+  "options": [
+   "خشوع",
+   "بربوال-بوال",
+   "كناوا"
+  ],
+  "answer": 0,
+  "explanation": "خشوع اياله ادب سماس مباچ القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-06",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: استقامة دالم ملاكوكن كباءيقن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "استقامة اياله تتف تݢوه دالم ملاكوكن كباءيقن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-07",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: اورݢ يڠ برايستقامة تيدق منداڤت كتنڠن هاتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ برايستقامة منداڤت كتنڠن هاتي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-08",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: القرءان دتورونكن دالم بهاس عرب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دتورونكن دالم بهاس عرب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-09",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: دبنركن مموروس القرءان سلفس مباچ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "القرءان مستي دسيمفن دڠن هورمت، بوكن دموروس.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-10",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بتول اتاو ساله: بردعاء سلفس مباچ القرءان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء سلفس مباچ القرءان اياله سنة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-11",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "استقامة دݢن هاتي دلاكوكن دڠن راس ___.",
+  "options": [
+   "اخلاص",
+   "دندم",
+   "معصية"
+  ],
+  "answer": 0,
+  "explanation": "استقامة دݢن هاتي دلاكوكن دڠن راس اخلاص.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-12",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرمولأن ستياف عملن اياله دڠن ___.",
+  "options": [
+   "نية",
+   "امره",
+   "معصية"
+  ],
+  "answer": 0,
+  "explanation": "ستياف عملن برمولا دڠن نية.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-13",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه استقامة اياله منداڤت ___.",
+  "options": [
+   "كتنڠن",
+   "كسوسهن",
+   "كسديهن"
+  ],
+  "answer": 0,
+  "explanation": "استقامة ممبري كتنڠن جيوا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-14",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فندوان اونتوق سلوروه اومت ماءنسي اياله ___.",
+  "options": [
+   "القرءان",
+   "معجزة",
+   "رسالة"
+  ],
+  "answer": 0,
+  "explanation": "القرءان اياله فندوان اونتوق سلوروه اومت ماءنسي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-15",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم مباچ القرءان اياله ___.",
+  "options": [
+   "برسوچي دان بروضوء",
+   "برسواك",
+   "مماكاي كاسوت"
+  ],
+  "answer": 0,
+  "explanation": "برسوچي دان بروضوء اياله ادب سبلوم مباچ القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-16",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبلوم مباچ القرءان دسنتكن ممباچ ___.",
+  "options": [
+   "تعوذ",
+   "سلام",
+   "اذان"
+  ],
+  "answer": 0,
+  "explanation": "دسنتكن ممباچ تعوذ سبلوم مباچ القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-17",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو شرط استقامة اياله سنتياس ___.",
+  "options": [
+   "برعبادة",
+   "برمالس-مالسن",
+   "ملݢكر"
+  ],
+  "answer": 0,
+  "explanation": "استقامة ممرلوكن كيت سنتياس برعبادة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-18",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتاب يڠ دتورونكن كفد نبي محمد ﷺ اياله ___.",
+  "options": [
+   "القرءان",
+   "التوراة",
+   "الإنجيل"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دتورونكن كفد نبي محمد ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-19",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سماس مباچ القرءان اياله ممفرباڽقكن ___.",
+  "options": [
+   "دعاء",
+   "بربوال",
+   "برݬوراو"
+  ],
+  "answer": 0,
+  "explanation": "ممفرباڽقكن دعاء اياله ادب سماس مباچ القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-20",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مݢنتوه القرءان تنفا وضوء.",
+  "options": [
+   "حرام",
+   "هاروس",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "مݢنتوه القرءان تنفا وضوء اياله حرام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-21",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يڠ ممباوا وحي القرءان.",
+  "options": [
+   "جبريل",
+   "ميكائيل",
+   "إسرافيل"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل ممباوا وحي القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-22",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "احسان بركاءيت راڤت دڠن نية يڠ ___.",
+  "options": [
+   "اخلاص",
+   "رياء",
+   "سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "احسان بركاءيت راڤت دڠن نية يڠ اخلاص.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-23",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب اومت إسلام واجب ممفلاجري القرءان.",
+  "options": [
+   "ڤاندوان هيدوف",
+   "هيبورن",
+   "ڤرنياݢاءن"
+  ],
+  "answer": 0,
+  "explanation": "القرءان اياله فاندوان هيدوف اومت إسلام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-24",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتاب القرءان مروفاكن معجزة ___.",
+  "options": [
+   "نبي محمد ﷺ",
+   "نبي موسى",
+   "نبي عيسى"
+  ],
+  "answer": 0,
+  "explanation": "القرءان اياله معجزة نبي محمد ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22024-25",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سلفس مباچ القرءان.",
+  "options": [
+   "بردعاء",
+   "منيݢكلكن ترسادر",
+   "مملمفر"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء اياله ادب سلفس مباچ القرءان.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-akhlak-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Akhlak",

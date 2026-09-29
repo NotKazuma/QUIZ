@@ -1900,6 +1900,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-ibadat-upp22024-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حکوم صلاة جمعة؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة واجب ك اتس للاكي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه شرط صح صلاة جمعة؟",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "شرط صح صلاة جمعة اد تيݢ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤركارا سنة سبلوم منونايكن صلاة جمعة.",
+  "options": [
+   "مندي",
+   "تيدور",
+   "ماكن"
+  ],
+  "answer": 0,
+  "explanation": "مندي سنة سبلوم صلاة جمعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله يڠ تيدق واجب صلاة جمعة كچوالي ___.",
+  "options": [
+   "اورڠ كافير",
+   "اورڠ ݢيلا",
+   "اورڠ إسلام"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ إسلام يڠ چوكوڤ شرط واجب صلاة جمعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فركارا يڠ سنة دلاكوكن كتيك مندڠر خطبه اياله ___.",
+  "options": [
+   "ديام",
+   "بربوال",
+   "برجالن"
+  ],
+  "answer": 0,
+  "explanation": "سنة ديام كتيك مندڠر خطبه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ مرديک واجب صلاة جمعة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ مرديک يڠ چوكوڤ شرط واجب صلاة جمعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط صح صلاة جمعة اياله ددهولوءي دڠن دوا خطبه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة ددهولوءي دڠن دوا خطبه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خطبه اياله اوچڤن يڠ دباچ اوليه مأموم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "خطبه دباچ اوليه خطيب، بوكن مأموم.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باچاءن خطبه هندقله دسمفايکن سباڤيق كالي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "خطبه دباچ دوا كالي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مأموم دسنتكن دودوق كتيك مندڠر خطبه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مأموم دسنتكن دودوق كتيك مندڠر خطبه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سكوراڠ-كوراڠڽ جومله مأموم صلاة جمعة.",
+  "options": [
+   "40 اورڠ",
+   "20 اورڠ",
+   "10 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة مموڤاكن شرط سكوراڠ-كوراڠڽ 40 اورڠ مكلف.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمفت خطيب مباچ خطبه.",
+  "options": [
+   "ميمبر",
+   "مصلى",
+   "منارا"
+  ],
+  "answer": 0,
+  "explanation": "خطيب مباچ خطبه دأتس ميمبر.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه فسنن اونتوق برتقوى.",
+  "options": [
+   "إتَّقُوا اللَّهَ",
+   "شُكْرًا",
+   "بَسْمَلَةً"
+  ],
+  "answer": 0,
+  "explanation": "إتقوا الله اياله فسنن برتقوى.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ مباچ دان مسمفايكن خطبه.",
+  "options": [
+   "خطيب",
+   "بلال",
+   "إمام"
+  ],
+  "answer": 0,
+  "explanation": "خطيب اياله اورڠ يڠ مباچ خطبه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن برچاكف كتيك خطيب سدڠ مباچ خطبه.",
+  "options": [
+   "لوڤوت ڤهالا",
+   "منداڤت ڤهالا",
+   "دبريكن ݢنجرن"
+  ],
+  "answer": 0,
+  "explanation": "برچاكف كتيك خطبه مڽببكن لوڤوت ڤهالا.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو دلاكسناكن صلاة جمعة.",
+  "options": [
+   "ظهر",
+   "صبح",
+   "عصر"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة دلاكسناكن ڤد واقتو ظهر.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فركارا يڠ سنة دلاكوكن سبلوم صلاة جمعة.",
+  "options": [
+   "مماكاي واڠين",
+   "تيدور",
+   "بربوال"
+  ],
+  "answer": 0,
+  "explanation": "مماكاي واڠين اياله سنة سبلوم صلاة جمعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم اورڠ يڠ ݢيلا مڠرجاكن صلاة جمعة.",
+  "options": [
+   "تيدق واجب",
+   "واجب",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ ݢيلا تيدق واجب صلاة جمعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا اورڠ مفچن فوجين كفد الله.",
+  "options": [
+   "بردعاء",
+   "برجالن",
+   "برماءين"
+  ],
+  "answer": 0,
+  "explanation": "بردعاء اياله چارا مفوجي الله.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکمه منونايكن صلاة جمعة.",
+  "options": [
+   "مرافتكن اوخووة",
+   "منمبه ڤرموسوهن",
+   "منجاءوهي جماعه"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة مرافتكن اوخووة (ڤرساودارأن) اومت إسلام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلغن ركعة صلاة جمعة.",
+  "options": [
+   "دوا ركعة",
+   "تيݢ ركعة",
+   "امڤت ركعة"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة دوا ركعة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط واجب صلاة جمعة.",
+  "options": [
+   "للاكي مكلف",
+   "كانق٢",
+   "مسافير"
+  ],
+  "answer": 0,
+  "explanation": "شرط واجب صلاة جمعة اياله للاكي مكلف يڠ برمقيم.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمفت دديريكن صلاة جمعة.",
+  "options": [
+   "مسجد",
+   "رومه",
+   "ڤجابت"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة دديريكن دمسجد.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مموتوسكن صلاة سبلوم سلام كتيك خطبه بلوم تمت.",
+  "options": [
+   "مكروه",
+   "واجب",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "مموتوسكن كتيك خطبه اياله مكروه.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22024-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط مكلف اياله بالغ دان ___.",
+  "options": [
+   "برعقل",
+   "كانق٢",
+   "برهرتا"
+  ],
+  "answer": 0,
+  "explanation": "شرط مكلف اياله بالغ دان برعقل.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",

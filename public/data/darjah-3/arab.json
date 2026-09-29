@@ -1701,6 +1701,480 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-arab-upp22024-01",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَتَى يُصَلِّي الطَّالِبُ الصُّبْحَ؟",
+  "options": [
+   "السَّادِسَةُ صَبَاحًا",
+   "التَّاسِعَةُ صَبَاحًا",
+   "السَّادِسَةُ مَسَاءً"
+  ],
+  "answer": 0,
+  "explanation": "ڤلاجر صلاة صبح ڤوكول انم ڤاݢي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-02",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَلْعَبُ فِي المَلْعَبِ فِي السَّاعَةِ ___ مَسَاءً.",
+  "options": [
+   "الوَاحِدَةُ",
+   "الخَامِسَةُ",
+   "الثَّامِنَةُ"
+  ],
+  "answer": 1,
+  "explanation": "ساي برماءين دفادڠ ڤوكول ليم ڤتڠ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-03",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "قِ + زْ + دٌّ = ___",
+  "options": [
+   "قِزْدٌّ",
+   "قِزْ + دٌّ",
+   "قَزْدُ"
+  ],
+  "answer": 1,
+  "explanation": "ق + ز + د = قِزْدٌّ، دتوليس قِ + زْ + دٌّ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-04",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "بَقَرٌ فِي اللُّغَةِ المَلَايُوِيَّةِ ___",
+  "options": [
+   "ايم",
+   "لمبو",
+   "كمبيڠ"
+  ],
+  "answer": 1,
+  "explanation": "بَقَرٌ برمعنا لمبو.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-05",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٣٩ = ___",
+  "options": [
+   "سِتَّةٌ وَثَلَاثُونَ",
+   "تِسْعَةٌ وَثَلَاثُونَ",
+   "إِثْنَانِ وَثَلَاثُونَ"
+  ],
+  "answer": 1,
+  "explanation": "٣٩ = تِسْعَةٌ وَثَلَاثُونَ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-06",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسَدٌ نَابُ قَوِيٌّ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "سيڠ ممڤوڽاءي تاريڠ يڠ قوات.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-07",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كمبيڠ فِي اللُّغَةِ العَرَبِيَّةِ هُوَ بَقَرٌ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "كمبيڠ = غَنَمٌ، بوكن بَقَرٌ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-08",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٩٩ = تِسْعَةٌ وَتِسْعُونَ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "٩٩ = تِسْعَةٌ وَتِسْعُونَ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-09",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَ + نَا + يِ + رُ = يَنَايِرُ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "ي + نا + ي + ر = يَنَايِرُ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-10",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَصْفَرُ فِي اللُّغَةِ المَلَايُوِيَّةِ هُوَ \"ميره\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "أَصْفَرُ برمعنا كونيڠ، بوكن ميره.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-11",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذِهِ ___",
+  "image": "images/darjah-3/arab-upp224-salad.jpg",
+  "options": [
+   "السَّلَطَةُ",
+   "الفِلْفِلُ",
+   "الكُرُنْبُ"
+  ],
+  "answer": 0,
+  "explanation": "ݢمبر سلاد: السَّلَطَةُ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-12",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-3/arab-upp224-rusa.jpg",
+  "options": [
+   "عُصْفُورٌ",
+   "تِمْسَاحٌ",
+   "غَزَالٌ"
+  ],
+  "answer": 2,
+  "explanation": "ݢمبر روسا: غَزَالٌ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-13",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٦١ = ___",
+  "options": [
+   "وَاحِدٌ وَسِتُّونَ",
+   "أَحَدَ عَشَرَ",
+   "سَبْعَةٌ وَعِشْرُونَ"
+  ],
+  "answer": 0,
+  "explanation": "٦١ = وَاحِدٌ وَسِتُّونَ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-14",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هَذَا؟",
+  "image": "images/darjah-3/arab-upp224-susu.jpg",
+  "options": [
+   "القَهْوَةُ",
+   "الحَلِيبُ",
+   "الشَّايُ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر سوسو: الحَلِيبُ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-15",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ هِيَ؟",
+  "image": "images/darjah-3/arab-upp224-guru.jpg",
+  "options": [
+   "المُمَرِّضَةُ",
+   "الأُسْتَاذَةُ",
+   "الطَّبِيبَةُ"
+  ],
+  "answer": 1,
+  "explanation": "ݢمبر ݢورو ممݢجر دفافن هيتم: الأُسْتَاذَةُ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-16",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الأَسَدُ فِي ___",
+  "options": [
+   "الغَابَةِ",
+   "ننظف",
+   "منزلي"
+  ],
+  "answer": 0,
+  "explanation": "سيڠ هيدوڤ دهوتن: فِي الغَابَةِ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-17",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَكَلَ مُحَمَّدٌ ___",
+  "options": [
+   "البَيْضَ",
+   "الغَابَةِ",
+   "ننظف"
+  ],
+  "answer": 0,
+  "explanation": "محمد ماكن تلور: أَكَلَ البَيْضَ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-18",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَقَمُ ___ خَمْسَةٌ وَخَمْسُونَ.",
+  "options": [
+   "مَنْزِلِي",
+   "الغَابَةِ",
+   "البَيْضَ"
+  ],
+  "answer": 0,
+  "explanation": "نومبور رومه ساي: رَقَمُ مَنْزِلِي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-19",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "نَحْنُ ___ سَائِرَ الفَصْلِ.",
+  "options": [
+   "نُنَظِّفُ",
+   "الغَابَةِ",
+   "البَيْضَ"
+  ],
+  "answer": 0,
+  "explanation": "كامي ممبرسيهكن سلوروه كلس: نُنَظِّفُ سَائِرَ الفَصْلِ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-20",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَثَاثُ الفَصْلِ ___",
+  "options": [
+   "رَخِيصٌ",
+   "غَالٍ",
+   "جَدِيدٌ"
+  ],
+  "answer": 0,
+  "explanation": "ڤرابوت كلس مورا: رَخِيصٌ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-21",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"طوماتو\" بِاللُّغَةِ العَرَبِيَّةِ ___",
+  "options": [
+   "طَمَاطِمُ",
+   "بَطَاطِسُ",
+   "جَزَرٌ"
+  ],
+  "answer": 0,
+  "explanation": "طوماتو = طَمَاطِمُ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-22",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "١٠٠ فِي الكَلِمَةِ ___",
+  "options": [
+   "مِئَةٌ",
+   "أَلْفٌ",
+   "عَشَرَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "١٠٠ = مِئَةٌ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-23",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُسْتَاذُ عَبْدُ الحَلِيمِ يُعَلِّمُنِي مَادَّةَ ___",
+  "options": [
+   "اللُّغَةِ العَرَبِيَّةِ",
+   "الرِّيَاضِيَّاتِ",
+   "العُلُومِ"
+  ],
+  "answer": 0,
+  "explanation": "استاذ عبد الحليم مݢاجر بهاس عرب.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-24",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"موز\" بِاللُّغَةِ المَلَايُوِيَّةِ هُوَ ___",
+  "options": [
+   "ڤيسڠ",
+   "اوريڠ",
+   "مݢݢ"
+  ],
+  "answer": 0,
+  "explanation": "موز = ڤيسڠ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-arab-upp22024-25",
+  "exam": "Darjah 3",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "لَوْنُ دَفْتَرِي ___",
+  "options": [
+   "أَحْمَرُ",
+   "طَعْمُهُ",
+   "رَائِحَتُهُ"
+  ],
+  "answer": 0,
+  "explanation": "ورنا بوكو نوتا ساي: أَحْمَرُ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-arab-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Bahasa Arab",

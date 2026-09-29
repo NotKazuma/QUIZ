@@ -1872,6 +1872,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-sirah-upp22024-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قوم يڠ مݢکت دعوه رسول الله ﷺ.",
+  "options": [
+   "مشركين",
+   "أوس",
+   "خزرج"
+  ],
+  "answer": 0,
+  "explanation": "مشركين مݢکت مننتڠ دعوه رسول الله ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق فمبويكوتن ترهادف صحابت رسول الله ﷺ.",
+  "options": [
+   "مفولاون",
+   "دبريكن هرتا",
+   "دبنتو"
+  ],
+  "answer": 0,
+  "explanation": "قوم مشركين مفولاون بني هاشم.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمفت رسول الله ﷺ برهجرة اياله ___.",
+  "options": [
+   "طائف",
+   "مدينة",
+   "حبشة"
+  ],
+  "answer": 1,
+  "explanation": "رسول الله ﷺ برهجرة ك مدينة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام صحابت نبي محمد ﷺ يڠ بردعوه كطائف.",
+  "options": [
+   "سيدنا زيد",
+   "سيدنا علي",
+   "سيدنا ابو بكر"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا زيد بن حارثة بردعوه كطائف برسام رسول الله ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرجنجين عقبة برلاكو ڤد موسيم ___.",
+  "options": [
+   "حج",
+   "فانس",
+   "سجوق"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين عقبة برلاكو ڤد موسيم حج.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمفوه فمولاون بني هاشم سلاما 3 تاهون.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بني هاشم دفولاو سلاما 3 تاهون.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قوم مشركين برجاي مݢهالغ دعوه رسول الله ﷺ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "قوم مشركين تيدق برجاي مݢهالغ دعوه رسول الله ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سماس كطائف رسول الله ﷺ تله دلمفر دڠن باتو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا دلمفر دڠن باتو دطائف.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرجنجين عقبة برلاكو دمدينة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ڤرجنجين عقبة برلاكو دبوكيت عقبة، منى.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "راج النجاشي دكنالي سباݢاي راج يڠ عاديل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "راج النجاشي دكنالي سباݢاي راج يڠ عاديل.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه فمولاون رسول الله ﷺ ترهادف بني هاشم.",
+  "options": [
+   "فمبويكوتن جوال بلي",
+   "دبريكن هرتا",
+   "دبنتو"
+  ],
+  "answer": 0,
+  "explanation": "بني هاشم دفولاو دالم جوال بلي.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام بني يڠ دفولاو.",
+  "options": [
+   "بني هاشم",
+   "بني اسرائيل",
+   "بني قريظة"
+  ],
+  "answer": 0,
+  "explanation": "بني هاشم اياله بني يڠ دفولاو مشركين.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "راج حبشة يڠ منريما رسول الله ﷺ.",
+  "options": [
+   "النجاشي",
+   "أبو جهل",
+   "أبو لهب"
+  ],
+  "answer": 0,
+  "explanation": "راج النجاشي منريما ڤڠيكوت رسول الله ﷺ دحبشة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يڠ منماني رسول الله ﷺ سماس دطائف.",
+  "options": [
+   "جبريل",
+   "ميكائيل",
+   "إسرافيل"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل مݢونجوڠي باݢيندا سماس دطائف.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برجنجي دبوكيت عقبة برسام رسول الله ﷺ.",
+  "options": [
+   "اورڠ مدينة",
+   "اورڠ مكة",
+   "اورڠ طائف"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ مدينة برجنجي دبوكيت عقبة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-16",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاهون برلاكوڽ ڤرجنجين عقبة.",
+  "options": [
+   "سبلوم هجرة كمدينة",
+   "سلفس هجرة كمدينة",
+   "سلفس وفات باݢيندا"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين عقبة برلاكو سبلوم هجرة كمدينة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-17",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايسي ڤرجنجين عقبة.",
+  "options": [
+   "مليندوڠي رسول الله ﷺ",
+   "مننتڠ رسول الله ﷺ",
+   "مݢوسير رسول الله ﷺ"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ مدينة برجنجي مليندوڠي رسول الله ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-18",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله يڠ ترليبت دالم ڤرجنجين عقبة كدوا.",
+  "options": [
+   "73 اورڠ",
+   "40 اورڠ",
+   "25 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين عقبة كدوا ملبتكن 73 اورڠ اسلام مدينة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-19",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن ڤرجنجين عقبة.",
+  "options": [
+   "ممبوكا جالن هجرة كمدينة",
+   "منمبه ڤرموسوهن",
+   "مݢهنتيكن دعوه"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين عقبة ممبوكا جالن هجرة كمدينة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-20",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قوم يڠ مواكيلي فرجنجين عقبة درڤد مدينة.",
+  "options": [
+   "أوس دان خزرج",
+   "قريش",
+   "حبشة"
+  ],
+  "answer": 0,
+  "explanation": "قوم أوس دان خزرج مواكيلي مدينة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-21",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب رسول الله ﷺ برهجرة كحبشة.",
+  "options": [
+   "منچاري ڤرليندوڠن",
+   "برنياݢ",
+   "ملنچوڠ"
+  ],
+  "answer": 0,
+  "explanation": "هجرة كحبشة اونتوق منچاري ڤرليندوڠن.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-22",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيكف راج النجاشي ترهادف ڤݢيكوت رسول الله ﷺ.",
+  "options": [
+   "عاديل دان ملينداوڠي",
+   "ككجم",
+   "مݢهالو"
+  ],
+  "answer": 0,
+  "explanation": "راج النجاشي عاديل دان ملينداوڠي ڤݢيكوت رسول الله ﷺ.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-23",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيدنا زيد بن حارثة برسام رسول الله ﷺ سماس بردعوه ك ___.",
+  "options": [
+   "طائف",
+   "حبشة",
+   "مدينة"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا زيد منماني باݢيندا بردعوه كطائف.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-24",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هجرة ڤرتام اومت إسلام دلاكوكن ك ___.",
+  "options": [
+   "حبشة",
+   "مدينة",
+   "طائف"
+  ],
+  "answer": 0,
+  "explanation": "هجرة ڤرتام اومت إسلام دلاكوكن ك حبشة.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22024-25",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان اومت إسلام برهجرة كمدينة.",
+  "options": [
+   "مندريكن نݢارا إسلام",
+   "برنياݢ",
+   "ملنچوڠ"
+  ],
+  "answer": 0,
+  "explanation": "هجرة كمدينة برتوجوان مندريكن نݢارا إسلام.",
+  "source": "UPP2 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-sirah-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Sirah",
