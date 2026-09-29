@@ -432,7 +432,7 @@ export default function App() {
       setAssignment(null);
     }
     // statsRef dikemas kini serta-merta oleh updateStats di atas.
-    myClasses.forEach(c => updateMemberSummary(c.id, user.uid, statsRef.current).catch(() => {}));
+    myClasses.forEach(c => updateMemberSummary(c.id, user.uid, statsRef.current, avatar).catch(() => {}));
   }
 
   // Mula kerja rumah: soalan tetap yang dipilih cikgu, dalam mod Latihan atau Cabaran.

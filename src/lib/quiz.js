@@ -3,7 +3,10 @@ import { loadSubjectDoc } from './firebase.js';
 
 // Laluan relatif kepada index.html (fail dalam folder public/).
 export function assetUrl(path) {
-  return import.meta.env.BASE_URL + String(path).replace(/^\//, '');
+  const s = String(path);
+  // Gambar yang dimuat naik cikgu disimpan sebagai data URL; URL penuh juga dibiar.
+  if (/^(data:|blob:|https?:)/.test(s)) return s;
+  return import.meta.env.BASE_URL + s.replace(/^\//, '');
 }
 
 export async function loadConfig() {

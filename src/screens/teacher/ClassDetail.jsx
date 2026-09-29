@@ -7,6 +7,7 @@ import {
 import { dueLabel } from '../classes/HomeworkList.jsx';
 import AssignmentForm from './AssignmentForm.jsx';
 import AssignmentReport from './AssignmentReport.jsx';
+import StudentDetail from './StudentDetail.jsx';
 import Emoji from '../../components/Emoji.jsx';
 import { ask } from '../../components/ConfirmDialog.jsx';
 
@@ -62,6 +63,21 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
   if (view) {
     return <AssignmentReport cls={cls} assignment={view} members={members || []} config={config} onBack={() => setView(null)} />;
   }
+  if (openStudent) {
+    return (
+      <StudentDetail
+        cls={cls}
+        member={openStudent}
+        assignments={assignments || []}
+        config={config}
+        onBack={() => setOpenStudent(null)}
+        onRemoved={uid => {
+          setMembers(list => (list || []).filter(x => x.uid !== uid));
+          setOpenStudent(null);
+        }}
+      />
+    );
+  }
 
   return (
     <section className="screen">
@@ -94,10 +110,9 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
               const s = m.summary || {};
               const acc = s.answered ? Math.round(((s.correct || 0) / s.answered) * 100) : 0;
               const subjects = Object.entries(m.subjects || {}).sort((a, b) => a[1] - b[1]);
-              const expanded = openStudent === m.uid;
               return (
                 <div key={m.uid} className="card user-row">
-                  <button className="student-main" onClick={() => setOpenStudent(expanded ? null : m.uid)}>
+                  <button className="student-main" onClick={() => setOpenStudent(m)}>
                     <span className="user-name">{m.name}{m.isGuest && <span className="role role-guest">Tetamu</span>}</span>
                     <span className="user-stats">
                       {s.answered || 0} soalan · {acc}% betul · {s.quizzes || 0} latihan · {s.challenges || 0} cabaran
@@ -107,20 +122,9 @@ export default function ClassDetail({ user, cls, config, onBack, onDeleted, onHo
                     {subjects.length > 0 && (
                       <span className="weak">Paling lemah: {subjects.slice(0, 2).map(([k, v]) => `${subjectName(k)} (${v}%)`).join(', ')}</span>
                     )}
+                    <span className="muted small">Tekan untuk butiran penuh →</span>
                   </button>
-                  {expanded && (
-                    <div className="student-detail">
-                      {subjects.length ? (
-                        <ul className="subject-bars">
-                          {subjects.map(([k, v]) => (
-                            <li key={k}><span>{subjectName(k)}</span><Progress value={v} /><b>{v}%</b></li>
-                          ))}
-                        </ul>
-                      ) : <p className="muted small">Belum menamatkan mana-mana latihan.</p>}
-                      <p className="muted small"><Emoji e="🔥" /> Berturut terbaik {s.bestStreak || 0} · <Emoji e="💎" /> Mata tertinggi {s.bestPoints || 0} · <Emoji e="📅" /> {s.dayStreak || 0} hari berturut</p>
-                      <button className="btn btn-ghost btn-sm btn-danger" onClick={() => kick(m)}>Keluarkan dari kelas</button>
-                    </div>
-                  )}
+                  <button className="btn btn-ghost btn-sm btn-danger" onClick={() => kick(m)}>Keluarkan</button>
                 </div>
               );
             })}

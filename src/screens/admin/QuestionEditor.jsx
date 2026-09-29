@@ -1,6 +1,7 @@
 // Borang sunting satu soalan (objektif atau subjektif).
 import { useState } from 'react';
 import { BackButton, Icon } from '../../components/ui.jsx';
+import ImageField from '../../components/ImageField.jsx';
 import { DIFFICULTY, DIFFICULTY_ORDER } from '../../lib/challenge.js';
 
 const SCRIPTS = [
@@ -111,16 +112,12 @@ export default function QuestionEditor({ question, isNew, saving, onCancel, onSa
         <textarea {...textProps} rows={3} value={q.explanation || ''} onChange={e => set('explanation', e.target.value)} />
       </label>
 
-      <div className="field-row">
-        <label className="field">
-          <span className="field-label">Sumber</span>
-          <input className="input" value={q.source || ''} placeholder="cth. UPKK 2024" onChange={e => set('source', e.target.value)} />
-        </label>
-        <label className="field">
-          <span className="field-label">Gambar (laluan)</span>
-          <input className="input" value={q.image || ''} placeholder="images/upkk/…" onChange={e => set('image', e.target.value || null)} />
-        </label>
-      </div>
+      <label className="field">
+        <span className="field-label">Sumber</span>
+        <input className="input" value={q.source || ''} placeholder="cth. UPKK 2024" onChange={e => set('source', e.target.value)} />
+      </label>
+
+      <ImageField value={q.image || ''} onChange={v => set('image', v || null)} />
 
       <label className="check check-lg">
         <input type="checkbox" checked={Boolean(q.perlu_semak)} onChange={e => set('perlu_semak', e.target.checked)} />

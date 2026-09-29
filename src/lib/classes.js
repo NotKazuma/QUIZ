@@ -93,6 +93,34 @@ export async function listSubmissions(cid, aid) {
   return snap.docs.map(d => ({ uid: d.id, ...d.data() }));
 }
 
+// Semua hantaran satu murid merentas setiap kerja rumah kelas, untuk panel
+// terperinci cikgu. Setiap kerja rumah = satu bacaan dokumen.
+export async function listStudentSubmissions(cid, uid, assignments) {
+  const out = await Promise.all((assignments || []).map(async a => {
+    const snap = await getDoc(doc(db(), 'classes', cid, 'assignments', a.id, 'submissions', uid))
+      .catch(() => null);
+    return { assignment: a, sub: snap && snap.exists() ? snap.data() : null };
+  }));
+  return out;
+}
+
+// Purata kelas bagi setiap kerja rumah — untuk membandingkan murid dengan kelas.
+export async function classAverages(cid, assignments) {
+  const out = {};
+  await Promise.all((assignments || []).map(async a => {
+    const subs = await listSubmissions(cid, a.id).catch(() => []);
+    if (!subs.length) { out[a.id] = null; return; }
+    const pct = subs.map(s => (s.total ? (s.firstScore / s.total) * 100 : 0));
+    out[a.id] = {
+      count: subs.length,
+      avg: Math.round(pct.reduce((n, x) => n + x, 0) / pct.length),
+      best: Math.round(Math.max(...pct)),
+      wrongIds: subs.flatMap(s => s.wrongIds || []),
+    };
+  }));
+  return out;
+}
+
 // ===== Murid =====
 export async function findClassByCode(code) {
   const snap = await getDoc(doc(db(), 'classCodes', code.trim().toUpperCase()));
@@ -125,8 +153,9 @@ export async function getClasses(ids) {
 }
 
 // Ringkasan kemajuan murid untuk laporan cikgu (dikemas kini selepas setiap latihan).
-export function updateMemberSummary(cid, uid, stats) {
+export function updateMemberSummary(cid, uid, stats, avatar) {
   return updateDoc(doc(db(), 'classes', cid, 'members', uid), {
+    ...(avatar ? { avatar } : {}),
     summary: {
       answered: stats.answered || 0,
       correct: stats.correct || 0,
