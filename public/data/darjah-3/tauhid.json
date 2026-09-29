@@ -1383,6 +1383,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-tauhid-upp12024-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي رسول ڤد بهاس؟",
+  "options": [
+   "ڤرخبرن",
+   "ڤرسورتن",
+   "ڤراوتوسن"
+  ],
+  "answer": 2,
+  "explanation": "رسول برمعنا ڤراوتوسن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بيلاڠن ڤاراهن نبي؟",
+  "options": [
+   "120 000",
+   "124 000",
+   "126 000"
+  ],
+  "answer": 1,
+  "explanation": "بيلاڠن ڤارا نبي اياله 124 000 اورڠ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ دبريكن وحي اونتوق دسمڤايكن كڤد قومڽ؟",
+  "options": [
+   "نبي",
+   "كتوا",
+   "رسول"
+  ],
+  "answer": 2,
+  "explanation": "رسول دبريكن وحي اونتوق دسمڤايكن كڤد قومڽ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا كچيل هاري قيامة؟",
+  "options": [
+   "كتوهنن",
+   "كهنچورن",
+   "علمو دأڠكت"
+  ],
+  "answer": 2,
+  "explanation": "علمو دأڠكت اياله تندا كچيل هاري قيامة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انق درهاک كڤد ايبو باڤ اداله ___.",
+  "options": [
+   "تندا سايڠ",
+   "تندا حرمت",
+   "تندا هاري قيامة"
+  ],
+  "answer": 2,
+  "explanation": "انق درهاک اياله تندا كچيل هاري قيامة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد رسول اياله واجب فرض عين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد رسول اياله واجب فرض عين.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول دڤيليه اوليه كوم مريک.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "رسول دڤيليه اوليه الله، بوكن كوم مريک.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صدق برمعنا بنر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صدق برمعنا بنر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "يَوْمُ الدِّين اداله نام هاري قيامة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "يوم الدين اياله نام لاءين هاري قيامة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة فرچاي كڤد هاري قيامة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كڤد هاري قيامة اياله واجب، بوكن سنة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاڠن رسول يڠ مسمڤايكن رسول.",
+  "options": [
+   "131",
+   "188",
+   "313"
+  ],
+  "answer": 2,
+  "explanation": "بيلاڠن رسول سچارا كسلوروهن اياله 313 اورڠ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي تَبْلِيغ.",
+  "options": [
+   "بنر",
+   "جوجور",
+   "مسمڤايكن"
+  ],
+  "answer": 2,
+  "explanation": "تبليغ برمعنا مسمڤايكن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كنجرن برايمان كڤد نبي دان رسول.",
+  "options": [
+   "شركک",
+   "نراک",
+   "سكوله"
+  ],
+  "answer": 1,
+  "explanation": "تيدق برايمان كڤد نبي دان رسول مندافت انچمن نراک.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "يَوْمُ الحِسَابِ.",
+  "options": [
+   "هاري كبڠكيتن",
+   "هاري ڤرهيتوڠن",
+   "هاري هورو هارا"
+  ],
+  "answer": 1,
+  "explanation": "يوم الحساب برمعنا هاري ڤرهيتوڠن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مونچولڽ دَجَّال.",
+  "options": [
+   "تندا هاري راي",
+   "تندا هاري جمعة",
+   "تندا هاري قيامة"
+  ],
+  "answer": 2,
+  "explanation": "مونچولڽ دجّال اياله تندا هاري قيامة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ ممڤوڽاءي كصبرن تيڠݢي.",
+  "options": [
+   "كِذْب",
+   "أُولُو العَزْم",
+   "مندافت شفاعة"
+  ],
+  "answer": 1,
+  "explanation": "أولو العزم اياله رسول يڠ ساڠت تيڠݢي كصبرنڽ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت مستحيل باݢي رسول.",
+  "options": [
+   "كِذْب",
+   "أُولُو العَزْم",
+   "مندافت شفاعة"
+  ],
+  "answer": 0,
+  "explanation": "كذب (دوستا) اياله صيفت مستحيل باݢي رسول.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد نبي دان رسول.",
+  "options": [
+   "طاعة كڤد الله تعالى",
+   "أُولُو العَزْم",
+   "مندافت شفاعة"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد نبي دان رسول اياله طاعة كڤد الله تعالى.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سكالين مخلوق برهيمڤون دفادڠ محشر.",
+  "options": [
+   "سواسان هاري قيامة",
+   "أُولُو العَزْم",
+   "كِذْب"
+  ],
+  "answer": 0,
+  "explanation": "سواسان هاري قيامة مڠهيمڤونكن سكالين مخلوق دڤادڠ محشر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد هاري قيامة.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد هاري قيامة اياله واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاغن رسول يڠ واجب دكتاهوءي دڠن تفصيلي.",
+  "options": [
+   "25 اورڠ",
+   "313 اورڠ",
+   "124 000 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "رسول يڠ واجب دكتاهوءي دڠن تفصيلي اد 25 اورڠ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاغن رسول يڠ دبري ݢلرن أُولُو العَزْم.",
+  "options": [
+   "ليم اورڠ",
+   "دوا اورڠ",
+   "توجوه اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "أولو العزم اد ليم اورڠ رسول.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برايمان كڤد رسول.",
+  "options": [
+   "منجاديكن مريک چونتوه تلادن",
+   "منجادي سومبوڠ",
+   "مالس برعبادة"
+  ],
+  "answer": 0,
+  "explanation": "كيت منجاديكن رسول سباݢاي چونتوه تلادن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-24",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين هاري قيامة.",
+  "options": [
+   "يَوْمُ القَارِعَةِ",
+   "يَوْمُ الجُمُعَةِ",
+   "يَوْمُ العِيدِ"
+  ],
+  "answer": 0,
+  "explanation": "يوم القارعة اياله نام لاءين هاري قيامة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp12024-25",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كڤد هاري قيامة.",
+  "options": [
+   "واجب",
+   "سنة مؤكدة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كڤد هاري قيامة اياله واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",

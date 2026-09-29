@@ -940,6 +940,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-akhlak-upp12024-01",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورݢ يڠ بربودي اياله ___.",
+  "options": [
+   "ڤماره",
+   "مسرا",
+   "ملاون"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ بربودي برسيكف مسرا.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-02",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مݢهرݢاءي ماس اياله ___.",
+  "options": [
+   "ممباج بوكو",
+   "ملاون ايبو باف",
+   "ممبوات بيسيغ"
+  ],
+  "answer": 0,
+  "explanation": "ممباج بوكو اياله چارا مݢهرݢاءي ماس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-03",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كباءيقن منجاݢ ماس؟",
+  "options": [
+   "مشاركت موندور",
+   "هيدوف برجايا",
+   "دڤندڠ كچيل"
+  ],
+  "answer": 1,
+  "explanation": "منجاݢ ماس ممباوا كهيدوفن برجايا.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-04",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤݢرتين امانه اياله ___.",
+  "options": [
+   "امان",
+   "تاكوت",
+   "مالو"
+  ],
+  "answer": 0,
+  "explanation": "امانه درڤد سودوت بهاس برمعنا امان.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-05",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كبوروقن اورݢ يڠ تيدق امانه.",
+  "options": [
+   "دڤندڠ موليا",
+   "دكر ڤخيانت",
+   "دڤرچاياءي"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ يڠ تيدق امانه دكر ڤخيانت (فڠخيانت).",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-06",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كرونتوهن اخلاق دسببكن صيفت تيدق برودي بهاس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تيدق بربودي بهاس مڽببكن كرونتوهن اخلاق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-07",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هيدوف اكن برجاي جک كيت منجاݢ ماس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "منجاݢ ماس ممباوا كجاياءن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-08",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جيوا يڠ تنڠ اداله كلبيهن صيفت امانه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صيفت امانه ملاهيركن جيوا يڠ تنڠ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-09",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت برتݢݢوݢجواب اداله چيري ماءنسي براخلاق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برتݢݢوݢجواب اياله چيري ماءنسي براخلاق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-10",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق دهرݢاءي مروڤاكن كلبيهن سيكف برتݢݢوݢجواب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ برتݢݢوݢجواب اكن دهرݢاءي، بوكن سباليقڽ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-11",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نعمت يڠ سلالو دبريكن الله.",
+  "options": [
+   "تيتيق يوم",
+   "سيوق بيوف",
+   "تسيح"
+  ],
+  "answer": 0,
+  "explanation": "ماس اياله نعمت يڠ سلالو دبريكن الله (وقتو).",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-12",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماس يڠ دعبارتكن سفرتي ___.",
+  "options": [
+   "امس",
+   "دويت",
+   "بوكو"
+  ],
+  "answer": 0,
+  "explanation": "ماس دعبارتكن سفرتي امس.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-13",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معنا امانه ڤد بهاس اياله ___.",
+  "options": [
+   "باءيقن",
+   "امان",
+   "تاكوت"
+  ],
+  "answer": 1,
+  "explanation": "امانه ڤد بهاس برمعنا امان.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-14",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بالسن اورݢ يڠ تيدق امانه.",
+  "options": [
+   "نراك",
+   "شركا",
+   "دنيا"
+  ],
+  "answer": 0,
+  "explanation": "بالسن اورݢ تيدق امانه اياله نراك.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-15",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تݢݢوݢجواب دي رومه مݢجاݢ نام باءيق كلوارݢ.",
+  "options": [
+   "سكوله",
+   "كلوارك",
+   "نكارا"
+  ],
+  "answer": 1,
+  "explanation": "تݢݢوݢجواب دي رومه اياله مݢجاݢ نام باءيق كلوارك.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-16",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بودي بهاس يڠ باءيق.",
+  "options": [
+   "براخلاق",
+   "منديري",
+   "مالس"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ بربودي بهاس سنتياس براخلاق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-17",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن بربودي بهاس دكد ناكارا.",
+  "options": [
+   "منجادي چونتوه",
+   "دبنچي",
+   "دهينا"
+  ],
+  "answer": 0,
+  "explanation": "عملن بربودي بهاس منجادي چونتوه باءيق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-18",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود ڤركاتاءن \"ماس\".",
+  "options": [
+   "وقتو",
+   "جم",
+   "هاري"
+  ],
+  "answer": 0,
+  "explanation": "ماس برمعنا وقتو.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-19",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن اورݢ يڠ امانه.",
+  "options": [
+   "دڤرچاياءي",
+   "دبنچي",
+   "دجاءوهي"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ امانه دڤرچاياءي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-20",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تݢݢوݢجواب مروفاكن كواركک.",
+  "options": [
+   "كلوارك",
+   "سكوله",
+   "نكارا"
+  ],
+  "answer": 0,
+  "explanation": "منجاك نام باءيق اياله تݢݢوݢجواب ترهادف كلوارك.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-21",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري بودي بهاس اورݢ بربودي.",
+  "options": [
+   "اورݢ يڠ بربودي",
+   "منجادي مالس",
+   "برموسوهن"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ يڠ بربودي مسرا دان راماه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-22",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن بربودي بهاس دكد نايف.",
+  "options": [
+   "دكد نايف",
+   "دبنچي",
+   "دهينا"
+  ],
+  "answer": 0,
+  "explanation": "عملن بربودي بهاس دكد نايف (ديچونتوهي).",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-23",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كباءيقن مݢوروس ماس دڠن باءيق.",
+  "options": [
+   "فلاجر يڠ برديسيفلين",
+   "منجادي مالس",
+   "دڤندڠ كچيل"
+  ],
+  "answer": 0,
+  "explanation": "مݢوروس ماس منجاديكن فلاجر يڠ برديسيفلين.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-24",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورݢ يڠ اورݢ امانه.",
+  "options": [
+   "دڤرچاياءي مسياركت",
+   "ملاجر فلاجرن",
+   "دلارڠ الله"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ امانه دڤرچاياءي مسياركت.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp12024-25",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بالسن باݢي اورݢ يڠ خيانت اياله ___ الله.",
+  "options": [
+   "كد الله",
+   "بركة",
+   "رحمة"
+  ],
+  "answer": 0,
+  "explanation": "بالسن خيانت اياله انچمن كد الله.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-akhlak-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Akhlak",

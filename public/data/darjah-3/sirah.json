@@ -1401,6 +1401,477 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-sirah-upp12024-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤرݢرتين برتحنث؟",
+  "options": [
+   "كمبيرا",
+   "سديه",
+   "ڤرياواتن مهنديري"
+  ],
+  "answer": 2,
+  "explanation": "برتحنث برمعنا ڤرياواتن مهنديري.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب باݢيندا برتحنث اياله ___.",
+  "options": [
+   "سوكاچيتا",
+   "برتفكور",
+   "تيدق سوسه هاتي"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا برتحنث دڠن برتفكور.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن مندكتكن ديري كڤد الله.",
+  "options": [
+   "برذيكير",
+   "مڤاڤي",
+   "مناري"
+  ],
+  "answer": 0,
+  "explanation": "برذيكير مندكتكن ديري كڤد الله.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا نبي محمد ﷺ منريما وحي.",
+  "options": [
+   "ڤربوالن",
+   "ميمڤي",
+   "چريتا"
+  ],
+  "answer": 1,
+  "explanation": "باݢيندا منريما وحي انتاراڽ ملالوءي ميمڤي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو تندا كنبين باݢيندا.",
+  "options": [
+   "فوكوق ممبري سلام",
+   "ميمڤي چهاي كلاف",
+   "ميمڤي بوروق"
+  ],
+  "answer": 0,
+  "explanation": "فوكوق ممبري سلام اياله تندا كنبين باݢيندا.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي مݢالي تندا كنبين كتيك برعمور 40 تاهون.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا مݢالي تندا كنبين ڤد عمور 40 تاهون.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي سلالو مرنوڠ، برتفكير كجادين الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا سلالو مرنوڠ دان برتفكير كجادين الله.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وحي مروفاكن كلام الله يڠ دسمفايكن كڤد اوليه-اوليه الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "وحي دسمفايكن كڤد نبي دان رسول، بوكن اوليه-اوليه.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سورة الفلق اداله سورة ڤرتام يڠ دتورونكن كڤد رسول الله ﷺ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سورة ڤرتام يڠ دتورونكن اياله سورة العلق، بوكن الفلق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برتحنث اداله شريعة نبي إبراهيم.",
+  "options": [
+   "ابراهيم",
+   "نوح",
+   "إدريس"
+  ],
+  "answer": 0,
+  "explanation": "برتحنث اداله شريعة نبي إبراهيم.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا سبب برتحنث.",
+  "options": [
+   "مرن وحيوش",
+   "بربرچاكف",
+   "سوكا"
+  ],
+  "answer": 0,
+  "explanation": "مرنوڠكن وحيو اياله انتارا سبب برتحنث.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا نبي منريما وحي.",
+  "options": [
+   "ڤربوالن",
+   "جريتا",
+   "الهام"
+  ],
+  "answer": 2,
+  "explanation": "الهام اياله ساله ساتو چارا نبي منريما وحي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا ڤرمولأن وحي.",
+  "options": [
+   "ميمڤي يڠ بنر",
+   "ميمڤي بوروق",
+   "تيدق برميمڤي"
+  ],
+  "answer": 0,
+  "explanation": "ميمڤي يڠ بنر اياله تندا ڤرمولأن وحي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوسيا نبي كتيك منريما وحي.",
+  "options": [
+   "40 تاهون",
+   "30 تاهون",
+   "50 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا منريما وحي ڤد عمور 40 تاهون.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بولن نبي منريما وحي دتورونكن.",
+  "options": [
+   "رمضان",
+   "شعبان",
+   "شوال"
+  ],
+  "answer": 0,
+  "explanation": "وحي دتورونكن ڤد بولن رمضان.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-16",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت باݢيندا برتحنث.",
+  "options": [
+   "ݢوا حراء",
+   "ݢوا ثور",
+   "مسجد الحرام"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا برتحنث دݢوا حراء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-17",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وحي ڤرتام باݢيندا دتريما دي ___.",
+  "options": [
+   "ݢوا حراء",
+   "ݢوا ثور",
+   "مسجد الحرام"
+  ],
+  "answer": 0,
+  "explanation": "وحي ڤرتام دتريما دݢوا حراء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-18",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلام الله يڠ دسمفايكن كڤد نبي دان رسول.",
+  "options": [
+   "كلام الله يڠ دسمفايكن الله",
+   "چريتا",
+   "ميمڤي بوروق"
+  ],
+  "answer": 0,
+  "explanation": "وحي اياله كلام الله يڠ دسمفايكن كڤد نبي دان رسول.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-19",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يڠ ممباوا وحي كفد رسول الله ﷺ.",
+  "options": [
+   "جبريل",
+   "ميكائيل",
+   "إسرافيل"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل ممباوا وحي كفد رسول الله ﷺ.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-20",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فراساءن نبي كتيك منريما وحي.",
+  "options": [
+   "تاكوت دان كمنر",
+   "كمبيرا",
+   "تنڠ"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا مراسا تاكوت دان كمنر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-21",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت وحي دتورونكن.",
+  "options": [
+   "ݢوا حراء",
+   "بيت المقدس",
+   "طائف"
+  ],
+  "answer": 0,
+  "explanation": "وحي ڤرتام دتورونكن دݢوا حراء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-22",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منجاءوهكن ديري درڤد كموڠكرن مشاركت.",
+  "options": [
+   "برتحنث",
+   "ملنچوڠ",
+   "برسوكاچيتا"
+  ],
+  "answer": 0,
+  "explanation": "برتحنث برتوجوان منجاءوهكن ديري درڤد كموڠكرن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-23",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مروفاكن كلام الله يڠ دسمفايكن كفد نبي دان رسول.",
+  "options": [
+   "وحي",
+   "حديث",
+   "إجماع"
+  ],
+  "answer": 0,
+  "explanation": "وحي اياله كلام الله يڠ دسمفايكن كفد نبي دان رسول.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-24",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاغن كنبين رسول الله ﷺ.",
+  "options": [
+   "40 تاهون",
+   "25 تاهون",
+   "60 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا دلنتيق منجادي رسول ڤد عمور 40 تاهون.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp12024-25",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سورة يڠ دتورونكن ڤرتام.",
+  "options": [
+   "سورة العلق",
+   "سورة الفلق",
+   "سورة الناس"
+  ],
+  "answer": 0,
+  "explanation": "سورة العلق اداله سورة ڤرتام دتورونكن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-sirah-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Sirah",

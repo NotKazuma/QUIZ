@@ -1430,6 +1430,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-ibadat-upp12024-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤرينكتن حدث؟",
+  "options": [
+   "سوچي",
+   "برسيه",
+   "كوتور"
+  ],
+  "answer": 0,
+  "explanation": "حدث تربهاݢي كڤد حدث سوچي دان تيدق سوچي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برسوچي درڤد حدث كچيل اياله ___.",
+  "options": [
+   "بروضوء",
+   "مندي سنة",
+   "مندي واجب"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب برلاكوڽ حدث بسر اياله ___.",
+  "options": [
+   "حيض",
+   "مونته",
+   "هيلڠ عقل"
+  ],
+  "answer": 0,
+  "explanation": "حيض مڽببكن حدث بسر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه فاليڠ لاما داره حيض اياله ___.",
+  "options": [
+   "6 هاري 6 مالم",
+   "7 هاري 7 مالم",
+   "15 هاري 15 مالم"
+  ],
+  "answer": 2,
+  "explanation": "تيمڤوه فاليڠ لاما داره حيض اياله 15 هاري 15 مالم.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فركارا يڠ دلارڠ كتيك حيض اياله ___.",
+  "options": [
+   "بردعاء",
+   "مڠلوارکن زكاة",
+   "منونايكن صلاة"
+  ],
+  "answer": 2,
+  "explanation": "منونايكن صلاة دلارڠ كتيك حيض.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حدث تيدق بوليه دليهت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حدث اياله ككوتورن معنوي، تيدق كليهتن.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هيلڠ عقل ترماسوق دالم حدث بسر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "هيلڠ عقل ترماسوق دالم حدث كچيل.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حدث بسر دسوچيكن دڠن مندي واجب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حدث بسر دسوچيكن دڠن مندي واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ سده حيض دبوليهكن بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سلڤس تام حيض، دبوليهكن بروضوء اونتوق صلاة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "استحاضة اياله داره يڠ كلوار سلڤس تيمڤوه حيض.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "استحاضة اياله داره سلڤس تيمڤوه حيض.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن حدث كچيل.",
+  "options": [
+   "مندي",
+   "برتيمم",
+   "استنجاء"
+  ],
+  "answer": 2,
+  "explanation": "استنجاء ترماسوق دالم چارا برسوچي درڤد حدث.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن كتيك برحدث بسر.",
+  "options": [
+   "طواف",
+   "بردعاء",
+   "برذيكير"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ برحدث بسر دلارڠ طواف.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره يڠ كلوار سلڤس ملاهيركن انق.",
+  "options": [
+   "حيض",
+   "نفاس",
+   "ولادة"
+  ],
+  "answer": 1,
+  "explanation": "نفاس اياله داره سلڤس ملاهيركن انق.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه فاليڠ لاما داره نفاس.",
+  "options": [
+   "20 هاري 20 مالم",
+   "40 هاري 40 مالم",
+   "60 هاري 60 مالم"
+  ],
+  "answer": 2,
+  "explanation": "تيمڤوه فاليڠ لاما داره نفاس اياله 60 هاري 60 مالم.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمور 9 تاهون هيڠݢ 15 تاهون دسبوت ___.",
+  "options": [
+   "بايي",
+   "رماج",
+   "كانق٢"
+  ],
+  "answer": 1,
+  "explanation": "عمور 9 هيڠݢ 15 تاهون اياله رماج.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ماتي شهيد.",
+  "options": [
+   "ماتي شهيد",
+   "برعيمم",
+   "نحيس"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ ماتي دجالن الله دسبوت ماتي شهيد.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن حدث كچيل جک تياد اءير.",
+  "options": [
+   "برعيمم",
+   "ماتي شهيد",
+   "نحيس"
+  ],
+  "answer": 0,
+  "explanation": "جک تياد اءير، حدث دسوچيكن دڠن تيمم (برعيمم).",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بندا كوتور يڠ ممبطلكن صلاة.",
+  "options": [
+   "نحيس",
+   "ماتي شهيد",
+   "برعيمم"
+  ],
+  "answer": 0,
+  "explanation": "نجيس (نحيس) ممبطلكن صلاة.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره فڽاكيت يڠ كلوار بوكن ڤد وقتوڽ.",
+  "options": [
+   "استحاضة",
+   "برعيمم",
+   "ماتي شهيد"
+  ],
+  "answer": 0,
+  "explanation": "استحاضة اياله داره فڽاكيت.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حدث كچيل اياله سبب يڠ مواجبكن ___.",
+  "options": [
+   "حدث كچيل",
+   "برعيمم",
+   "نحيس"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل مواجبكن بروضوء.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو سبب حدث كچيل.",
+  "options": [
+   "كنتوت",
+   "برجالن",
+   "برچاكڤ"
+  ],
+  "answer": 0,
+  "explanation": "كنتوت مڽببكن حدث كچيل.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماتي دالم كأداءن برحدث اياله ماتي دالم كأداءن ___.",
+  "options": [
+   "تيدق سوچي",
+   "سوچي",
+   "برسيه"
+  ],
+  "answer": 0,
+  "explanation": "ماتي برحدث اياله ماتي دالم كأداءن تيدق سوچي.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن ديري درڤد داره نفاس.",
+  "options": [
+   "بروضوء",
+   "مندي واجب",
+   "برتيمم سهاج"
+  ],
+  "answer": 1,
+  "explanation": "نفاس دسوچيكن دڠن مندي واجب.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندي واجب باݢي اورڠ يڠ برحدث بسر.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "مندي واجب اياله واجب باݢي اورڠ برحدث بسر.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp12024-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا بالغ باݢي اورڠ ڤرمڤوان.",
+  "options": [
+   "كلوار داره حيض",
+   "سوارا ڤچه",
+   "تومبوه ميساي"
+  ],
+  "answer": 0,
+  "explanation": "كلوار داره حيض اياله تندا بالغ ڤرمڤوان.",
+  "source": "UPP1 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-ppt2024-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",
