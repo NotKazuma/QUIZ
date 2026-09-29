@@ -3272,6 +3272,474 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-sirah-upp22025-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دعوه رسول الله ﷺ كورڠ منداڤت سمبوتن ڤد ڤريݢكت ___.",
+  "options": [
+   "اول",
+   "اخير",
+   "ترݢ-ترݢن"
+  ],
+  "answer": 0,
+  "explanation": "دعوه ڤرينكت اول كورڠ منداڤت سمبوتن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اساس دعوه رسول الله ﷺ اياله كفرچاياءن كفد ___.",
+  "options": [
+   "كاون",
+   "عالم",
+   "الله"
+  ],
+  "answer": 2,
+  "explanation": "اساس دعوه اياله كفرچاياءن كفد الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قوم قريش مڽمبه ___.",
+  "options": [
+   "برهالا",
+   "باتو فرماتا",
+   "بينتݢ"
+  ],
+  "answer": 0,
+  "explanation": "قوم قريش مڽمبه برهالا سبلوم إسلام.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورݢ يݢ مننتݢ دعوه رسول الله ﷺ.",
+  "options": [
+   "ابو بكر",
+   "ابو جهل",
+   "ابو طالب"
+  ],
+  "answer": 1,
+  "explanation": "ابو جهل مننتݢ دعوه رسول الله ﷺ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاورن قوم مشركين كفد رسول الله ﷺ.",
+  "options": [
+   "هرتا",
+   "انق للاكي",
+   "بنتوان"
+  ],
+  "answer": 0,
+  "explanation": "قوم مشركين مناورکن هرتا اݢر باكيندا مننتيكن دعوه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فرچايا كفد اد دان كواسا الله دلاكوكن سلفس كماتين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "فرچايا كفد الله دلاكوكن سفنجݢ حياة، بوكن سلفس كماتين.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فهم عصبية مݢوتماكن قوم مسيݢ-مسيݢ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عصبية اياله فهم مݢوتماكن قوم مسيݢ-مسيݢ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كولوݢن فميمفين مكة مننتيمفينو دعوه رسول الله ﷺ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كولوݢن فميمفين مكة مننتݢ دعوه رسول الله ﷺ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ ممفوڽاءي فݢيكوت درݢن نصراني.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بيبراڤ فݢيكوت باكيندا ايالة درفد كولوݢن نصراني.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ ديهرمتي كتيك سدݢ طواف دكعبة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "رسول الله ﷺ دهينا، بوكن دهرمتي، كتيك طواف.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢيندا برهجرة ك ___.",
+  "options": [
+   "مدينة",
+   "شام",
+   "يمن"
+  ],
+  "answer": 0,
+  "explanation": "رسول الله ﷺ برهجرة ك مدينة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام باڤ ساودارا رسول الله ﷺ يݢ مليندوݢيڽ.",
+  "options": [
+   "ابو طالب",
+   "ابو جهل",
+   "ابو لهب"
+  ],
+  "answer": 0,
+  "explanation": "ابو طالب مليندوݢي رسول الله ﷺ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قوم يݢ منريما دعوه رسول الله ﷺ.",
+  "options": [
+   "صحابة",
+   "مشركين",
+   "منافقين"
+  ],
+  "answer": 0,
+  "explanation": "صحابة اياله يݢ منريما دعوه رسول الله ﷺ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ اياله رسول ترأخير.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله رسول ترأخير.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن ڤمولاون ترهادف بني هاشم.",
+  "options": [
+   "ديفولاو",
+   "دبنتو",
+   "دهرمتي"
+  ],
+  "answer": 0,
+  "explanation": "بني هاشم دفولاو اوليه قوم مشركين.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-16",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اساس دعوه رسول الله ﷺ.",
+  "options": [
+   "توحيد كفد الله",
+   "برنياݢ",
+   "ملنچوݢ"
+  ],
+  "answer": 0,
+  "explanation": "اساس دعوه اياله توحيد كفد الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-17",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب دعوه دتنتݢ.",
+  "options": [
+   "تاكوت هيلݢ كواسا",
+   "منريما دݢن باءيق",
+   "مݢوكوهكن إسلام"
+  ],
+  "answer": 0,
+  "explanation": "قوم مشركين تاكوت هيلݢ كواسا دان كدودوقن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-18",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كولوݢن يݢ منننتݢ دعوه.",
+  "options": [
+   "مشركين مكة",
+   "صحابة",
+   "انصار"
+  ],
+  "answer": 0,
+  "explanation": "مشركين مكة اياله كولوݢن يݢ منننتݢ دعوه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-19",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صحابة يݢ منريما دعوه رسول الله ﷺ.",
+  "options": [
+   "أبو بكر الصديق",
+   "أبو جهل",
+   "أبو لهب"
+  ],
+  "answer": 0,
+  "explanation": "أبو بكر الصديق اياله انتارا يݢ فرتام منريما دعوه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-20",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تودوهن مشركين ترهادف رسول الله ﷺ.",
+  "options": [
+   "سيحير",
+   "جوجور",
+   "امانه"
+  ],
+  "answer": 0,
+  "explanation": "مشركين منودوه باكيندا سباݢاي اهلي سيحير.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-21",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيدنا بلال بن رباح دسيقسا اوليه قوم مشركين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا بلال دسيقسا كران مملوق إسلام.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-22",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معجزة يݢ منݢواتكن دعوه رسول الله ﷺ.",
+  "options": [
+   "القرءان",
+   "توراة",
+   "إنجيل"
+  ],
+  "answer": 0,
+  "explanation": "القرءان اياله معجزة رسول الله ﷺ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-23",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت يݢ ڤرلو اد كتيك مݢهادفي چابرن دعوه.",
+  "options": [
+   "صبر",
+   "فوتوس اسا",
+   "ماله"
+  ],
+  "answer": 0,
+  "explanation": "صبر ڤرلو كتيك مݢهادفي چابرن دعوه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-24",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمفت دعوه سچارا سوليت.",
+  "options": [
+   "رومه الأرقم",
+   "مسجد الحرام",
+   "بوكيت صفا"
+  ],
+  "answer": 0,
+  "explanation": "رومه الأرقم اياله فوست دعوه سچارا سوليت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22025-25",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه تلادن تربايق باكي اومت إسلام.",
+  "options": [
+   "نبي محمد ﷺ",
+   "أبو جهل",
+   "أبو لهب"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اياله چونتوه تلادن تربايق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-sirah-ppt2025-01",
   "exam": "Darjah 3",
   "subject": "Sirah",

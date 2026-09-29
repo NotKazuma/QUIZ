@@ -3190,6 +3190,475 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-jawi-upp22025-01",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سني كاليكرافي إسلام دسبوت جوݢ ___.",
+  "options": [
+   "سني خط",
+   "سني سيلت",
+   "سني لوكيس"
+  ],
+  "answer": 0,
+  "explanation": "سني كاليكرافي إسلام دسبوت سني خط.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-02",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف اول برسامبوغ مناءيق.",
+  "options": [
+   "بب",
+   "بو",
+   "بك"
+  ],
+  "answer": 0,
+  "explanation": "بب اياله حروف اول برسامبوغ مناءيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-03",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه حروف برركيكي.",
+  "options": [
+   "ث",
+   "ش",
+   "ظ"
+  ],
+  "answer": 1,
+  "explanation": "ش اياله حروف برركيكي تيݢ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-04",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"غ\" برسامبوغ دتݢه.",
+  "options": [
+   "بوغا",
+   "غاغا",
+   "فيغکن"
+  ],
+  "answer": 1,
+  "explanation": "غاغا منونجوقكن غ برسامبوغ دتݢه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-05",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يݢ سام برنتوق دݢن حروف \"خ\" دان \"ج\".",
+  "options": [
+   "ح",
+   "ف",
+   "ص"
+  ],
+  "answer": 0,
+  "explanation": "ح سام برنتوق دݢن خ دان ج، برباذا تيتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-06",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف توݢݬل: ب، د، ص، ظ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ب، د، ص، ظ اياله حروف توݢݬل.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-07",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ب\" مماء بنتوق سام دݢن حروف \"ث\" دتݢه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ب مماء بنتوق سام دݢن ث دتݢه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-08",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ث\" مماء بنتوق سام دݢن حروف \"و\" دتݢه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ث برباذا بنتوق دݢن و دتݢه.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-09",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كفالا حروف \"خ\" برأول دتوليس بولت دان تربوک.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كفالا حروف خ برأول ممڤوڽاءي بنتوق بولت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-10",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايكور حروف \"ج\" سام برنتوق دݢن ايكور حروف \"غ\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ايكور ج سام برنتوق دݢن ايكور ع دان غ سچارا اومومڽ برباذا سديكيت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-11",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف توݢݬل.",
+  "options": [
+   "ص",
+   "طا",
+   "تر"
+  ],
+  "answer": 0,
+  "explanation": "ص اياله چونتوه حروف توݢݬل.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-12",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف اول برسامبوغ مناءيق سديكيت.",
+  "options": [
+   "طق",
+   "ص",
+   "تسخ"
+  ],
+  "answer": 0,
+  "explanation": "طق اياله حروف اول برسامبوغ مناءيق سديكيت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-13",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف اول برسامبوغ تروس.",
+  "options": [
+   "طا",
+   "ص",
+   "تر"
+  ],
+  "answer": 0,
+  "explanation": "طا اياله حروف اول برسامبوغ تروس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-14",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"غ\" برسامبوغ دأخير.",
+  "options": [
+   "تسخ",
+   "طا",
+   "تر"
+  ],
+  "answer": 0,
+  "explanation": "تسخ منونجوقكن غ برسامبوغ دأخير.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-15",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف اول برسامبوغ مناءيق.",
+  "options": [
+   "تر",
+   "طا",
+   "ص"
+  ],
+  "answer": 0,
+  "explanation": "تر اياله حروف اول برسامبوغ مناءيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-16",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خط يݢ دݬوناكن ددالم القرءان.",
+  "options": [
+   "خط نسخ",
+   "خط رومي",
+   "انݬكا"
+  ],
+  "answer": 0,
+  "explanation": "خط نسخ دݬوناكن ددالم القرءان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-17",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق تيتيق حروف \"ب\" برسامبوغ دأول.",
+  "options": [
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "ب ممڤوڽاءي 1 تيتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-18",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق تيتيق حروف \"د\" برسامبوغ دأخير.",
+  "options": [
+   "1",
+   "0",
+   "2"
+  ],
+  "answer": 1,
+  "explanation": "د تيدق ممڤوڽاءي تيتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-19",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق تيتيق حروف \"ح\" برسامبوغ دأول.",
+  "options": [
+   "0",
+   "1",
+   "2"
+  ],
+  "answer": 0,
+  "explanation": "ح تيدق ممڤوڽاءي تيتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-20",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق تيتيق حروف \"ث\" برسامبوغ دأخير.",
+  "options": [
+   "3",
+   "1",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "ث ممڤوڽاءي 3 تيتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-21",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ب\" دان \"ت\" برتمو دݢن حروف \"س\".",
+  "options": [
+   "بست",
+   "تسب",
+   "سبت"
+  ],
+  "answer": 0,
+  "explanation": "ب دان ت برسامبوغ دݢن س منجادي بست.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-22",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دوا حروف يݢ برايكوتن.",
+  "options": [
+   "اب",
+   "با",
+   "اب"
+  ],
+  "answer": 0,
+  "explanation": "ا دان ب اياله دوا حروف يݢ برايكوتن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-23",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دوا اݢكا يݢ ارتام اونتوق منوليس.",
+  "options": [
+   "1، 2",
+   "3، 4",
+   "5، 6"
+  ],
+  "answer": 0,
+  "explanation": "1 دان 2 اياله دوا اݢكا ارتام.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-24",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يݢ برتيتيق.",
+  "options": [
+   "ت",
+   "ا",
+   "د"
+  ],
+  "answer": 0,
+  "explanation": "ت اياله حروف يݢ برتيتيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-jawi-upp22025-25",
+  "exam": "Darjah 3",
+  "subject": "Jawi",
+  "topic": "Jawi",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دعاء اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ دتوليس دالم خط نسخ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دعاء اين بوليه دتوليس دالم خط نسخ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-jawi-ppt2025-01",
   "exam": "Darjah 3",
   "subject": "Jawi",

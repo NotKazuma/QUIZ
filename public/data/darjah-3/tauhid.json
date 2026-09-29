@@ -3254,6 +3254,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-tauhid-upp22025-01",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي قضاء ڤد بهاس؟",
+  "options": [
+   "منتفكن",
+   "مݢهوبوݢبوغکن",
+   "منتفكن"
+  ],
+  "answer": 0,
+  "explanation": "قضاء برمعنا منتفكن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-02",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كولوݢن ماءنسي يݢ تيدق ڤرچاي كفد سوكاءي الله اياله ___.",
+  "options": [
+   "برشكور",
+   "مريضاءي",
+   "ممبݢکاءن ديري"
+  ],
+  "answer": 1,
+  "explanation": "اورݢ يݢ مريضاءي قضاء الله دسوكاءي الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-03",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بيلاݢن قضاء؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 1,
+  "explanation": "قضاء تربهاݢي دوا: مبرم دان معلق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-04",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يݢ واجب برايمان كفد قضاء دان قدر؟",
+  "options": [
+   "كافر",
+   "مسافر",
+   "مكلف"
+  ],
+  "answer": 2,
+  "explanation": "مكلف واجب برايمان كفد قضاء دان قدر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-05",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكمه برايمان كفد قضاء دان قدر؟",
+  "options": [
+   "تيدق صبر",
+   "لبيه براوسها",
+   "تيدق تنݢ"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كفد قضاء دان قدر منجاديكن كيت لبيه براوسها.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-06",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كفد قضاء دان قدر اداله واجب فرض عين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كفد قضاء دان قدر اياله واجب فرض عين.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-07",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء تيدق دساندركن كفد كتنتوان الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "قضاء دساندركن كفد كتنتوان الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-08",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء دان قدر الله فستي اكن برلاكو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قضاء دان قدر الله فستي اكن برلاكو.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-09",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايمان كفد قضاء دان قدر ملاهيركن صيفت مالس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "برايمان كفد قضاء دان قدر ملاهيركن صيفت راجين، بوكن مالس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-10",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء برکاءيت دݢن صيفت قدرة الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قضاء برکاءيت دݢن صيفت قدرة الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-11",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن ايمان يݢ كأنم.",
+  "options": [
+   "قضاء دان قدر",
+   "نبي دان رسول",
+   "هاري قيامة"
+  ],
+  "answer": 0,
+  "explanation": "ركن ايمان كأنم: قضاء دان قدر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-12",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مݢچيڤتا الݢيت.",
+  "options": [
+   "الله",
+   "رسول الله",
+   "ملائكة"
+  ],
+  "answer": 0,
+  "explanation": "الله اياله يݢ مݢچيڤتا الݢيت.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-13",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق ملاكوكن كظاليمن كفد مخلوقڽ.",
+  "options": [
+   "الله",
+   "جين",
+   "ماءنسي"
+  ],
+  "answer": 0,
+  "explanation": "الله تيدق ملاكوكن كظاليمن كفد مخلوقڽ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-14",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن برايمان كفد قضاء دان قدر.",
+  "options": [
+   "شكور",
+   "سومبوݢ",
+   "ظاليم"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كفد قضاء دان قدر ملاهيركن راس شكور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-15",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مݢنفيكن قضاء دان قدر الله.",
+  "options": [
+   "كفور",
+   "كافر",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "مݢنفيكن قضاء دان قدر الله اياله كفور.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-16",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت الله تعالى يݢ برکاءيت دݢن قضاء دان قدر.",
+  "options": [
+   "القُدْرَةُ",
+   "الوُجُودُ",
+   "البَقَاءُ"
+  ],
+  "answer": 0,
+  "explanation": "القدرة (بركواس) برکاءيت راڤت دݢن قضاء دان قدر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-17",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دعاء بوليه مݢوبه تقدير.",
+  "options": [
+   "قضاء مُعَلَّق",
+   "قضاء مُبْرَم",
+   "توبة"
+  ],
+  "answer": 0,
+  "explanation": "قضاء معلق بوليه براوبه دݢن دعاء.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-18",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتنتوان يݢ تيدق بوليه دوباه.",
+  "options": [
+   "ميقيني كتنتوان الله",
+   "راݢو٢",
+   "منولقڽ"
+  ],
+  "answer": 0,
+  "explanation": "كيت واجب ميقيني كتنتوان الله.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-19",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيكف اورݢ يݢ برايمان كفد قضاء دان قدر.",
+  "options": [
+   "برصبر دان رضا",
+   "برڤوتوس اسا",
+   "سومبوݢ"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ برايمان برصبر دان رضا.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-20",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مننتوكن سسواتو ترهادف مخلوقڽ.",
+  "options": [
+   "قدر",
+   "قضاء",
+   "توبة"
+  ],
+  "answer": 0,
+  "explanation": "قدر برمعنا مننتوكن سسواتو ترهادف مخلوق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-21",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برايمان كفد قضاء دان قدر.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "برايمان كفد قضاء دان قدر اياله واجب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-22",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه قضاء يݢ فستي برلاكو.",
+  "options": [
+   "كماتين",
+   "صدقة",
+   "دعاء"
+  ],
+  "answer": 0,
+  "explanation": "كماتين اياله چونتوه قضاء مبرم.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-23",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برايمان كفد قضاء دان قدر.",
+  "options": [
+   "يقين دݢن سفنوه هاتي",
+   "راݢو٢",
+   "منولقڽ"
+  ],
+  "answer": 0,
+  "explanation": "برايمان دݢن يقين دالم هاتي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-24",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکمه برايمان كفد قضاء دان قدر.",
+  "options": [
+   "صبر مݢهادفي داݢݢ",
+   "برڤوتوس اسا",
+   "سومبوݢ"
+  ],
+  "answer": 0,
+  "explanation": "ايمان كفد قضاء دان قدر منجاديكن كيت صبر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-tauhid-upp22025-25",
+  "exam": "Darjah 3",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت الله يݢ برکاءيت دݢن فربيحاتن قدر.",
+  "options": [
+   "القُدْرَةُ",
+   "الوَحْدَانِيَّةُ",
+   "الوُجُودُ"
+  ],
+  "answer": 0,
+  "explanation": "القدرة (بركواس) برکاءيت دݢن فربيحاتن قدر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-tauhid-ppt2025-01",
   "exam": "Darjah 3",
   "subject": "Tauhid",

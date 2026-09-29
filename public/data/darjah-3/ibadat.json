@@ -3320,6 +3320,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-ibadat-upp22025-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فريݢكت ماءنسي يڠ واجب منجالانكن حکوم شرع اياله ___.",
+  "options": [
+   "مميز",
+   "بالغ",
+   "كانق٢"
+  ],
+  "answer": 1,
+  "explanation": "بالغ اياله فريݢكت واجب منجالانكن حکوم شرع.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا بالغ باكي للاكي؟",
+  "options": [
+   "براوين",
+   "سواراݢ فچه",
+   "كلوار حيض"
+  ],
+  "answer": 0,
+  "explanation": "براوين (كلوار مني) اياله تندا بالغ للاكي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تݢكوݢجواب ستله بالغ اياله ___.",
+  "options": [
+   "منوتوف عورة",
+   "ممبوك عورة",
+   "مموكوس عورة"
+  ],
+  "answer": 0,
+  "explanation": "منوتوف عورة اياله تݢكوݢجواب ستله بالغ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس مندي كران هرمن بولن دان ماتاهاري اياله ___.",
+  "options": [
+   "مندي واجب",
+   "مندي سنة",
+   "مندي هاروس"
+  ],
+  "answer": 0,
+  "explanation": "مندي كران حدث بسر اياله مندي واجب.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاݢن ركن مندي واجب اياله ___.",
+  "options": [
+   "تيݢ",
+   "امفت",
+   "دوا"
+  ],
+  "answer": 2,
+  "explanation": "ركن مندي واجب اد دوا: نية دان مراتاكن اءير.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "100 تاهون اداله عمور باكي كولوݢن رماج.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "رماج اياله عمور 9 هيݢك 15 تاهون، بوكن 100 تاهون.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورݢ يݢ بالغ دافت برفيكير سجارا ماتݢ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورݢ بالغ دافت برفيكير سجارا ماتݢ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بلاجر براخلاق موليا سبلوم بالغ اياله فرسدياءن يݢ باءيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بلاجر براخلاق موليا سبلوم بالغ اياله فرسدياءن يݢ باءيق.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مندي واجب سلفس برحدث بسر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مندي واجب دلاكوكن سلفس برحدث بسر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس مندي كران هندق منونايكن صلاة جمعة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "مندي كران صلاة جمعة اياله سنة، بوكن هاروس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمور بالغ باكي للاكي.",
+  "options": [
+   "9 تاهون",
+   "15 تاهون",
+   "20 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "عمور بالغ باكي للاكي اياله 15 تاهون.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مݢاليركن اءير كأتس بادن دݢن نية.",
+  "options": [
+   "مندي",
+   "استنجاء",
+   "برسوكي"
+  ],
+  "answer": 0,
+  "explanation": "مندي برمعنا مݢاليركن اءير كأتس بادن دݢن نية.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه مندي سنة.",
+  "options": [
+   "ماسوق إسلام",
+   "مرتد",
+   "برسالين"
+  ],
+  "answer": 0,
+  "explanation": "مندي سنة دلاكوكن سلفس ماسوق إسلام.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب واجب مندي.",
+  "options": [
+   "ملاهيركن انق",
+   "برڤلوه",
+   "مݢنتوق"
+  ],
+  "answer": 0,
+  "explanation": "ملاهيركن انق (ولادة) مواجبكن مندي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مندي سنة.",
+  "options": [
+   "دلاكوكن سبلوم صلاة جمعة",
+   "تيدق بروضوء",
+   "تنفا نية"
+  ],
+  "answer": 0,
+  "explanation": "مندي سنة دلاكوكن سبلوم صلاة جمعة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فركمبݢن عمور دالم فروت ايبو دفݢݢيل ___.",
+  "options": [
+   "جانين",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "فركمبݢن عمور دالم فروت ايبو دفݢݢيل جانين.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا بالغ باكي فرمفوان.",
+  "options": [
+   "كلوار حيض",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "كلوار حيض اياله تندا بالغ فرمفوان.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملاتيه ديري براخلاق موليا سباءيقڽ دلاكوكن ___.",
+  "options": [
+   "سبلوم بالغ",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "ملاتيه ديري براخلاق موليا سباءيقڽ دلاكوكن سبلوم بالغ.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندي كران براوبه باءو بادن.",
+  "options": [
+   "هاروس",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "مندي كران براوبه باءو بادن اياله هاروس.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندي ستله سمبوه درڤد ݢيلا.",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "مندي ستله سمبوه درڤد ݢيلا اياله سنة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مندي واجب سلفس برحدث بسر.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "مندي واجب اياله واجب سلفس برحدث بسر.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مݢتاهوءي كصيحتن ديري.",
+  "options": [
+   "ممريقسا كسيحتن",
+   "مݢابايكن",
+   "منجاءوهي"
+  ],
+  "answer": 0,
+  "explanation": "ممريقسا كصيحتن اياله چارا مݢتاهوءي كصيحتن ديري.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب مندي واجب.",
+  "options": [
+   "حدث بسر",
+   "حدث كچيل",
+   "نجيس"
+  ],
+  "answer": 0,
+  "explanation": "حدث بسر مواجبكن مندي.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مندي سنة.",
+  "options": [
+   "مندي سبلوم صلاة جمعة",
+   "مندي سلفس تيدور",
+   "مندي سلفس ماكن"
+  ],
+  "answer": 0,
+  "explanation": "مندي سبلوم صلاة جمعة اياله مندي سنة.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22025-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه مندي.",
+  "options": [
+   "ممبرسيهكن دان مݢسݢركن بادن",
+   "منجاديكن مالس",
+   "منمبه دوسا"
+  ],
+  "answer": 0,
+  "explanation": "مندي ممبرسيهكن دان مݢسݢركن بادن.",
+  "source": "UPP2 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-ppt2025-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",
