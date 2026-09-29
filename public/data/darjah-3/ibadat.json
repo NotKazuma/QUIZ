@@ -1440,6 +1440,476 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-3-ibadat-ppt2025-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه فڠرتين حدث؟",
+  "options": [
+   "ككوتورن",
+   "كسوچين",
+   "كبرسيهن"
+  ],
+  "answer": 0,
+  "explanation": "حدث اياله ككوتورن يڠ تيدق كليهتن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب برلاكونڽ حدث كچيل اياله ___.",
+  "options": [
+   "حيض",
+   "هيلغ عقل",
+   "مونته"
+  ],
+  "answer": 1,
+  "explanation": "هيلغ عقل مڽببكن حدث كچيل.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن ديري درڤد حيض اياله ___.",
+  "options": [
+   "مندي سنة",
+   "بروضوء",
+   "مندي واجب"
+  ],
+  "answer": 2,
+  "explanation": "حيض دسوچيكن دڠن مندي واجب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه تيمفوه ماس حيض فاليغ لاما؟",
+  "options": [
+   "1 هاري 1 مالم",
+   "6 هاري 6 مالم",
+   "15 هاري 15 مالم"
+  ],
+  "answer": 2,
+  "explanation": "تيمفوه ماس حيض فاليغ لاما اياله 15 هاري 15 مالم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود فركاتاءن \"لحظة\"؟",
+  "options": [
+   "سدتيق",
+   "سمينيت",
+   "سجم"
+  ],
+  "answer": 0,
+  "explanation": "لحظة برمعنا سدتيق.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حدث مڽببكن عبادة صلاة تيدق صح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حدث مڽببكن عبادة صلاة تيدق صح.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حدث اداله سسواتو يڠ بوليه دليهت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حدث تيدق بوليه دليهت.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واجب بروضوء ستله برحدث كچيل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "واجب بروضوء ستله برحدث كچيل.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ولادة اياله ملاهيركن انق اتاو برسالين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ولادة اياله ملاهيركن انق.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برحدث بسر بوليه ممباچ القرءان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ برحدث بسر دلارڠ ممباچ القرءان.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن حدث كچيل جک تياد اءير.",
+  "options": [
+   "برتيمم",
+   "استحاضة",
+   "نفاس"
+  ],
+  "answer": 0,
+  "explanation": "جک تياد اءير، حدث دسوچيكن دڠن برتيمم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مڽببكن برلاكوڽ حدث بسر.",
+  "options": [
+   "كلوار اءير مني",
+   "برتيمم",
+   "سهاري سمالم"
+  ],
+  "answer": 0,
+  "explanation": "كلوار اءير مني مڽببكن حدث بسر.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمفوه ماس فاليغ سيغكت داره حيض.",
+  "options": [
+   "سهاري سمالم",
+   "برتيمم",
+   "نفاس"
+  ],
+  "answer": 0,
+  "explanation": "تيمفوه ماس فاليغ سيغكت داره حيض اياله سهاري سمالم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره يڠ كلوار سلفس ملاهيركن انق.",
+  "options": [
+   "نفاس",
+   "استحاضة",
+   "برتيمم"
+  ],
+  "answer": 0,
+  "explanation": "داره سلفس ملاهيركن انق دسبوت نفاس.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره فڽاكيت يڠ كلوار درڤد فرمفوان بوكن ڤد وقتوڽ.",
+  "options": [
+   "استحاضة",
+   "نفاس",
+   "برتيمم"
+  ],
+  "answer": 0,
+  "explanation": "استحاضة اياله داره فڽاكيت يڠ كلوار بوكن ڤد وقتوڽ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-16",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڽچيكن حدث كچيل دغن چارا ___.",
+  "options": [
+   "بروضوء",
+   "مندي واجب",
+   "برتيمم سهاج"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-17",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نَوَيْتُ الغُسْلَ عَنِ الحَيْضِ لِلّٰهِ تَعَالَى اياله لفظ ___.",
+  "options": [
+   "نية مندي واجب",
+   "نية وضوء",
+   "نية صلاة"
+  ],
+  "answer": 0,
+  "explanation": "اين اياله لفظ نية مندي واجب كران حيض.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-18",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ممبطلكن وضوء كتيك نفاس.",
+  "options": [
+   "كلوار داره نفاس",
+   "بركومور",
+   "مڠهادف قبلة"
+  ],
+  "answer": 0,
+  "explanation": "كلوار داره نفاس ممبطلكن وضوء.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-19",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا ميوچيكن ديري درڤد استحاضة.",
+  "options": [
+   "بروضوء ستياف كالي هندق صلاة",
+   "مندي واجب",
+   "برتيمم"
+  ],
+  "answer": 0,
+  "explanation": "استحاضة دسوچيكن دڠن بروضوء ستياف كالي هندق صلاة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-20",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم صلاة باݢي اورڠ يڠ استحاضة.",
+  "options": [
+   "صح دڠن شرط بروضوء",
+   "تيدق صح",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "صلاة اورڠ استحاضة صح دڠن شرط بروضوء دهولو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-21",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فربيذاءن انتارا حدث دان نجيس.",
+  "options": [
+   "حدث تيدق كليهتن، نجيس كليهتن",
+   "حدث كليهتن، نجيس تيدق",
+   "كدواڽ سام"
+  ],
+  "answer": 0,
+  "explanation": "حدث اياله ككوتورن معنوي، نجيس اياله ككوتورن فيزيكل.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-22",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي حدث كچيل؟",
+  "options": [
+   "ككوتورن يڠ دسوچيكن دڠن وضوء",
+   "ككوتورن يڠ دسوچيكن دڠن مندي",
+   "تيدق ممرلوكن كسوچين"
+  ],
+  "answer": 0,
+  "explanation": "حدث كچيل دسوچيكن دڠن بروضوء.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-23",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لارڠن كتيك برحدث كچيل.",
+  "options": [
+   "صلاة",
+   "ماكن",
+   "تيدور"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ برحدث كچيل دلارڠ صلاة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-24",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دبوليهكن دبوات اوليه فرمفوان يڠ حيض.",
+  "options": [
+   "كتيك حيض بوليه ممفلاجري إسلام",
+   "صلاة",
+   "طواف"
+  ],
+  "answer": 0,
+  "explanation": "ڤرمڤوان حيض بوليه ممفلاجري إسلام سلاءين صلاة دان طواف.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-ppt2025-25",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمفوه فاليغ لاما داره استحاضة بوليه برلاكو.",
+  "options": [
+   "15 هاري 15 مالم",
+   "3 هاري",
+   "40 هاري"
+  ],
+  "answer": 0,
+  "explanation": "داره استحاضة بوليه برلاكو هيڠݢ 15 هاري 15 مالم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-pat2025-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",
