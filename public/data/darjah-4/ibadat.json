@@ -1,5 +1,575 @@
 [
  {
+  "id": "darjah-4-ibadat-pat2024-01",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين طهارة ڤد بهاس؟",
+  "options": [
+   "برسيه",
+   "نجيس",
+   "مندي"
+  ],
+  "answer": 0,
+  "explanation": "طهارة برمعنا برسيه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-02",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه اءير يڠ دݢوناكن اونتوق برسوچي؟",
+  "options": [
+   "اءير كلاڤ",
+   "اءير مشمس",
+   "اءير مستعمل"
+  ],
+  "answer": 0,
+  "explanation": "اءير كلاڤ بوليه دݢوناكن اونتوق برسوچي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-03",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين اءير؟",
+  "options": [
+   "دوا",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "اءير تربهاݢي امڤت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-04",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كوليت بيناتڠ يڠ بوليه دسامق؟",
+  "options": [
+   "بوايا",
+   "لمبو",
+   "انجيڠ"
+  ],
+  "answer": 1,
+  "explanation": "كوليت لمبو بوليه دسامق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-05",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مككوناكن بجان درڤد امس دان ڤيرق؟",
+  "options": [
+   "مكروه",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "مككوناكن بجان امس دان ڤيرق حكومڽ حرام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-06",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين وضوء؟",
+  "options": [
+   "برنية",
+   "برسره",
+   "برسرتا"
+  ],
+  "answer": 0,
+  "explanation": "وضوء برمعنا برنية.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-07",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين استنجاء ڤد بهاس؟",
+  "options": [
+   "مڽاڤو خف",
+   "مڠهيلڠكن نجيس",
+   "قضاء حاجت"
+  ],
+  "answer": 2,
+  "explanation": "استنجاء برمعنا قضاء حاجت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-08",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مڠهيلڠكن نجيس؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "مڠهيلڠكن نجيس حكومڽ واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-09",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ بوليه دݢوناكن اونتوق براستنجاء اياله ___.",
+  "options": [
+   "روتي",
+   "تيسو",
+   "باتو"
+  ],
+  "answer": 2,
+  "explanation": "باتو بوليه دݢوناكن اونتوق براستنجاء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-10",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مواجبكن مندي اياله ___.",
+  "options": [
+   "تيدور",
+   "ولادة",
+   "كيلا"
+  ],
+  "answer": 1,
+  "explanation": "ولادة (ملاهيركن انق) مواجبكن مندي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-11",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤركارا سنة كتيك مندي واجب اياله ___.",
+  "options": [
+   "مكهادڤ قبلة",
+   "مندهولوكن اككوتا كيري",
+   "باسوه امڤت كالي"
+  ],
+  "answer": 0,
+  "explanation": "مكهادڤ قبلة اياله سنة كتيك مندي واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-12",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام كاسوت كوليت يڠ دڤاكاي دباوه توميت باݢي هيكل الالي اياله ___.",
+  "options": [
+   "خُڤ",
+   "تروموه",
+   "سليڤر"
+  ],
+  "answer": 0,
+  "explanation": "خُڤ اياله كاسوت كوليت يڠ دڤاكاي دباوه توميت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-13",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مماساڤو خف سماس برضوء اياله ___.",
+  "options": [
+   "واجب",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "مماساڤو خف حكومڽ هاروس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-14",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا سبب بطل مماساڤو خف اياله ___.",
+  "options": [
+   "خف روسق",
+   "خف تربوق ترلوك",
+   "برجالن دڠن خف"
+  ],
+  "answer": 0,
+  "explanation": "خف روسق مڽببكن بطل مماساڤو خف.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-15",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين تيمم ڤد شرع اياله ___.",
+  "options": [
+   "مماساوه موك",
+   "مكسوق دبو كي كيكي",
+   "مكساڤوكن دبو تانه يڠ سوچي"
+  ],
+  "answer": 2,
+  "explanation": "تيمم برمعنا مكساڤوكن دبو تانه يڠ سوچي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-16",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط يڠ دڤرلوكن اونتوق تيمم اياله ___.",
+  "options": [
+   "اد دبو",
+   "تلوم ماسوق وقتو صلاة",
+   "عذر مككوناكن اءير"
+  ],
+  "answer": 2,
+  "explanation": "عذر مككوناكن اءير اياله شرط تيمم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-17",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله عين نجيس يڠ دمعافكن كچوالي ___.",
+  "options": [
+   "ناهي",
+   "سديكيت نانه",
+   "نجيس لالت"
+  ],
+  "answer": 2,
+  "explanation": "نجيس لالت بوكن نجيس يڠ دمعافكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-18",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤركارا يڠ حرام دلاكوكن كتيك برحدث كچيل كچوالي ___.",
+  "options": [
+   "صلاة",
+   "طواف",
+   "سجود تلاوة"
+  ],
+  "answer": 2,
+  "explanation": "سجود تلاوة تيدق حرام كتيك برحدث كچيل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-19",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه ماس سأورڠ ڤرمڤوان حيض اياله ___.",
+  "options": [
+   "سهاري سمالم",
+   "6 هاري 6 مالم",
+   "15 هاري 15 مالم"
+  ],
+  "answer": 2,
+  "explanation": "تيمڤوه ماس ڤاليڠ لاما حيض اياله 15 هاري 15 مالم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-20",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دحرامكن كران حيض اياله ___.",
+  "options": [
+   "برڤواسا فرض",
+   "برذيكير",
+   "بردعاء"
+  ],
+  "answer": 0,
+  "explanation": "برڤواسا فرض دحرامكن كران حيض.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-21",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم برسوچي ستله كلينچير مطاهاري كتيك برڤواسا اياله ___.",
+  "options": [
+   "مكروه",
+   "نجيس",
+   "برچاكڤ-چاكڤ"
+  ],
+  "answer": 0,
+  "explanation": "برسوچي ستله كلينچير مطاهاري كتيك ڤواسا حكومڽ مكروه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-22",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن مكروه كتيك قضاء حاجة اياله ___.",
+  "options": [
+   "برچاكڤ-چاكڤ",
+   "مكروه",
+   "نجيس"
+  ],
+  "answer": 0,
+  "explanation": "برچاكڤ-چاكڤ كتيك قضاء حاجة حكومڽ مكروه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-23",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه ماس مساڤو خف باݢي اورڠ يڠ برمقيم اياله ___.",
+  "options": [
+   "سهاري سمالم",
+   "6 بولن",
+   "نجيس"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ مقيم بوليه مساڤو خف سلاما سهاري سمالم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-24",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كاچوق بابي دڠن كمبيڠ حكومڽ ___.",
+  "options": [
+   "نجيس",
+   "سهاري سمالم",
+   "6 بولن"
+  ],
+  "answer": 0,
+  "explanation": "كاچوق دڠن بابي مكجاديكن حكومڽ نجيس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-25",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سكوروٓ-كوروٓڽ تيمڤوه حامل اياله ___.",
+  "options": [
+   "6 بولن",
+   "نجيس",
+   "سهاري سمالم"
+  ],
+  "answer": 0,
+  "explanation": "سكوروٓ-كوروٓڽ تيمڤوه حامل اياله 6 بولن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-26",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم منداهولوكن اككوتا يڠ كيري سبلوم كانن كتيك وضوء اياله ___.",
+  "options": [
+   "مكروه",
+   "سنة",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "منداهولوكن كيري سبلوم كانن كتيك وضوء حكومڽ مكروه.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-27",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واجب براستنجاء دڠن بيلاڠن ___.",
+  "options": [
+   "ݢنجيل",
+   "ݬنڤ",
+   "دوا"
+  ],
+  "answer": 0,
+  "explanation": "براستنجاء دڠن باتو واجب بيلاڠن ݢنجيل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-28",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مساڤو خف سچارا كوريس دڠن انق جاري اياله ___.",
+  "options": [
+   "تيدق صح",
+   "صح",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "مساڤو خف سچارا كوريس دڠن انق جاري تيدق صح.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-29",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مكبطلكن تيمم اياله ___.",
+  "options": [
+   "منداڤت اءير سبلوم صلاة",
+   "برسلام",
+   "ممباچ القرءان"
+  ],
+  "answer": 0,
+  "explanation": "منداڤت اءير سبلوم صلاة مكبطلكن تيمم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2024-30",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مكوچيكن اءير كنچيڠ كانق٢ للاكي يڠ برعمور كوراڠ درڤد دوا تاهون اياله ___.",
+  "options": [
+   "مررنجيسكن اءير",
+   "دباسوه",
+   "دساماق"
+  ],
+  "answer": 0,
+  "explanation": "مررنجيسكن اءير چوكوڤ باݢي كنچيڠ بايي للاكي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-ibadat-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Ibadat",
@@ -30,7 +600,7 @@
   "options": [
    "ساتو",
    "دوا",
-   "تيݢ"
+   "تيڠ"
   ],
   "answer": 1,
   "explanation": "ركن مندي اد دوا: نية دان مراتاكن اءير.",
@@ -49,10 +619,10 @@
   "options": [
    "برأخير واقتو صلاة",
    "ستله ماسوق واقتو صلاة",
-   "همفير هندق واقتو صلاة"
+   "همڤير هندق واقتو صلاة"
   ],
   "answer": 2,
-  "explanation": "واقتو افضل اياله همفير هندق ك مسجد اونتوق صلاة جمعة.",
+  "explanation": "واقتو افضل اياله همڤير هندق ك مسجد اونتوق صلاة جمعة.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -64,14 +634,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه ڤڠرتين خف؟",
+  "question": "اڤاكه ڤڠرتين خڤ؟",
   "options": [
-   "كاسوت فلستيك",
+   "كاسوت ڤلستيك",
    "كاسوت سوكن",
-   "سليفر كانفس"
+   "سليڤر كانڤس"
   ],
   "answer": 0,
-  "explanation": "خف اياله كاسوت فلستيك يڠ منوتوڤ بوكو لالي.",
+  "explanation": "خف اياله كاسوت ڤلستيك يڠ منوتوڤ بوكو لالي.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -83,14 +653,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه حکوم مماسوق خف؟",
+  "question": "اڤاكه حكوم مماسوق خڤ؟",
   "options": [
    "واجب",
    "سنة",
    "هاروس"
   ],
   "answer": 2,
-  "explanation": "مماساو خف حکومڽ هاروس.",
+  "explanation": "مماساو خف حكومڽ هاروس.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -102,14 +672,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه شرط ساڤوخف؟",
+  "question": "اڤاكه شرط ساڤوخڤ؟",
   "options": [
    "كأداءن سوچي",
    "تربوك عورة",
-   "معفوعاي نجيس"
+   "معڤوعاي نجيس"
   ],
   "answer": 0,
-  "explanation": "شرط ساڤو خف اياله دفاكاي دالم كأداءن سوچي.",
+  "explanation": "شرط ساڤو خف اياله دڤاكاي دالم كأداءن سوچي.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -121,14 +691,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه فركارا هاروس فركارا يڠ مماكاي خف؟",
+  "question": "اڤاكه ڤركارا هاروس ڤركارا يڠ مماكاي خڤ؟",
   "options": [
    "دعاء",
    "صلاة",
-   "فواسا"
+   "ڤواسا"
   ],
   "answer": 1,
-  "explanation": "بوليه صلاة دڠن حکوم ساڤو خف.",
+  "explanation": "بوليه صلاة دڠن حكوم ساڤو خف.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -140,11 +710,11 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه فڠرتين تيمم تيدق فد شرع؟",
+  "question": "اڤاكه ڤڠرتين تيمم تيدق ڤد شرع؟",
   "options": [
    "مراتاكن اءير كموك",
    "ممباسوه موك",
-   "دبو تانه فد موك دان تاڠن"
+   "دبو تانه ڤد موك دان تاڠن"
   ],
   "answer": 2,
   "explanation": "تيمم اياله مڽاڤو دبو تانه يڠ سوچي ك موك دان تاڠن.",
@@ -181,11 +751,11 @@
   "question": "ركن تيمم اد ___.",
   "options": [
    "دوا",
-   "امفت",
+   "امڤت",
    "ليم"
   ],
   "answer": 1,
-  "explanation": "ركن تيمم اد امفت.",
+  "explanation": "ركن تيمم اد امڤت.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -197,14 +767,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم مڠقضاءكن صلاة جک بالوتن اد اڠکوتا تيمم اياله ___.",
+  "question": "حكوم مڠقضاءكن صلاة جك بالوتن اد اڠكوتا تيمم اياله ___.",
   "options": [
    "سنة",
    "واجب",
    "مكروه"
   ],
   "answer": 1,
-  "explanation": "مڠقضاءكن صلاة اياله واجب جک بالوتن اد ڤد اڠکوتا تيمم.",
+  "explanation": "مڠقضاءكن صلاة اياله واجب جك بالوتن اد ڤد اڠكوتا تيمم.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -235,10 +805,10 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ستياف بندا يڠ ماءيوقكن ادالة نجيس سفرتي ارق دان ___.",
+  "question": "ستياڤ بندا يڠ ماءيوقكن ادالة نجيس سڤرتي ارق دان ___.",
   "options": [
    "تواق",
-   "كوفي",
+   "كوڤي",
    "تيه"
   ],
   "answer": 0,
@@ -254,14 +824,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "داره فاچت اداله عين نجيس يڠ ___.",
+  "question": "داره ڤاچت اداله عين نجيس يڠ ___.",
   "options": [
    "اوتام",
    "دمعافكن",
    "تيدق دمعافكن"
   ],
   "answer": 1,
-  "explanation": "داره فاچت اداله عين نجيس يڠ دمعافكن.",
+  "explanation": "داره ڤاچت اداله عين نجيس يڠ دمعافكن.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -273,14 +843,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اءير كنچيڠ كانق٢ فرمفوان دبرسيهكن دڠن دباسوه، فرمفوان دبرسيهكن اياله ___.",
+  "question": "اءير كنچيڠ كانق٢ ڤرمڤوان دبرسيهكن دڠن دباسوه، ڤرمڤوان دبرسيهكن اياله ___.",
   "options": [
    "دباسوه",
    "درنجيس",
    "دساماق"
   ],
   "answer": 0,
-  "explanation": "اءير كنچيڠ كانق٢ فرمفوان دبرسيهكن دڠن دباسوه.",
+  "explanation": "اءير كنچيڠ كانق٢ ڤرمڤوان دبرسيهكن دڠن دباسوه.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -292,14 +862,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ارق منجادي سوچي افابيلا افابيلا برتوكر منجادي بنتوق ___.",
+  "question": "ارق منجادي سوچي اڤابيلا اڤابيلا برتوكر منجادي بنتوق ___.",
   "options": [
    "ميق",
    "چوك",
    "تواق"
   ],
   "answer": 1,
-  "explanation": "ارق منجادي سوچي افابيلا برتوكر منجادي بنتوق چوك.",
+  "explanation": "ارق منجادي سوچي اڤابيلا برتوكر منجادي بنتوق چوك.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -311,7 +881,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "فركارا يڠ دحرامكن كتيك حدث كچيل كچوالي ___.",
+  "question": "ڤركارا يڠ دحرامكن كتيك حدث كچيل كچوالي ___.",
   "options": [
    "صلاة",
    "طواف",
@@ -330,14 +900,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "براڤاكه تيمفوه ماس فاليڠ لاما حيض ونيتا؟",
+  "question": "براڤاكه تيمڤوه ماس ڤاليڠ لاما حيض ونيتا؟",
   "options": [
    "1 هاري 1 مالم",
    "15 هاري 15 مالم",
    "17 هاري 17 مالم"
   ],
   "answer": 1,
-  "explanation": "تيمفوه ماس فاليڠ لاما حيض اياله 15 هاري 15 مالم.",
+  "explanation": "تيمڤوه ماس ڤاليڠ لاما حيض اياله 15 هاري 15 مالم.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -349,11 +919,11 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "فركارا يڠ دحرامكن كران حيض اياله ___.",
+  "question": "ڤركارا يڠ دحرامكن كران حيض اياله ___.",
   "options": [
    "ڤواسا دان صلاة",
    "ذيكير",
-   "مماچ القرءان تنفا مماوا مصحف"
+   "مماچ القرءان تنڤا مماوا مصحف"
   ],
   "answer": 0,
   "explanation": "ڤواسا دان صلاة دحرامكن كران حيض.",
@@ -368,14 +938,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "براڤاكه فركارا يڠ دحرامكن كران استحاضة؟",
+  "question": "براڤاكه ڤركارا يڠ دحرامكن كران استحاضة؟",
   "options": [
    "دوا",
-   "تيݢ",
-   "امفت"
+   "تيڠ",
+   "امڤت"
   ],
   "answer": 0,
-  "explanation": "استحاضة دحاره ايكوتكن دوا فركارا سهاج.",
+  "explanation": "استحاضة دحاره ايكوتكن دوا ڤركارا سهاج.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -387,14 +957,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم ممبوك ساتو ساله ساتو خف ستله اد ممباسوه اياله ___.",
+  "question": "حكوم ممبوك ساتو ساله ساتو خف ستله اد ممباسوه اياله ___.",
   "options": [
    "سنة",
    "بطل",
    "تيدق بطل"
   ],
   "answer": 1,
-  "explanation": "ممبوك خف ستله ساڤو ممبطلكن حکوم ساڤو.",
+  "explanation": "ممبوك خف ستله ساڤو ممبطلكن حكوم ساڤو.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -406,7 +976,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم صلاة كتيك برحدث بسر اياله ___.",
+  "question": "حكوم صلاة كتيك برحدث بسر اياله ___.",
   "options": [
    "هاروس",
    "واجب",
@@ -425,14 +995,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "تيمفوه سكورڠ-كورڠڽ حيض اياله ___.",
+  "question": "تيمڤوه سكورڠ-كورڠڽ حيض اياله ___.",
   "options": [
    "1 هاري 1 مالم",
    "3 هاري 3 مالم",
    "15 هاري 15 مالم"
   ],
   "answer": 0,
-  "explanation": "تيمفوه سكورڠ-كورڠڽ حيض اياله 1 هاري 1 مالم.",
+  "explanation": "تيمڤوه سكورڠ-كورڠڽ حيض اياله 1 هاري 1 مالم.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -444,14 +1014,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم قضاء فواسا كران حيض اياله ___.",
+  "question": "حكوم قضاء ڤواسا كران حيض اياله ___.",
   "options": [
    "سنة",
    "واجب",
    "مكروه"
   ],
   "answer": 1,
-  "explanation": "قضاء فواسا كران حيض اياله واجب.",
+  "explanation": "قضاء ڤواسا كران حيض اياله واجب.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -463,14 +1033,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "تيمفوه سكورڠ-كورڠڽ نفاس اياله ___.",
+  "question": "تيمڤوه سكورڠ-كورڠڽ نفاس اياله ___.",
   "options": [
    "1 هاري 1 مالم",
    "ساتو لحظة",
    "15 هاري 15 مالم"
   ],
   "answer": 1,
-  "explanation": "تيمفوه سكورڠ-كورڠڽ نفاس اياله ساتو لحظة.",
+  "explanation": "تيمڤوه سكورڠ-كورڠڽ نفاس اياله ساتو لحظة.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -482,14 +1052,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم ممبوك ساله ساتو خف سچارا مموبوت اياله ___.",
+  "question": "حكوم ممبوك ساله ساتو خف سچارا مموبوت اياله ___.",
   "options": [
    "سنة",
    "بطل",
    "تيدق بطل"
   ],
   "answer": 1,
-  "explanation": "ممبوك خف مموبوت ممبطلكن حکوم ساڤو.",
+  "explanation": "ممبوك خف مموبوت ممبطلكن حكوم ساڤو.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -501,14 +1071,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "تيمفوه سكورڠ-كورڠڽ داره حيض بركاءيت دݢن ___.",
+  "question": "تيمڤوه سكورڠ-كورڠڽ داره حيض بركاءيت دڠن ___.",
   "options": [
    "1 هاري",
    "15 هاري",
    "60 هاري"
   ],
   "answer": 0,
-  "explanation": "تيمفوه سكورڠ-كورڠڽ داره حيض اياله 1 هاري.",
+  "explanation": "تيمڤوه سكورڠ-كورڠڽ داره حيض اياله 1 هاري.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -520,14 +1090,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم قضاء فواسا كران نفاس اياله ___.",
+  "question": "حكوم قضاء ڤواسا كران نفاس اياله ___.",
   "options": [
    "سنة",
    "واجب",
    "مكروه"
   ],
   "answer": 1,
-  "explanation": "قضاء فواسا كران نفاس اياله واجب.",
+  "explanation": "قضاء ڤواسا كران نفاس اياله واجب.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -539,14 +1109,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "تيمفوه سكورڠ-كورڠڽ نفاس دسبوت ___.",
+  "question": "تيمڤوه سكورڠ-كورڠڽ نفاس دسبوت ___.",
   "options": [
    "ساتو لحظة",
    "1 هاري",
    "15 هاري"
   ],
   "answer": 0,
-  "explanation": "تيمفوه سكورڠ-كورڠڽ نفاس دسبوت ساتو لحظة.",
+  "explanation": "تيمڤوه سكورڠ-كورڠڽ نفاس دسبوت ساتو لحظة.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -558,7 +1128,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "تيمفوه سكورڠ-كورڠڽ داره استحاضة بوليه برلاكو هيڠݢ ___.",
+  "question": "تيمڤوه سكورڠ-كورڠڽ داره استحاضة بوليه برلاكو هيڠݢ ___.",
   "options": [
    "15 هاري 15 مالم",
    "1 هاري 1 مالم",
@@ -577,7 +1147,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "واقتو افضل مندي سنة هاري راي اياله سته سبله موله فرمولاءن ___.",
+  "question": "واقتو افضل مندي سنة هاري راي اياله سته سبله موله ڤرمولاءن ___.",
   "options": [
    "تربيت فجر",
    "توموه بينتڠ",
@@ -634,14 +1204,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اءير يڠ باقي دفڠاكن اڠکوتا وضوء دسبوت اءير ___.",
+  "question": "اءير يڠ باقي دڤڠاكن اڠكوتا وضوء دسبوت اءير ___.",
   "options": [
    "مستعمل",
    "مطلق",
    "مطهر"
   ],
   "answer": 0,
-  "explanation": "اءير باقي دفڠاكن اڠکوتا وضوء دسبوت اءير مستعمل.",
+  "explanation": "اءير باقي دڤڠاكن اڠكوتا وضوء دسبوت اءير مستعمل.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -653,10 +1223,10 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "تانه يڠ دگوناكن اونتوق تيمم مستيله تانه يڠ ___.",
+  "question": "تانه يڠ دݢوناكن اونتوق تيمم مستيله تانه يڠ ___.",
   "options": [
    "سوچي دان بردبو",
-   "برچمفور نجيس",
+   "برچمڤور نجيس",
    "باساح"
   ],
   "answer": 0,
@@ -672,14 +1242,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "واجب تيمم سباݢي ݢنتي مندي دفڠݢيل تيمم ___.",
+  "question": "واجب تيمم سباݢي ݢنتي مندي دڤڠݢيل تيمم ___.",
   "options": [
    "حدث بسر",
    "حدث كچيل",
    "نجيس"
   ],
   "answer": 0,
-  "explanation": "تيمم سباݢي ݢنتي مندي دفڠݢيل تيمم حدث بسر.",
+  "explanation": "تيمم سباݢي ݢنتي مندي دڤڠݢيل تيمم حدث بسر.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -691,14 +1261,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "مماسوقكن بندا كدالم فاراس دفڠݢيل نجيس ___.",
+  "question": "مماسوقكن بندا كدالم ڤاراس دڤڠݢيل نجيس ___.",
   "options": [
    "حكمي",
    "عيني",
-   "معفو"
+   "معڤو"
   ],
   "answer": 1,
-  "explanation": "نجيس عيني اياله نجيس يڠ نمفق.",
+  "explanation": "نجيس عيني اياله نجيس يڠ نمڤق.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -710,11 +1280,11 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بيناتڠ يڠ مماكن نجيس هيڠݢ باءوڽ برأوبه دفڠݢيل ___.",
+  "question": "بيناتڠ يڠ مماكن نجيس هيڠݢ باءوڽ برأوبه دڤڠݢيل ___.",
   "options": [
    "الجلالة",
    "المطلق",
-   "المعفو"
+   "المعڤو"
   ],
   "answer": 0,
   "explanation": "الجلالة اياله بيناتڠ يڠ مماكن نجيس.",
@@ -729,14 +1299,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چوك يڠ ترحاصيل درفد ارق سچارا سنديري حکومڽ ___.",
+  "question": "چوك يڠ ترحاصيل درڤد ارق سچارا سنديري حكومڽ ___.",
   "options": [
    "سوچي",
    "نجيس",
-   "معفو"
+   "معڤو"
   ],
   "answer": 0,
-  "explanation": "چوك يڠ ترحاصيل درفد ارق سچارا سنديري حکومڽ سوچي.",
+  "explanation": "چوك يڠ ترحاصيل درڤد ارق سچارا سنديري حكومڽ سوچي.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -748,14 +1318,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "نفاس اياله داره يڠ كلوار سلفس ___.",
+  "question": "نفاس اياله داره يڠ كلوار سلڤس ___.",
   "options": [
    "ملاهيركن انق",
    "بركهوين",
    "برسوناة"
   ],
   "answer": 0,
-  "explanation": "نفاس اياله داره يڠ كلوار سلفس ملاهيركن انق.",
+  "explanation": "نفاس اياله داره يڠ كلوار سلڤس ملاهيركن انق.",
   "source": "PAT 2025",
   "perlu_semak": true
  }

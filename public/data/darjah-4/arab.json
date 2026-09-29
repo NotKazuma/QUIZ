@@ -1,5 +1,324 @@
 [
  {
+  "id": "darjah-4-arab-pat2024-01",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "تَرْجِمْ \"bola sepak\" بِاللُّغَةِ العَرَبِيَّةِ.",
+  "options": [
+   "كُرَةُ اليَدِ",
+   "كُرَةُ الطَّائِرَةِ",
+   "كُرَةُ القَدَمِ",
+   "كُرَةُ الرِّيشِ"
+  ],
+  "answer": 2,
+  "explanation": "bola sepak = كُرَةُ القَدَمِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-02",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَتَى تُصَلِّي صَلَاةَ العِشَاءِ؟",
+  "options": [
+   "صَبَاحًا",
+   "ظُهْرًا",
+   "مَسَاءً",
+   "لَيْلًا"
+  ],
+  "answer": 3,
+  "explanation": "صلاة عشاء دلاكوكن ڤد واقتو مالم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-03",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَمْ أَقْسَامُ الكَلِمَةِ؟",
+  "options": [
+   "ثَلَاثَةٌ",
+   "أَرْبَعَةٌ",
+   "خَمْسَةٌ",
+   "سِتَّةٌ"
+  ],
+  "answer": 0,
+  "explanation": "كليمه تربهاݢي تيڠ: اسم، فعل دان حرف.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-04",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَيْنَ تُصَلِّي صَلَاةَ الجُمُعَةِ؟",
+  "options": [
+   "فِي اللَّعِبِ",
+   "فِي المَسْجِدِ",
+   "فِي البَيْتِ",
+   "فِي المَطْعَمِ"
+  ],
+  "answer": 1,
+  "explanation": "صلاة جمعة دلاكوكن دمسجد.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-05",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هِيَ الحَفْلَةُ الَّتِي يَحْتَفِلُ المُسْلِمُونَ فِي شَهْرِ شَوَّالٍ؟",
+  "options": [
+   "يَوْمُ الأَحَدِ",
+   "يَوْمُ الجُمُعَةِ",
+   "يَوْمُ الاِثْنَيْنِ",
+   "عِيدُ الفِطْرِ"
+  ],
+  "answer": 3,
+  "explanation": "عيد الفطر دراياكن دالم بولن شوال.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-06",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا الكَلِمَةُ الجَمْعُ \"شَهْرٌ\"؟",
+  "options": [
+   "شُهُورٌ",
+   "شَهُرًا",
+   "أَشْهَارٌ",
+   "شَهْرٌ"
+  ],
+  "answer": 0,
+  "explanation": "جمع شهر ايالة شُهُورٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-07",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هُوَ مِثْلُ كَلِمَةِ المُذَكَّرِ؟",
+  "options": [
+   "النَّاقَةُ",
+   "الرَّجُلُ",
+   "المَرْأَةُ",
+   "المُعَلِّمَةُ"
+  ],
+  "answer": 1,
+  "explanation": "الرَّجُلُ اياله كليمه مذكر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-08",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "رَقْمُ \"٥٠\" بِالكَلِمَةِ ___",
+  "options": [
+   "أَرْبَعُونَ",
+   "خَمْسُونَ",
+   "سِتُّونَ",
+   "سَبْعُونَ"
+  ],
+  "answer": 1,
+  "explanation": "٥٠ = خَمْسُونَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-09",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٨٠ + ١٠ ___",
+  "options": [
+   "سِتُّونَ",
+   "سَبْعُونَ",
+   "ثَمَانُونَ",
+   "تِسْعُونَ"
+  ],
+  "answer": 3,
+  "explanation": "٨٠ + ١٠ = ٩٠ = تِسْعُونَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-10",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَحْمَد: السَّلَامُ عَلَيْكُمْ. مُحَمَّد: ___",
+  "options": [
+   "شُكْرًا جَزِيلًا",
+   "الحَمْدُ لِلَّهِ",
+   "وَعَلَيْكُمُ السَّلَامُ",
+   "مَنْ جَدَّ وَجَدَ"
+  ],
+  "answer": 2,
+  "explanation": "جواڤن سلام: وَعَلَيْكُمُ السَّلَامُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-11",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنَا ___ إِلَى المَدْرَسَةِ.",
+  "options": [
+   "ذَهَبْتُ",
+   "ذَهَبْنَا",
+   "لِأَذْهَبَ",
+   "ذَهَبْتُمَا"
+  ],
+  "answer": 0,
+  "explanation": "أَنَا + ذَهَبَ = ذَهَبْتُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-12",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"صحابت\" بِاللُّغَةِ العَرَبِيَّةِ هُوَ ___",
+  "options": [
+   "صَدِيقٌ",
+   "بِنْتٌ",
+   "طَالِبٌ",
+   "مُعَلِّمٌ"
+  ],
+  "answer": 0,
+  "explanation": "صحابت = صَدِيقٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-13",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هِوَايَتِي هِيَ رُكُوبُ ___",
+  "options": [
+   "الكُتُبِ",
+   "الدَّرَّاجَةِ",
+   "الطَّوَايِحِ",
+   "الحَافِلَةِ"
+  ],
+  "answer": 1,
+  "explanation": "هوبي ساي برباسيكل: رُكُوبُ الدَّرَّاجَةِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-14",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "___ مَكْتَبَتَانِ نَظِيفَتَانِ.",
+  "options": [
+   "هَذَا",
+   "هَذَانِ",
+   "هَاتَانِ",
+   "تَانِكَ"
+  ],
+  "answer": 2,
+  "explanation": "مكتبة مؤنث، دوا: هَاتَانِ مَكْتَبَتَانِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-15",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَشْرَبُ ___ قَبْلَ النَّوْمِ.",
+  "options": [
+   "الحَلِيبَ",
+   "الخُبْزَ",
+   "اللَّحْمَ",
+   "البَيْضَ"
+  ],
+  "answer": 0,
+  "explanation": "ساي مينوم سوسو سبلوم تيدور: أَشْرَبُ الحَلِيبَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-pat2024-16",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ صِفَةِ الطَّالِبِ المُؤَدَّبِ إِلَّا: (i) غَيْرُ المُصَافَحَةِ (ii) الغَضَبُ (iii) المُسَاعَدَةُ (iv) الجُلُوسُ بِأَدَبٍ",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "تيدق برجابت تاڠن (i) دان مراه (ii) بوكن صيفت مورد يڠ برادب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-arab-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Bahasa Arab",
@@ -55,7 +374,7 @@
    "اِسْمٌ وَفِعْلٌ وَحَرْفٌ"
   ],
   "answer": 3,
-  "explanation": "كليمه تربهاݢي تيݢ: اسم، فعل دان حرف.",
+  "explanation": "كليمه تربهاݢي تيڠ: اسم، فعل دان حرف.",
   "source": "PAT 2025",
   "perlu_semak": true
  },

@@ -1,5 +1,570 @@
 [
  {
+  "id": "darjah-4-tauhid-pat2024-01",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه جمع ڤركاتاءن مَبَادِئ؟",
+  "options": [
+   "مَبْدِى",
+   "مَبْدَاء",
+   "مَبْدُوَا"
+  ],
+  "answer": 0,
+  "explanation": "مبدى اياله بنتوق توڠݢل درڤد مَبَادِئ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-02",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه ڤركارا مَبَادِئ علمو توحيد؟",
+  "options": [
+   "سڤولوه",
+   "دوا بلس",
+   "انم بلس"
+  ],
+  "answer": 0,
+  "explanation": "مبادئ علمو توحيد اد سڤولوه ڤركارا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-03",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه انوكره تريسر الله كڤد ماءنسي؟",
+  "options": [
+   "كيلا",
+   "عقل",
+   "لمه"
+  ],
+  "answer": 1,
+  "explanation": "عقل اياله انوكره الله كڤد ماءنسي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-04",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توكس عقل دالم علمو توحيد؟",
+  "options": [
+   "مستيكن سواتو لفظ",
+   "منتوكن سسواتو عبادة صح",
+   "منريما سسواتو ايت مستي اد"
+  ],
+  "answer": 2,
+  "explanation": "توكس عقل اياله منريما سسواتو ايت مستي اد.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-05",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه بهاݢين مستحيل عقلي؟",
+  "options": [
+   "واجب عقلي",
+   "سنة نظري",
+   "مستحيل عقلي ضروري"
+  ],
+  "answer": 2,
+  "explanation": "مستحيل عقلي ضروري اياله ساله ساتو بهاݢين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-06",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مڠنل الله؟",
+  "options": [
+   "سنة",
+   "فرض عين",
+   "فرض كڤاية"
+  ],
+  "answer": 1,
+  "explanation": "مڠنل الله حكومڽ فرض عين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-07",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مانكاه ساتو چارا اونتوق مڠتاهوءي صيڤت٢ الله؟",
+  "options": [
+   "نظري",
+   "إجمالي",
+   "تقليدي"
+  ],
+  "answer": 1,
+  "explanation": "إجمالي اياله ساله ساتو چارا مڠتاهوءي صيفت الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-08",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين الْعَمَى؟",
+  "options": [
+   "ڤقق",
+   "بوتا",
+   "تولي"
+  ],
+  "answer": 1,
+  "explanation": "العمى برمعنا بوتا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-09",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي صيفت كَوْنُهُ جَاهِلًا؟",
+  "options": [
+   "كأداءن يڠ لمه",
+   "كأداءن يڠ بوتا",
+   "كأداءن يڠ جاهيل"
+  ],
+  "answer": 2,
+  "explanation": "كونه جاهلا اياله كأداءن يڠ جاهيل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-10",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "علمو يڠ منتڤكن عقيدة اݢام إسلام اياله ___.",
+  "options": [
+   "اخلاق",
+   "سيرة",
+   "توحيد"
+  ],
+  "answer": 2,
+  "explanation": "علمو توحيد منتڤكن عقيدة اݢام إسلام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-11",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين توكس عقلي اد ___.",
+  "options": [
+   "دوا",
+   "تيك",
+   "لاڤن"
+  ],
+  "answer": 0,
+  "explanation": "توكس عقلي اد دوا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-12",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مستحيل الله بهارو ادالة چونتوه ___.",
+  "options": [
+   "واجب شرعي",
+   "هاروس ضروري",
+   "مستحيل عقلي"
+  ],
+  "answer": 2,
+  "explanation": "مستحيل الله بهارو اياله مستحيل عقلي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-13",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو بهاݢين واجب عقلي اياله ___.",
+  "options": [
+   "نظري",
+   "إجمالي",
+   "تفصيلي"
+  ],
+  "answer": 0,
+  "explanation": "نظري اياله ساتو بهاݢين واجب عقلي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-14",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فهم يڠ بنر دالم علمو توحيد اياله ___.",
+  "options": [
+   "جبرية",
+   "وهابية",
+   "اهل السنة والجماعة"
+  ],
+  "answer": 2,
+  "explanation": "اهل السنة والجماعة اياله فهم يڠ بنر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-15",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق واجب ڤرمولأن باݢي ذات الله تعالى دناماكن دناماكن ___.",
+  "options": [
+   "آزلي",
+   "زماني",
+   "قديم ذاتي"
+  ],
+  "answer": 0,
+  "explanation": "آزلي برمقصود تيدق برڤرمولأن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-16",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه سواتو يڠ تتاڤي كسودهن ياءيت ياءيت ___.",
+  "options": [
+   "شرك",
+   "ملائكة",
+   "مخلوق"
+  ],
+  "answer": 2,
+  "explanation": "مخلوق برسيڤت ڤانا (اد كسودهن).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-17",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله موجودات يڠ مورلوكن ذات تمڤت برديري كچوالي ___.",
+  "options": [
+   "الله",
+   "بولن",
+   "ماتاهاري"
+  ],
+  "answer": 0,
+  "explanation": "الله تيدق مورلوكن ذات تمڤت برديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-18",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله معنا٢ يڠ بركاءيت دڠن الوحدانية كچوالي ___.",
+  "options": [
+   "ذات",
+   "تمڤت",
+   "ڤربواتن"
+  ],
+  "answer": 1,
+  "explanation": "تمڤت تيدق ترماسوق معنا الوحدانية.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-19",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله يڠ برسالهن دڠن اعتقاد قدرية.",
+  "options": [
+   "جَبَرِيَّة",
+   "مُعْتَزِلَة",
+   "أَهْلُ السُّنَّةِ وَالْجَمَاعَةِ"
+  ],
+  "answer": 2,
+  "explanation": "أهل السنة والجماعة برسالهن دڠن قدرية.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-20",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤركارا يڠ تركندوڠ دالم كلام الله.",
+  "options": [
+   "تَكْهِيْن",
+   "كَهِدُوڤَن",
+   "سُورُوهَن"
+  ],
+  "answer": 2,
+  "explanation": "سوروهن اياله ساله ساتو تركندوڠ دالم كلام الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-21",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس الله مڠبريكن ڤهالا كڤد اورڠ يڠ تيدق برعمل برعمل صالح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله برحق مڠبريكن ڤهالا سسوكا هاتيڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-22",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عالم اين ترجادي دڠن سنديريڽ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "عالم اين دچيڤتا اوليه الله، بوكن ترجادي سنديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-23",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠنل الله دڠن اعتقاد يڠ ڤوتوس دناماكن جازم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اعتقاد يڠ ڤوتوس دان ڤستي دناماكن جازم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-24",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم براعتقاد دڠن اعتقاد قدرية اداله فاسق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "براعتقاد دڠن قدرية منجاديكن سسأورڠ فاسق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-25",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله برديري دڠن سنديريڽ دناماكن سنديريڽ دناماكن سنديريڽ دناماكن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قيامه تعالى بنڤسه: الله برديري دڠن سنديريڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-26",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سومبر مبادئ علمو توحيد.",
+  "options": [
+   "القرءان دان حديث",
+   "واجب عقلي",
+   "دوا"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دان حديث اياله سومبر مبادئ علمو توحيد.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-27",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مستي اد دان تيدق داڤت دناڤيكن اوليه عقل.",
+  "options": [
+   "واجب عقلي",
+   "القرءان دان حديث",
+   "دوا"
+  ],
+  "answer": 0,
+  "explanation": "واجب عقلي اياله ڤركارا يڠ مستي اد مڠيكوت عقل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-28",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين مستحيل عقلي اد.",
+  "options": [
+   "دوا",
+   "القرءان دان حديث",
+   "واجب عقلي"
+  ],
+  "answer": 0,
+  "explanation": "مستحيل عقلي تربهاݢي دوا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-29",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اعتقاد يڠ ڤوتوس دان ڤستي.",
+  "options": [
+   "جازم",
+   "مستحيل عقلي",
+   "دوا"
+  ],
+  "answer": 0,
+  "explanation": "جازم اياله اعتقاد يڠ ڤوتوس دان ڤستي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2024-30",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مستحيل الله برصيفت سكالا صيفت ككوراڠن.",
+  "options": [
+   "مستحيل عقلي",
+   "جازم",
+   "دوا"
+  ],
+  "answer": 0,
+  "explanation": "مستحيل الله برصيفت ككوراڠن اياله مستحيل عقلي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tauhid-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Tauhid",
@@ -7,14 +572,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه علمو يڠ منتفكن عقيدة إسلام؟",
+  "question": "اڤاكه علمو يڠ منتڤكن عقيدة إسلام؟",
   "options": [
    "علمو اخلاق",
    "علمو سجاره",
    "علمو توحيد"
   ],
   "answer": 2,
-  "explanation": "علمو توحيد منتفكن عقيدة إسلام.",
+  "explanation": "علمو توحيد منتڤكن عقيدة إسلام.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -26,14 +591,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "فڠتفن سواتو فركارا كفد سواتو فركارا يڠ لاءين دسبوت ___.",
+  "question": "ڤڠتڤن سواتو ڤركارا كڤد سواتو ڤركارا يڠ لاءين دسبوت ___.",
   "options": [
-   "حکوم عادت",
-   "حکوم عقل",
-   "حکوم إسلام"
+   "حكوم عادت",
+   "حكوم عقل",
+   "حكوم إسلام"
   ],
   "answer": 1,
-  "explanation": "حکوم عقل اياله فڠتفن فركارا كفد فركارا يڠ لاءين.",
+  "explanation": "حكوم عقل اياله ڤڠتڤن ڤركارا كڤد ڤركارا يڠ لاءين.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -49,7 +614,7 @@
   "options": [
    "دوا",
    "ليم",
-   "تيݢ"
+   "تيڠ"
   ],
   "answer": 0,
   "explanation": "واجب عقلي تربهاݢي دوا.",
@@ -67,8 +632,8 @@
   "question": "اڤاكه ارتي تقليد جازم؟",
   "options": [
    "معتمد",
-   "موافقت",
-   "كفرچاياءن يڠ تکوه"
+   "مواڤقت",
+   "كڤرچاياءن يڠ تكوه"
   ],
   "answer": 0,
   "explanation": "تقليد جازم برمعنا معتمد (يقين).",
@@ -121,14 +686,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه چونتوه فركارا يڠ محبواڠ فركوتوكن الله ﷺ؟",
+  "question": "اڤاكه چونتوه ڤركارا يڠ محبواڠ ڤركوتوكن الله ﷺ؟",
   "options": [
    "ممبواڠ انق",
    "برسنديق",
    "مماكاي تنجق"
   ],
   "answer": 1,
-  "explanation": "برسنديق مموتوسكن فركاءيتن كفد الله.",
+  "explanation": "برسنديق مموتوسكن ڤركاءيتن كڤد الله.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -140,11 +705,11 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه حکوم براعتقاد دڠن جَبَرِيَّة؟",
+  "question": "اڤاكه حكوم براعتقاد دڠن جَبَرِيَّة؟",
   "options": [
    "فاسق",
    "هاروس",
-   "قذف"
+   "قذڤ"
   ],
   "answer": 0,
   "explanation": "براعتقاد دڠن جبرية منجاديكن سسأورڠ فاسق.",
@@ -161,7 +726,7 @@
   "script": "jawi",
   "question": "ارتي الإِرَادَة اياله ___.",
   "options": [
-   "توݢݢل",
+   "توڠݢل",
    "بركواس",
    "بركهندق"
   ],
@@ -182,7 +747,7 @@
   "options": [
    "ملاكوكن تكهن",
    "ملازيمي كصالحن",
-   "برسيكف بوهوڠ"
+   "برسيكڤ بوهوڠ"
   ],
   "answer": 1,
   "explanation": "برايمان دڠن صيفت البصر ملاهيركن ملازيمي كصالحن.",
@@ -235,14 +800,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "مستحيل باكي الله ﷺ برصيفت ___.",
+  "question": "مستحيل باݢي الله ﷺ برصيفت ___.",
   "options": [
    "ككل",
    "بيناس",
    "بركواس"
   ],
   "answer": 1,
-  "explanation": "بيناس (الفناء) مستحيل باكي الله.",
+  "explanation": "بيناس (الفناء) مستحيل باݢي الله.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -257,11 +822,11 @@
   "question": "الموت منونجوككن مستحيل صيفت ___.",
   "options": [
    "ماتي",
-   "هيدوف",
+   "هيدوڤ",
    "بيسو"
   ],
   "answer": 1,
-  "explanation": "الموت (ماتي) لاون صيفت الحياة (هيدوف).",
+  "explanation": "الموت (ماتي) لاون صيفت الحياة (هيدوڤ).",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -330,14 +895,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "برايكوت اداله فمباهاكين حکوم عقل كچوالي ___.",
+  "question": "برايكوت اداله ڤمباهاكين حكوم عقل كچوالي ___.",
   "options": [
    "حرام عقلي",
    "هاروس عقلي",
    "مستحيل عقلي"
   ],
   "answer": 0,
-  "explanation": "حرام عقلي بوكن فمباهاكين حکوم عقل.",
+  "explanation": "حرام عقلي بوكن ڤمباهاكين حكوم عقل.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -349,14 +914,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "مانكاه انتارا برايكوت چارا مݢتاهوءي صيفت٢ الله ﷺ؟",
+  "question": "مانكاه انتارا برايكوت چارا مڠتاهوءي صيڤت٢ الله ﷺ؟",
   "options": [
    "إجمالي دان تفصيلي",
    "واجب عقلي",
    "مستحيل عقلي"
   ],
   "answer": 0,
-  "explanation": "چارا مݢتاهوءي صيفت الله اياله إجمالي دان تفصيلي.",
+  "explanation": "چارا مڠتاهوءي صيفت الله اياله إجمالي دان تفصيلي.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -368,7 +933,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "دانتارا برايكوت مروفاكن صيفت٢ يڠ دصحكن اوليه دصحكن اوليه حياة اياله ___.",
+  "question": "دانتارا برايكوت مروڤاكن صيڤت٢ يڠ دصحكن اوليه دصحكن اوليه حياة اياله ___.",
   "options": [
    "علم، سمع، كلام",
    "جهل، عمى، بكم",
@@ -391,7 +956,7 @@
   "options": [
    "دوا",
    "ليم",
-   "تيݢ"
+   "تيڠ"
   ],
   "answer": 0,
   "explanation": "واجب عقلي اد دوا.",
@@ -406,7 +971,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "مستحيل عقلي باكي بهاكيان اياله ___.",
+  "question": "مستحيل عقلي باݢي بهاكيان اياله ___.",
   "options": [
    "تيك بهاكيان",
    "دوا بهاكيان",
@@ -429,7 +994,7 @@
   "options": [
    "دوا بهاكيان",
    "ساتو بهاكيان",
-   "امفت بهاكيان"
+   "امڤت بهاكيان"
   ],
   "answer": 1,
   "explanation": "هاروس عقلي اد ساتو بهاكيان.",
@@ -444,14 +1009,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "صيفت الله يڠ مغاتور سݢالا فركارا مڠيكوت كحندقڽ اياله ___.",
+  "question": "صيفت الله يڠ مڠاتور سݢالا ڤركارا مڠيكوت كحندقڽ اياله ___.",
   "options": [
-   "ملياتوکن كفرچاياءن ٢ ايماني",
+   "ملياتوكن كڤرچاياءن ٢ ايماني",
    "مليواتكن ايمان",
-   "طاعة فرينته الله"
+   "طاعة ڤرينته الله"
   ],
   "answer": 2,
-  "explanation": "طاعة كفد فرينته الله اياله كسن برايمان كفد صيفت إرادة.",
+  "explanation": "طاعة كڤد ڤرينته الله اياله كسن برايمان كڤد صيفت إرادة.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -470,7 +1035,7 @@
    "منداشر"
   ],
   "answer": 0,
-  "explanation": "الجهل مستحيل باكي الله؛ البكم برمعنا بيسو.",
+  "explanation": "الجهل مستحيل باݢي الله؛ البكم برمعنا بيسو.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -482,14 +1047,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ݢولوݢن اهل السنة والجماعة برفيكاڠ دڠن دليل ___.",
+  "question": "ݢولوڠن اهل السنة والجماعة برڤيكاڠ دڠن دليل ___.",
   "options": [
    "حقيقت",
-   "ترفرينچي",
+   "ترڤرينچي",
    "دسق جلس"
   ],
   "answer": 1,
-  "explanation": "أهل السنة برفيكاڠ دڠن دليل ترفرينچي (تفصيلي).",
+  "explanation": "أهل السنة برڤيكاڠ دڠن دليل ترڤرينچي (تفصيلي).",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -501,14 +1066,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ارتي تَفْصِيلِيّ اياله ___.",
+  "question": "ارتي تَڤْصِيلِيّ اياله ___.",
   "options": [
    "حقيقت",
-   "ترفرينچي",
+   "ترڤرينچي",
    "تيدق جلس"
   ],
   "answer": 1,
-  "explanation": "تفصيلي برمعنا ترفرينچي.",
+  "explanation": "تفصيلي برمعنا ترڤرينچي.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -522,12 +1087,12 @@
   "script": "jawi",
   "question": "كونه حيا برمقصود كأداءن ___.",
   "options": [
-   "هيدوف",
-   "مندݢر",
+   "هيدوڤ",
+   "مندڠر",
    "بركات-كات"
   ],
   "answer": 0,
-  "explanation": "كونه حيا برمقصود كأداءن هيدوف.",
+  "explanation": "كونه حيا برمقصود كأداءن هيدوڤ.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -541,12 +1106,12 @@
   "script": "jawi",
   "question": "كونه سميعا برمقصود كأداءن ___.",
   "options": [
-   "مندݢر",
+   "مندڠر",
    "مليهت",
    "بركات-كات"
   ],
   "answer": 0,
-  "explanation": "كونه سميعا برمقصود كأداءن مندݢر.",
+  "explanation": "كونه سميعا برمقصود كأداءن مندڠر.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -561,7 +1126,7 @@
   "question": "كونه متكلما برمقصود كأداءن ___.",
   "options": [
    "بركات-كات",
-   "مندݢر",
+   "مندڠر",
    "مليهت"
   ],
   "answer": 0,
@@ -596,14 +1161,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "يڠ مڠچيفتا دان مننتوكن عالم اياله ___.",
+  "question": "يڠ مڠچيڤتا دان مننتوكن عالم اياله ___.",
   "options": [
    "الله",
    "ماءنسي",
    "ملائكة"
   ],
   "answer": 0,
-  "explanation": "الله يڠ مڠچيفتا دان مننتوكن عالم.",
+  "explanation": "الله يڠ مڠچيڤتا دان مننتوكن عالم.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -615,14 +1180,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كولوݢن يڠ مڠيكوت تنفا مݢتاهوءي معنا دليل اياله ___.",
+  "question": "ݢولوڠن يڠ مڠيكوت تنڤا مڠتاهوءي معنا دليل اياله ___.",
   "options": [
    "تقليد",
    "جازم",
    "غير جازم"
   ],
   "answer": 0,
-  "explanation": "تقليد اياله مݢيكوت تنفا مݢتاهوءي معنا دليل.",
+  "explanation": "تقليد اياله مڠيكوت تنڤا مڠتاهوءي معنا دليل.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -638,7 +1203,7 @@
   "options": [
    "جازم",
    "غير جازم",
-   "مخالف"
+   "مخالڤ"
   ],
   "answer": 0,
   "explanation": "تقليد جازم اياله تقليد يڠ صح ايمانڽ.",
@@ -657,7 +1222,7 @@
   "options": [
    "غير جازم",
    "جازم",
-   "مخالف"
+   "مخالڤ"
   ],
   "answer": 0,
   "explanation": "تقليد غير جازم اياله تقليد يڠ لمه.",
@@ -676,7 +1241,7 @@
   "options": [
    "بركواس",
    "بركهندق",
-   "مݢتاهوءي"
+   "مڠتاهوءي"
   ],
   "answer": 0,
   "explanation": "القدرة برمعنا بركواس.",
@@ -691,14 +1256,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم براعتقاد دݢن صيفت قَدَرِيَّة اياله ___.",
+  "question": "حكوم براعتقاد دڠن صيفت قَدَرِيَّة اياله ___.",
   "options": [
    "فاسق",
    "هاروس",
-   "قذف"
+   "قذڤ"
   ],
   "answer": 0,
-  "explanation": "براعتقاد دݢن قدرية منجاديكن سسأورݢ فاسق.",
+  "explanation": "براعتقاد دڠن قدرية منجاديكن سسأورڠ فاسق.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -710,14 +1275,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "صيفت الله ﷺ يݢ مندݢر تنفا تليݢا اياله ___.",
+  "question": "صيفت الله ﷺ يڠ مندڠر تنڤا تليڠا اياله ___.",
   "options": [
    "السَّمْعُ",
    "البَصَرُ",
    "الكَلَامُ"
   ],
   "answer": 0,
-  "explanation": "السمع برمعنا مندݢر.",
+  "explanation": "السمع برمعنا مندڠر.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -748,14 +1313,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حکوم الله ﷺ برصيفت الجَهْلُ اياله ___.",
+  "question": "حكوم الله ﷺ برصيفت الجَهْلُ اياله ___.",
   "options": [
    "مستحيل",
    "واجب",
    "هاروس"
   ],
   "answer": 0,
-  "explanation": "الجهل (جاهيل) مستحيل باكي الله.",
+  "explanation": "الجهل (جاهيل) مستحيل باݢي الله.",
   "source": "PAT 2025",
   "perlu_semak": true
  }

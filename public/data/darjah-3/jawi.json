@@ -9,7 +9,7 @@
   "script": "jawi",
   "question": "ايمبوهن دأول ڤركاتاءن \"ڤيكير\" اياله ___.",
   "options": [
-   "ک",
+   "ك",
    "من",
    "بر"
   ],
@@ -120,7 +120,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حاج لطيف مروڤاكن سأورڠ ڤنچينتا ڤوكوق دتفي رومهڽ.",
+  "question": "حاج لطيڤ مروڤاكن سأورڠ ڤنچينتا ڤوكوق دتڤي رومهڽ.",
   "options": [
    "بتول",
    "ساله"
@@ -174,13 +174,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "باچاءن القرءان اداله برڤنديوكن حکوم تجويد.",
+  "question": "باچاءن القرءان اداله برڤنديوكن حكوم تجويد.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ممباچ القرءان مستي مڠيكوت حکوم تجويد.",
+  "explanation": "ممباچ القرءان مستي مڠيكوت حكوم تجويد.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -196,12 +196,12 @@
   "options": [
    "ملينتس",
    "ڤنوليس",
-   "مغچت",
+   "مڠچت",
    "امبيلكن",
    "مباليڠ"
   ],
   "answer": 2,
-  "explanation": "ايبو مغچت تاڠن اديق تيق كتيك جالن.",
+  "explanation": "ايبو مڠچت تاڠن اديق تيق كتيك جالن.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -217,7 +217,7 @@
   "options": [
    "ملينتس",
    "ڤنوليس",
-   "مغچت",
+   "مڠچت",
    "امبيلكن",
    "مباليڠ"
   ],
@@ -234,16 +234,16 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "فوان يتيمه اداله سأورڠ يڠ ___ بوكو ترنكنل.",
+  "question": "ڤوان يتيمه اداله سأورڠ يڠ ___ بوكو ترنكنل.",
   "options": [
    "ملينتس",
    "ڤنوليس",
-   "مغچت",
+   "مڠچت",
    "امبيلكن",
    "مباليڠ"
   ],
   "answer": 0,
-  "explanation": "فوان يتيمه اياله ملينتس (ڤناتا) بوكو ترنكنل.",
+  "explanation": "ڤوان يتيمه اياله ملينتس (ڤناتا) بوكو ترنكنل.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -259,7 +259,7 @@
   "options": [
    "ملينتس",
    "ڤنوليس",
-   "مغچت",
+   "مڠچت",
    "امبيلكن",
    "مباليڠ"
   ],
@@ -280,12 +280,12 @@
   "options": [
    "ملينتس",
    "ڤنوليس",
-   "مغچت",
+   "مڠچت",
    "امبيلكن",
    "مباليڠ"
   ],
   "answer": 4,
-  "explanation": "مباليڠ (منيالين سمولا) اياله فڠرتين نسخ.",
+  "explanation": "مباليڠ (منيالين سمولا) اياله ڤڠرتين نسخ.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -297,14 +297,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "صيفت ڤماعف اداله صيفت ساله ساتو چيري اورڠ يڠ ___.",
+  "question": "صيفت ڤماعڤ اداله صيفت ساله ساتو چيري اورڠ يڠ ___.",
   "options": [
    "لمه",
    "قوات",
    "براني"
   ],
   "answer": 0,
-  "explanation": "ڤماعف برمعنا لمه.",
+  "explanation": "ڤماعڤ برمعنا لمه.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -316,7 +316,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤونچا ڤلباݢاي ڤڽاكيت اداله سيكف ___.",
+  "question": "ڤونچا ڤلباݢاي ڤڽاكيت اداله سيكڤ ___.",
   "options": [
    "برسيه",
    "كوتور",
@@ -392,12 +392,12 @@
   "script": "jawi",
   "question": "سامبوڠكن حروف: د + ف + ر = ___",
   "options": [
-   "دفر",
-   "دفري",
-   "دفار"
+   "دڤر",
+   "دڤري",
+   "دڤار"
   ],
   "answer": 0,
-  "explanation": "د + ف + ر = دفر.",
+  "explanation": "د + ف + ر = دڤر.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -466,14 +466,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف يڠ ممفوڽاءي بنتوق يڠ سروفا سڤرتي \"ن دان ث\" ايالة ___.",
+  "question": "حروف يڠ ممڤوڽاءي بنتوق يڠ سروڤا سڤرتي \"ن دان ث\" ايالة ___.",
   "options": [
    "توليسن خط نسخ",
    "توليسن رومي",
-   "انݢكا"
+   "اڠكا"
   ],
   "answer": 0,
-  "explanation": "توليسن خط نسخ ممڤوڽاءي حروف يڠ سروفا.",
+  "explanation": "توليسن خط نسخ ممڤوڽاءي حروف يڠ سروڤا.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -545,7 +545,7 @@
   "question": "ايمبوهن دأخير.",
   "options": [
    "ءي",
-   "ک",
+   "ك",
    "بر"
   ],
   "answer": 0,
@@ -604,7 +604,7 @@
    "ساله"
   ],
   "answer": 0,
-  "explanation": "فڠ + چت = ڤڠچت.",
+  "explanation": "ڤڠ + چت = ڤڠچت.",
   "source": "PPT 2023",
   "perlu_semak": true
  },
@@ -634,13 +634,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "\"برايتفتن\" اداله ڤركاتاءن برايمبوهن دأول دان دأخير.",
+  "question": "\"برايتڤتن\" اداله ڤركاتاءن برايمبوهن دأول دان دأخير.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "بر + ايتفت + ن = برايتفتن.",
+  "explanation": "بر + ايتڤت + ن = برايتڤتن.",
   "source": "PPT 2023",
   "perlu_semak": true
  },
@@ -803,7 +803,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايمبوهن دأخير باچي فركاتاءن \"توموان\".",
+  "question": "ايمبوهن دأخير باچي ڤركاتاءن \"توموان\".",
   "options": [
    "سسل",
    "دأول",
@@ -917,14 +917,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايمبوهن دأول دان دأخير باݢي \"ک\" + \"ءن\".",
+  "question": "ايمبوهن دأول دان دأخير باݢي \"ك\" + \"ءن\".",
   "options": [
    "كأداءن",
    "دأول",
    "مي"
   ],
   "answer": 0,
-  "explanation": "ک + ادا + ءن = كأداءن.",
+  "explanation": "ك + ادا + ءن = كأداءن.",
   "source": "PPT 2023",
   "perlu_semak": true
  },
@@ -1067,7 +1067,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بتول اتاو ساله: تيتيق حروف \"ب\" تيدق سلاري دتڠه بادن حروفڽ.",
+  "question": "بتول اتاو ساله: تيتيق حروف \"ب\" تيدق سلاري دتڠه بادن حروڤڽ.",
   "options": [
    "بتول",
    "ساله"
@@ -1123,14 +1123,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سرتياف موريد ڤرلو راجين اونتوق منداڤت ___ يڠ بهارو.",
+  "question": "سرتياڤ موريد ڤرلو راجين اونتوق منداڤت ___ يڠ بهارو.",
   "options": [
    "منزيما",
    "ترووس",
    "علمو"
   ],
   "answer": 2,
-  "explanation": "سرتياف موريد ڤرلو راجين منداڤت علمو يڠ بهارو.",
+  "explanation": "سرتياڤ موريد ڤرلو راجين منداڤت علمو يڠ بهارو.",
   "source": "PAT 2023",
   "perlu_semak": true
  },
@@ -1163,7 +1163,7 @@
   "script": "jawi",
   "question": "\"قض\" اداله چونتوه حروف اول برسامبوڠ ___.",
   "options": [
-   "فرساتوان",
+   "ڤرساتوان",
    "علمو",
    "تروس"
   ],
@@ -1315,7 +1315,7 @@
   "script": "jawi",
   "question": "ڤركاتاءن يڠ سسواي دڠن ايمبوهن دأول \"بر\".",
   "options": [
-   "فيكير",
+   "ڤيكير",
    "ساكيت",
    "امبيل"
   ],
@@ -1332,11 +1332,11 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ماناكه ايمبوهن دأول يڠ سسواي باݢي فركاتاءن \"باءيق\"؟",
+  "question": "ماناكه ايمبوهن دأول يڠ سسواي باݢي ڤركاتاءن \"باءيق\"؟",
   "options": [
-   "ڤݢ",
+   "ڤڠ",
    "تر",
-   "ک"
+   "ك"
   ],
   "answer": 1,
   "explanation": "تر + باءيق = تربائيق.",
@@ -1351,7 +1351,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "فركاتاءن برايمبوهن دأول \"م\" اياله ___.",
+  "question": "ڤركاتاءن برايمبوهن دأول \"م\" اياله ___.",
   "options": [
    "بري",
    "ماسق",
@@ -1370,14 +1370,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "محمد ___ تمفت فرتام دالم فڤريقساءن.",
+  "question": "محمد ___ تمڤت ڤرتام دالم ڤڤريقساءن.",
   "options": [
    "مندوكوڠ",
-   "ممفراوليه",
-   "مݢكولوڠ"
+   "ممڤراوليه",
+   "مڠݢولوڠ"
   ],
   "answer": 1,
-  "explanation": "محمد ممفراوليه تمفت فرتام.",
+  "explanation": "محمد ممڤراوليه تمڤت ڤرتام.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1389,7 +1389,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ماناكه فركاتاءن يڠ ممفوڽاءي ايمبوهن دأخير \"كن\"؟",
+  "question": "ماناكه ڤركاتاءن يڠ ممڤوڽاءي ايمبوهن دأخير \"كن\"؟",
   "options": [
    "ساماكن",
    "سوكن",
@@ -1426,13 +1426,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كهندق = ک + هين + دق.",
+  "question": "كهندق = ك + هين + دق.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 1,
-  "explanation": "ك + هندق = كهندق، بوكن ک + هين + دق.",
+  "explanation": "ك + هندق = كهندق، بوكن ك + هين + دق.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1593,14 +1593,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كات داسر باݢي ڤركاتاءن \"ممفراوليه\".",
+  "question": "كات داسر باݢي ڤركاتاءن \"ممڤراوليه\".",
   "options": [
    "اوليه",
-   "دافت",
+   "داڤت",
    "فر"
   ],
   "answer": 0,
-  "explanation": "ممفر + اوليه = ممفراوليه.",
+  "explanation": "ممڤر + اوليه = ممڤراوليه.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1615,8 +1615,8 @@
   "question": "ايمبوهن دأول ڤركاتاءن \"چت\".",
   "options": [
    "ڤڠچت",
-   "دافت",
-   "فرچت"
+   "داڤت",
+   "ڤرچت"
   ],
   "answer": 0,
   "explanation": "ڤڠ + چت = ڤڠچت.",
@@ -1634,8 +1634,8 @@
   "question": "ايمبوهن دأول ڤركاتاءن \"نوليس\".",
   "options": [
    "ڤنوليس",
-   "دافت",
-   "فرنوليس"
+   "داڤت",
+   "ڤرنوليس"
   ],
   "answer": 0,
   "explanation": "ڤن + نوليس = ڤنوليس.",
@@ -1653,7 +1653,7 @@
   "question": "كات داسر باݢي ڤركاتاءن \"ڤڠچت\".",
   "options": [
    "چت",
-   "دافت",
+   "داڤت",
    "فر"
   ],
   "answer": 0,
@@ -1672,7 +1672,7 @@
   "question": "ايمبوهن دأول ڤركاتاءن \"ويرا\".",
   "options": [
    "بر",
-   "دافت",
+   "داڤت",
    "فر"
   ],
   "answer": 0,
@@ -1782,14 +1782,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف توݢݢل.",
+  "question": "حروف توڠݢل.",
   "options": [
    "ب",
    "بب",
    "بر"
   ],
   "answer": 0,
-  "explanation": "ب توݢݢل تيدق برسامبوڠ.",
+  "explanation": "ب توڠݢل تيدق برسامبوڠ.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -1967,14 +1967,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف توݢݢل.",
+  "question": "حروف توڠݢل.",
   "options": [
    "ه",
    "ق",
-   "فع"
+   "ڤع"
   ],
   "answer": 0,
-  "explanation": "ه اياله چونتوه حروف توݢݢل.",
+  "explanation": "ه اياله چونتوه حروف توڠݢل.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -1990,7 +1990,7 @@
   "options": [
    "ق",
    "م",
-   "فع"
+   "ڤع"
   ],
   "answer": 0,
   "explanation": "ق اياله حروف اول برسامبوڠ باݢي ڤركاتاءن سديكيت.",
@@ -2007,12 +2007,12 @@
   "script": "jawi",
   "question": "حروف اول برسامبوڠ اونتوق ڤركاتاءن منابيق.",
   "options": [
-   "فع",
+   "ڤع",
    "ه",
    "م"
   ],
   "answer": 0,
-  "explanation": "فع اياله حروف اول برسامبوڠ باݢي ڤركاتاءن منابيق.",
+  "explanation": "ڤع اياله حروف اول برسامبوڠ باݢي ڤركاتاءن منابيق.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -2081,14 +2081,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بنتوق حروف \"غ\" برسامبوڠ دتڠه.",
+  "question": "بنتوق حروف \"ڠ\" برسامبوڠ دتڠه.",
   "options": [
-   "غ",
+   "ڠ",
    "ع",
    "ف"
   ],
   "answer": 0,
-  "explanation": "غ برسامبوڠ دتڠه ممڤوڽاءي بنتوق ترسنديري.",
+  "explanation": "ڠ برسامبوڠ دتڠه ممڤوڽاءي بنتوق ترسنديري.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -2157,7 +2157,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"و\" دان \"ز\" برتوليس دڠن برتمو دفرتمو دباوه حروف الف.",
+  "question": "حروف \"و\" دان \"ز\" برتوليس دڠن برتمو دڤرتمو دباوه حروف الڤ.",
   "options": [
    "بتول",
    "ساله"
@@ -2193,13 +2193,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"م\" توݢݢل مماء بولاتن دان بادن مناروں.",
+  "question": "حروف \"م\" توڠݢل مماء بولاتن دان بادن مناروں.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "م توݢݢل مماء بولاتن دان بادن مناروں.",
+  "explanation": "م توڠݢل مماء بولاتن دان بادن مناروں.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -2217,7 +2217,7 @@
    "ساله"
   ],
   "answer": 1,
-  "explanation": "ه ممفوڽاءي بنتوق برباذا دتݢه دان دأخير.",
+  "explanation": "ه ممڤوڽاءي بنتوق برباذا دتڠه دان دأخير.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -2229,13 +2229,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"ء\" برديري دباوه حروف الف.",
+  "question": "حروف \"ء\" برديري دباوه حروف الڤ.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ء بوليه برديري دباوه حروف الف.",
+  "explanation": "ء بوليه برديري دباوه حروف الڤ.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -2251,7 +2251,7 @@
   "options": [
    "تر",
    "بر",
-   "ک"
+   "ك"
   ],
   "answer": 0,
   "explanation": "تر + امبيل = ترامبيل.",
@@ -2470,14 +2470,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كات داسر باݢي ڤركاتاءن \"ڤڠليف\".",
+  "question": "كات داسر باݢي ڤركاتاءن \"ڤڠليڤ\".",
   "options": [
-   "ليف",
-   "ݢليف",
-   "تليف"
+   "ليڤ",
+   "ݢليڤ",
+   "تليڤ"
   ],
   "answer": 0,
-  "explanation": "ڤڠ + ليف = ڤڠليف.",
+  "explanation": "ڤڠ + ليڤ = ڤڠليڤ.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -2489,7 +2489,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ليفتنن عدنان اداله \"ويرا\" نݢارا.",
+  "question": "ليڤتنن عدنان اداله \"ويرا\" نݢارا.",
   "options": [
    "ڤويرا",
    "ڤرويرا",
@@ -2565,14 +2565,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"ک\".",
+  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"ك\".",
   "options": [
    "كهندق",
    "اخلاق",
    "اوسوڠ"
   ],
   "answer": 0,
-  "explanation": "ک + هندق = كهندق.",
+  "explanation": "ك + هندق = كهندق.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -2866,13 +2866,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بتول اتاو ساله: كدودوقن تيتيق حروف \"ث\" براد سلاري دتڠه بادن حروفڽ.",
+  "question": "بتول اتاو ساله: كدودوقن تيتيق حروف \"ث\" براد سلاري دتڠه بادن حروڤڽ.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 1,
-  "explanation": "تيݢ تيتيق ث براد دأتس بادن حروف.",
+  "explanation": "تيڠ تيتيق ث براد دأتس بادن حروف.",
   "source": "PAT 2024",
   "perlu_semak": true
  },
@@ -2923,7 +2923,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كراجاءن ملارڠ ملاكوكن ___ سچارا تربوک.",
+  "question": "كراجاءن ملارڠ ملاكوكن ___ سچارا تربوك.",
   "options": [
    "منوليس",
    "منشكوري",
@@ -2932,7 +2932,7 @@
    "مماهاءي"
   ],
   "answer": 3,
-  "explanation": "ڤمباكرن تربوک دلارڠ.",
+  "explanation": "ڤمباكرن تربوك دلارڠ.",
   "source": "PAT 2024",
   "perlu_semak": true
  },
@@ -2986,7 +2986,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "\"فل\" اداله چونتوه حروف اول برسامبوڠ ___.",
+  "question": "\"ڤل\" اداله چونتوه حروف اول برسامبوڠ ___.",
   "options": [
    "منوليس",
    "منشكوري",
@@ -3197,14 +3197,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سني كاليكرافي إسلام دسبوت جوݢ ___.",
+  "question": "سني كاليكراڤي إسلام دسبوت جواڠ ___.",
   "options": [
    "سني خط",
    "سني سيلت",
    "سني لوكيس"
   ],
   "answer": 0,
-  "explanation": "سني كاليكرافي إسلام دسبوت سني خط.",
+  "explanation": "سني كاليكراڤي إسلام دسبوت سني خط.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3216,14 +3216,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف اول برسامبوغ مناءيق.",
+  "question": "حروف اول برسامبوڠ مناءيق.",
   "options": [
    "بب",
    "بو",
    "بك"
   ],
   "answer": 0,
-  "explanation": "بب اياله حروف اول برسامبوغ مناءيق.",
+  "explanation": "بب اياله حروف اول برسامبوڠ مناءيق.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3242,7 +3242,7 @@
    "ظ"
   ],
   "answer": 1,
-  "explanation": "ش اياله حروف برركيكي تيݢ.",
+  "explanation": "ش اياله حروف برركيكي تيڠ.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3254,14 +3254,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"غ\" برسامبوغ دتݢه.",
+  "question": "حروف \"ڠ\" برسامبوڠ دتڠه.",
   "options": [
-   "بوغا",
-   "غاغا",
-   "فيغکن"
+   "بوڠا",
+   "ڠاڠا",
+   "ڤيڠكن"
   ],
   "answer": 1,
-  "explanation": "غاغا منونجوقكن غ برسامبوغ دتݢه.",
+  "explanation": "ڠاڠا منونجوقكن ڠ برسامبوڠ دتڠه.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3273,14 +3273,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف يݢ سام برنتوق دݢن حروف \"خ\" دان \"ج\".",
+  "question": "حروف يڠ سام برنتوق دڠن حروف \"خ\" دان \"ج\".",
   "options": [
    "ح",
    "ف",
    "ص"
   ],
   "answer": 0,
-  "explanation": "ح سام برنتوق دݢن خ دان ج، برباذا تيتيق.",
+  "explanation": "ح سام برنتوق دڠن خ دان ج، برباذا تيتيق.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3292,13 +3292,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف توݢݬل: ب، د، ص، ظ.",
+  "question": "حروف توڠݢل: ب، د، ص، ظ.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ب، د، ص، ظ اياله حروف توݢݬل.",
+  "explanation": "ب، د، ص، ظ اياله حروف توڠݢل.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3310,13 +3310,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"ب\" مماء بنتوق سام دݢن حروف \"ث\" دتݢه.",
+  "question": "حروف \"ب\" مماء بنتوق سام دڠن حروف \"ث\" دتڠه.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ب مماء بنتوق سام دݢن ث دتݢه.",
+  "explanation": "ب مماء بنتوق سام دڠن ث دتڠه.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3328,13 +3328,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"ث\" مماء بنتوق سام دݢن حروف \"و\" دتݢه.",
+  "question": "حروف \"ث\" مماء بنتوق سام دڠن حروف \"و\" دتڠه.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 1,
-  "explanation": "ث برباذا بنتوق دݢن و دتݢه.",
+  "explanation": "ث برباذا بنتوق دڠن و دتڠه.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3346,13 +3346,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كفالا حروف \"خ\" برأول دتوليس بولت دان تربوک.",
+  "question": "كڤالا حروف \"خ\" برأول دتوليس بولت دان تربوك.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "كفالا حروف خ برأول ممڤوڽاءي بنتوق بولت.",
+  "explanation": "كڤالا حروف خ برأول ممڤوڽاءي بنتوق بولت.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3364,13 +3364,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايكور حروف \"ج\" سام برنتوق دݢن ايكور حروف \"غ\".",
+  "question": "ايكور حروف \"ج\" سام برنتوق دڠن ايكور حروف \"ڠ\".",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 1,
-  "explanation": "ايكور ج سام برنتوق دݢن ايكور ع دان غ سچارا اومومڽ برباذا سديكيت.",
+  "explanation": "ايكور ج سام برنتوق دڠن ايكور ع دان ڠ سچارا اومومڽ برباذا سديكيت.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3382,14 +3382,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف توݢݬل.",
+  "question": "حروف توڠݢل.",
   "options": [
    "ص",
    "طا",
    "تر"
   ],
   "answer": 0,
-  "explanation": "ص اياله چونتوه حروف توݢݬل.",
+  "explanation": "ص اياله چونتوه حروف توڠݢل.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3401,14 +3401,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف اول برسامبوغ مناءيق سديكيت.",
+  "question": "حروف اول برسامبوڠ مناءيق سديكيت.",
   "options": [
    "طق",
    "ص",
    "تسخ"
   ],
   "answer": 0,
-  "explanation": "طق اياله حروف اول برسامبوغ مناءيق سديكيت.",
+  "explanation": "طق اياله حروف اول برسامبوڠ مناءيق سديكيت.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3420,14 +3420,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف اول برسامبوغ تروس.",
+  "question": "حروف اول برسامبوڠ تروس.",
   "options": [
    "طا",
    "ص",
    "تر"
   ],
   "answer": 0,
-  "explanation": "طا اياله حروف اول برسامبوغ تروس.",
+  "explanation": "طا اياله حروف اول برسامبوڠ تروس.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3439,14 +3439,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"غ\" برسامبوغ دأخير.",
+  "question": "حروف \"ڠ\" برسامبوڠ دأخير.",
   "options": [
    "تسخ",
    "طا",
    "تر"
   ],
   "answer": 0,
-  "explanation": "تسخ منونجوقكن غ برسامبوغ دأخير.",
+  "explanation": "تسخ منونجوقكن ڠ برسامبوڠ دأخير.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3458,14 +3458,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف اول برسامبوغ مناءيق.",
+  "question": "حروف اول برسامبوڠ مناءيق.",
   "options": [
    "تر",
    "طا",
    "ص"
   ],
   "answer": 0,
-  "explanation": "تر اياله حروف اول برسامبوغ مناءيق.",
+  "explanation": "تر اياله حروف اول برسامبوڠ مناءيق.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3477,7 +3477,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "خط يݢ دݬوناكن ددالم القرءان.",
+  "question": "خط يڠ دݬوناكن ددالم القرءان.",
   "options": [
    "خط نسخ",
    "خط رومي",
@@ -3496,7 +3496,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بنتوق تيتيق حروف \"ب\" برسامبوغ دأول.",
+  "question": "بنتوق تيتيق حروف \"ب\" برسامبوڠ دأول.",
   "options": [
    "1",
    "2",
@@ -3515,7 +3515,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بنتوق تيتيق حروف \"د\" برسامبوغ دأخير.",
+  "question": "بنتوق تيتيق حروف \"د\" برسامبوڠ دأخير.",
   "options": [
    "1",
    "0",
@@ -3534,7 +3534,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بنتوق تيتيق حروف \"ح\" برسامبوغ دأول.",
+  "question": "بنتوق تيتيق حروف \"ح\" برسامبوڠ دأول.",
   "options": [
    "0",
    "1",
@@ -3553,7 +3553,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بنتوق تيتيق حروف \"ث\" برسامبوغ دأخير.",
+  "question": "بنتوق تيتيق حروف \"ث\" برسامبوڠ دأخير.",
   "options": [
    "3",
    "1",
@@ -3572,14 +3572,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"ب\" دان \"ت\" برتمو دݢن حروف \"س\".",
+  "question": "حروف \"ب\" دان \"ت\" برتمو دڠن حروف \"س\".",
   "options": [
    "بست",
    "تسب",
    "سبت"
   ],
   "answer": 0,
-  "explanation": "ب دان ت برسامبوغ دݢن س منجادي بست.",
+  "explanation": "ب دان ت برسامبوڠ دڠن س منجادي بست.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3591,14 +3591,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "دوا حروف يݢ برايكوتن.",
+  "question": "دوا حروف يڠ برايكوتن.",
   "options": [
    "اب",
    "با",
    "اب"
   ],
   "answer": 0,
-  "explanation": "ا دان ب اياله دوا حروف يݢ برايكوتن.",
+  "explanation": "ا دان ب اياله دوا حروف يڠ برايكوتن.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3610,14 +3610,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "دوا اݢكا يݢ ارتام اونتوق منوليس.",
+  "question": "دوا اڠكا يڠ ارتام اونتوق منوليس.",
   "options": [
    "1، 2",
    "3، 4",
    "5، 6"
   ],
   "answer": 0,
-  "explanation": "1 دان 2 اياله دوا اݢكا ارتام.",
+  "explanation": "1 دان 2 اياله دوا اڠكا ارتام.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3629,14 +3629,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف يݢ برتيتيق.",
+  "question": "حروف يڠ برتيتيق.",
   "options": [
    "ت",
    "ا",
    "د"
   ],
   "answer": 0,
-  "explanation": "ت اياله حروف يݢ برتيتيق.",
+  "explanation": "ت اياله حروف يڠ برتيتيق.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3685,14 +3685,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"ک\".",
+  "question": "چونتوه ڤركاتاءن ايمبوهن دأول \"ك\".",
   "options": [
    "كرس",
    "كتاب",
    "كهندق"
   ],
   "answer": 2,
-  "explanation": "ک + هندق = كهندق.",
+  "explanation": "ك + هندق = كهندق.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -3707,7 +3707,7 @@
   "question": "ڤركاتاءن ايمبوهن دأول \"ڤـ\".",
   "options": [
    "ڤماره",
-   "ڤنياک",
+   "ڤنياك",
    "ڤمبيلا"
   ],
   "answer": 0,
@@ -3815,7 +3815,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤڠتاهوان أݢام إسلام منجادي ڤلاڤس هيدوڤ.",
+  "question": "ڤڠتاهوان اݢام إسلام منجادي ڤلاڤس هيدوڤ.",
   "options": [
    "بتول",
    "ساله"
@@ -3870,14 +3870,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سيكف ___ اداله ڤونچا ڤڽاكيت.",
+  "question": "سيكڤ ___ اداله ڤونچا ڤڽاكيت.",
   "options": [
    "مالس بركسيه",
    "راجين",
    "برديسيڤلين"
   ],
   "answer": 0,
-  "explanation": "سيكف مالس بركسيه اداله ڤونچا ڤڽاكيت.",
+  "explanation": "سيكڤ مالس بركسيه اداله ڤونچا ڤڽاكيت.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -3965,7 +3965,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه فركاتاءن ايمبوهن \"مڤر\".",
+  "question": "چونتوه ڤركاتاءن ايمبوهن \"مڤر\".",
   "options": [
    "ممڤربيسر",
    "ممبرسيه",
@@ -3984,14 +3984,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "فوان حليمة دتوݢسكن سباݢاي ___ تتامو.",
+  "question": "ڤوان حليمة دتواڠسكن سباݢاي ___ تتامو.",
   "options": [
    "ڤرامو",
    "ڤسوروه",
    "ڤنجاݢ"
   ],
   "answer": 0,
-  "explanation": "فوان حليمة دتوݢسكن سباݢاي فرامو تتامو.",
+  "explanation": "ڤوان حليمة دتواڠسكن سباݢاي ڤرامو تتامو.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -4060,14 +4060,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كات داسر باݢي ڤركاتاءن \"برتفتن\".",
+  "question": "كات داسر باݢي ڤركاتاءن \"برتڤتن\".",
   "options": [
-   "تفت",
-   "برتف",
+   "تڤت",
+   "برتڤ",
    "تن"
   ],
   "answer": 0,
-  "explanation": "بر + تفت + ن = برتفتن.",
+  "explanation": "بر + تڤت + ن = برتڤتن.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -4086,7 +4086,7 @@
    "داءن"
   ],
   "answer": 0,
-  "explanation": "ک + ادا + ءن = كأداءن.",
+  "explanation": "ك + ادا + ءن = كأداءن.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -4117,7 +4117,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايمبوهن دأول دان دأخير فركاتاءن \"ممڤردڠركن\".",
+  "question": "ايمبوهن دأول دان دأخير ڤركاتاءن \"ممڤردڠركن\".",
   "options": [
    "مم + كن",
    "ڤر + ان",
@@ -4136,14 +4136,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤركاتاءن ايمبوهن دأول \"ک\".",
+  "question": "ڤركاتاءن ايمبوهن دأول \"ك\".",
   "options": [
    "كريتا",
    "كدالم",
    "كوچيڠ"
   ],
   "answer": 1,
-  "explanation": "ک + دالم = كدالم.",
+  "explanation": "ك + دالم = كدالم.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -4193,14 +4193,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه ايمبوهن دأول دان دأخير \"ک + ءن\".",
+  "question": "چونتوه ايمبوهن دأول دان دأخير \"ك + ءن\".",
   "options": [
    "كأداءن",
    "كسوسهن",
    "كروسقن"
   ],
   "answer": 0,
-  "explanation": "ک + ادا + ءن = كأداءن.",
+  "explanation": "ك + ادا + ءن = كأداءن.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -4340,14 +4340,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤنچمرن اودارا برلاكو جک ملاكوكن ___ تربوک.",
+  "question": "ڤنچمرن اودارا برلاكو جك ملاكوكن ___ تربوك.",
   "options": [
    "ڤنوليس",
    "ڤمباكرن",
    "بلاجر"
   ],
   "answer": 1,
-  "explanation": "ڤمباكرن تربوک مڽببكن ڤنچمرن اودارا.",
+  "explanation": "ڤمباكرن تربوك مڽببكن ڤنچمرن اودارا.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -4458,7 +4458,7 @@
   "options": [
    "ڤـ + ن",
    "ڤم + ان",
-   "ک + ءن"
+   "ك + ءن"
   ],
   "answer": 0,
   "explanation": "ڤ + سل + ن = ڤسلن.",
@@ -4530,14 +4530,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايمبوهن دأول \"ک\" اياله ___.",
+  "question": "ايمبوهن دأول \"ك\" اياله ___.",
   "options": [
    "كهندق",
    "ملڠكه",
    "ڤنياكق"
   ],
   "answer": 0,
-  "explanation": "ک + هندق = كهندق.",
+  "explanation": "ك + هندق = كهندق.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4605,13 +4605,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "\"دفرچت\" اياله ڤركاتاءن ايمبوهن دأول \"د\".",
+  "question": "\"دڤرچت\" اياله ڤركاتاءن ايمبوهن دأول \"د\".",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "د + فرچت = دفرچت.",
+  "explanation": "د + ڤرچت = دڤرچت.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4641,13 +4641,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "\"برفنداڤتن\" اداله ايمبوهن دأول دان دأخير \"بر + ان\".",
+  "question": "\"برڤنداڤتن\" اداله ايمبوهن دأول دان دأخير \"بر + ان\".",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "بر + فنداڤت + ان = برفنداڤتن.",
+  "explanation": "بر + ڤنداڤت + ان = برڤنداڤتن.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4659,13 +4659,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "القرءان اداله سومبر يڠ واجب دفرچاياءي.",
+  "question": "القرءان اداله سومبر يڠ واجب دڤرچاياءي.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "القرءان اداله سومبر يڠ واجب دفرچاياءي.",
+  "explanation": "القرءان اداله سومبر يڠ واجب دڤرچاياءي.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4681,7 +4681,7 @@
   "options": [
    "ملينتس",
    "منداڤت",
-   "مغكوسوق"
+   "مڠݢوسوق"
   ],
   "answer": 0,
   "explanation": "ابڠ ملينتس تاڠن اديق ايريق كتيك جالن.",
@@ -4696,14 +4696,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "كاكق ___ تمفت ڤرتام دالم ڤڤريقساءن.",
+  "question": "كاكق ___ تمڤت ڤرتام دالم ڤڤريقساءن.",
   "options": [
    "منداڤت",
    "ملينتس",
-   "مغكوسوق"
+   "مڠݢوسوق"
   ],
   "answer": 0,
-  "explanation": "كاكق منداڤت تمفت ڤرتام دالم ڤڤريقساءن.",
+  "explanation": "كاكق منداڤت تمڤت ڤرتام دالم ڤڤريقساءن.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4717,12 +4717,12 @@
   "script": "jawi",
   "question": "ايه ___ باجو سبلوم كمسجد.",
   "options": [
-   "مغكوسوق",
+   "مڠݢوسوق",
    "منداڤت",
    "ملينتس"
   ],
   "answer": 0,
-  "explanation": "ايه مغكوسوق باجو سبلوم كمسجد.",
+  "explanation": "ايه مڠݢوسوق باجو سبلوم كمسجد.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4734,7 +4734,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايمبوهن دأول دان دأخير فركاتاءن \"برسامأن\".",
+  "question": "ايمبوهن دأول دان دأخير ڤركاتاءن \"برسامأن\".",
   "options": [
    "بر + ن",
    "منداڤت",
@@ -4817,7 +4817,7 @@
    "ڤمليك"
   ],
   "answer": 0,
-  "explanation": "فوان امينة سأورڠ ڤڠهوني رومه يڠ راجين.",
+  "explanation": "ڤوان امينة سأورڠ ڤڠهوني رومه يڠ راجين.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4829,14 +4829,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سموا ___ ايت برجاي سمفاي كڤونچق ݢونوڠ.",
+  "question": "سموا ___ ايت برجاي سمڤاي كڤونچق ݢونوڠ.",
   "options": [
    "ڤنداكي",
    "ڤلاري",
    "ڤنونتون"
   ],
   "answer": 0,
-  "explanation": "سموا ڤنداكي ايت برجاي سمفاي كڤونچق.",
+  "explanation": "سموا ڤنداكي ايت برجاي سمڤاي كڤونچق.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4943,7 +4943,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايمبوهن دأول دان دأخير فركاتاءن \"ممڤردڠركن\".",
+  "question": "ايمبوهن دأول دان دأخير ڤركاتاءن \"ممڤردڠركن\".",
   "options": [
    "مم + كن",
    "ڤر + ان",

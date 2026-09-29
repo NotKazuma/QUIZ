@@ -26,14 +26,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ک + ر + و + س + ي = ___",
+  "question": "ك + ر + و + س + ي = ___",
   "options": [
    "كوچيڠ",
    "كروسي",
    "كرباو"
   ],
   "answer": 1,
-  "explanation": "ک + ر + و + س + ي = كروسي.",
+  "explanation": "ك + ر + و + س + ي = كروسي.",
   "source": "PPT 2022",
   "perlu_semak": true
  },
@@ -73,7 +73,7 @@
    "ب + و + م"
   ],
   "answer": 1,
-  "explanation": "ݢمبر اين اياله بيݢ.",
+  "explanation": "ݢمبر اين اياله بيڠ.",
   "source": "PPT 2022",
   "perlu_semak": true
  },
@@ -168,7 +168,7 @@
   "image": "images/darjah-2/jawi-ppt2022-jam.jpg",
   "options": [
    "ج + م",
-   "ک + م",
+   "ك + م",
    "ڤ + م"
   ],
   "answer": 0,
@@ -385,7 +385,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک",
+  "question": "سوكو كات تربوك",
   "options": [
    "با",
    "بن",
@@ -442,14 +442,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سامبوڠكن حروف: \"س + ي + ڠ + ک + ي\"",
+  "question": "سامبوڠكن حروف: \"س + ي + ڠ + ك + ي\"",
   "options": [
    "سيڠكي",
    "سڠكي",
    "سيڠكو"
   ],
   "answer": 0,
-  "explanation": "س + ي + ڠ + ک + ي = سيڠكي.",
+  "explanation": "س + ي + ڠ + ك + ي = سيڠكي.",
   "source": "PPT 2022",
   "perlu_semak": true
  },
@@ -480,14 +480,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ماناكه سوكو كات تربوک دان تربوک؟",
+  "question": "ماناكه سوكو كات تربوك دان تربوك؟",
   "options": [
    "ايم",
    "كودا",
    "ايكن"
   ],
   "answer": 1,
-  "explanation": "كو + دا، كدوا٢ سوكو كات تربوک.",
+  "explanation": "كو + دا، كدوا٢ سوكو كات تربوك.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -503,10 +503,10 @@
   "options": [
    "ڤاسو",
    "كايو",
-   "بيک"
+   "بيك"
   ],
   "answer": 2,
-  "explanation": "بيک برأخير دڠن حروف مات.",
+  "explanation": "بيك برأخير دڠن حروف مات.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -635,13 +635,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بتول اتاو ساله: ڤركاتاءن \"رماج\" ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوک.",
+  "question": "بتول اتاو ساله: ڤركاتاءن \"رماج\" ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوك.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ر + ما + ج، تيݢ سوكو كات تربوک.",
+  "explanation": "ر + ما + ج، تيڠ سوكو كات تربوك.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -677,7 +677,7 @@
    "ساله"
   ],
   "answer": 0,
-  "explanation": "تس دالم ڤينتس تيدق دتوليس دڠن الف.",
+  "explanation": "تس دالم ڤينتس تيدق دتوليس دڠن الڤ.",
   "source": "PAT 2022",
   "perlu_semak": true
  },
@@ -886,14 +886,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ماناكه چونتوه سوكو كات تربوک؟",
+  "question": "ماناكه چونتوه سوكو كات تربوك؟",
   "options": [
    "كن",
    "رو",
    "سڠ"
   ],
   "answer": 1,
-  "explanation": "رو برأخير دڠن ووكل، ايايت سوكو كات تربوک.",
+  "explanation": "رو برأخير دڠن ووكل، ايايت سوكو كات تربوك.",
   "source": "PAT 2023",
   "perlu_semak": true
  },
@@ -985,7 +985,7 @@
   "question": "اڤاكه نام ݢمبر اين؟",
   "image": "images/darjah-2/jawi-pat2023-pelita.jpg",
   "options": [
-   "ک + ري + تا",
+   "ك + ري + تا",
    "ڤ + ري + ݢي",
    "ڤ + لي + تا"
   ],
@@ -1116,7 +1116,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بتول اتاو ساله: \"جم\" اداله چونتوه سوكو كات تربوک.",
+  "question": "بتول اتاو ساله: \"جم\" اداله چونتوه سوكو كات تربوك.",
   "options": [
    "بتول",
    "ساله"
@@ -1140,7 +1140,7 @@
    "ساله"
   ],
   "answer": 1,
-  "explanation": "كاسوت هيتم اياله فراسا، بوكن ايات.",
+  "explanation": "كاسوت هيتم اياله ڤراسا، بوكن ايات.",
   "source": "PAT 2023",
   "perlu_semak": true
  },
@@ -1170,7 +1170,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک = ___",
+  "question": "سوكو كات تربوك = ___",
   "options": [
    "ف",
    "دأخير",
@@ -1179,7 +1179,7 @@
    "بنتل"
   ],
   "answer": 2,
-  "explanation": "هو اياله سوكو كات تربوک.",
+  "explanation": "هو اياله سوكو كات تربوك.",
   "source": "PAT 2023",
   "perlu_semak": true
  },
@@ -1297,7 +1297,7 @@
   "question": "\"ڤوس\" اداله چونتوه سوكو كات ___.",
   "options": [
    "ترتوتوڤ",
-   "تربوک",
+   "تربوك",
    "ڤنجڠ"
   ],
   "answer": 0,
@@ -1370,7 +1370,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک.",
+  "question": "سوكو كات تربوك.",
   "options": [
    "اي",
    "لن",
@@ -1415,7 +1415,7 @@
    "رات"
   ],
   "answer": 1,
-  "explanation": "ڤ + لي + تا، تيݢ سوكو كات.",
+  "explanation": "ڤ + لي + تا، تيڠ سوكو كات.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1427,14 +1427,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک دان ترتوتوڤ.",
+  "question": "سوكو كات تربوك دان ترتوتوڤ.",
   "options": [
-   "ملاک",
+   "ملاك",
    "كروسي",
    "بوروڠ"
   ],
   "answer": 2,
-  "explanation": "بو (تربوک) + روڠ (ترتوتوڤ).",
+  "explanation": "بو (تربوك) + روڠ (ترتوتوڤ).",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1483,13 +1483,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بتول اتاو ساله: ک + رو + سي = كروسي",
+  "question": "بتول اتاو ساله: ك + رو + سي = كروسي",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ک + رو + سي = كروسي.",
+  "explanation": "ك + رو + سي = كروسي.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1562,7 +1562,7 @@
   "options": [
    "ڤ + تاي",
    "ڤتا + ي",
-   "فت + اي"
+   "ڤت + اي"
   ],
   "answer": 0,
   "explanation": "ݢمبر اين اياله ڤتاي = ڤ + تاي.",
@@ -1637,7 +1637,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤركاتاءن يڠ ممڤوڽاءي دوا سوكو كات تربوک.",
+  "question": "ڤركاتاءن يڠ ممڤوڽاءي دوا سوكو كات تربوك.",
   "options": [
    "بريتا",
    "چلق",
@@ -1646,7 +1646,7 @@
    "سمڤن"
   ],
   "answer": 2,
-  "explanation": "كو + كو، دوا سوكو كات تربوک.",
+  "explanation": "كو + كو، دوا سوكو كات تربوك.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1679,7 +1679,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤركاتاءن يڠ ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوک.",
+  "question": "ڤركاتاءن يڠ ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوك.",
   "options": [
    "بريتا",
    "چلق",
@@ -1688,7 +1688,7 @@
    "سمڤن"
   ],
   "answer": 0,
-  "explanation": "ب + ري + تا، تيݢ سوكو كات تربوک.",
+  "explanation": "ب + ري + تا، تيڠ سوكو كات تربوك.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1700,14 +1700,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤركاتاءن سوكو كات تربوک.",
+  "question": "ڤركاتاءن سوكو كات تربوك.",
   "options": [
    "باتو",
    "بنتل",
    "كونچي"
   ],
   "answer": 0,
-  "explanation": "با + تو، كدوا٢ سوكو كات تربوک.",
+  "explanation": "با + تو، كدوا٢ سوكو كات تربوك.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -1719,14 +1719,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤركاتاءن يڠ ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوک.",
+  "question": "ڤركاتاءن يڠ ممڤوڽاءي لبيه درڤد دوا سوكو كات تربوك.",
   "options": [
    "كلاڤا",
    "بنتل",
    "ايكن"
   ],
   "answer": 0,
-  "explanation": "ک + لا + ڤا، تيݢ سوكو كات تربوک.",
+  "explanation": "ك + لا + ڤا، تيڠ سوكو كات تربوك.",
   "source": "UPP1 2024",
   "perlu_semak": true
  },
@@ -2084,7 +2084,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ساي سوک ماكن ___",
+  "question": "ساي سوك ماكن ___",
   "options": [
    "بواه تمڤتن",
    "برخاصيت",
@@ -2093,7 +2093,7 @@
    "هيتم"
   ],
   "answer": 2,
-  "explanation": "ساي سوک ماكن بواه مڠݢيس.",
+  "explanation": "ساي سوك ماكن بواه مڠݢيس.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -2201,13 +2201,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بتول اتاو ساله: ک + تا + وا = كتاوا",
+  "question": "بتول اتاو ساله: ك + تا + وا = كتاوا",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "ک + تا + وا = كتاوا.",
+  "explanation": "ك + تا + وا = كتاوا.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -2350,14 +2350,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات ترتوتوڤ + سوكو كات تربوک",
+  "question": "سوكو كات ترتوتوڤ + سوكو كات تربوك",
   "options": [
    "سا + تو",
    "سو + چي",
    "بن + تل"
   ],
   "answer": 2,
-  "explanation": "سوكو كات ترتوتوڤ + تربوک = بن + تل.",
+  "explanation": "سوكو كات ترتوتوڤ + تربوك = بن + تل.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -2388,7 +2388,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک.",
+  "question": "سوكو كات تربوك.",
   "options": [
    "ݢلس",
    "سقسي",
@@ -2491,14 +2491,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه سوكو كات تربوک + سوكو كات ترتوتوڤ.",
+  "question": "چونتوه سوكو كات تربوك + سوكو كات ترتوتوڤ.",
   "options": [
    "ماكن",
    "كاكي",
    "بنتل"
   ],
   "answer": 0,
-  "explanation": "ما (تربوک) + كن (ترتوتوڤ).",
+  "explanation": "ما (تربوك) + كن (ترتوتوڤ).",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -2567,14 +2567,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ماناكه چونتوه سوكو كات تربوک؟",
+  "question": "ماناكه چونتوه سوكو كات تربوك؟",
   "options": [
    "ب + كم",
    "سو + دو",
    "ت + لور"
   ],
   "answer": 1,
-  "explanation": "سو دان دو اياله سوكو كات تربوک.",
+  "explanation": "سو دان دو اياله سوكو كات تربوك.",
   "source": "PAT 2024",
   "perlu_semak": true
  },
@@ -2609,7 +2609,7 @@
   "image": "images/darjah-2/jawi-pat2024-kon.jpg",
   "options": [
    "ڤوس",
-   "بيݢ",
+   "بيڠ",
    "كون"
   ],
   "answer": 2,
@@ -2666,7 +2666,7 @@
   "question": "اڤاكه نام ݢمبر اين؟",
   "image": "images/darjah-2/jawi-pat2024-penyapu.jpg",
   "options": [
-   "ک + رو + سي",
+   "ك + رو + سي",
    "ڤ + لي + تا",
    "ڤ + ڽا + ڤو"
   ],
@@ -2821,7 +2821,7 @@
    "ساله"
   ],
   "answer": 1,
-  "explanation": "الس ميجا اياله فراسا، بوكن ايات.",
+  "explanation": "الس ميجا اياله ڤراسا، بوكن ايات.",
   "source": "PAT 2024",
   "perlu_semak": true
  },
@@ -2851,7 +2851,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک = ___",
+  "question": "سوكو كات تربوك = ___",
   "options": [
    "جينتن",
    "جو",
@@ -2860,7 +2860,7 @@
    "چنتس"
   ],
   "answer": 1,
-  "explanation": "جو اياله سوكو كات تربوک.",
+  "explanation": "جو اياله سوكو كات تربوك.",
   "source": "PAT 2024",
   "perlu_semak": true
  },
@@ -2978,7 +2978,7 @@
   "question": "\"بوم\" اداله چونتوه سوكو كات ___.",
   "options": [
    "ترتوتوڤ",
-   "تربوک",
+   "تربوك",
    "ڤنجڠ"
   ],
   "answer": 0,
@@ -3150,7 +3150,7 @@
    "ساله"
   ],
   "answer": 1,
-  "explanation": "تودوڠ ورنا ميره اياله فراسا، بوكن ايات.",
+  "explanation": "تودوڠ ورنا ميره اياله ڤراسا، بوكن ايات.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3256,14 +3256,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ايبو ساي سوک ___",
+  "question": "ايبو ساي سوك ___",
   "options": [
    "مالم",
    "هاري",
    "ماسق"
   ],
   "answer": 2,
-  "explanation": "ايبو ساي سوک ماسق.",
+  "explanation": "ايبو ساي سوك ماسق.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },
@@ -3475,14 +3475,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف٢ برتيتيق تيݢ.",
+  "question": "حروف٢ برتيتيق تيڠ.",
   "options": [
-   "ت، س، غ",
+   "ت، س، ڠ",
    "چ، ڠ، ڤ",
    "ب، ق، ت"
   ],
   "answer": 1,
-  "explanation": "چ، ڠ دان ڤ ممڤوڽاءي تيݢ تيتيق.",
+  "explanation": "چ، ڠ دان ڤ ممڤوڽاءي تيڠ تيتيق.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -3609,7 +3609,7 @@
   "options": [
    "ڤوس",
    "تين",
-   "بيک"
+   "بيك"
   ],
   "answer": 0,
   "explanation": "ڤوس ممڤوڽاءي ووكل و دتڠه.",
@@ -3805,14 +3805,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه سوكو كات تربوک + ترتوتوڤ.",
+  "question": "چونتوه سوكو كات تربوك + ترتوتوڤ.",
   "options": [
    "ماكن",
    "كاكي",
    "بنتل"
   ],
   "answer": 0,
-  "explanation": "ما (تربوک) + كن (ترتوتوڤ).",
+  "explanation": "ما (تربوك) + كن (ترتوتوڤ).",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -3881,14 +3881,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ماناكه چونتوه حروف ووكل (ا) يڠ دݢوݢوركن؟",
+  "question": "ماناكه چونتوه حروف ووكل (ا) يڠ دڠوڠوركن؟",
   "options": [
    "ڤن",
    "كڤق",
    "ورن"
   ],
   "answer": 1,
-  "explanation": "دالم كڤق (كاڤق)، حروف ا دݢوݢوركن.",
+  "explanation": "دالم كڤق (كاڤق)، حروف ا دڠوڠوركن.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -3905,7 +3905,7 @@
   "options": [
    "تنجق",
    "تنجاق",
-   "تنجک"
+   "تنجك"
   ],
   "answer": 0,
   "explanation": "ݢمبر اين اياله تنجق.",
@@ -3982,7 +3982,7 @@
   "image": "images/darjah-2/jawi-pat2025-tin.jpg",
   "options": [
    "ت + و + ڠ",
-   "ک + و + ن",
+   "ك + و + ن",
    "ت + ي + ن"
   ],
   "answer": 2,
@@ -4264,7 +4264,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک.",
+  "question": "سوكو كات تربوك.",
   "options": [
    "نا",
    "بن",
@@ -4290,7 +4290,7 @@
    "كروسي"
   ],
   "answer": 2,
-  "explanation": "ك + رو + سي، تيݢ سوكو كات.",
+  "explanation": "ك + رو + سي، تيڠ سوكو كات.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4302,14 +4302,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "سوكو كات تربوک دان ترتوتوڤ.",
+  "question": "سوكو كات تربوك دان ترتوتوڤ.",
   "options": [
    "بومبا",
    "بڠكو",
    "موسڠ"
   ],
   "answer": 2,
-  "explanation": "مو (تربوک) + سڠ (ترتوتوڤ).",
+  "explanation": "مو (تربوك) + سڠ (ترتوتوڤ).",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4533,7 +4533,7 @@
   "question": "حروف برتيتيق ساتو.",
   "options": [
    "ع",
-   "ک",
+   "ك",
    "ش",
    "ض",
    "ق"
@@ -4551,16 +4551,16 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف برتيتيق تيݢ.",
+  "question": "حروف برتيتيق تيڠ.",
   "options": [
    "ع",
-   "ک",
+   "ك",
    "ش",
    "ض",
    "ق"
   ],
   "answer": 2,
-  "explanation": "ش ممڤوڽاءي تيݢ تيتيق.",
+  "explanation": "ش ممڤوڽاءي تيڠ تيتيق.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -4575,7 +4575,7 @@
   "question": "حروف برتيتيق دوا.",
   "options": [
    "ع",
-   "ک",
+   "ك",
    "ش",
    "ض",
    "ق"
@@ -4614,12 +4614,12 @@
   "script": "jawi",
   "question": "حروف يڠ برتيتيق.",
   "options": [
-   "د، ا، ک",
+   "د، ا، ك",
    "ص، س، ط",
-   "غ، ق، ت"
+   "ڠ، ق، ت"
   ],
   "answer": 2,
-  "explanation": "غ، ق دان ت سمواڽ برتيتيق.",
+  "explanation": "ڠ، ق دان ت سمواڽ برتيتيق.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
