@@ -1267,3 +1267,19 @@ p { margin: 0; }
   :root:not([data-theme="light"]) .kpi.is-warn .kpi-num { color: #fbbf24; }
 }
 :root[data-theme="dark"] .kpi.is-warn .kpi-num { color: #fbbf24; }
+
+/* Nama pengguna dalam senarai admin boleh ditekan untuk butiran penuh. */
+.user-open {
+  display: flex; flex-direction: column; gap: 2px; align-items: flex-start;
+  flex: 1; min-width: 0; text-align: left; background: none; border: 0;
+  padding: 0; font: inherit; color: inherit; cursor: pointer;
+}
+.user-open:hover .user-name, .user-open:focus-visible .user-name { text-decoration: underline; }
+.kv { display: grid; grid-template-columns: minmax(96px, auto) 1fr; gap: 4px 12px; margin: 0 0 12px; }
+.kv dt { color: var(--muted-foreground); font-size: .82rem; font-weight: 600; }
+.kv dd { margin: 0; font-size: .9rem; word-break: break-word; }
+.raw-json {
+  max-height: 460px; overflow: auto; margin: 0; padding: 10px 12px;
+  font-size: .72rem; line-height: 1.5; white-space: pre; tab-size: 2;
+  border: 1px solid var(--border); border-radius: var(--radius); background: var(--muted);
+}

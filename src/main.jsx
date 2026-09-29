@@ -14,6 +14,7 @@ async function previewNode() {
   const name = new URLSearchParams(location.search).get('preview');
   const load = {
     student: () => import('./screens/teacher/StudentDetail.preview.jsx'),
+    admin: () => import('./screens/admin/AdminUserDetail.preview.jsx'),
     image: () => import('./components/ImageField.preview.jsx'),
   }[name];
   if (!load) return null;

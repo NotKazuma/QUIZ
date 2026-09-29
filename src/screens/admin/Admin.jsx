@@ -26,7 +26,7 @@ export default function Admin({ user, config, onBack }) {
           </button>
         ))}
       </div>
-      {tab === 'users' && <AdminUsers me={user} />}
+      {tab === 'users' && <AdminUsers me={user} config={config} />}
       {tab === 'questions' && <AdminQuestions me={user} config={config} />}
       {tab === 'sets' && <MySets user={user} config={config} allSets />}
     </section>

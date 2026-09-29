@@ -6,6 +6,7 @@ import {
 import { ADMIN_EMAILS, TEACHER_EMAIL_PATTERN } from '../../lib/roles.js';
 import Emoji from '../../components/Emoji.jsx';
 import { ask } from '../../components/ConfirmDialog.jsx';
+import AdminUserDetail from './AdminUserDetail.jsx';
 
 const activity = u => u.lastActive || u.updatedAt || '';
 const accuracy = u => (u.stats?.answered ? (u.stats.correct || 0) / u.stats.answered : -1);
@@ -27,7 +28,7 @@ function roleOf(u) {
   return 'murid';
 }
 
-export default function AdminUsers({ me }) {
+export default function AdminUsers({ me, config }) {
   const [users, setUsers] = useState(null);
   const [error, setError] = useState('');
   const [search, setSearch] = useState('');
@@ -36,6 +37,7 @@ export default function AdminUsers({ me }) {
   const [selected, setSelected] = useState(() => new Set());
   const [busy, setBusy] = useState('');
   const [requests, setRequests] = useState([]);
+  const [open, setOpen] = useState(null);   // pengguna yang dibuka panelnya
 
   async function load() {
     setError('');
@@ -108,6 +110,7 @@ export default function AdminUsers({ me }) {
     try {
       await setUserRole(u.uid, makeTeacher ? 'teacher' : null);
       setUsers(list => list.map(x => (x.uid === u.uid ? { ...x, role: makeTeacher ? 'teacher' : null } : x)));
+      setOpen(o => (o && o.uid === u.uid ? { ...o, role: makeTeacher ? 'teacher' : null } : o));
     } catch (e) {
       alert('Gagal: ' + (e.code || e.message));
     } finally {
@@ -135,6 +138,7 @@ export default function AdminUsers({ me }) {
     try {
       await deleteUserData(u.uid);
       setUsers(list => list.filter(x => x.uid !== u.uid));
+      setOpen(null);
     } catch (e) {
       alert('Gagal: ' + (e.code || e.message));
     } finally {
@@ -144,6 +148,17 @@ export default function AdminUsers({ me }) {
 
   if (error) return <p className="alert alert-warn">{error}</p>;
   if (!users) return <p className="alert">Memuatkan pengguna…</p>;
+
+  if (open) {
+    return (
+      <AdminUserDetail
+        user={open} me={me} config={config}
+        onBack={() => setOpen(null)}
+        onToggleTeacher={toggleTeacher}
+        onDelete={remove}
+      />
+    );
+  }
 
   return (
     <div className="admin-users">
@@ -220,7 +235,8 @@ export default function AdminUsers({ me }) {
                 {u.profile?.photo
                   ? <img className="avatar" src={u.profile.photo} alt="" width={40} height={40} referrerPolicy="no-referrer" />
                   : <span className="avatar" style={{ width: 40, height: 40, fontSize: 18 }}>{(u.profile?.name || '?').charAt(0).toUpperCase()}</span>}
-                <div className="user-info">
+                <button type="button" className="user-info user-open" onClick={() => setOpen(u)}
+                  title="Lihat butiran penuh">
                   <span className="user-name">
                     {u.profile?.name || (u.profile ? '(tiada nama)' : 'Tetamu (data lama)')}
                     {admin && <span className="role role-admin">Admin</span>}
@@ -233,7 +249,8 @@ export default function AdminUsers({ me }) {
                     {s.answered || 0} soalan · {acc}% betul · {s.quizzes || 0} latihan · {s.challenges || 0} cabaran
                     {(u.lastActive || u.updatedAt) && ' · aktif ' + new Date(u.lastActive || u.updatedAt).toLocaleString('ms-MY', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })}
                   </span>
-                </div>
+                  <span className="muted small">Tekan untuk butiran penuh →</span>
+                </button>
               </div>
               {!self && (
                 <div className="user-actions">
