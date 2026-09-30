@@ -90,17 +90,17 @@ Fungsi pembantu dalam `src/lib/classes.js`: `listStudentSubmissions`, `classAver
 
 ## Kerja yang masih berbaki
 
-### 1. Tukar 14 set kertas yang belum siap
+### 1. Tukar 13 set kertas yang belum siap
 
-Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (10 set), Darjah 4 PAT 2024 dan PAT 2025.
+Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (10 set), Darjah 4 PAT 2022, PAT 2024 dan PAT 2025.
 
 Masih berbaki:
 
-- Darjah 4 — PAT 2022, PPT 2024, PPT 2025, PPT 2026
+- Darjah 4 — PPT 2024, PPT 2025, PPT 2026
 - Darjah 5 — PAT 2022, PAT 2023, PAT 2025, PPT 2022, PPT 2024, PPT 2025, PPT 2026
 - Darjah 6 — PPT 2024, PPT 2025, PPT 2026
 
-Set seterusnya mengikut turutan: **Darjah 4 PAT 2022**.
+Set seterusnya mengikut turutan: **Darjah 4 PPT 2024**.
 
 Aliran kerja per set (skrip pembantu ada dalam folder scratchpad sesi):
 
