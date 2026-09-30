@@ -1,5 +1,722 @@
 [
  {
+  "id": "darjah-4-ibadat-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه اءير يڠ مکروه دݢوناکن کتيک ترساڠت ڤانس؟",
+  "options": [
+   "اءير مطلق",
+   "اءير مستعمل",
+   "اءير مشمس",
+   "اءير متنجيس"
+  ],
+  "answer": 2,
+  "explanation": "اءير مشمس (ترجمور هيڠݢ ترلالو ڤانس) مکروه دݢوناکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه ڤرالتن يڠ دݢوناکن اونتوق مڽوچيکن کوليت بيناتڠ؟",
+  "options": [
+   "ڤيساو",
+   "تاوس",
+   "کونتيڠ",
+   "جاروم"
+  ],
+  "answer": 1,
+  "explanation": "تاوس دݢوناکن اونتوق مڽامق (مڽوچيکن) کوليت بيناتڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه فضيلة برسوݢي؟",
+  "options": [
+   "مڠهورڠکن ڤهالا",
+   "ممڤرچڤتکن اوبن",
+   "مڽوچيکن مولوت",
+   "ممبوسوقکن مولوت"
+  ],
+  "answer": 2,
+  "explanation": "فضيلة برسوݢي اياله مڽوچيکن مولوت دان دريضاءي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه حکوم استنجاء؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "مکروه"
+  ],
+  "answer": 0,
+  "explanation": "حکوم استنجاء اياله واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاکه جمله بيجي باتو يڠ دݢوناکن اونتوق براستنجاء؟",
+  "options": [
+   "تيݢ",
+   "انم",
+   "ليم",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "سکورڠ-کورڠڽ تيݢ بيجي باتو اونتوق براستنجاء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه حکوم برچاکڤ-چاکڤ کتيک قضاء حاجة؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "مکروه"
+  ],
+  "answer": 3,
+  "explanation": "برچاکڤ کتيک قضاء حاجة اداله مکروه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه ڤرکارا يڠ مواجبکن مندي؟",
+  "options": [
+   "تيدور",
+   "کلوار ڤلوه",
+   "کلوار مني",
+   "حدث کچيل"
+  ],
+  "answer": 2,
+  "explanation": "کلوار مني مواجبکن مندي (جنابة).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه حکوم مڠهادڤ قبلة کتيک مندي واجب؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "مکروه"
+  ],
+  "answer": 3,
+  "explanation": "مڠهادڤ قبلة کتيک مندي (عورة تربوک) اداله مکروه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه مڤاڤو خف باݢي اورڠ مسافر ايله",
+  "options": [
+   "ساتو جم",
+   "سبولن",
+   "سميڠݢو",
+   "تيݢ هاري تيݢ مالم"
+  ],
+  "answer": 3,
+  "explanation": "مسافر بوليه مڤاڤو خف سلاما تيݢ هاري تيݢ مالم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرکارا يڠ ممبطلکن ساڤو خف ايله",
+  "options": [
+   "مسافر",
+   "حيض",
+   "حدث کچيل",
+   "ساکيت"
+  ],
+  "answer": 1,
+  "explanation": "حيض (يڠ مواجبکن مندي) ممبطلکن ساڤو خف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڤاڤو دبو تانه يڠ سوچي ايله ارتي باݢي",
+  "options": [
+   "وضوء",
+   "تيمم",
+   "استنجاء",
+   "مندي"
+  ],
+  "answer": 1,
+  "explanation": "تيمم اياله مڽاڤو دبو تانه يڠ سوچي کموک دان تاڠن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط هاروس تيمم ايله",
+  "options": [
+   "عذور دسببکن مسافر",
+   "اد اءير",
+   "سبلوم ماسوق وقتو صلاة",
+   "مڠݢوناکن تانه يڠ کوتور"
+  ],
+  "answer": 0,
+  "explanation": "عذور سڤرتي مسافر اتاو ساکيت مروڤاکن شرط هاروس تيمم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو جنيس-جنيس نجيس ايله",
+  "options": [
+   "ارق",
+   "روتي",
+   "سوسو",
+   "اءير کلاڤ"
+  ],
+  "answer": 0,
+  "explanation": "ارق اداله نجيس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تواق دالم چوق يڠ دحکومکن نجيس جک",
+  "options": [
+   "مڠيڠکن",
+   "ممابوقکن",
+   "ممبيحتکن",
+   "مڽوچيکن"
+  ],
+  "answer": 1,
+  "explanation": "تواق دحکومکن نجيس جک ممابوقکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داره يڠ کلوار درڤد فرج ڤرمڤوان برعمور 9 تاهون، بوکن کران ملاهيرکن دناماکن",
+  "options": [
+   "ولادة",
+   "نفاس",
+   "استحاضة",
+   "حيض"
+  ],
+  "answer": 3,
+  "explanation": "داره ترسبوت اياله حيض.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرکارا يڠ حرام دلاکوکن کتيک برحدث بسر کچوالي",
+  "options": [
+   "صلاة",
+   "طواف",
+   "برذيکير",
+   "ممباچ القرءان"
+  ],
+  "answer": 2,
+  "explanation": "برذيکير هاروس؛ صلاة، طواف دان ممباچ القرءان حرام کتيک برحدث بسر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايکوت مروڤاکن تيمڤوه نفاس کچوالي",
+  "options": [
+   "ساتو لحظة",
+   "40 هاري",
+   "60 هاري",
+   "15 هاري"
+  ],
+  "answer": 3,
+  "explanation": "تيمڤوه نفاس: سکجڤ، لازيم 40 هاري، ماکسيموم 60 هاري؛ بوکن 15 هاري.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايکوت مروڤاکن تيمڤوه استحاضة. i. کورڠ تيمڤوه حيض  ii. ملبيهي تيمڤوه حيض  iii. تيمڤوه نفاس ڤاليڠ سديکيت  iv. کورڠ درڤد 60 هاري 60 مالم",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "iii دان iv",
+   "i دان iv"
+  ],
+  "answer": 0,
+  "explanation": "استحاضة اياله داره کورڠ اتاو ملبيهي تيمڤوه حيض.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برسوچي درڤد استحاضة. i. ممباسوه فرج  ii. مندي واجب  iii. مڠمبيل وضوء  iv. مليوتکن صلاة",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "i، ii دان iii"
+  ],
+  "answer": 1,
+  "explanation": "چارا برسوچي استحاضة: ممباسوه فرج دان مڠمبيل وضوء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ سوچي تتاڤي تيدق ممبوچيکن يڠ لاءين ايله اءير مستعمل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اءير مستعمل سوچي تتاڤي تيدق ممبوچيکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قضاء حاجة ڤد اءير يڠ سديکيت دان مڠالير اداله مکروه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دلارڠ (مکروه) قضاء حاجة ڤد اءير.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مميندهکن تانه کڤد اڠݢوتا بادن اداله روکون تيمم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نقل التراب (مميندهکن تانه) اداله روکون تيمم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نجيس لالت اداله عين نجيس يڠ تيدق دمعافکن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "نجيس لالت (بڠکاي سرڠݢ تيادا داره مڠالير) اداله نجيس يڠ دمعافکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه ماس مڠاندوڠ سکورڠ-کورڠڽ ايله ليم بولن (قمرية).",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تيمڤوه مڠاندوڠ سکورڠ-کورڠڽ انم بولن، بوکن ليم بولن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي اءير مطلق ايله",
+  "options": [
+   "سوچي ڤد ديريڽ دان ممبوچيکن",
+   "تيدق ممبوچيکن يڠ لاءين",
+   "مکروه ڤڠݢوناءنڽ"
+  ],
+  "answer": 0,
+  "explanation": "اءير مطلق سوچي ڤد ديريڽ دان ممبوچيکن يڠ لاءين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-26",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "کلبيهن يڠ ملمبتکن تومبوه اوبن ايله",
+  "options": [
+   "فضيلة صلاة",
+   "فضيلة برسوݢي",
+   "کباءيقن ماکن"
+  ],
+  "answer": 1,
+  "explanation": "برسوݢي انتارا فضيلتڽ ملمبتکن تومبوه اوبن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-27",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن ڤرکارا يڠ ممبطلکن تيمم ايله",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "ڤرکارا يڠ ممبطلکن تيمم اد تيݢ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-28",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نجيس يڠ دسوچيکن دڠن اءير برچمڤور تانه ايله",
+  "options": [
+   "نجيس مخففة",
+   "نجيس متوسطة",
+   "نجيس مغلظة"
+  ],
+  "answer": 2,
+  "explanation": "نجيس مغلظة دسوچيکن دڠن توجوه باسوهن، ساتو داريڽ برچمڤور تانه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-29",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم برڤواسا کتيک حيض ايله",
+  "options": [
+   "حرام",
+   "سنة",
+   "مکروه"
+  ],
+  "answer": 0,
+  "explanation": "برڤواسا کتيک حيض اداله حرام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-30",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ تيدق بوليه دݢوناکن اونتوق استنجاء ايله",
+  "options": [
+   "تولڠ",
+   "باتو",
+   "کايو"
+  ],
+  "answer": 0,
+  "explanation": "تولڠ تيدق بوليه دݢوناکن اونتوق استنجاء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-31",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "کاسوت کوليت يڠ منوتوڤي کاکي هيڠݢ بوکو لالي ايله",
+  "options": [
+   "خف",
+   "تولڠ",
+   "صلاة سنة"
+  ],
+  "answer": 0,
+  "explanation": "خف اياله کاسوت کوليت يڠ منوتوڤي کاکي هيڠݢ بوکو لالي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-32",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو کلوارڽ داره فسد (استحاضة) بوليه برلاکو",
+  "options": [
+   "سبلوم برسالين",
+   "کتيک نفاس",
+   "کتيک حيض"
+  ],
+  "answer": 0,
+  "explanation": "داره فسد (استحاضة) بوليه کلوار سبلوم برسالين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-33",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو درڤد فضيلة برسوݢي ايله",
+  "options": [
+   "مڽوچيکن مولوت",
+   "ممبطلکن وضوء",
+   "ممبوسوقکن مولوت"
+  ],
+  "answer": 0,
+  "explanation": "برسوݢي مڽوچيکن مولوت.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-34",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت يڠ دجاءوهي کتيک قضاء حاجة ايله",
+  "options": [
+   "لالوان اورڠ",
+   "دالم تنداس",
+   "دالم بيليق اءير"
+  ],
+  "answer": 0,
+  "explanation": "دلارڠ قضاء حاجة دلالوان اورڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-35",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم مڤاڤو خف کتيک مندي فرض ايله",
+  "options": [
+   "تيدق هاروس",
+   "هاروس",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "خف تيدق بوليه دݢوناکن اونتوق مندي فرض؛ کاکي واجب دباسوه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-36",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جمله تيمم باݢي ساتو عبادة فرض ايله",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ"
+  ],
+  "answer": 0,
+  "explanation": "ساتو تيمم هاڽ باݢي ساتو عبادة فرض.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-pat2022-37",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه سوچي انتارا ساتو حيض دڠن ساتو حيض ايله",
+  "options": [
+   "ليم بلس هاري",
+   "سمبيلن هاري",
+   "دوا ڤولوه هاري"
+  ],
+  "answer": 0,
+  "explanation": "تيمڤوه سوچي سکورڠ-کورڠڽ ليم بلس هاري.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-ibadat-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Ibadat",
