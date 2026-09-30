@@ -14,7 +14,7 @@ Laman kuiz ulang kaji sekolah agama dalam bahasa Melayu (soalan objektif, tulisa
 
 ## Peraturan yang mesti dipatuhi
 
-1. **Jangan sekali-kali commit folder `soalan/`** (kertas peperiksaan asal, hak cipta sekolah).
+1. **Jangan sekali-kali commit folder `soalan/` ke repo utama** (kertas peperiksaan asal, hak cipta sekolah; repo utama adalah awam). Kertas asal disimpan dalam repo **peribadi** berasingan `NotKazuma/QUIZ-soalan` — folder `soalan/` ialah repo git tersendiri dan kekal di-gitignore oleh repo utama.
 2. **Jangan sekali-kali commit token atau kunci.** Token bot Telegram ada di `~/.claude/channels/telegram/.env`; fail service-account JSON sudah di-gitignore. Jangan salin nilainya ke mana-mana fail dalam repo.
 3. **Commit dan push ke `main` secara automatik** sebaik sahaja perubahan siap dan diuji — pengguna tidak mahu ditanya setiap kali.
 4. Balas dalam bahasa Melayu. Gaya ringkas (skill `caveman` aktif dalam sesi sebelum ini).
@@ -23,7 +23,7 @@ Laman kuiz ulang kaji sekolah agama dalam bahasa Melayu (soalan objektif, tulisa
 ## Saluran data soalan
 
 ```
-soalan/DARJAH <n>/<PEPERIKSAAN>/<TAHUN>/*.pdf     (sumber, tidak di-commit)
+soalan/DARJAH <n>/<PEPERIKSAAN>/<TAHUN>/*.pdf     (sumber; repo peribadi QUIZ-soalan)
   → data-src/<exam>/<subjek>/<SET>-<TAHUN>.json   (hasil penukaran, di-commit)
   → python scripts/build_questions.py
   → public/data/darjah-<n>/<subjek>.json + public/data/config.json
