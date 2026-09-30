@@ -1,5 +1,780 @@
 [
  {
+  "id": "darjah-4-akhlak-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناکه انتارا برايکوت ادب برجالن؟",
+  "options": [
+   "ترݢوڤوه-ݢاڤه",
+   "مندوڠق سومبوڠ",
+   "ملڠکه کاکي دڠن سوڤن",
+   "تيدق ممبري لالوان کڤد اورڠ توا"
+  ],
+  "answer": 2,
+  "explanation": "ادب برجالن اياله ملڠکه دڠن سوڤن دان ترتيب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه عاقبة تيدق مڠعملکن ادب کتيک برجالن؟",
+  "options": [
+   "مندافت ڤهالا",
+   "دسوکاءي الله",
+   "سنتياس دڤوجي",
+   "تردده کڤد بهاي"
+  ],
+  "answer": 3,
+  "explanation": "تيدق برادب کتيک برجالن مندده ديري کڤد بهاي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه ڤرکارا يڠ تيدق دسوکاءي الله؟",
+  "options": [
+   "مڽاتاکن سسواتو دڠن جلس",
+   "برتاڽ ڤرکارا کباءيقن",
+   "ممنفعتکن هرتا ڤد جالن الله",
+   "باڽق برتاڽ ڤرکارا يڠ سيا-سيا"
+  ],
+  "answer": 3,
+  "explanation": "الله تيدق سوک اورڠ يڠ باڽق برتاڽ ڤرکارا سيا-سيا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايمانا که بنتوق ڤرتاڽاءن يڠ تيدق برادب؟",
+  "options": [
+   "ممبري سلام سبلوم برتاڽ",
+   "اوچڤ تريما کاسيه",
+   "ممينتا ايذين سبلوم برکات",
+   "برتاڽ دڠن بهاس يڠ کاسر"
+  ],
+  "answer": 3,
+  "explanation": "برتاڽ دڠن بهاس کاسر اداله تيدق برادب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايمانا که چارا برادب دڠن اورڠ توا؟",
+  "options": [
+   "برچاکڤ دڠن کاسر",
+   "سوک ممڤقوق کتيک برچاکڤ",
+   "مڠݢيل دڠن ڤڠݢيلن تيدق سوڤن",
+   "ممينتا لالوان دڠن چارا يڠ سوڤن"
+  ],
+  "answer": 3,
+  "explanation": "برادب دڠن اورڠ توا اياله ممينتا لالوان دڠن سوڤن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناکه انتارا برايکوت عاقبة درهاک کڤد اورڠ توا؟",
+  "options": [
+   "مندافت رحمت الله",
+   "کلوارݢ يڠ بهاݢيا",
+   "مندافت سيقسا نراک",
+   "سنتياس مندافت ڤرتولوڠن کلوارݢ"
+  ],
+  "answer": 2,
+  "explanation": "درهاک کڤد اورڠ توا مڠاکيبتکن سيقسا نراک.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه ادب سأورڠ جيرن يڠ باءيق؟",
+  "options": [
+   "ممبوات بيسيڠ",
+   "مروسقکن هرتا جيرن",
+   "مڠمبيل برت کباجيقن مريک",
+   "سوک منونجوق-نونجوق"
+  ],
+  "answer": 2,
+  "explanation": "جيرن يڠ باءيق مڠمبيل برت کباجيقن جيرنڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه کلبيهن منزيارهي جنازه دان مڠيريڠيڽ کقبور؟",
+  "options": [
+   "مندافت دوسا",
+   "مندافت ڤوجين مشارکت",
+   "مندافت ڤهالا ساتو قيراط",
+   "مندافت ڤهالا سبسر ݢونوڠ أُحُد"
+  ],
+  "answer": 3,
+  "explanation": "مڠيريڠي جنازه هيڠݢ دکبوميکن مندافت ڤهالا سبسر ݢونوڠ أُحُد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکمه برادب دتانه ڤرکبورن ايله",
+  "options": [
+   "منمبهکن ڤهالا کڤد سي ماتي",
+   "مڽاکيتکن هاتي کلوارݢ سي ماتي",
+   "منجاري کبوروقن کلوارݢ سي ماتي",
+   "مريڠنکن بيبن کسديهن کلوارݢ سي ماتي"
+  ],
+  "answer": 3,
+  "explanation": "برادب دتانه ڤرکبورن مريڠنکن بيبن کسديهن کلوارݢ سي ماتي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب دمجليس کراماين ايله سڤرتي",
+  "options": [
+   "ممبري سلام",
+   "ممبوات بيسيڠ",
+   "برڤاکاين تيدق منوتوڤ عورة",
+   "مڠݢڠݢو تاتاچارا مجليس"
+  ],
+  "answer": 0,
+  "explanation": "انتارا ادب مجليس اياله ممبري سلام کتيک تيبا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عاقبة تيدق برادب سماس ماکن ايله",
+  "options": [
+   "دڤندڠ هينا",
+   "دسايڠي اولياء الله",
+   "دجاءوهي سݢالا ڤاکيت",
+   "دحرمتي اورڠ لاءين"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ تيدق برادب سماس ماکن دڤندڠ هينا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب برحجه يڠ باءيق ايله",
+  "options": [
+   "منجاتوهکن مروه ديري",
+   "منجاديکن مشارکت برڤچه بله",
+   "مڠݢوناکن بهاس يڠ کست",
+   "مڽمڤايکن کات-کات دڠن برهيمه"
+  ],
+  "answer": 3,
+  "explanation": "ادب برحجه اياله مڽمڤايکن کات-کات دڠن برهيمه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري برحجه يڠ تيدق باءيق ايله",
+  "options": [
+   "دڠن بهاس يڠ سوڤن",
+   "بوليه مڠاول ايموسي",
+   "ترلالو لاما دان ممبوسنکن",
+   "لنچر دان مناريق مينت"
+  ],
+  "answer": 2,
+  "explanation": "برحجه يڠ ترلالو لاما دان ممبوسنکن اداله تيدق باءيق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "علمو يڠ ممبحثکن ڤمبرسيهن هاتي دان ڤنچاءيندرا ايله",
+  "options": [
+   "علمو تجويد",
+   "علمو مناکحات",
+   "علمو تصوف",
+   "علمو برجوال بلي"
+  ],
+  "answer": 2,
+  "explanation": "علمو تصوف ممبحثکن ڤمبرسيهن هاتي دان ڤنچاءيندرا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم بلاجر علمو تصوف منوروت امام الغزالي ايله",
+  "options": [
+   "واجب",
+   "سنة",
+   "فرض عين",
+   "فرض کفايه"
+  ],
+  "answer": 2,
+  "explanation": "منوروت امام الغزالي، ممڤلاجري علمو تصوف اداله فرض عين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان ممڤلاجري علمو تصوف ايله",
+  "options": [
+   "مڠهياسي ديري دڠن صيفت کجي",
+   "مڠهارڤ ڤوجين مشارکت",
+   "منظاهيرکن عملن باءيق دالم کهيدوڤن",
+   "مڠعملکن صيفت-صيفت مذمومة"
+  ],
+  "answer": 2,
+  "explanation": "توجوان تصوف اياله منظاهيرکن عملن باءيق دالم کهيدوڤن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايکوت اداله چارا منداڤتکن کريضاءن الله کچوالي",
+  "options": [
+   "برعلمو",
+   "برعمل دڠن علمو",
+   "اخلاص کران الله",
+   "برعمل اونتوق منونجوق-نونجوق"
+  ],
+  "answer": 3,
+  "explanation": "برعمل اونتوق منونجوق-نونجوق (رياء) بوکن چارا منداڤت کريضاءن الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايکوت اداله ادب عالم سکيتر يڠ ڤرلو دڤليهارا کچوالي",
+  "options": [
+   "اءير",
+   "بومي",
+   "اودارا",
+   "ماتاهري"
+  ],
+  "answer": 3,
+  "explanation": "اءير، بومي دان اودارا ڤرلو دڤليهارا؛ ماتاهري بوکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نعمت کورنياءن الله کڤد ماءنسي ايله. i. دوسا  ii. معصية  iii. مليهت  iv. مندڠر",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "iii دان iv",
+   "i دان iv"
+  ],
+  "answer": 2,
+  "explanation": "مليهت دان مندڠر اداله نعمت الله؛ دوسا دان معصية بوکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ ترماسوق ددالم معصية مات ايله. i. ترتاون دڠن کچنتيقن ماءنسي  ii. ممندڠ واجه ايبو دان اياه  iii. منعمتي کأيندهن عالم  iv. ترڤسونا دڠن کبوليهن ديري سنديري",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "ترتاون کچنتيقن يڠ حرام دان ترڤسونا ديري اداله معصية يڠ برموله درڤد مات.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤاکاين سماس برجالن هندقله منوتوڤ عورة مڠيکوت تونتوتن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤاکاين کتيک برجالن مستي منوتوڤ عورة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن تيدق سوک برتاڽ اکن منداڤت سوسه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مالو برتاڽ سست جالن؛ تيدق برتاڽ ممباوا کسوسهن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "کيت هندقله برچاکڤ کاسر دڠن اورڠ توا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "کيت وجب برچاکڤ لمه لمبوت دان سوڤن دڠن اورڠ توا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسيه درڤد حدث اداله ادب منزيارهي قبور.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "دسونتکن برسوچي (برسيه درڤد حدث) کتيک منزيارهي قبور.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منونتوت علمو اداله عملن يڠ تيدق دريضاءي الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "منونتوت علمو اداله عملن يڠ دتونتوت دان دريضاءي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-26",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرتاڽاءن يڠ تيدق برادب اياله",
+  "options": [
+   "مڠوچڤکن تريما کاسيه",
+   "برتاڽ دڠن سوڤن",
+   "تيدق ممبري سلام"
+  ],
+  "answer": 2,
+  "explanation": "برتاڽ تنڤا ممبري سلام اداله تيدق برادب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-27",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب-ادب برجيرن اياله",
+  "options": [
+   "ممولياکن جيرن",
+   "تيدق برتݢور ساڤ",
+   "مڽاکيتي هاتي جيرن"
+  ],
+  "answer": 0,
+  "explanation": "انتارا ادب برجيرن اياله ممولياکن جيرن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-28",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان مڠاداکن ڤرتموان اياله",
+  "options": [
+   "منداڤت کروݢين",
+   "منجاري کتنڠن",
+   "ممبوات بيسيڠ"
+  ],
+  "answer": 1,
+  "explanation": "ڤرتموان دأداکن اونتوق منجاري کتنڠن دان کباءيقن برسام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-29",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکمه برادب سماس ماکن اياله",
+  "options": [
+   "مندافت ڤاکيت",
+   "مڠعملکن ڤمبذيرن",
+   "ماکنن داڤت دهضم دڠن باءيق"
+  ],
+  "answer": 2,
+  "explanation": "برادب سماس ماکن ممبنتو ماکنن دهضم دڠن باءيق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-30",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عاقبة تيدق برادب سماس برحجه اياله",
+  "options": [
+   "منجادي باهن چموهن",
+   "مڠراتکن صلة الرحيم",
+   "حجهڽ ممبري کسن باءيق"
+  ],
+  "answer": 0,
+  "explanation": "تيدق برادب سماس برحجه منجاديکن سسأورڠ باهن چموهن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-31",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤندڠن دان ايديا يڠ دسمڤايکن کڤد اورڠ لاءين اياله",
+  "options": [
+   "برحجه",
+   "اخلاص",
+   "علمو تصوف"
+  ],
+  "answer": 0,
+  "explanation": "برحجه اياله مڽمڤايکن ڤندڠن دان ايديا کڤد اورڠ لاءين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-32",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "علمو يڠ موليا سلڤس علمو توحيد اياله",
+  "options": [
+   "علمو تصوف",
+   "برحجه",
+   "لمه ايمان"
+  ],
+  "answer": 0,
+  "explanation": "علمو تصوف اياله علمو موليا سلڤس علمو توحيد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-33",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠرجاکن عملن سماتا-مات کران الله اياله",
+  "options": [
+   "اخلاص",
+   "برحجه",
+   "لمه ايمان"
+  ],
+  "answer": 0,
+  "explanation": "اخلاص اياله برعمل سماتا-مات کران الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-34",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرکارا-ڤرکارا بوروق دان جاهت يڠ برتنتڠن دڠن ڤرينته الله اياله",
+  "options": [
+   "معصية",
+   "اخلاص",
+   "علمو تصوف"
+  ],
+  "answer": 0,
+  "explanation": "معصية اياله ڤرکارا يڠ برتنتڠن دڠن ڤرينته الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-35",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤونچا برلاکوڽ معصية کمالوان اياله",
+  "options": [
+   "لمه ايمان",
+   "اخلاص",
+   "برحجه"
+  ],
+  "answer": 0,
+  "explanation": "لمه ايمان اداله انتارا ڤونچا برلاکوڽ معصية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-36",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم ممباچ دعاء سماس کلوار دري رومه اياله",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "دسونتکن (سنة) ممباچ دعاء کتيک کلوار دري رومه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-37",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم منجاݢ ادب کتيک برتاڽ اياله",
+  "options": [
+   "سنة",
+   "حرام",
+   "مکروه"
+  ],
+  "answer": 0,
+  "explanation": "منجاݢ ادب کتيک برتاڽ اداله دتونتوت دان دسونتکن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-38",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بينتيڠ ڤاليڠ باءيق درڤد کجاهيلن اياله",
+  "options": [
+   "علمو",
+   "هرتا",
+   "ڤڠکت"
+  ],
+  "answer": 0,
+  "explanation": "علمو اداله بينتيڠ درڤد کجاهيلن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-39",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه معصية تاڠن اياله",
+  "options": [
+   "منچوري",
+   "برجالن کڤد کباءيقن",
+   "برسدقه"
+  ],
+  "answer": 0,
+  "explanation": "منچوري اياله چونتوه معصية يڠ دلاکوکن دڠن تاڠن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-pat2022-40",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤسنن امام الغزالي ترهادڤ اڠݢوتا بادن اياله",
+  "options": [
+   "مموليهارا درڤد معصية",
+   "ممبيارکن بيݢيتو سهاج",
+   "مڠيکوت هاوا نفسو"
+  ],
+  "answer": 0,
+  "explanation": "امام الغزالي برڤسن سوڤاي مموليهارا اڠݢوتا بادن درڤد معصية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-akhlak-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Akhlak",

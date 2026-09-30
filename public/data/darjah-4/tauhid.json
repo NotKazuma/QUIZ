@@ -1,5 +1,780 @@
 [
  {
+  "id": "darjah-4-tauhid-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه ارتي مبادئ؟",
+  "options": [
+   "فلسفة",
+   "ڤڠاکوان",
+   "کترڠن ريڠکس",
+   "تياد توجوان"
+  ],
+  "answer": 2,
+  "explanation": "مبادئ برمقصود کترڠن ريڠکس (ڤنداهولوان) سسواتو علمو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه حکوم يڠ تيدق ممرلوکن کتتڤن عادت دان کتتڤن شرع؟",
+  "options": [
+   "عقل",
+   "فعلي",
+   "عادت",
+   "کتاب"
+  ],
+  "answer": 0,
+  "explanation": "حکوم عقل تيدق برݢنتوڠ کڤد کتتڤن عادت اتاو شرع.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناکه يڠ ممبيذاکن انتارا ماءنسي دڠن حيوان؟",
+  "options": [
+   "صيفتڽ",
+   "ڤکرجاءن",
+   "عقل فيکيرن",
+   "هرتا بندا"
+  ],
+  "answer": 2,
+  "explanation": "عقل فيکيرن ممبيذاکن ماءنسي درڤد حيوان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاکه توݢس عقل دالم علمو توحيد؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "توݢس عقل اد دوا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه يڠ ترماسوق ددالم بهاݢين حکوم عقل؟",
+  "options": [
+   "سنة",
+   "حرام",
+   "مکروه",
+   "واجب"
+  ],
+  "answer": 3,
+  "explanation": "بهاݢين حکوم عقل: واجب، مستحيل دان هاروس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاکه بهاݢين مستحيل عقلي؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "مستحيل عقلي تربهاݢي دوا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه حکوم مڠنل الله؟",
+  "options": [
+   "سنة",
+   "فرض عين",
+   "هاروس",
+   "فرض کفايه"
+  ],
+  "answer": 1,
+  "explanation": "مڠنل الله حکومڽ فرض عين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاکه ڤرکارا يڠ ترماسوق ددالم مڠنل الله؟",
+  "options": [
+   "اد دليل",
+   "اجمالي",
+   "تفصيلي",
+   "تقليد جرم"
+  ],
+  "answer": 0,
+  "explanation": "مڠنل الله مستيله دڠن اد دليل، بوکن تقليد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠيکوت ڤرکاتاءن اورڠ لاءين دڠن تيدق مڠتاهوءي دليل دان کترڠن اداله ارتي باݢي:",
+  "options": [
+   "السنة",
+   "تقليد",
+   "قدرية",
+   "جبرية"
+  ],
+  "answer": 1,
+  "explanation": "تقليد اياله مڠيکوت ڤرکاتاءن اورڠ لاءين تنڤا مڠتاهوءي دليل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين تقليد تربهاݢي کڤد",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "تقليد تربهاݢي کڤد دوا بهاݢين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وجود ڤد ڤنداڤت امام فخر الرازي اياله",
+  "options": [
+   "حَالِيَة",
+   "عَدَمِيَّة",
+   "عَيْن مَوجُود",
+   "بوکن عَيْن مَوجُود"
+  ],
+  "answer": 2,
+  "explanation": "مڠيکوت امام فخر الرازي، وجود اياله عين موجود.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "القدم ارتيڽ",
+  "options": [
+   "اد",
+   "سديا اد",
+   "ککل",
+   "اسا الله تعالى"
+  ],
+  "answer": 1,
+  "explanation": "قدم برمقصود سديا اد (تيدق برڤرمولاءن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق اد ڤرمولاءن باݢي ذات الله تعالى اداله قديم",
+  "options": [
+   "ذَاتِي",
+   "زَمَانِي",
+   "صِفَاتِي",
+   "إِضَافِي"
+  ],
+  "answer": 0,
+  "explanation": "قديم ذاتي اياله تيدق برڤرمولاءن باݢي ذات الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اد ڤرمولاءن تتاڤي تياد کسودهن ياءيت",
+  "options": [
+   "جين",
+   "شرک",
+   "ماءنسي",
+   "حيوان"
+  ],
+  "answer": 2,
+  "explanation": "ماءنسي اد ڤرمولاءن تتاڤي کاکل (تياد کسودهن) دأخيرة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو ڤرکارا ککل عَرَضِي",
+  "options": [
+   "بولن",
+   "عرش",
+   "لاڠيت",
+   "بينتڠ"
+  ],
+  "answer": 1,
+  "explanation": "عرش دکاتاکن ککل عَرَضِي (تيدق بيناس سهيڠݢ کيامة).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين مُخَالَفَتُهُ تَعَالَى لِلحَوَادِث",
+  "options": [
+   "سديا اد",
+   "ککل تياد بيناس",
+   "تيدق سروڤا الله دڠن يڠ بهارو",
+   "برديري الله تعالى دڠن سنديريڽ"
+  ],
+  "answer": 2,
+  "explanation": "مخالفته للحوادث برمعنا الله تيدق سروڤا دڠن يڠ بهارو (مخلوق).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايکوت اداله معنا اسا الله کچوالي ڤد",
+  "options": [
+   "ذات",
+   "صيفت",
+   "ڤربواتن",
+   "ڤرکاتاءن"
+  ],
+  "answer": 3,
+  "explanation": "وحدانية اداله اسا ڤد ذات، صيفت دان ڤربواتن؛ بوکن ڤرکاتاءن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايکوت اداله حکوم فهم قدرية منوروت ڤنداڤت علماء کچوالي",
+  "options": [
+   "مرتد",
+   "فاسق",
+   "کافير",
+   "تياد کافير"
+  ],
+  "answer": 3,
+  "explanation": "علماء مڠحکومکن قدرية فاسق/کافير؛ کچوالي 'تياد کافير'.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حقيقت صيفت الحياة مڠصحکن صيفت. i. سمع  ii. کلام  iii. بصر  iv. علم",
+  "options": [
+   "i دان iii",
+   "ii دان iv",
+   "i، ii دان iii",
+   "i، ii، iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "صيفت حياة مڠصحکن صيفت سمع، بصر، کلام دان علم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت٢ مستحيل باݢي الله تعالى. i. العَدَم  ii. العَجْز  iii. السَّمَع  iv. العِلمُ",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "العدم دان العجز اداله صيفت مستحيل باݢي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم عقل اياله ڤنتڤن سواتو ڤرکارا کڤد سواتو ڤرکارا يڠ لاءين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حکوم عقل ممستيکن، مننتوکن اتاو منافيکن سسواتو ڤرکارا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا يڠ منونجوقکن واجب عقلي اد ڤرکاتاءن \"باݢي\" سلڤس ڤرکاتاءن \"واجب\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ڤرکاتاءن \"باݢي\" بوکن تندا خاص باݢي واجب عقلي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايمان باݢي اورڠ يڠ برتقليد غَيرِ جَازِم اداله صح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تقليد غير جازم (تيدق تݢوه) مڽببکن ايمان تيدق صح.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي تأثير اياله تيدق ممبري کسن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "تأثير برمعنا ممبري کسن اتاو بکس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي أَهلُ السُّنَّة وَالجَمَاعَة اياله اورڠ يڠ مڠيکوت ڤرجالنن نبي دان صحابة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اهل السنة والجماعة مڠيکوت سنة نبي دان جالن ڤارا صحابة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-26",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠحکومکن سسواتو مستي اد اياله",
+  "options": [
+   "توݢس عقل",
+   "بهاݢين قديم",
+   "صيفت مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "مڠحکومکن سسواتو مستي اد اياله توݢس عقل (واجب عقلي).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-27",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حکوم تقليد جَازِم اياله",
+  "options": [
+   "صح ايمانڽ",
+   "تيدق صح ايمانڽ",
+   "تيدق تݢوه ايمانڽ"
+  ],
+  "answer": 0,
+  "explanation": "تقليد جازم (ڤݢڠن تݢوه): ايمانڽ صح.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-28",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي الوُجُود اياله",
+  "options": [
+   "اد",
+   "سديا اد",
+   "هيدوڤ"
+  ],
+  "answer": 0,
+  "explanation": "الوجود برمعنا اد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-29",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دليل العِلمُ اياله",
+  "options": [
+   "قُل هُوَ اللهُ اَحَد",
+   "عَالِمِ الغَيب",
+   "فعَّالُ لِمَا يُرِيد"
+  ],
+  "answer": 1,
+  "explanation": "عالم الغيب اياله دليل صيفت علم الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-30",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود البُکمُ اياله",
+  "options": [
+   "بوتا",
+   "بيسو",
+   "ڤکق"
+  ],
+  "answer": 1,
+  "explanation": "البُکم برمعنا بيسو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-31",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو بهاݢين هاروس عقلي اياله",
+  "options": [
+   "نظري",
+   "جبرية",
+   "تفصيلي"
+  ],
+  "answer": 0,
+  "explanation": "نظري اياله ساله ساتو بهاݢين (مماکن دليل).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-32",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برمقصود مڠتاهوءي صيفت الله سچارا ترڤرينچي اياله",
+  "options": [
+   "تفصيلي",
+   "نظري",
+   "جبرية"
+  ],
+  "answer": 0,
+  "explanation": "تفصيلي اياله مڠنل الله سچارا ترڤرينچي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-33",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إعتقاد يڠ برݢنتوڠ کڤد قضاء دان قدر سماتا-مات اياله فهم",
+  "options": [
+   "جبرية",
+   "نظري",
+   "تفصيلي"
+  ],
+  "answer": 0,
+  "explanation": "جبرية اياله فهم يڠ برݢنتوڠ سڤنوهڽ کڤد قضاء دان قدر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-34",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي الکَلام اياله",
+  "options": [
+   "برکاتا-کات",
+   "الموت",
+   "نظري"
+  ],
+  "answer": 0,
+  "explanation": "الکلام برمعنا برکاتا-کات.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-35",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت مستحيل باݢي الله اياله",
+  "options": [
+   "الموت",
+   "برکاتا-کات",
+   "نظري"
+  ],
+  "answer": 0,
+  "explanation": "الموت (مات) اداله مستحيل باݢي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-36",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن مبادئ علمو توحيد اياله",
+  "options": [
+   "سڤولوه",
+   "سمبيلن",
+   "دوا بلس"
+  ],
+  "answer": 0,
+  "explanation": "مبادئ علمو توحيد اد سڤولوه ڤرکارا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-37",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايستيله علماء سلف يڠ هيدوڤ ڤد تيݢ قرون ڤرتام اياله",
+  "options": [
+   "سلف الصالح",
+   "خلف",
+   "تابعين"
+  ],
+  "answer": 0,
+  "explanation": "سلف الصالح اياله علماء تيݢ قرون ڤرتام يڠ اوتام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-38",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "کأداءن الله تعالى يڠ برکواس اياله",
+  "options": [
+   "قادر",
+   "عالم",
+   "حي"
+  ],
+  "answer": 0,
+  "explanation": "کونه قادرًا: الله برکأداءن برکواس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-39",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت الله تعالى يڠ منونجوقکن کأداءن الله تعالى يڠ هيدوڤ اياله",
+  "options": [
+   "حياة",
+   "علم",
+   "قدرة"
+  ],
+  "answer": 0,
+  "explanation": "صيفت حياة منونجوقکن الله سنتياسا هيدوڤ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-pat2022-40",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ممقربوبات اتاو تيدق ممقربوبات سواتو ڤرکارا باݢي الله تعالى اياله",
+  "options": [
+   "هاروس",
+   "واجب",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "هاروس باݢي الله ممقربوبات اتاو تيدق سسواتو ڤرکارا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tauhid-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Tauhid",
