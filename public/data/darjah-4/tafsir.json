@@ -1,5 +1,761 @@
 [
  {
+  "id": "darjah-4-tafsir-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كلبيهن ممبلنجاكن هرتا بندا ڤد جالن الله؟",
+  "options": [
+   "ڤوجين ماءنسي",
+   "ميسكين هرتا",
+   "سنجوڠن ماءنسي",
+   "منداڤت ريضا الله"
+  ],
+  "answer": 3,
+  "explanation": "ممبلنجاكن هرتا ڤد جالن الله منداتڠكن ريضا الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جمله اونتا يڠ دأنفاقكن اوليه سيدنا عثمان بن عفان ﷺ؟",
+  "options": [
+   "500 ايكور",
+   "1200 ايكور",
+   "1000 ايكور",
+   "1300 ايكور"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا عثمان مڽدقهكن كيرا-كيرا 1000 ايكور اونتا اونتوق ڤرسياڤن ڤراڠ تبوك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سوروهن الله كڤد ماءنسي يڠ دڤاتاكن دالم سورة النساء ايات 58؟",
+  "options": [
+   "منڤاتي جنجي",
+   "مڠلواركن زكاة",
+   "منديريكن صلاة",
+   "منونايكن امانه"
+  ],
+  "answer": 3,
+  "explanation": "سورة النساء ايات 58 مڽوروه منونايكن امانه كڤد اهليڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه صيفت اورڠ يڠ ممكڠ امانه؟",
+  "options": [
+   "برلاكو كجم",
+   "بركواجيڤن",
+   "بربوات جاهت",
+   "برتڠݢوڠجواب"
+  ],
+  "answer": 3,
+  "explanation": "اورڠ يڠ ممكڠ امانه برصيفت برتڠݢوڠجواب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممبري سلام؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "ممبري سلام حكومڽ سنة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"حَسِيبًا\"؟",
+  "options": [
+   "برساودارا",
+   "بكرجاسام",
+   "سنتياس مڠهيتوڠ",
+   "سنتياس برصبر"
+  ],
+  "answer": 2,
+  "explanation": "حسيبا برمقصود الله سنتياس مڠهيتوڠ (مڠيرا) سݢالا سسواتو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود لاءين ممبري سلام؟",
+  "options": [
+   "دعاء",
+   "اخلاص",
+   "ڤرياءيقن",
+   "كباءيقن"
+  ],
+  "answer": 0,
+  "explanation": "سلام اداله دعاء كسجهتراءن كڤد اورڠ لاءين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كورنياءن الله كڤد اومتڽ يڠ سنتياس بربوات باءيق؟",
+  "options": [
+   "دوسا",
+   "لعنة",
+   "ڤهالا",
+   "سيقساءن"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ سنتياس بربوات باءيق دكورنياكن ڤهالا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢنجرن كڤد سسياڤا يڠ برڤواسا تيݢ هاري ڤد ستياڤ بولن ايله سڤرتي برڤواسا",
+  "options": [
+   "سنة",
+   "سبولن",
+   "واجب",
+   "ستاهون"
+  ],
+  "answer": 3,
+  "explanation": "برڤواسا تيݢ هاري ستياڤ بولن ݢنجرنڽ سڤرتي برڤواسا ستاهون.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تيدق برايمان منجاديكن شيطان سباݢاي",
+  "options": [
+   "همبا",
+   "موسوه",
+   "ڤميمڤين",
+   "ڤڠهاسوت"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ تيدق برايمان منجاديكن شيطان سباݢاي ڤميمڤين (والي).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ مننتوكن عملن سسأورڠ ايله",
+  "options": [
+   "نية",
+   "تنڠ",
+   "ممڤو",
+   "راجين"
+  ],
+  "answer": 0,
+  "explanation": "نية مننتوكن نيلاي دان صحڽ سسواتو عملن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين نية ڤد بهاس ايله",
+  "options": [
+   "دعاء",
+   "عملن",
+   "اوچڤن",
+   "توجوان"
+  ],
+  "answer": 3,
+  "explanation": "نية ڤد بهاس برمقصود توجوان (قصد).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كأخلاصن دالم عملن اداله ڤركارا يڠ دلاكوكن سماتا-مات كران",
+  "options": [
+   "الله",
+   "نبي",
+   "ايبو",
+   "باڤ"
+  ],
+  "answer": 0,
+  "explanation": "اخلاص اياله برعمل سماتا-مات كران الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمه \"تُؤْتِي الزَّكَاةَ\" برمقصود",
+  "options": [
+   "مڽيمڤن زكاة",
+   "مڠمبيل زكاة",
+   "ممرلوكن زكاة",
+   "مڠلواركن زكاة"
+  ],
+  "answer": 3,
+  "explanation": "توتي الزكاة برمقصود مڠلواركن (منونايكن) زكاة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط اوتام ڤنريماءن عبادة كڤد الله ايله",
+  "options": [
+   "اوسها",
+   "إسلام",
+   "راجين",
+   "اخلاص"
+  ],
+  "answer": 3,
+  "explanation": "اخلاص اداله شرط اوتام ديترميڽ سسواتو عبادة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملائكة يڠ برتوݢس منجاݢ ڤينتو نراك ايله",
+  "options": [
+   "نكير",
+   "مالك",
+   "رقيب",
+   "جبريل"
+  ],
+  "answer": 1,
+  "explanation": "ملائكة مالك برتوݢس منجاݢ نراك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت واجب باݢي رسول كچوالي",
+  "options": [
+   "صدق",
+   "تبليغ",
+   "امانة",
+   "خيانة"
+  ],
+  "answer": 3,
+  "explanation": "خيانة اداله صيفت مستحيل، بوكن صيفت واجب باݢي رسول.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله انتارا چيري احسان كچوالي",
+  "options": [
+   "موڠكير جنجي",
+   "امانة دان جوجور",
+   "برسيكڤ ڤوسيتيف",
+   "طاعة ڤرينته الله"
+  ],
+  "answer": 0,
+  "explanation": "موڠكير جنجي بوكن چيري احسان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت انتارا نام هاري قيامة: i. يَوْمُ البَعْثِ  ii. يَوْمُ الجُمُعَةِ  iii. يَوْمُ السَّاعَةِ  iv. يَوْمُ الأَرْبِعَاءِ",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iii",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "نام هاري قيامة انتاراڽ يوم البعث دان يوم الساعة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت انتارا ڤڠاجرن حديث تنتڠ هاري قيامة. i. هاري ڤرمولاءن اخيرة  ii. روكون ايمان يڠ كأنم  iii. ڤستي اكن برلاكو  iv. عملن باءيق دبالس باءيق",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "iii دان iv",
+   "i، ii، iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "هاري قيامة اداله روكون ايمان كأنم، ڤستي برلاكو، دان تمڤت عملن دبالس.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"وَمَنْ\" برمقصود \"دان سسياڤا\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "\"ومن\" برمقصود \"دان سسياڤا\".",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برايمان منجاديكن شيطان سباݢاي ڤميمڤين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ برايمان تيدق منجاديكن شيطان سباݢاي ڤميمڤين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ستياڤ عملن واجب دنياتكن اخلاص كران الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ستياڤ عملن هندقله دنياتكن اخلاص كران الله سوڤاي ديترما.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لندسن كهيدوڤن اورڠ كافير اداله دوا كليمه شهادة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "دوا كليمه شهادة اداله لندسن كهيدوڤن اورڠ برايمان، بوكن اورڠ كافير.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة اداله هاري دبالس سݢالا عمل ڤربواتن كيت.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "هاري قيامة اداله هاري ڤمبالسن سݢالا عمل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-26",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كأداءن اورڠ يڠ شرك كڤد الله اياله",
+  "options": [
+   "سمنتارا",
+   "سڠسارا",
+   "ككل ابادي (دالم نراك)"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ شرك ككل ابادي دالم نراك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-27",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود بِالنِّيَّاتِ اياله",
+  "options": [
+   "اداله دڠن نية",
+   "اڤ يڠ دنياتكن",
+   "سبب دنياتكن"
+  ],
+  "answer": 0,
+  "explanation": "بالنيات برمقصود (سݢالا عمل) اداله دڠن نية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-28",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو ركن إسلام اياله",
+  "options": [
+   "ممباچ القرءان",
+   "مڠلواركن زكاة",
+   "برايمان كڤد الله"
+  ],
+  "answer": 1,
+  "explanation": "مڠلواركن زكاة اداله ساله ساتو ركن إسلام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-29",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي قدرة اياله",
+  "options": [
+   "بركواسا",
+   "هيدوڤ",
+   "بركهندق"
+  ],
+  "answer": 0,
+  "explanation": "قدرة برمقصود بركواسا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-30",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري احسان اياله",
+  "options": [
+   "خيانة",
+   "بوروق سڠكا",
+   "برسيكڤ ڤوسيتيف"
+  ],
+  "answer": 2,
+  "explanation": "برسيكڤ ڤوسيتيف اداله انتارا چيري احسان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-31",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ منداڤت ڤڠحرمتن تيڠݢي درڤد الله اياله",
+  "options": [
+   "اخلاص",
+   "برصدقه",
+   "الأُمَّةُ"
+  ],
+  "answer": 0,
+  "explanation": "اخلاص منداڤت ڤڠحرمتن تيڠݢي درڤد الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-32",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ دأمانهكن ممكڠ كونچي كعبه اياله",
+  "options": [
+   "عثمان بن طلحه",
+   "فَإِنَّهُ",
+   "اخلاص"
+  ],
+  "answer": 0,
+  "explanation": "عثمان بن طلحه اياله ڤمݢڠ كونچي كعبه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-33",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمه برمقصود \"مك سسوڠݢوهڽ الله\" اياله",
+  "options": [
+   "فَإِنَّهُ",
+   "الأُمَّةُ",
+   "اخلاص"
+  ],
+  "answer": 0,
+  "explanation": "فإنه برمقصود \"مك سسوڠݢوهڽ (الله)\".",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-34",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمه مقصود سأورڠ بودق ڤرمڤوان (همبا) اياله",
+  "options": [
+   "الأُمَّةُ",
+   "فَإِنَّهُ",
+   "برصدقه"
+  ],
+  "answer": 0,
+  "explanation": "الأَمَةُ برمقصود سأورڠ همبا ڤرمڤوان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-35",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ جواب سلام اياله",
+  "options": [
+   "وعليكم السلام",
+   "السلام عليكم",
+   "الحمد لله"
+  ],
+  "answer": 0,
+  "explanation": "جواب سلام اياله وعليكم السلام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-36",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بالسن باݢي ڤربواتن جاهت اياله",
+  "options": [
+   "دوسا",
+   "ڤهالا",
+   "شفاعة"
+  ],
+  "answer": 0,
+  "explanation": "ڤربواتن جاهت دبالس دڠن دوسا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-37",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ڤرلو دلقساناكن سلڤس ملاكوكن كسالهن اياله",
+  "options": [
+   "تاوبة",
+   "رياء",
+   "تكبور"
+  ],
+  "answer": 0,
+  "explanation": "سلڤس ملاكوكن كسالهن هندقله برتاوبة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-38",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كليمه \"إلَّا اللهُ\" اياله",
+  "options": [
+   "ملاءينكن الله",
+   "دان الله",
+   "باݢي الله"
+  ],
+  "answer": 0,
+  "explanation": "إلا الله برمقصود ملاءينكن (كچوالي) الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-pat2022-39",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كليمه \"بِاللهِ\" اياله",
+  "options": [
+   "دڠن الله",
+   "كران الله",
+   "درڤد الله"
+  ],
+  "answer": 0,
+  "explanation": "بالله برمقصود دڠن (نام) الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tafsir-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Tafsir",

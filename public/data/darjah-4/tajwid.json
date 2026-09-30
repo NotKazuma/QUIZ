@@ -1,5 +1,780 @@
 [
  {
+  "id": "darjah-4-tajwid-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه معنا ترتيل منوروت سيدنا علي رضى الله عنه؟",
+  "options": [
+   "ممڤرايلوقكن حروف",
+   "ممڤرايلوقكن باچاءن",
+   "ممڤرايلوقكن سبوتن حروف دان مڠتاهوءي تندا باچ",
+   "ممڤرايلوقكن سبوتن حروف دان مڠتاهوءي تمڤت برهنتي باچاءن"
+  ],
+  "answer": 3,
+  "explanation": "ترتيل منوروت سيدنا علي: ممڤرايلوقكن سبوتن حروف دان مڠتاهوءي تمڤت برهنتي (وقف).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه حكوم نون ماتي دان تنوين؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 3,
+  "explanation": "حكوم نون ماتي دان تنوين اد امڤت: إظهار، إدغام، إقلاب دان إخفاء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي إظهار حلقي ڤد ايستيله؟",
+  "options": [
+   "ممبوت حروف يڠ برباريس",
+   "ممباچ دڠن ڤنجڠ دوا حركة",
+   "ممبوڽيكن نون ماتي دڠن دڠوڠ",
+   "ممبوت نون ماتي دان تنوين دڠن جلس تنڤا دڠوڠ"
+  ],
+  "answer": 3,
+  "explanation": "إظهار حلقي اياله ممباچ نون ماتي/تنوين دڠن جلس تنڤا دڠوڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حروف-حروف إظهار حلقي؟",
+  "options": [
+   "ع، ح",
+   "ق، ط",
+   "ت، د",
+   "ب، ج"
+  ],
+  "answer": 0,
+  "explanation": "حروف إظهار حلقي: ء، ه، ع، ح، غ، خ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين إدغام؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "إدغام تربهاݢي دوا: إدغام بالغنة دان إدغام بلاغنة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت حروف إدغام مع الغنة؟",
+  "options": [
+   "ب، ت",
+   "ر، ل",
+   "ص، ط",
+   "ي، ن"
+  ],
+  "answer": 3,
+  "explanation": "حروف إدغام بالغنة: ي، ن، م، و.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه حروف إخفاء حقيقي يڠ ترهيمڤون دالم رڠكاي كات \"سَتُجْزَ\"؟",
+  "options": [
+   "ج",
+   "ي",
+   "ك",
+   "ق"
+  ],
+  "answer": 0,
+  "explanation": "حروف ج ترداڤت دالم رڠكاي كات سَتُجْزَ دان اياله حروف إخفاء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي إقلاب ڤد بهاس؟",
+  "options": [
+   "ممأسوقكن",
+   "منوكركن",
+   "ممبوڠكن",
+   "منجلسكن"
+  ],
+  "answer": 1,
+  "explanation": "إقلاب ڤد بهاس برمقصود منوكركن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف إقلاب ايله",
+  "options": [
+   "ب",
+   "ن",
+   "ي",
+   "م"
+  ],
+  "answer": 0,
+  "explanation": "حروف إقلاب هاڽ ساتو، ياءيت ب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر دڠوڠ باچاءن ڤد بوڽي ميم (إقلاب) ايله",
+  "options": [
+   "ساتو حركة",
+   "دوا حركة",
+   "تيݢ حركة",
+   "امڤت حركة"
+  ],
+  "answer": 1,
+  "explanation": "قدر دڠوڠ إقلاب اياله دوا حركة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن حروف إدغام مثلين شفوي ايله",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "إدغام مثلين شفوي هاڽ ساتو حروف، ياءيت ميم برتمو ميم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دناماكن إخفاء شفوي كران دسمبوڽيكن سبوتن حروف",
+  "options": [
+   "واو",
+   "باء",
+   "ميم ماتي كدالم حروف واو",
+   "ميم ماتي كدالم حروف باء"
+  ],
+  "answer": 3,
+  "explanation": "إخفاء شفوي اياله ميم ماتي برتمو باء، سبوتن ميم دسمبوڽيكن كدالم باء.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تَرْمِيهِم بِحِجَارَةٍ اداله چونتوه باݢي",
+  "options": [
+   "إخفاء شفوي",
+   "إخفاء حقيقي",
+   "إظهار شفوي",
+   "إظهار حلقي"
+  ],
+  "answer": 0,
+  "explanation": "ميم ماتي (هِم) برتمو باء (بحجارة) اياله إخفاء شفوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف إظهار شفوي اد",
+  "options": [
+   "دوا ڤولوه تيݢ",
+   "دوا ڤولوه امڤت",
+   "دوا ڤولوه ليم",
+   "دوا ڤولوه انم"
+  ],
+  "answer": 3,
+  "explanation": "حروف إظهار شفوي اد 26، ياءيت سموا حروف كچوالي م دان ب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "زَعَمْتُمْ اداله چونتوه باݢي",
+  "options": [
+   "إظهار شفوي",
+   "إخفاء حقيقي",
+   "إخفاء شفوي",
+   "إظهار حلقي"
+  ],
+  "answer": 0,
+  "explanation": "ميم ماتي (زَعَمْ) برتمو ت اياله إظهار شفوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ميم دان نون برسبدو دكنلي دڠن نام",
+  "options": [
+   "إخفاء شفوي",
+   "واجب الغنة",
+   "إدغام شفوي",
+   "إظهار شفوي"
+  ],
+  "answer": 1,
+  "explanation": "ميم دان نون برسبدو (برتشديد) دناماكن واجب الغنة (غنة مشددة).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چارا باچاءن ميم دان نون برسبدو كچوالي",
+  "options": [
+   "واجب دباچ دڠوڠ",
+   "دڠوڠ قدر دوا حركة",
+   "دڠوڠ يڠ سمڤورنا",
+   "واجب دباچ دڠن جلس (تنڤا دڠوڠ)"
+  ],
+  "answer": 3,
+  "explanation": "غنة مشددة واجب دباچ دڠوڠ، بوكن دباچ جلس تنڤا دڠوڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت-صيفت حروف كچوالي",
+  "options": [
+   "القَلْقَلَة",
+   "الإِطْبَاق",
+   "الجَوْف",
+   "اللِّيْن"
+  ],
+  "answer": 2,
+  "explanation": "الجوف اداله مخرج حروف، بوكن صيفت حروف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت-صيفت حروف يڠ برلاونن ايله. i. الجَهْر لاون الهَمْس  ii. الشِّدَّة لاون الصَّفِير  iii. الجَهْر لاون القَلْقَلَة  iv. الشِّدَّة لاون الرَّخَاوَة",
+  "options": [
+   "i دان iv",
+   "ii دان iii",
+   "i، ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "الجهر لاون الهمس، دان الشدة لاون الرخاوة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت-صيفت حروف يڠ تيدق برلاونن ايله. i. الجَهْرُ  ii. القَلْقَلَة  iii. الشِّدَّة  iv. الاِنْحِرَاف",
+  "options": [
+   "i دان iv",
+   "ii دان iv",
+   "i، ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "القلقلة دان الانحراف اداله صيفت يڠ تيادا لاون.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باچاءن يڠ لبيه لمبت (ڤرلاهن) دري ترتيل اياله تحقيق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تحقيق اياله باچاءن يڠ لبيه ڤرلاهن دان تليتي درڤد ترتيل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممڤلاجري علمو تجويد اياله واجب فرض عين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ممڤلاجري علمو تجويد اداله فرض كفاية؛ مڠعملكنڽ (ممباچ برتجويد) فرض عين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف إدغام بلاغنة اد دوا ياءيت \"ر\" دان \"ل\".",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حروف إدغام بلاغنة اد دوا: ر دان ل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كدودوقن حروف \"غ\" دان \"خ\" ڤد ڤرتڠهن كروڠكوڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حروف غ دان خ كلوار درڤد هوجوڠ كروڠكوڠ (ادنى الحلق)، بوكن ڤرتڠهن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "التَّوَسُّط اياله نفس ترتاهن سڤنوهڽ كتيك ممبوت حروف.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "توسط اياله سوارا سڤاروه ترتاهن؛ نفس ترتاهن سڤنوه اداله صيفت شدة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-26",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه باچاءن إقلاب اياله",
+  "options": [
+   "مِّن رَّبِّهِمْ",
+   "مِّنْ بَعْدِ",
+   "وَأَنْتُمْ"
+  ],
+  "answer": 1,
+  "explanation": "مِنْ بَعْدِ اياله إقلاب (نون ماتي برتمو ب).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-27",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين حكوم ميم ماتي اد",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "حكوم ميم ماتي اد تيݢ: إخفاء شفوي، إدغام مثلين، دان إظهار شفوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-28",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف ميم ماتي (مْ) برتمو حروف باء اياله",
+  "options": [
+   "إدغام مثلين شفوي",
+   "إخفاء شفوي",
+   "إظهار شفوي"
+  ],
+  "answer": 1,
+  "explanation": "ميم ماتي برتمو باء اياله إخفاء شفوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-29",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دباچ إظهار تنڤا دڠوڠ اياله",
+  "options": [
+   "إدغام مثلين شفوي",
+   "إخفاء شفوي",
+   "إظهار شفوي"
+  ],
+  "answer": 2,
+  "explanation": "ميم ماتي يڠ دباچ جلس تنڤا دڠوڠ اياله إظهار شفوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-30",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود مخرج حروف اياله",
+  "options": [
+   "تمڤت كلوار سبوتن حروف هجائية",
+   "هوجوڠ كروڠكوڠ",
+   "ڤڠكل ليده"
+  ],
+  "answer": 0,
+  "explanation": "مخرج حروف اياله تمڤت كلوار سبوتن حروف هجائية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-31",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه إظهار حلقي دالم ساتو ڤركاتاءن اياله",
+  "options": [
+   "يَنْحِتُونَ",
+   "انم",
+   "ترسمبويي"
+  ],
+  "answer": 0,
+  "explanation": "يَنْحِتُونَ (نون ماتي برتمو ح) اياله إظهار حلقي دالم ساتو ڤركاتاءن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-32",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جمله حروف إدغام اياله",
+  "options": [
+   "انم",
+   "ر، ل",
+   "ترسمبويي"
+  ],
+  "answer": 0,
+  "explanation": "حروف إدغام اد انم: ي، ن، م، و، ر، ل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-33",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف إدغام بلاغنة اياله",
+  "options": [
+   "ر، ل",
+   "انم",
+   "يَنْحِتُونَ"
+  ],
+  "answer": 0,
+  "explanation": "حروف إدغام بلاغنة اياله ر دان ل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-34",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إخفاء حقيقي ڤد بهاس برمقصود",
+  "options": [
+   "ترسمبويي",
+   "انم",
+   "ر، ل"
+  ],
+  "answer": 0,
+  "explanation": "إخفاء ڤد بهاس برمقصود ترسمبويي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-35",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف ميم ماتي (مْ) برتمو دڠن حروف ميم اياله",
+  "options": [
+   "إدغام مثلين شفوي",
+   "ترسمبويي",
+   "انم"
+  ],
+  "answer": 0,
+  "explanation": "ميم ماتي برتمو ميم اياله إدغام مثلين شفوي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-36",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا باچاءن إظهار حلقي اياله",
+  "options": [
+   "دباچ جلس تنڤا دڠوڠ",
+   "دباچ دڠوڠ",
+   "دباچ ڤنجڠ"
+  ],
+  "answer": 0,
+  "explanation": "إظهار حلقي دباچ جلس تنڤا دڠوڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-37",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي إدغام ڤد بهاس اياله",
+  "options": [
+   "ممأسوقكن",
+   "منوكركن",
+   "منجلسكن"
+  ],
+  "answer": 0,
+  "explanation": "إدغام ڤد بهاس برمقصود ممأسوقكن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-38",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دسمبوڽيكن سبوتن نون ماتي كدالم حروف إخفاء دناماكن",
+  "options": [
+   "إخفاء حقيقي",
+   "إظهار حلقي",
+   "إقلاب"
+  ],
+  "answer": 0,
+  "explanation": "مڽمبوڽيكن نون ماتي كدالم حروف إخفاء اياله إخفاء حقيقي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-39",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه إخفاء حقيقي اياله",
+  "options": [
+   "مِنْ قَبْلِ",
+   "مِنْ رَبِّهِمْ",
+   "مِنْ بَعْدِ"
+  ],
+  "answer": 0,
+  "explanation": "مِنْ قَبْلِ (نون ماتي برتمو ق) اياله إخفاء حقيقي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-pat2022-40",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه حكوم ميم ماتي دالم ساتو ڤركاتاءن اياله",
+  "options": [
+   "تَمْشُونَ",
+   "هُمْ بِهِ",
+   "لَهُمْ مَا"
+  ],
+  "answer": 0,
+  "explanation": "تَمْشُونَ (ميم ماتي برتمو ش) اياله إظهار شفوي دالم ساتو ڤركاتاءن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tajwid-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Tajwid",
