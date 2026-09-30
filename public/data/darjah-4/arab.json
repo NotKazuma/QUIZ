@@ -639,6 +639,533 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-arab-ppt2024-01",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَتَى تَذْهَبُ إِلَى الْمَدْرَسَةِ؟",
+  "options": [
+   "صَبَاحًا",
+   "مَسَاءً",
+   "لَيْلًا",
+   "ظُهْرًا"
+  ],
+  "answer": 0,
+  "explanation": "أَذْهَبُ إِلَى الْمَدْرَسَةِ صَبَاحًا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-02",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَعَ مَنْ تَلْعَبُ كُرَةَ الْقَدَمِ؟",
+  "options": [
+   "الْبَيْتُ",
+   "أَصْدِقَائِي",
+   "شَجَرَةٌ",
+   "قِطٌّ"
+  ],
+  "answer": 1,
+  "explanation": "أَلْعَبُ كُرَةَ الْقَدَمِ مَعَ أَصْدِقَائِي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-03",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَمْ دَقِيقَةً فِي السَّاعَةِ؟",
+  "options": [
+   "سِتُّونَ",
+   "خَمْسُونَ",
+   "اِثْنَا عَشَرَ",
+   "أَرْبَعٌ وَعِشْرُونَ"
+  ],
+  "answer": 0,
+  "explanation": "فِي السَّاعَةِ سِتُّونَ دَقِيقَةً.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-04",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا الْكَلِمَةُ الِاسْمُ مِمَّا يَأْتِي؟",
+  "options": [
+   "دَخَلَ",
+   "يَذْهَبُ",
+   "مُحَمَّدٌ",
+   "كَتَبَ"
+  ],
+  "answer": 2,
+  "explanation": "\"مُحَمَّدٌ\" اِسْمٌ (عَلَمٌ).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-05",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَتَى نُصَلِّي صَلَاةَ الْجُمُعَةِ فِي الْمَسْجِدِ؟",
+  "options": [
+   "الْأَحَدُ",
+   "الثُّلَاثَاءُ",
+   "الْأَرْبِعَاءُ",
+   "الْجُمُعَةُ"
+  ],
+  "answer": 3,
+  "explanation": "نُصَلِّي صَلَاةَ الْجُمُعَةِ يَوْمَ الْجُمُعَةِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-06",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا الْيَوْمُ بَعْدَ يَوْمِ الثُّلَاثَاءِ؟",
+  "options": [
+   "الْأَرْبِعَاءُ",
+   "الْخَمِيسُ",
+   "الْجُمُعَةُ",
+   "السَّبْتُ"
+  ],
+  "answer": 0,
+  "explanation": "الْيَوْمُ بَعْدَ الثُّلَاثَاءِ هُوَ الْأَرْبِعَاءُ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-07",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَمْ عَلَامَةُ الِاسْمِ؟",
+  "options": [
+   "ثَلَاثَةٌ",
+   "أَرْبَعَةٌ",
+   "خَمْسَةٌ",
+   "سِتَّةٌ"
+  ],
+  "answer": 1,
+  "explanation": "عَلَامَاتُ الِاسْمِ أَرْبَعٌ: الْجَرُّ، التَّنْوِينُ، النِّدَاءُ وَأَلْ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-08",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَتَى سَنَحْتَفِلُ عِيدَ الْفِطْرِ؟",
+  "options": [
+   "صَفَرُ",
+   "شَوَّالُ",
+   "رَمَضَانُ",
+   "ذُو الْحِجَّةِ"
+  ],
+  "answer": 1,
+  "explanation": "نَحْتَفِلُ عِيدَ الْفِطْرِ فِي شَهْرِ شَوَّالٍ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-09",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "نَحْتَفِلُ الْيَوْمَ الْوَطَنِي فِي ___",
+  "options": [
+   "31 يَنَايِر",
+   "30 مَايُو",
+   "31 أَغُسْطُس",
+   "31 أُكْتُوبَر"
+  ],
+  "answer": 2,
+  "explanation": "الْيَوْمُ الْوَطَنِي فِي مَالِيزِيَا هُوَ 31 أَغُسْطُس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-10",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"ايبو نݢارا\" فِي اللُّغَةِ الْعَرَبِيَّةِ",
+  "options": [
+   "الْبِلَادُ",
+   "الْوَطَنُ",
+   "الْعَاصِمَةُ",
+   "الْمَنَازِلُ"
+  ],
+  "answer": 2,
+  "explanation": "\"ايبو نݢارا\" = الْعَاصِمَةُ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-11",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"يُونِيُو\" فِي اللُّغَةِ الْمَلَايُوِيَّةِ",
+  "options": [
+   "مج",
+   "مي",
+   "جون",
+   "جولاي"
+  ],
+  "answer": 2,
+  "explanation": "\"يونيو\" (June) = جون.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-12",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الْكَلِمَةُ الْمُذَكَّرُ",
+  "options": [
+   "اِمْرَأَةٌ",
+   "نَاقَةٌ",
+   "فَاطِمَةُ",
+   "حِصَانٌ"
+  ],
+  "answer": 3,
+  "explanation": "\"حِصَانٌ\" كَلِمَةٌ مُذَكَّرٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-13",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَلَامَةُ تَأْنِيثِ الِاسْمِ لِلْكَلِمَةِ \"بُشْرَى\"",
+  "options": [
+   "أَلِفُ الْمَمْدُودَةُ",
+   "أَلِفُ الْمَقْصُورَةُ",
+   "تَاءُ الْمَرْبُوطَةُ",
+   "تَاءُ الْمَفْتُوحَةُ"
+  ],
+  "answer": 1,
+  "explanation": "\"بُشْرَى\" تَنْتَهِي بِأَلِفٍ مَقْصُورَةٍ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-14",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "٢٠ + ٢٠ =",
+  "options": [
+   "ثَلَاثُونَ",
+   "أَرْبَعُونَ",
+   "خَمْسُونَ",
+   "ثَمَانُونَ"
+  ],
+  "answer": 1,
+  "explanation": "٢٠ + ٢٠ = أَرْبَعُونَ (٤٠).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-15",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنِ الْكَلِمَةَ الْمُتَكَلِّمَ.",
+  "options": [
+   "هُوَ",
+   "هُمَا",
+   "أَنَا",
+   "أَنْتَ"
+  ],
+  "answer": 2,
+  "explanation": "\"أَنَا\" ضَمِيرُ الْمُتَكَلِّمِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-16",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كُلُّهَا هِيَ الضَّمِيرُ الْمُخَاطَبَةُ إِلَّا",
+  "options": [
+   "أَنْتُمَا",
+   "أَنْتِ",
+   "هُنَّ",
+   "أَنْتُنَّ"
+  ],
+  "answer": 2,
+  "explanation": "\"هُنَّ\" ضَمِيرُ الْغَائِبَةِ، لَيْسَ الْمُخَاطَبَةِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-17",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كُلُّهَا هِيَ الِاحْتِفَالَاتُ فِي بِلَادِنَا إِلَّا",
+  "options": [
+   "الْيَوْمُ الْوَطَنِي",
+   "عِيدُ الْفِطْرِ",
+   "عِيدُ الْأَضْحَى",
+   "عِيدُ الْمِيلَادِ"
+  ],
+  "answer": 3,
+  "explanation": "عِيدُ الْمِيلَادِ لَيْسَ مِنِ احْتِفَالَاتِ الْمُسْلِمِينَ فِي بِلَادِنَا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-18",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنْ شُهُورَ السَّنَةِ الْهِجْرِيَّةِ. i. مُحَرَّم  ii. صَفَر  iii. يَنَايِر  iv. مَارِس",
+  "options": [
+   "i، ii",
+   "ii، iii",
+   "i، ii، iii",
+   "i، ii، iii، iv"
+  ],
+  "answer": 0,
+  "explanation": "مُحَرَّم وَصَفَر مِنْ شُهُورِ السَّنَةِ الْهِجْرِيَّةِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-19",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الْمِثَالُ تَاءُ التَّأْنِيثِ الْمَرْبُوطَةِ. i. بُشْرَى  ii. الدَّجَاجَةُ  iii. فَاطِمَةُ  iv. حَمْرَاءُ",
+  "options": [
+   "i، ii",
+   "ii، iii",
+   "i، ii، iii",
+   "i، ii، iii، iv"
+  ],
+  "answer": 1,
+  "explanation": "الدَّجَاجَةُ وَفَاطِمَةُ تَنْتَهِيَانِ بِتَاءٍ مَرْبُوطَةٍ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-20",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "سَبْعَةُ أَيَّامٍ فِي الْأُسْبُوعِ.",
+  "options": [
+   "صَحِيح",
+   "خَطَأ"
+  ],
+  "answer": 0,
+  "explanation": "فِي الْأُسْبُوعِ سَبْعَةُ أَيَّامٍ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-21",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "تَنْقَسِمُ الْكَلِمَةُ إِلَى ثَلَاثَةٍ.",
+  "options": [
+   "صَحِيح",
+   "خَطَأ"
+  ],
+  "answer": 0,
+  "explanation": "الْكَلِمَةُ ثَلَاثَةُ أَقْسَامٍ: اِسْمٌ، فِعْلٌ وَحَرْفٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-22",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَلَامَةُ الِاسْمِ تَنْوِينٌ \"الْقَمَرُ\".",
+  "options": [
+   "صَحِيح",
+   "خَطَأ"
+  ],
+  "answer": 1,
+  "explanation": "\"الْقَمَرُ\" فِيهَا \"أَلْ\"، فَلَا تَنْوِينَ فِيهَا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-23",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِمْرَأَةٌ هِيَ كَلِمَةُ الْمُؤَنَّثِ.",
+  "options": [
+   "صَحِيح",
+   "خَطَأ"
+  ],
+  "answer": 0,
+  "explanation": "\"اِمْرَأَةٌ\" كَلِمَةٌ مُؤَنَّثَةٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-24",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الطَّالِبَةُ وَزْنُهُ خَمْسُونَ كِيلُوغَرَامًا.",
+  "options": [
+   "صَحِيح",
+   "خَطَأ"
+  ],
+  "answer": 1,
+  "explanation": "\"الطَّالِبَةُ\" مُؤَنَّثٌ فَيُقَالُ \"وَزْنُهَا\" لَا \"وَزْنُهُ\".",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-25",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"الْفِعْلُ\" مِثَالُهُ",
+  "options": [
+   "دَخَلَ",
+   "فِيلٌ",
+   "فِي"
+  ],
+  "answer": 0,
+  "explanation": "\"دَخَلَ\" فِعْلٌ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-26",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"بولا جاريڠ\" فِي اللُّغَةِ الْعَرَبِيَّةِ",
+  "options": [
+   "كُرَةُ الْقَدَمِ",
+   "كُرَةُ الْيَدِ",
+   "كُرَةُ الشَّبَكَةِ"
+  ],
+  "answer": 2,
+  "explanation": "\"بولا جاريڠ\" = كُرَةُ الشَّبَكَةِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-arab-ppt2024-27",
+  "exam": "Darjah 4",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اسْمُ الْإِشَارَةِ لِلْقَرِيبِ \"مُفْرَدٌ\"",
+  "options": [
+   "هَذِهِ",
+   "ذَلِكَ",
+   "هَاتَانِ"
+  ],
+  "answer": 0,
+  "explanation": "\"هَذِهِ\" اسْمُ إِشَارَةٍ لِلْقَرِيبِ الْمُفْرَدِ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-arab-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Bahasa Arab",
