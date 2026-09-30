@@ -2096,6 +2096,781 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-sirah-ppt2025-01",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين إسراء؟",
+  "options": [
+   "ڤرڤيندهن دري مكة كمصر",
+   "ڤرڤيندهن رسول الله",
+   "ڤرجالنن رسول الله دري مسجد الحرام كمسجد الأقصى",
+   "ڤرڤيندهن دري مكة كمدينة"
+  ],
+  "answer": 2,
+  "explanation": "إسراء اياله ڤرجالنن رسول الله دري مسجد الحرام كمسجد الأقصى.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-02",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه برلاكوڽ ڤريستيوا معراج؟",
+  "options": [
+   "ڤاݢي",
+   "مالم",
+   "صبح",
+   "تڠه هاري"
+  ],
+  "answer": 1,
+  "explanation": "معراج برلاكو ڤد وقتو مالم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-03",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه برلاكوڽ إسراء دان معراج؟",
+  "options": [
+   "27 شوال",
+   "27 رجب",
+   "27 رمضان",
+   "27 محرم"
+  ],
+  "answer": 1,
+  "explanation": "إسراء دان معراج برلاكو ڤد 27 رجب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-04",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه ملائكة يڠ منمني رسول الله سڤنجڠ ڤريستيوا إسراء دان معراج؟",
+  "options": [
+   "ملائكة جبريل",
+   "ملائكة منكر",
+   "ملائكة رضوان",
+   "ملائكة ميكائيل"
+  ],
+  "answer": 0,
+  "explanation": "ملائكة جبريل منمني رسول الله سڤنجڠ ڤريستيوا ترسبوت.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-05",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤريستيوا يڠ برلاكو كڤد رسول الله سبلوم إسراء دان معراج؟",
+  "options": [
+   "برڤرڠ",
+   "برسمبويي",
+   "دادا دبله كالي كدوا",
+   "بولن تربله دوا"
+  ],
+  "answer": 2,
+  "explanation": "دادا رسول الله دبله كالي كدوا سبلوم إسراء معراج.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-06",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه بهاݢين اورݢن رسول الله يڠ دكلواركن سبلوم ڤريستيوا إسراء دان معراج؟",
+  "options": [
+   "مات",
+   "هاتي",
+   "داره",
+   "جنتوڠ"
+  ],
+  "answer": 1,
+  "explanation": "هاتي بݢيندا دكلواركن دان دباسوه دڠن اءير زمزم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-07",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مينومن يڠ منجادي ڤيليهن نبي محمد؟",
+  "options": [
+   "سوسو",
+   "كوڤي",
+   "اڠكور",
+   "اورين"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ممليه سوسو، ملمبڠكن كفطرهن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-08",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه ملائكة يڠ تيدق ڤرنه ترسﻯوم؟",
+  "options": [
+   "ملائكة جبريل",
+   "ملائكة رقيب",
+   "ملائكة اسرافيل",
+   "ملائكة مالك"
+  ],
+  "answer": 3,
+  "explanation": "ملائكة مالك (ڤنجاݢ نراك) تيدق ڤرنه ترسﻯوم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-09",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بالسن مغعمبيل هرتا انق يتيم اداله",
+  "options": [
+   "ڤوتوڠ تاڠن",
+   "ڤروتڽ بسر",
+   "ماكن داݢيڠ بوسوق",
+   "مولوتڽ مونچوڠ"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ ماكن هرتا انق يتيم ڤروتڽ بسر كران منلن اڤي.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-10",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عذاب اورڠ يڠ مغعملكن ربا اياله",
+  "options": [
+   "ڤروتڽ كمڤيس",
+   "كاكيڽ ڤاته",
+   "تاڠنڽ كودوڠ",
+   "ڤروتڽ بسر"
+  ],
+  "answer": 3,
+  "explanation": "ڤغعمل ربا عذابڽ ڤروتڽ بسر سهيڠݢ سوكر برݢرق.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-11",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممأكن داݢيڠ بوسوق اداله بالسن كڤد",
+  "options": [
+   "زنا",
+   "ربا",
+   "مينوم ارق",
+   "مغعمبيل هرتا انق يتيم"
+  ],
+  "answer": 0,
+  "explanation": "ڤنزنا دعذاب دڠن ممأكن داݢيڠ بوسوق.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-12",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله ڤينتو لاڠيت؟",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم",
+   "توجوه"
+  ],
+  "answer": 3,
+  "explanation": "ڤينتو لاڠيت اد توجوه.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-13",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يڠ مندودوقي لاڠيت ڤرتام اياله",
+  "options": [
+   "نبي محمد",
+   "نبي ادم",
+   "نبي يوسف",
+   "نبي إبراهيم"
+  ],
+  "answer": 1,
+  "explanation": "نبي ادم برادا دلاڠيت ڤرتام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-14",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عبادة يڠ دبري كڤد رسول الله سماس ڤريستيوا معراج؟",
+  "options": [
+   "زكاة",
+   "حج",
+   "صلاة",
+   "ڤواسا"
+  ],
+  "answer": 2,
+  "explanation": "صلاة ليم وقتو دفرضوكن سماس ڤريستيوا معراج.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-15",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله اصل وقتو صلاة يڠ دفرضوكن؟",
+  "options": [
+   "5 وقتو",
+   "25 وقتو",
+   "35 وقتو",
+   "50 وقتو"
+  ],
+  "answer": 3,
+  "explanation": "اصلڽ 50 وقتو، كمودين دكورڠكن كڤد 5 وقتو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-16",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢلرن \"الصِّدِّيق\" دبريكن كڤد",
+  "options": [
+   "سيدنا علي",
+   "سيدنا عمر",
+   "سيدنا ابو بكر",
+   "سيدنا عثمان"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا ابو بكر دݢلر الصديق كران ڤرچاي تنڤا راݢو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-17",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤغاجرن ڤريستيوا إسراء دان معراج كچوالي",
+  "options": [
+   "ممڤرباڽقكن عمل",
+   "صلاة فرض ليم وقتو",
+   "مغوكوهكن ايمان دان تقوى",
+   "نبي يوسف اداله كتوا سكالين نبي"
+  ],
+  "answer": 3,
+  "explanation": "كتوا سكالين نبي اياله نبي محمد، بوكن نبي يوسف.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-18",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن ڤريستيوا لوار بياسا ترجادي كڤد نبي محمد كچوالي",
+  "options": [
+   "تربله بولن",
+   "القرءان",
+   "إسراء دان معراج",
+   "توڠكت منجادي اولر"
+  ],
+  "answer": 3,
+  "explanation": "توڠكت منجادي اولر اداله معجزة نبي موسى، بوكن نبي محمد.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-19",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هجرة ڤد بهاس. i. ككل دسواتو تمڤت  ii. برڤينده دسواتو تمڤت  iii. تمڤت يڠ بهارو  iv. تمڤت يڠ لاما",
+  "options": [
+   "i دان iii",
+   "iii دان iv",
+   "ii دان iii",
+   "iv سهاج"
+  ],
+  "answer": 2,
+  "explanation": "هجرة ڤد بهاس اياله برڤينده كتمڤت يڠ بهارو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-20",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله تيڤو داي كافير مشرك ترهادڤ اورڠ مؤمن. i. مناهن  ii. مغهاجر  iii. مغوسير  iv. ممبنتو",
+  "options": [
+   "i دان iii",
+   "i دان ii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "تيڤو داي كافير مشرك انتاراڽ مناهن دان مغوسير اورڠ مؤمن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-21",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسراء اياله ڤرجالنن رسول الله دري مسجد الحرام كمسجد الأقصى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "إسراء اياله ڤرجالنن دري مسجد الحرام كمسجد الأقصى.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-22",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معراج اياله ڤرجالنن رسول الله كمسجد النبوى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "معراج اياله ڤرجالنن نايق كلاڠيت، بوكن كمسجد النبوى.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-23",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مسجد الحرام ترلتق دمكة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مسجد الحرام ترلتق د مكة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-24",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ككواساءن دان كبسرن الله مها لواس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ككواساءن دان كبسرن الله مها لواس دان تيادا باتسن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-25",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريستيوا إسراء دان معراج تندا كبسرن الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "إسراء دان معراج اداله تندا كبسرن دان كقواساءن الله.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-26",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤوه رسول الله دإسراءكن اياله",
+  "options": [
+   "دوا مالم سهاج",
+   "ساتو مالم سهاج",
+   "تيݢ مالم سهاج"
+  ],
+  "answer": 1,
+  "explanation": "إسراء دان معراج برلاكو دالم ساتو مالم سهاج.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-27",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير يڠ مﻯوچيكن هاتي نبي اياله",
+  "options": [
+   "ڤاءيف",
+   "امبون",
+   "زمزم"
+  ],
+  "answer": 2,
+  "explanation": "هاتي نبي دباسوه دڠن اءير زمزم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-28",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رومبوڠن يڠ دليهت نبي محمد سماس إسراء اياله",
+  "options": [
+   "ڤداݢڠ مكة",
+   "ڤندودوق مصر",
+   "جماعه يثرب"
+  ],
+  "answer": 0,
+  "explanation": "نبي مليهت كافيله (ڤداݢڠ مكة) سباݢاي بوقتي إسراء.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-29",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ منولق ڤرخبرن إسراء دان معراج اياله",
+  "options": [
+   "ابو صفيان",
+   "ابو بكر",
+   "ابو جهل"
+  ],
+  "answer": 2,
+  "explanation": "ابو جهل دان كافير قريش منولق ڤرخبرن إسراء معراج.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-30",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه ڤريستيوا إسراء دان معراج اياله",
+  "options": [
+   "ملمهكن ايمان",
+   "منمبه كقواتن ايمان",
+   "مروسقكن عقل"
+  ],
+  "answer": 1,
+  "explanation": "إسراء معراج منمبه كقواتن ايمان اورڠ برايمان.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-31",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مسجد يڠ ترلتق دفلسطين اياله",
+  "options": [
+   "مسجد الأقصى",
+   "27 رجب",
+   "هجره"
+  ],
+  "answer": 0,
+  "explanation": "مسجد الأقصى ترلتق د فلسطين.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-32",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاريخ إسراء دان معراج اياله",
+  "options": [
+   "27 رجب",
+   "مسجد الأقصى",
+   "هجره"
+  ],
+  "answer": 0,
+  "explanation": "إسراء معراج برلاكو ڤد 27 رجب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-33",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤغاجرن درڤد ڤريستيوا إسراء دان معراج اياله",
+  "options": [
+   "كفرضوان صلاة",
+   "هجره",
+   "اورڠ كافير"
+  ],
+  "answer": 0,
+  "explanation": "انتارا ڤغاجرن إسراء معراج اياله كفرضوان صلاة ليم وقتو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-34",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برڤينده دري ساتو تمڤت كتمڤت يڠ بهارو اياله",
+  "options": [
+   "هجره",
+   "مسجد الأقصى",
+   "27 رجب"
+  ],
+  "answer": 0,
+  "explanation": "هجره اياله برڤينده كتمڤت يڠ بهارو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-35",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢولوڠن يڠ ملاكوكن تيڤو داي ترهادڤ اورڠ مؤمن اياله",
+  "options": [
+   "اورڠ كافير",
+   "كفرضوان صلاة",
+   "هجره"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ كافير مشرك ملاكوكن تيڤو داي ترهادڤ اورڠ مؤمن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-36",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت نبي ممولاكن إسراء اياله",
+  "options": [
+   "مسجد الحرام",
+   "مسجد الأقصى",
+   "مسجد النبوى"
+  ],
+  "answer": 0,
+  "explanation": "إسراء برمولا دري مسجد الحرام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-37",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو كمبالي نبي محمد دري مسجد الحرام اياله",
+  "options": [
+   "مالم يڠ سام",
+   "سبولن كمودين",
+   "ستاهون كمودين"
+  ],
+  "answer": 0,
+  "explanation": "نبي كمبالي ڤد مالم يڠ سام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-38",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتوا باكي سكالين نبي اياله",
+  "options": [
+   "نبي محمد",
+   "نبي ادم",
+   "نبي عيسى"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد اداله ڤغهولو (كتوا) سكالين نبي.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-39",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت برمولاڽ ڤغهجرهن نبي اياله",
+  "options": [
+   "مكة",
+   "مدينة",
+   "طائف"
+  ],
+  "answer": 0,
+  "explanation": "ڤغهجرهن نبي برمولا دري مكة كمدينة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-ppt2025-40",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه تيڤو داي اورڠ كافير مشرك اياله",
+  "options": [
+   "مﻯيقسا اومت إسلام",
+   "ممبنتو اومت إسلام",
+   "برامه مسرا"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ كافير مشرك مﻯيقسا دان منيندس اومت إسلام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-sirah-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Sirah",
