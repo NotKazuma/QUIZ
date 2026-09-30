@@ -755,6 +755,781 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-muamalat-ppt2024-01",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين اَلْبَيْعُ؟",
+  "options": [
+   "ممينجم",
+   "ڤيليهن",
+   "جوال بلي",
+   "سيوا بلي"
+  ],
+  "answer": 2,
+  "explanation": "البيع برمقصود جوال بلي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-02",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه روكون جوال بلي؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 2,
+  "explanation": "روكون جوال بلي اد تيݢ: العاقدان، صيغة دان المعقود عليه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-03",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط باݢي ڤمبلي القرءان؟",
+  "options": [
+   "كانق-كانق",
+   "إسلام",
+   "كافير",
+   "اورڠ ݢيلا"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبلي مصحف القرءان مستيله اورڠ إسلام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-04",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت شرط باݢي اَلْمَعْقُود عَلَيَه؟",
+  "options": [
+   "مضرة",
+   "برمنفعت",
+   "تيدق حلال",
+   "تياد فاءيده"
+  ],
+  "answer": 1,
+  "explanation": "بارڠ عقد (المعقود عليه) مستيله برمنفعت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-05",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم منجوال ارق؟",
+  "options": [
+   "صح",
+   "مكروه",
+   "هاروس",
+   "تيدق صح"
+  ],
+  "answer": 3,
+  "explanation": "منجوال ارق (نجيس) اداله تيدق صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-06",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم منجوال بوروڠ يڠ سدڠ تربڠ دأودارا؟",
+  "options": [
+   "صح",
+   "مكروه",
+   "هاروس",
+   "تيدق صح"
+  ],
+  "answer": 3,
+  "explanation": "بوروڠ يڠ سدڠ تربڠ تيدق داڤت دسرهكن، ماك جوالنڽ تيدق صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-07",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود دكتاهوءي بارڠ دان هرݢاڽ؟",
+  "options": [
+   "تيدق مليهت چونتوه بارڠ",
+   "تيدق دتنتوكن هرݢ بارڠ",
+   "بارڠ جوالن داڤت دليهت دان دكتاهوءي",
+   "ڤمبلي تيدق مڠتاهوءي بارڠ"
+  ],
+  "answer": 2,
+  "explanation": "بارڠ جوالن دان هرݢاڽ مستيله داڤت دليهت دان دكتاهوءي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-08",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط ايجاب دان قبول باݢي جوال بلي؟",
+  "options": [
+   "تيدق دسلڠي ڤركاتاءن لاءين",
+   "براوبه سبوتن ڤرتام دڠن كدوا",
+   "بوليه دسلڠي ديام يڠ ڤنجڠ",
+   "تيدق ددڠر لفظ اوليه اورڠ برهمڤيرن"
+  ],
+  "answer": 0,
+  "explanation": "ايجاب دان قبول تيدق بوليه دسلڠي دڠن ڤركاتاءن لاءين.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-09",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت شرط باݢي صيغة باݢي جوال بلي؟",
+  "options": [
+   "تيدق براوبه سبوتن",
+   "لفظ تيدق داڤت ددڠر",
+   "دسلڠي ديام يڠ ڤنجڠ",
+   "صيغة مڠاندوڠي ڤركاتاءن يڠ لاءين"
+  ],
+  "answer": 0,
+  "explanation": "شرط صيغة اياله سبوتن ايجاب دان قبول تيدق براوبه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-10",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم جوال بلي يڠ تيدق مماتوهي ڤراتورن (شرع)؟",
+  "options": [
+   "حرام",
+   "سنة",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "جوال بلي يڠ تيدق مماتوهي حكوم شرع اداله حرام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-11",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه جوال بلي حرام دان تيدق صح ايله منجوال",
+  "options": [
+   "بابي",
+   "كودا",
+   "ݢاجه",
+   "لمبو"
+  ],
+  "answer": 0,
+  "explanation": "منجوال بابي (نجيس) اداله حرام دان تيدق صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-12",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين العَارِيَّة دري سݢي بهاس ايله",
+  "options": [
+   "ڤرتوكرن دڠن بارڠ",
+   "اورڠ يڠ مﻯبري ڤينجم",
+   "نام باݢي بارڠ يڠ دڤينجم",
+   "ڤمبرين يڠ مڠهارڤكن كنجرن"
+  ],
+  "answer": 2,
+  "explanation": "العارية ڤد بهاس اياله نام باݢي بارڠ يڠ دڤينجم (ڤينجمن).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-13",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مﻯينجمكن ڤايوڠ وقتو هوجن ايله",
+  "options": [
+   "حرام",
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "مﻯينجمكن بارڠ اونتوق كباءيقن اداله سنة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-14",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "روكون العَارِيَّة اد",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "روكون عارية اد امڤت: معير، مستعير، مستعار دان صيغة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-15",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط اورڠ يڠ مﻯبري ڤينجم ايله",
+  "options": [
+   "دڤقسا",
+   "بوكن حق ميليق",
+   "تيدق برمنفعت",
+   "سچارا سوكاريلا"
+  ],
+  "answer": 3,
+  "explanation": "المعير مستي مﻯبري ڤينجم سچارا سوكاريلا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-16",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ صح مﻯبري ڤرتولوڠن (ڤينجمن) اداله شرط باݢي",
+  "options": [
+   "المُعِير",
+   "الصِّيْغَة",
+   "المُسْتَعَار",
+   "المُسْتَعِير"
+  ],
+  "answer": 0,
+  "explanation": "المعير اياله اورڠ يڠ مﻯبري ڤينجم.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-17",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن اورڠ يڠ صح منجادي المُعِير كچوالي",
+  "options": [
+   "اورڠ يڠ مكلف",
+   "كانق-كانق",
+   "اورڠ ݢيلا",
+   "اورڠ يڠ مَحْجُور"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ مكلف صح منجادي معير؛ كانق-كانق، ݢيلا دان محجور تيدق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-18",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط بارڠ يڠ دڤينجمكن كچوالي",
+  "options": [
+   "ككل عينڽ",
+   "اد منفعت",
+   "حرام ڤڠݢوناءنڽ",
+   "تيدق حرام"
+  ],
+  "answer": 2,
+  "explanation": "بارڠ ڤينجمن مستيله حلال؛ 'حرام ڤڠݢوناءنڽ' بوكن شرط.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-19",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه يڠ برايكوت لفظ صيغة العَارِيَّة؟ i. ساي ڤينجم  ii. ساي جوال كتاب اين  iii. ساي ڤينجمكن كتاب اين كڤد اوق  iv. ساي جوال كتاب اين كڤد اوق",
+  "options": [
+   "i دان ii",
+   "ii دان iv",
+   "i دان iii",
+   "ii، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "لفظ عارية: \"ساي ڤينجم\" دان \"ساي ڤينجمكن كتاب اين كڤد اوق\".",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-20",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب المُسْتَعِير ايله. i. تيدق برمنفعت  ii. مڠݢنتي كروسقن بارڠ  iii. ݢمبيل منفعت سباݢايمانا ڤاتوت  iv. ممبطلكن ڤرجنجين",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "ii دان iii",
+   "ii، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ڤمينجم برتڠݢوڠجواب مڠݢنتي كروسقن دان مڠمبيل منفعت سباݢايمانا ڤاتوت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-21",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله مڠحلالكن جوال بلي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله مڠحلالكن جوال بلي دان مڠحرامكن ربا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-22",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "العَاقِدَان ايله هرݢ دان بارڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "العاقدان اياله ڤنجوال دان ڤمبلي، بوكن هرݢ دان بارڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-23",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤنجوال تيدق صح منجوال بارڠ يڠ بوكن ميليقڽ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بارڠ جوالن مستيله ميليق ڤنجوال.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-24",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "المُسْتَعَار اورڠ يڠ مﻯبري ڤينجم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "المستعار اياله بارڠ يڠ دڤينجم؛ ڤمبري ڤينجم اياله المعير.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-25",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ ݢيلا اداله اورڠ يڠ تيدق صح منجادي المُعِير.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ ݢيلا بوكن اهل تبرع، ماك تيدق صح منجادي معير.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-26",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط باݢي المَعْقُود عَلَيَه اياله",
+  "options": [
+   "تيدق برمنفعت",
+   "سوچي عينڽ",
+   "بوكن ميليق ڤنجوال"
+  ],
+  "answer": 1,
+  "explanation": "المعقود عليه مستيله سوچي عينڽ دان برمنفعت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-27",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم منجوال سوسو يڠ تله برچمڤور نجيس ايله",
+  "options": [
+   "صح",
+   "تيدق صح",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "منجوال سوسو يڠ برچمڤور نجيس اداله تيدق صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-28",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم منجوال بارڠ يڠ تيدق مماتوهي حكوم شرع ايله",
+  "options": [
+   "واجب",
+   "سنة",
+   "حرام"
+  ],
+  "answer": 2,
+  "explanation": "منجوال بارڠ يڠ تيدق مماتوهي حكوم شرع اداله حرام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-29",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مﻯينجمكن بارڠ يڠ دميليقي كڤد اورڠ لاءين ايله",
+  "options": [
+   "البَيْع",
+   "العَارِيَة",
+   "الخِيَار"
+  ],
+  "answer": 1,
+  "explanation": "مﻯينجمكن بارڠ كڤد اورڠ لاءين دناماكن العارية.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-30",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط اورڠ يڠ بوليه مڠوروسكن هرتاڽ سنديري ايله",
+  "options": [
+   "المُعِير",
+   "المُسْتَعَار",
+   "المُسْتَعِير"
+  ],
+  "answer": 0,
+  "explanation": "المعير مستيله اهل تبرع يڠ بوليه مڠوروسكن هرتاڽ سنديري.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-31",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرتوكرن هرتا دڠن هرتا يڠ لاءين اياله",
+  "options": [
+   "اَلْبَيْعُ",
+   "العَاقِدَان",
+   "تيدق صح"
+  ],
+  "answer": 0,
+  "explanation": "البيع اياله ڤرتوكرن هرتا دڠن هرتا يڠ لاءين.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-32",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ صح منجالنكن اوروسن جوال بلي اياله",
+  "options": [
+   "العَاقِدَان",
+   "اَلْبَيْعُ",
+   "لفظ ايجاب"
+  ],
+  "answer": 0,
+  "explanation": "العاقدان اياله ڤنجوال دان ڤمبلي يڠ منجالنكن جوال بلي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-33",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم منجوال ايكن دالم كولم يڠ لواس ايله",
+  "options": [
+   "تيدق صح",
+   "واجب",
+   "اَلْبَيْعُ"
+  ],
+  "answer": 0,
+  "explanation": "منجوال ايكن دالم كولم لواس تيدق صح كران سوكر دسرهكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-34",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"ساي ڤينجمكن كتاب اين كڤد اوق\" اياله",
+  "options": [
+   "لفظ ايجاب",
+   "العَاقِدَان",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "اي اداله لفظ ايجاب دالم عارية.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-35",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠݢنتي بارڠ يڠ دڤينجم دان روسق اياله",
+  "options": [
+   "واجب",
+   "تيدق صح",
+   "لفظ ايجاب"
+  ],
+  "answer": 0,
+  "explanation": "مﻯينجم واجب مڠݢنتي بارڠ يڠ روسق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-36",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم منجوال بارڠ يڠ بوكن ميليق ڤنجوال اياله",
+  "options": [
+   "تيدق صح",
+   "صح",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "منجوال بارڠ يڠ بوكن ميليق سنديري اداله تيدق صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-37",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ڤرلو دكتاهوءي اوليه ڤمبلي دان ڤنجوال اياله",
+  "options": [
+   "هرݢ دان بارڠ",
+   "عمور ڤمبلي",
+   "علامت رومه"
+  ],
+  "answer": 0,
+  "explanation": "هرݢ دان بارڠ مستي دكتاهوءي اوليه كدوا ڤيهق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-38",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"اكو جوال كڤد كامو دڠن هرݢ RM500\" اداله لفظ",
+  "options": [
+   "لفظ ايجاب",
+   "لفظ قبول",
+   "لفظ خيار"
+  ],
+  "answer": 0,
+  "explanation": "كات-كات ڤنجوال ايت اداله لفظ ايجاب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-39",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مﻯينجمكن ڤاكاين اونتوق صلاة ايله",
+  "options": [
+   "سنة",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "مﻯينجمكن ڤاكاين اونتوق كباءيقن (صلاة) اداله سنة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-ppt2024-40",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مﻯينجمكن دوءيت كڤد اورڠ يڠ هندق ممبوات معصية ايله",
+  "options": [
+   "حرام",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "مﻯينجمكن سسواتو اونتوق معصية اداله حرام (تولوڠ كأتس دوسا).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-muamalat-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Muamalat",
