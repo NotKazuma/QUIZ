@@ -717,6 +717,741 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-ibadat-ppt2024-01",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين طهارة ڤد بهاس؟",
+  "options": [
+   "برسيه",
+   "ايلوق",
+   "توجوان",
+   "برسري"
+  ],
+  "answer": 0,
+  "explanation": "طهارة ڤد بهاس برمقصود برسيه (سوچي).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-02",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين اءير؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "اءير تربهاݢي امڤت: مطلق، مستعمل، مشمس دان متنجس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-03",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود اءير مُسْتَعْمَل؟",
+  "options": [
+   "سوچي دان مڽوچيكن يڠ لاءين",
+   "سوچي تتاڤي تيدق مڽوچيكن",
+   "سوچي دان مڽوچيكن تتاڤي مكروه",
+   "تيدق سوچي دان تيدق مڽوچيكن"
+  ],
+  "answer": 1,
+  "explanation": "اءير مستعمل سوچي تتاڤي تيدق مڽوچيكن يڠ لاءين.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-04",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ايستيله يڠ سام مقصود دڠن مڽوچيكن كوليت بڠكاي؟",
+  "options": [
+   "سواك",
+   "سامق",
+   "استنجاء",
+   "سرتو"
+  ],
+  "answer": 1,
+  "explanation": "مڽوچيكن كوليت بڠكاي دناماكن مڽامق (سامق).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-05",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت فضيلة برسوݢي؟",
+  "options": [
+   "دبنچي الله",
+   "مڠݢنداكن ڤهالا",
+   "مڠوتوركن مولوت",
+   "ممڤرچڤتكن تومبوه اوبن"
+  ],
+  "answer": 1,
+  "explanation": "برسوݢي مڠݢنداكن ڤهالا دان مڽوچيكن مولوت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-06",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت اداله ركن وضوء؟",
+  "options": [
+   "ممباچ تعوذ",
+   "مبلتي جڠكوت",
+   "ممباسوه موك",
+   "بركومور-كومور"
+  ],
+  "answer": 2,
+  "explanation": "ممباسوه موك اداله ركن وضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-07",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود اِسْتِنْشَاق؟",
+  "options": [
+   "مڽاڤو اءير كسلوروه مات",
+   "مڽاڤو اءير كدوا تليڠا",
+   "ممبدوت اءير كدالم هيدوڠ",
+   "ممأسوقكن اءير كدالم مولوت"
+  ],
+  "answer": 2,
+  "explanation": "استنشاق اياله ممأسوقكن اءير كدالم هيدوڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-08",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤركارا يڠ ممبطلكن وضوء؟",
+  "options": [
+   "هيلڠ عقل",
+   "وضوء يڠ سمڤورنا",
+   "سوچي درڤد حدث",
+   "سنتوهن سسام جنيس"
+  ],
+  "answer": 0,
+  "explanation": "هيلڠ عقل (ڤيڠسن/تيدور) ممبطلكن وضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-09",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الت يڠ بوليه دݢوناكن اونتوق استنجاء ايله",
+  "options": [
+   "دبو",
+   "باتو",
+   "كايو",
+   "رنتيڠ"
+  ],
+  "answer": 1,
+  "explanation": "باتو بوليه دݢوناكن اونتوق براستنجاء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-10",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مماداءي براستنجاء مڠݢوناكن تيݢ بيجي ___",
+  "options": [
+   "باتو",
+   "كولي",
+   "بواه",
+   "بولا"
+  ],
+  "answer": 0,
+  "explanation": "مماداءي براستنجاء دڠن تيݢ بيجي باتو.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-11",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم قضاء حاجت ددالم اءير يڠ سديكيت دان مڠالير ايله",
+  "options": [
+   "هاروس",
+   "حرام",
+   "مكروه",
+   "سنة"
+  ],
+  "answer": 2,
+  "explanation": "قضاء حاجة دالم اءير اداله مكروه (دلارڠ).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-12",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مندي يڠ تيدق صح عبادة تنڤاڽ ايله مندي",
+  "options": [
+   "واجب",
+   "هاروس",
+   "سنة",
+   "هاري راي"
+  ],
+  "answer": 0,
+  "explanation": "مندي واجب مستي دلاكوكن اݢر عبادة صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-13",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مندي سنة ايله",
+  "options": [
+   "سنة",
+   "هاروس",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "مندي سنة حكومڽ سنة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-14",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مواجبكن مندي ايله",
+  "options": [
+   "صلاة",
+   "ماتي",
+   "بلاجر",
+   "بريوك"
+  ],
+  "answer": 1,
+  "explanation": "ماتي اداله انتارا ڤركارا يڠ مواجبكن مندي (جنازه دمنديكن).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-15",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممنديكن اورڠ يڠ ماتي شهيد ايله",
+  "options": [
+   "حرام",
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ ماتي شهيد حرام دمنديكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-16",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ركن مندي كچوالي",
+  "options": [
+   "مڠهادڤ قبلة",
+   "مميايكن اءير",
+   "منياتكن مندي",
+   "مڠهيلڠكن نجيس"
+  ],
+  "answer": 0,
+  "explanation": "مڠهادڤ قبلة بوكن ركن مندي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-17",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت نجيس عيني يڠ واجب دباسوه دان هيلڠ صيفتڽ كچوالي",
+  "options": [
+   "باءو",
+   "راس",
+   "ورنا",
+   "بنتوق"
+  ],
+  "answer": 3,
+  "explanation": "صيفت نجيس يڠ ڤرلو دهيلڠكن: ورنا، باءو دان راس؛ بوكن بنتوق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-18",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤركارا سنة كتيك مندي واجب. i. مڠهادڤ قبلة  ii. موالاة  iii. ممباچ بسمله  iv. ممباسوه دوا كالي",
+  "options": [
+   "i، ii دان iii",
+   "i، ii دان iv",
+   "i، iii دان iv",
+   "ii، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "انتارا سنة مندي: مڠهادڤ قبلة، ممباچ بسمله دان ممباسوه براولڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-19",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه اءير مقيد لازم ايله اءير تبو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اءير تبو اداله چونتوه اءير مقيد (لازم).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-20",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اءير تركنا نجيس كورڠ درڤد دوا كوله دسبوت اءير متنجس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اءير كورڠ دوا كوله يڠ تركنا نجيس منجادي اءير متنجس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-21",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر دوا كوله برساماءن 300 ليتر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "قدر دوا كوله لبيه كورڠ 192 ليتر، بوكن 300 ليتر.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-22",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيناتڠ يڠ دسمبليه دڠن تولڠ تيدق دحكومكن بڠكاي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "سمبليهن دڠن تولڠ تيدق سه، ماك بيناتڠ ايت دحكومكن بڠكاي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-23",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حرام مڠݢوناكن بجان يڠ دبوات درڤد ڤيرق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حرام مڠݢوناكن بجان درڤد امس اتاو ڤيرق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-24",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كوليت بيناتڠ يڠ تيدق بوليه دسامق ايله",
+  "options": [
+   "انجيڠ",
+   "كمبيڠ",
+   "هاريماو"
+  ],
+  "answer": 0,
+  "explanation": "كوليت انجيڠ (دان بابي) تيدق بوليه دسامق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-25",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مﻯت (مايت) ماءنسي ايله",
+  "options": [
+   "سوچي",
+   "بڠكاي",
+   "نجيس"
+  ],
+  "answer": 0,
+  "explanation": "مايت ماءنسي اداله سوچي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-26",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠݢوناكن بجان امس ايله",
+  "options": [
+   "سنة",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "مڠݢوناكن بجان امس اداله حرام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-27",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو دتونتوت برسوݢي ايله",
+  "options": [
+   "سلڤس صلاة",
+   "كتيك لاڤر",
+   "باڠون تيدور"
+  ],
+  "answer": 2,
+  "explanation": "انتارا وقتو دتونتوت برسوݢي اياله سلڤس باڠون تيدور.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-28",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خُف ايله",
+  "options": [
+   "توڤي كوليت",
+   "باجو كوليت",
+   "كاسوت كوليت"
+  ],
+  "answer": 2,
+  "explanation": "خف اياله كاسوت كوليت يڠ منوتوڤ كاكي هيڠݢ بوكو لالي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-29",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مﻯاڤو كسلوروه كڤالا كتيك برودوق حكومڽ",
+  "options": [
+   "سنة وضوء",
+   "مكروه",
+   "بطل وضوء"
+  ],
+  "answer": 0,
+  "explanation": "مڽاڤو كسلوروه كڤالا اداله سنة وضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-30",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منداهولوكن اڠݢوتا كيري درڤد كانن كتيك برودوق حكومڽ",
+  "options": [
+   "مكروه",
+   "سنة وضوء",
+   "بطل وضوء"
+  ],
+  "answer": 0,
+  "explanation": "سڤاتوتڽ كانن دهولو؛ منداهولوكن كيري اداله مكروه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-31",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدور يڠ تيدق تتڤ ڤاڤن ڤوڠݢوڠ حكومڽ",
+  "options": [
+   "بطل وضوء",
+   "تيدق بطل وضوء",
+   "سنة وضوء"
+  ],
+  "answer": 0,
+  "explanation": "تيدور يڠ تيدق تتڤ ڤوڠݢوڠ ممبطلكن وضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-32",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ حرام بركهوين دڠن سبب كتورونن ايله",
+  "options": [
+   "محرم",
+   "سنة وضوء",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "محرم اياله اورڠ يڠ حرام دنيكاحي سبب كتورونن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-33",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مﻯنتوه كمالوان دڠن تڤق تاڠن حكومڽ",
+  "options": [
+   "بطل وضوء",
+   "تيدق بطل وضوء",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "مﻯنتوه كمالوان دڠن تڤق تاڠن ممبطلكن وضوء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-34",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠهيلڠكن نجيس درڤد تمڤت كلوار اءير كچيل اتاو اءير بسر ايله",
+  "options": [
+   "استنجاء",
+   "تيمم",
+   "مندي"
+  ],
+  "answer": 0,
+  "explanation": "استنجاء اياله مﻯوچيكن تمڤت كلوار اءير كچيل/بسر.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-35",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم برچاكڤ-چاكڤ كتيك قضاء حاجة ايله",
+  "options": [
+   "مكروه",
+   "سنة",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "برچاكڤ كتيك قضاء حاجة اداله مكروه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-36",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملاهيركن انق (ولادة) حكومڽ",
+  "options": [
+   "واجب مندي",
+   "سنة مندي",
+   "تيدق واجب"
+  ],
+  "answer": 0,
+  "explanation": "ولادة (ملاهيركن انق) مواجبكن مندي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-37",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مﻯامايكن اءير كڤد سݢالا بولو دان كوليت ايله",
+  "options": [
+   "روكون مندي",
+   "سنة مندي",
+   "سنة وضوء"
+  ],
+  "answer": 0,
+  "explanation": "مﻯامايكن اءير كسلوروه بادن اداله روكون مندي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-ibadat-ppt2024-38",
+  "exam": "Darjah 4",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"نَوَيْتُ الْوُضُوءَ لِسُنَّةِ الْغُسْلِ\" اياله",
+  "options": [
+   "نية وضوء",
+   "نية مندي",
+   "نية تيمم"
+  ],
+  "answer": 0,
+  "explanation": "اي اداله نية وضوء (سنة سبلوم مندي).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-ibadat-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Ibadat",
