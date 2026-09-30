@@ -2110,6 +2110,761 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-akhlak-ppt2025-01",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا رسول الله ﷺ برجالن؟",
+  "options": [
+   "برلاري",
+   "بوڠكوق",
+   "تيدق مغهنتق كاكي",
+   "مﻯيريت كاكي"
+  ],
+  "answer": 2,
+  "explanation": "رسول الله برجالن دڠن تنڠ دان تيدق مغهنتق كاكي.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-02",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سماس برجالن؟",
+  "options": [
+   "ترݢسا-ݢسا",
+   "تيدق سوڤن",
+   "منوندوقكن كڤالا سومبوڠ",
+   "ممباچ دعاء كلوار رومه"
+  ],
+  "answer": 3,
+  "explanation": "انتارا ادب برجالن اياله ممباچ دعاء كتيك كلوار رومه.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-03",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه فاءيده برادب كتيك برجالن؟",
+  "options": [
+   "منداڤت سوسه",
+   "عملن بوروق",
+   "مموتوسكن صلة الرحيم",
+   "موجودكن سواسان هرموني"
+  ],
+  "answer": 3,
+  "explanation": "برادب كتيك برجالن موجودكن سواسان هرموني.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-04",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عاقبت تيدق برادب كتيك برجالن؟",
+  "options": [
+   "عملن باءيق",
+   "دموركاءي الله",
+   "دسنڠي مشاركت",
+   "دليندوڠي الله"
+  ],
+  "answer": 1,
+  "explanation": "تيدق برادب كتيك برجالن بوليه دموركاءي الله.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-05",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤركارا يڠ تيدق دسوكاءي اوليه الله؟",
+  "options": [
+   "ممبري سلام",
+   "برصدقه",
+   "برتاڽ ڤركارا يڠ تيدق ڤنتيڠ",
+   "مغحرمتي اورڠ توا"
+  ],
+  "answer": 2,
+  "explanation": "الله تيدق سوك اورڠ يڠ باڽق برتاڽ ڤركارا تيدق ڤنتيڠ (سيا-سيا).",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-06",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چارا برتاڽ يڠ برادب؟",
+  "options": [
+   "تيدق سوڤن",
+   "مﻯينتا ايذين",
+   "سوارا يڠ تيڠݢي",
+   "بهاس يڠ بوروق"
+  ],
+  "answer": 1,
+  "explanation": "برتاڽ دڠن برادب اياله مﻯينتا ايذين ترلبيه دهولو.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-07",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برتاڽ يڠ تيدق برادب ايله",
+  "options": [
+   "بهاس كاسر",
+   "سوڤن سنتون",
+   "ڤرتاڽاءن مناسبه",
+   "مغوچڤكن تريما كاسيه"
+  ],
+  "answer": 0,
+  "explanation": "برتاڽ دڠن بهاس كاسر اداله تيدق برادب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-08",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن بوروق تيدق برادب كتيك برتاڽ ايله",
+  "options": [
+   "منداڤت كسنڠن",
+   "سست جالن",
+   "دسايڠي مشاركت",
+   "منجالين تالي ڤرساودارأن"
+  ],
+  "answer": 1,
+  "explanation": "تيدق برتاڽ (مالو برتاڽ) مﻯببكن سست جالن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-09",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كواجيڤن انق ترهادڤ اورڠ توا ايله",
+  "options": [
+   "درهاك",
+   "مغكيڠ",
+   "ملاون چاكڤ",
+   "بربقتي"
+  ],
+  "answer": 3,
+  "explanation": "انق واجب بربقتي كڤد اورڠ توا.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-10",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برادب دڠن اورڠ توا ايله",
+  "options": [
+   "منداڤت كبركتن",
+   "منداڤت سوسه",
+   "برچاكڤ كاسر",
+   "دكجي دان دچاچي"
+  ],
+  "answer": 0,
+  "explanation": "برادب دڠن اورڠ توا منداتڠكن كبركتن هيدوڤ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-11",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ تيدق برادب دڠن اورڠ توا ايله",
+  "options": [
+   "برمانيس موك",
+   "بهاس كست",
+   "مﻯمبوت دڠن سوڤن",
+   "برجابت تاڠن"
+  ],
+  "answer": 1,
+  "explanation": "مغݢوناكن بهاس كست دڠن اورڠ توا اداله تيدق برادب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-12",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا رسول الله ﷺ ملڠكهكن كاكي كتيك برجالن ايله",
+  "options": [
+   "تنڠ",
+   "مﻯيريت",
+   "لمبت",
+   "مغهنتق-هنتق"
+  ],
+  "answer": 0,
+  "explanation": "رسول الله ملڠكه دڠن تنڠ دان برسدرهان.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-13",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه مغعملكن ادب برجيرن ايله",
+  "options": [
+   "هيدوڤ تنڠ",
+   "دبنچي رسول",
+   "منيمبولكن ڤرموسوهن",
+   "دموركاءي الله"
+  ],
+  "answer": 0,
+  "explanation": "ادب برجيرن ملاهيركن كهيدوڤن يڠ تنڠ دان هرموني.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-14",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرلاكوان يڠ دلارڠ ترهادڤ جيرن ايله",
+  "options": [
+   "ممبنتو",
+   "برامه مسرا",
+   "مﻯاكيتي هاتي",
+   "تولوڠ-منولوڠ"
+  ],
+  "answer": 2,
+  "explanation": "مﻯاكيتي هاتي جيرن اداله ڤرلاكوان يڠ دلارڠ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-15",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سست جالن اداله عاقبت",
+  "options": [
+   "بركلوارك",
+   "كورڠ ڤركاءولن",
+   "تيدق برتاڽ",
+   "مموتوسكن هوبوڠن كجيرنن"
+  ],
+  "answer": 2,
+  "explanation": "تيدق برتاڽ (مالو برتاڽ) مﻯببكن سست جالن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-16",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چارا برتاڽ يڠ تيدق برادب كچوالي",
+  "options": [
+   "برتاڽ دڠن كاسر",
+   "ممبري سلام",
+   "تيدق برتريما كاسيه",
+   "برتاڽ يڠ مﻯيڠݢوڠ ڤراساءن"
+  ],
+  "answer": 1,
+  "explanation": "ممبري سلام اداله چارا برتاڽ يڠ برادب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-17",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فاءيده مغعملكن ادب كتيك برجالن كچوالي",
+  "options": [
+   "دليندوڠي الله",
+   "دموركاءي الله",
+   "سواسان هرموني",
+   "مغراتكن صلة الرحيم"
+  ],
+  "answer": 1,
+  "explanation": "دموركاءي الله بوكن فاءيده، تتاڤي عاقبت تيدق برادب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-18",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ادب-ادب برجيرن. i. بربوات باءيق  ii. ممبوات بيسيڠ  iii. سنتياس مندعاءكن  iv. سوك منونجوق-نونجوق",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "i دان iii",
+   "ii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ادب برجيرن: بربوات باءيق دان سنتياس مندعاءكن كباءيقن جيرن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-19",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عاقبت درهاك كڤد اورڠ توا. i. منداڤت ڤهالا  ii. دموركاءي الله  iii. هيدوڤ تنڠ  iv. هيدوڤ تيدق بركة",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "ii دان iii",
+   "ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "درهاك كڤد اورڠ توا مﻯببكن دموركاءي الله دان هيدوڤ تيدق بركة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-20",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق برادب كتيك برجالن بوليه تردده كڤد بهاي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "تيدق برادب كتيك برجالن بوليه منددهكن ديري كڤد بهاي.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-21",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله سوك اورڠ يڠ ممبذير هرتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "الله تيدق سوك اورڠ يڠ ممبذير؛ ممبذير اداله سودارا شيطان.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-22",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برچاكڤ دڠن سوڤن اداله ادب كڤد اورڠ توا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "برچاكڤ دڠن سوڤن اداله ادب انق كڤد اورڠ توا.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-23",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منونايكن حق جيرن بوليه ممباوا كڤد ڤرموسوهن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "منونايكن حق جيرن ملاهيركن كهرمونين، بوكن ڤرموسوهن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-24",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ\" اداله دعاء كلوار رومه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اي اداله دعاء يڠ دباچ سماس كلوار رومه.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-25",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان برتاڽ اياله",
+  "options": [
+   "مﻯالوكن ديري سنديري",
+   "تيدق ترچاڤاي حاجة",
+   "مغتاهوءي سسواتو ڤركارا"
+  ],
+  "answer": 2,
+  "explanation": "توجوان برتاڽ اياله اونتوق مغتاهوءي سسواتو ڤركارا.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-26",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برڤاكاين كمسجد اياله",
+  "options": [
+   "برجوبه (منوتوڤ عورة)",
+   "ترلالو كتت",
+   "تيدق منوتوڤ عورة"
+  ],
+  "answer": 0,
+  "explanation": "برڤاكاين كمسجد هندقله منوتوڤ عورة سڤرتي برجوبه.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-27",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم برتاڽ دڠن سوڤن اياله",
+  "options": [
+   "مكروه",
+   "هاروس (دݢالقكن)",
+   "واجب سماتا-مات"
+  ],
+  "answer": 1,
+  "explanation": "برتاڽ دڠن سوڤن اداله هاروس دان دݢالقكن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-28",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برادب دڠن اورڠ توا اياله",
+  "options": [
+   "دبنچي",
+   "جيوا رسه",
+   "ايكتن ككلوارݢاءن يڠ كوكوه"
+  ],
+  "answer": 2,
+  "explanation": "برادب دڠن اورڠ توا مغوكوهكن ايكتن ككلوارݢاءن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-29",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برتاڽ يڠ برادب اياله دڠن",
+  "options": [
+   "سوكر دفهمي",
+   "مﻯيڠݢوڠ ڤراساءن",
+   "سوارا يڠ جلس دان سوڤن"
+  ],
+  "answer": 2,
+  "explanation": "برتاڽ دڠن سوارا يڠ جلس دان سوڤن اداله برادب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-30",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤاكاين باݢي للاكي كتيك ڤرݢي كمسجد اياله",
+  "options": [
+   "كوڤياه",
+   "كلوارك",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "كوڤياه اداله انتارا ڤاكاين للاكي كتيك كمسجد.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-31",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممباچ دعاء سماس كلوار رومه اياله",
+  "options": [
+   "سنة",
+   "دليندوڠي الله",
+   "تيدق برادب"
+  ],
+  "answer": 0,
+  "explanation": "ممباچ دعاء كلوار رومه حكومڽ سنة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-32",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فاءيده مغعملكن ادب كتيك برجالن اياله",
+  "options": [
+   "دليندوڠي الله",
+   "سنة",
+   "كلوارك"
+  ],
+  "answer": 0,
+  "explanation": "برادب كتيك برجالن مﻯببكن دليندوڠي الله.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-33",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا اساس يڠ ڤنتيڠ دالم ممبنتوق سواسان مشاركت اياله",
+  "options": [
+   "كلوارك",
+   "كوڤياه",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "كلوارك اداله اساس ڤمبنتوقن مشاركت يڠ باءيق.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-34",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مغݢوناكن بهاس يڠ سوكر دفهمي كتيك برتاڽ اياله",
+  "options": [
+   "تيدق برادب",
+   "سنة",
+   "دليندوڠي الله"
+  ],
+  "answer": 0,
+  "explanation": "مغݢوناكن بهاس سوكر دفهمي كتيك برتاڽ اداله تيدق برادب.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-35",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن جارق رومه يڠ ماسيه دكيرا جيرن اياله",
+  "options": [
+   "40 بواه رومه",
+   "10 بواه رومه",
+   "100 بواه رومه"
+  ],
+  "answer": 0,
+  "explanation": "كيرا-كيرا 40 بواه رومه دسكليليڠ ماسيه دكيرا جيرن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-36",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنتياس مندعاءكن كسلامتن جيرن اداله ادب",
+  "options": [
+   "برجيرن",
+   "برجالن",
+   "برتاڽ"
+  ],
+  "answer": 0,
+  "explanation": "مندعاءكن كسلامتن جيرن اداله انتارا ادب برجيرن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-37",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عاقبت تيدق مغعملكن ادب برتاڽ اياله",
+  "options": [
+   "سست جالن",
+   "سلامت",
+   "برتمبه بيجق"
+  ],
+  "answer": 0,
+  "explanation": "تيدق برتاڽ مﻯببكن سست جالن دان تيدق منداڤت معلومت.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-38",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه اهلي كلوارك اياله",
+  "options": [
+   "ايبو باڤ",
+   "جيرن",
+   "ساهبت"
+  ],
+  "answer": 0,
+  "explanation": "ايبو باڤ دان اديق-براديق اداله اهلي كلوارك.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-akhlak-ppt2025-39",
+  "exam": "Darjah 4",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا برڤاكاين سماس كلوار رومه اياله",
+  "options": [
+   "منوتوڤ عورة",
+   "جارڠ",
+   "ترلالو كتت"
+  ],
+  "answer": 0,
+  "explanation": "برڤاكاين سماس كلوار رومه هندقله منوتوڤ عورة دان سوڤن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-akhlak-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Akhlak",
