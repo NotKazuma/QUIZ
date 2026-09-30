@@ -775,6 +775,761 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-tajwid-ppt2024-01",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين تجويد ڤد ايستيله؟",
+  "options": [
+   "علمو سيره",
+   "چارا برمعاملات",
+   "ممبحثكن علمو فرائض",
+   "ممڤرايلوق باچاءن القرءان"
+  ],
+  "answer": 3,
+  "explanation": "تجويد ڤد ايستيله اياله ممڤرايلوق سبوتن دان باچاءن القرءان.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-02",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود باچاءن ترتيل؟",
+  "options": [
+   "چڤت",
+   "ڤرلاهن (مڠيكوت تجويد)",
+   "لبيه لمبت",
+   "ترتيل دان حد"
+  ],
+  "answer": 1,
+  "explanation": "ترتيل اياله ممباچ دڠن ڤرلاهن، جلس دان مڠيكوت هوكوم تجويد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-03",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممباچ القرءان سچارا برتجويد؟",
+  "options": [
+   "سنة",
+   "هاروس",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "ممباچ القرءان دڠن برتجويد حكومڽ واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-04",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين حكوم نون ماتي (نْ) دان تنوين؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "حكوم نون ماتي دان تنوين اد امڤت: إظهار، إدغام، إقلاب دان إخفاء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-05",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي إظهار حلقي ڤد بهاس؟",
+  "options": [
+   "جلس (ڽات)",
+   "مماسوقكن",
+   "ترسمبويي",
+   "منوكركن تندا"
+  ],
+  "answer": 0,
+  "explanation": "إظهار ڤد بهاس برمقصود جلس اتاو ڽات.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-06",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه حروف إظهار حلقي؟",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 3,
+  "explanation": "حروف إظهار حلقي اد انم: ء، ه، ع، ح، غ، خ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-07",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه إظهار حلقي ايله",
+  "options": [
+   "عَلِيمًا",
+   "وَيَنْأَوْنَ",
+   "مِن رَّبِّهِ",
+   "مَن يَشَاءُ"
+  ],
+  "answer": 1,
+  "explanation": "وَيَنْأَوْنَ (نون ماتي برتمو ء) اداله إظهار حلقي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-08",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا حروف إدغام اداله",
+  "options": [
+   "ء ل ع ح",
+   "ي ن م و",
+   "ت ث ج ح",
+   "ق ط ب ج"
+  ],
+  "answer": 1,
+  "explanation": "حروف إدغام اياله ي، ن، م، و (يَنْمُو).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-09",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إدغام مع الغنة واجب دباچ دڠن",
+  "options": [
+   "دڠوڠ",
+   "جلس",
+   "تنڤا دڠوڠ",
+   "ڤنجڠ ليم حركة"
+  ],
+  "answer": 0,
+  "explanation": "إدغام مع الغنة واجب دباچ دڠن دڠوڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-10",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دسمبوﻯيكن سبوتن نون ماتي اتاو تنوين كدالم حروف إخفاء اداله",
+  "options": [
+   "إدغام",
+   "إقلاب",
+   "إظهار حلقي",
+   "إخفاء حقيقي"
+  ],
+  "answer": 3,
+  "explanation": "مﻯمبوﻯيكن نون ماتي/تنوين كدالم حروف إخفاء اياله إخفاء حقيقي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-11",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منوكر بوﻯي نون كڤد بوﻯي ميم اداله",
+  "options": [
+   "إدغام",
+   "إخفاء",
+   "إظهار حلقي",
+   "إقلاب"
+  ],
+  "answer": 3,
+  "explanation": "منوكر بوﻯي نون ماتي كڤد بوﻯي ميم اياله إقلاب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-12",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه إقلاب ايله",
+  "options": [
+   "أَنْبِئْهُم",
+   "يَنْقَلِبُ",
+   "مِن لَّدُنْهُ",
+   "يَنْحِتُونَ"
+  ],
+  "answer": 0,
+  "explanation": "أَنْبِئْهُم (نون ماتي برتمو ب) اداله إقلاب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-13",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت ڤڠرتين ميم ماتي (مْ)؟ i. ميم برسبدو  ii. ميم برتنوين  iii. ميم تيدق برتندا (سكون)  iv. ميم برتندا ماتي",
+  "options": [
+   "i دان iv",
+   "ii دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "ميم ماتي اياله ميم يڠ برتندا ماتي (سكون).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-14",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤابيلا حروف ميم ماتي (مْ) برتمو حروف ميم",
+  "options": [
+   "إدغام",
+   "إخفاء",
+   "إقلاب",
+   "إدغام مثلين شفوي"
+  ],
+  "answer": 3,
+  "explanation": "ميم ماتي برتمو ميم اياله إدغام مثلين شفوي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-15",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه حروف إدغام مثلين شفوي؟ i. م  ii. ب  iii. ر ل",
+  "options": [
+   "i سهاج",
+   "i دان ii",
+   "ii دان iii",
+   "iii سهاج"
+  ],
+  "answer": 0,
+  "explanation": "حروف إدغام مثلين شفوي هاڽ ساتو، ياءيت ميم (م).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-16",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف ميم ماتي (مْ) برتمو دڠن حروف باء (ب) اداله",
+  "options": [
+   "إقلاب",
+   "إخفاء شفوي",
+   "إظهار شفوي",
+   "إدغام مثلين شفوي"
+  ],
+  "answer": 1,
+  "explanation": "ميم ماتي برتمو باء اياله إخفاء شفوي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-17",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برڤندوكن ڤرﻯاتاءن دأتس، ماناكه حروف إخفاء شفوي؟",
+  "options": [
+   "ب",
+   "ت",
+   "ج",
+   "م"
+  ],
+  "answer": 0,
+  "explanation": "حروف إخفاء شفوي هاڽ ساتو، ياءيت باء (ب).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-18",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چونتوه إخفاء شفوي كچوالي",
+  "options": [
+   "تَرْمِيهِم بِحِجَارَة",
+   "وَأَمْطَرْنَا",
+   "يَعْتَصِم بِاللَّه",
+   "عَلَيْكُم بِوَكِيل"
+  ],
+  "answer": 1,
+  "explanation": "وَأَمْطَرْنَا بوكن إخفاء شفوي (تيادا ميم ماتي برتمو باء).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-19",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤڠرتين إظهار شفوي كچوالي",
+  "options": [
+   "ميم (مْ) برتمو حروف جيم",
+   "ميم (مْ) برتمو حروف سين",
+   "ميم (مْ) برتمو حروف هجائية",
+   "نون (نْ) برتمو حروف ميم"
+  ],
+  "answer": 3,
+  "explanation": "إظهار شفوي اياله ميم ماتي برتمو حروف سلاءين م دان ب؛ نون ماتي برتمو ميم بوكن إظهار شفوي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-20",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نون ماتي اياله نون يڠ برتندا ماتي (نْ).",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نون ماتي اياله نون يڠ برتندا سكون/ماتي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-21",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إدغام (نون ماتي) تربهاݢي كڤد تيݢ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "إدغام نون ماتي تربهاݢي دوا: بالغنة دان بلاغنة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-22",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كليمه \"مَنْثُورًا\" اداله دحكوم إخفاء حقيقي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "نون ماتي برتمو ث دالم مَنْثُورًا اياله إخفاء حقيقي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-23",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف \"ل\" اداله حروف إقلاب.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حروف إقلاب هاڽ ب؛ ل اداله حروف إدغام بلاغنة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-24",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دماسوقكن بوﻯي ميم ڤرتام يڠ ماتي ايت إدغام مثلين شفوي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ميم ماتي برتمو ميم دباچ دڠن ممأسوقكن بوﻯيڽ؛ ايتله إدغام مثلين شفوي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-25",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممڤلاجري دان مڠعملكن علمو تجويد (سماس ممباچ) اياله",
+  "options": [
+   "سنة",
+   "هاروس",
+   "واجب فرض عين"
+  ],
+  "answer": 2,
+  "explanation": "ممباچ القرءان دڠن برتجويد اداله واجب (فرض عين).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-26",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كدودوقن نون ماتي برلاكو",
+  "options": [
+   "دالم كليمه لاءين سهاج",
+   "دالم ساتو كليمه دان دوا كليمه",
+   "دالم ساتو ايات"
+  ],
+  "answer": 1,
+  "explanation": "نون ماتي بوليه برلاكو دالم ساتو كليمه دان انتارا دوا كليمه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-27",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف إدغام بلاغنة اياله",
+  "options": [
+   "ي ن",
+   "ر ل",
+   "ء ه ع"
+  ],
+  "answer": 1,
+  "explanation": "حروف إدغام بلاغنة اياله ر دان ل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-28",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دتوكر بوﻯي نون ماتي كڤد بوﻯي ميم اياله",
+  "options": [
+   "إدغام",
+   "إخفاء",
+   "إقلاب"
+  ],
+  "answer": 2,
+  "explanation": "منوكر بوﻯي نون ماتي كڤد ميم اياله إقلاب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-29",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه إظهار شفوي اياله",
+  "options": [
+   "أَمْثَلُهُمْ",
+   "يَعْتَصِم بِاللَّهِ",
+   "وَهُمْ مُهْتَدُونَ"
+  ],
+  "answer": 0,
+  "explanation": "أَمْثَلُهُمْ (ميم ماتي برتمو ث) اياله إظهار شفوي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-30",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باچاءن يڠ چڤت دان تڤت اياله",
+  "options": [
+   "حَدَر",
+   "إخفاء حقيقي",
+   "مماسوقكن"
+  ],
+  "answer": 0,
+  "explanation": "حَدَر اياله باچاءن يڠ چڤت تتاڤي تڤت مڠيكوت تجويد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-31",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي إدغام ڤد بهاس اياله",
+  "options": [
+   "مماسوقكن",
+   "حَدَر",
+   "إخفاء شفوي"
+  ],
+  "answer": 0,
+  "explanation": "إدغام ڤد بهاس برمقصود مماسوقكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-32",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم يڠ حروفڽ اد 15 اياله",
+  "options": [
+   "إخفاء حقيقي",
+   "إخفاء شفوي",
+   "حَدَر"
+  ],
+  "answer": 0,
+  "explanation": "إخفاء حقيقي ممڤوﻯاءي 15 حروف.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-33",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بوﻯي ميم يڠ تيدق سمڤورنا (دسمبوﻯيكن) اياله",
+  "options": [
+   "إخفاء شفوي",
+   "إخفاء حقيقي",
+   "حَدَر"
+  ],
+  "answer": 0,
+  "explanation": "إخفاء شفوي: بوﻯي ميم دسمبوﻯيكن (تيدق سمڤورنا) كدالم باء.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-34",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ميم ماتي برتمو حروف إظهار شفوي دباچ",
+  "options": [
+   "إظهار تنڤا دڠوڠ",
+   "إخفاء شفوي",
+   "مماسوقكن"
+  ],
+  "answer": 0,
+  "explanation": "ميم ماتي برتمو حروف إظهار شفوي دباچ جلس تنڤا دڠوڠ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-35",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نون ماتي برتمو حروف \"خ\" اياله",
+  "options": [
+   "إظهار حلقي",
+   "إدغام",
+   "إقلاب"
+  ],
+  "answer": 0,
+  "explanation": "نون ماتي برتمو خ اياله إظهار حلقي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-36",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي إخفاء حقيقي ڤد بهاس اياله",
+  "options": [
+   "ترسمبويي",
+   "جلس",
+   "منوكر"
+  ],
+  "answer": 0,
+  "explanation": "إخفاء ڤد بهاس برمقصود ترسمبويي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-37",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن حروف إخفاء حقيقي اياله",
+  "options": [
+   "ليم بلس",
+   "انم",
+   "دوا"
+  ],
+  "answer": 0,
+  "explanation": "حروف إخفاء حقيقي اد ليم بلس.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-38",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منوكر بوﻯي نون ماتي كڤد بوﻯي ميم اياله",
+  "options": [
+   "إقلاب",
+   "إدغام",
+   "إخفاء"
+  ],
+  "answer": 0,
+  "explanation": "منوكر بوﻯي نون ماتي كڤد ميم اياله إقلاب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tajwid-ppt2024-39",
+  "exam": "Darjah 4",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف إدغام مثلين شفوي اياله",
+  "options": [
+   "ميم",
+   "باء",
+   "نون"
+  ],
+  "answer": 0,
+  "explanation": "حروف إدغام مثلين شفوي اياله ميم (م).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tajwid-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Tajwid",

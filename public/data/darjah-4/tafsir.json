@@ -756,6 +756,761 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-tafsir-ppt2024-01",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام سورة يڠ بركاءيتن دڠن ݢنجرن مندرما اتاو برصدقه؟",
+  "options": [
+   "سورة البقرة ايات 261",
+   "سورة البقرة ايات 126",
+   "سورة البقرة ايات 162",
+   "سورة البقرة ايات 216"
+  ],
+  "answer": 0,
+  "explanation": "سورة البقرة ايات 261 مﻯنتوه ݢنجرن برصدقه/برنفقه.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-02",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"يُنْفِقُونَ\" دالم سورة البقرة ايات 261؟",
+  "options": [
+   "ايڠتله",
+   "تڠكاي",
+   "بنديڠن",
+   "ممبلنجاكن (منفقهكن)"
+  ],
+  "answer": 3,
+  "explanation": "يُنْفِقُونَ برمقصود ممبلنجاكن (هرتا ڤد جالن الله).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-03",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سومبڠن سيدنا عثمان دالم ڤڤرڠن تابوك؟",
+  "options": [
+   "4000 درهم",
+   "1000 ايكور اونتا",
+   "8000 درهم",
+   "4000 ايكور اونتا"
+  ],
+  "answer": 1,
+  "explanation": "سيدنا عثمان مﻯومبڠ كيرا-كيرا 1000 ايكور اونتا اونتوق ڤراڠ تابوك.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-04",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠاجرن سورة البقرة ايات 261؟",
+  "options": [
+   "منداڤت ݢنجرن ڤهالا دري الله",
+   "تيدق منداڤت رحمت الله",
+   "ملاهيركن تندا تيدق شكور كڤد الله",
+   "رزقي تياد كبركتن دان بركورڠ"
+  ],
+  "answer": 0,
+  "explanation": "برصدقه ڤد جالن الله منداڤت ݢنجرن ڤهالا يڠ برݢندا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-05",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه يڠ دجلسكن دالم سورة النساء ايات 58؟",
+  "options": [
+   "سايڠ دان چينتا",
+   "طمع دان سومبوڠ",
+   "امانه دان عاديل",
+   "ڤنداي دان ماهير"
+  ],
+  "answer": 2,
+  "explanation": "سورة النساء ايات 58 مﻯنتوه امانه دان برلاكو عاديل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-06",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاݢين امانه؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 2,
+  "explanation": "امانه اد تيݢ: كڤد الله، سسام ماءنسي دان كڤد ديري سنديري.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-07",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"بِالْعَدْل\" دالم سورة النساء ايات 58؟",
+  "options": [
+   "دڠن عاديل",
+   "سوڤاي ممبريكن",
+   "سݢالا جنيس امانه",
+   "اهلي يڠ برحق منريما"
+  ],
+  "answer": 0,
+  "explanation": "بالعدل برمقصود دڠن عاديل.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-08",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠاجرن سورة النساء ايات 58؟",
+  "options": [
+   "انق اداله امانه",
+   "صدقه عملن موليا",
+   "ممبري سلام مغراتكن هوبوڠن",
+   "اورڠ يڠ عاديل درضاءي الله"
+  ],
+  "answer": 3,
+  "explanation": "اورڠ يڠ منونايكن امانه دان برلاكو عاديل درضاءي الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-09",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم منجواب سلام اداله",
+  "options": [
+   "سنة",
+   "هاروس",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "منجواب سلام حكومڽ واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-10",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢنجرن كڤد اورڠ يڠ بربوات كباءيقن برداسركن سورة الأنعام ايات 160 ايله",
+  "options": [
+   "5 كالي ݢندا",
+   "10 كالي ݢندا",
+   "15 كالي ݢندا",
+   "20 كالي ݢندا"
+  ],
+  "answer": 1,
+  "explanation": "ساتو كباءيقن دبالس سڤولوه كالي ݢندا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-11",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢلرن مريك يڠ تيدق منجاݢ امانه ايله",
+  "options": [
+   "خيانة",
+   "شيريك",
+   "سومبوڠ",
+   "اڠكوه"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ تيدق منجاݢ امانه دݢلر خاءين (خيانة).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-12",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كورنياءن الله كڤد اورڠ يڠ بربوات باءيق ايله",
+  "options": [
+   "هديه",
+   "اوڤه",
+   "ݢنجرن (ڤهالا)",
+   "كاجي"
+  ],
+  "answer": 2,
+  "explanation": "الله ممبري ݢنجرن ڤهالا كڤد اورڠ يڠ بربوات باءيق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-13",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ڤركاتاءن \"فَحَيُّوا\" دالم سورة النساء ايات 86 ايله",
+  "options": [
+   "دان اڤبيلا",
+   "سڤرتي ممبري سلام",
+   "كامو دبري ڤڠحرمتن",
+   "مك بالسله ڤڠحرمتن ايت"
+  ],
+  "answer": 3,
+  "explanation": "فحيوا برمقصود مك بالسله ڤڠحرمتن (سلام) ايت.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-14",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢنجرن اورڠ يڠ برڤواسا تيݢ هاري ستياڤ بولن سڤرتي برڤواسا",
+  "options": [
+   "سهاري",
+   "سبولن",
+   "ستاهون",
+   "تيݢ تاهون"
+  ],
+  "answer": 2,
+  "explanation": "برڤواسا تيݢ هاري ستياڤ بولن ݢنجرنڽ سڤرتي برڤواسا ستاهون.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-15",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن يڠ ڤرلو اد اونتوق ملقساناكن سسواتو عملن ايله",
+  "options": [
+   "دعاء",
+   "نية",
+   "طمأنينة",
+   "صلوات"
+  ],
+  "answer": 1,
+  "explanation": "نية اداله ڤركارا يڠ ڤرلو اد اونتوق ستياڤ عملن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-16",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ڤركاتاءن \"بِالنِّيَّاتِ\" ايله",
+  "options": [
+   "ستياڤ عملن ايت",
+   "اداله دڠن نية",
+   "دان سسوڠݢوهڽ",
+   "اڤ يڠ دنياتكن"
+  ],
+  "answer": 1,
+  "explanation": "بالنيات برمقصود (سݢالا عمل) اداله دڠن نية.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-17",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن صيفت موليا باݢي الله كچوالي",
+  "options": [
+   "مها عاديل",
+   "مها ڤﻯايڠ",
+   "مها ظاليم",
+   "مها ڤغاسيه"
+  ],
+  "answer": 2,
+  "explanation": "الله مها سمڤورنا؛ 'مها ظاليم' بوكن صيفت الله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-18",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بوكن صيفت نراك كچوالي",
+  "options": [
+   "امان",
+   "تنڠ",
+   "داماي",
+   "كسڠساراءن"
+  ],
+  "answer": 3,
+  "explanation": "كسڠساراءن اداله صيفت نراك؛ امان، تنڠ دان داماي صيفت شرݢ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-19",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله امت منجينتاءي اورڠ يڠ ملاكوكن ___. i. توبة  ii. معصية  iii. كباءيقن  iv. كسالهن",
+  "options": [
+   "i دان iv",
+   "iii دان iv",
+   "i دان iii",
+   "ii دان iii"
+  ],
+  "answer": 2,
+  "explanation": "الله منجينتاءي اورڠ يڠ برتوبة دان بربوات كباءيقن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-20",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت شيطان مﻯوروه ماءنسي ممبوات ڤركارا كجي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "شيطان سنتياس مﻯوروه ماءنسي ملاكوكن كجاهتن دان ڤركارا كجي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-21",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممبري سلام اداله سنة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ممبري سلام حكومڽ سنة، دان منجواب سلام واجب.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-22",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انفاق اتاو صدقه برتوجوان اونتوق منداڤت نام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "انفاق دان صدقه هندقله اخلاص كران الله، بوكن اونتوق منداڤت نام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-23",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن جاهت اكن منداڤت ڤهالا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ڤربواتن جاهت منداڤت دوسا، بوكن ڤهالا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-24",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى ايت مها عاديل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "الله تعالى مها عاديل ترهادڤ سكالين مخلوق.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-25",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي كلمه \"حُيِّيتُم\" ايله",
+  "options": [
+   "كامو دكجي",
+   "كامو دهينا",
+   "كامو دبري ڤڠحرمتن (سلام)"
+  ],
+  "answer": 2,
+  "explanation": "حُيِّيتُم برمقصود اڤبيلا كامو دبري ڤڠحرمتن (سلام).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-26",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمل كباءيقن اياله",
+  "options": [
+   "بِالسُّنَّةِ",
+   "بِالحَسَنَةِ",
+   "بِالسَّيِّئَةِ"
+  ],
+  "answer": 1,
+  "explanation": "بالحسنة برمقصود دڠن (عمل) كباءيقن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-27",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي \"تُقِيْمَ الصَّلَاةَ\" اياله",
+  "options": [
+   "مغلواركن زكاة",
+   "ممبري صدقه",
+   "منديريكن صلاة"
+  ],
+  "answer": 2,
+  "explanation": "تقيم الصلاة برمقصود منديريكن صلاة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-28",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انفاق عبدالرحمن بن عوف اونتوق ڤڤرڠن تابوك اياله",
+  "options": [
+   "8000 درهم",
+   "4000 درهم",
+   "1000 درهم"
+  ],
+  "answer": 0,
+  "explanation": "عبدالرحمن بن عوف مﻯومبڠ 200 اوقية (بسماءن 8000 درهم) اونتوق تابوك.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-29",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمݢڠ كونچي كعبة اياله",
+  "options": [
+   "عبدالله بن عباس",
+   "عثمان بن طلحة",
+   "عبدالرحمن بن عوف"
+  ],
+  "answer": 1,
+  "explanation": "عثمان بن طلحة اياله ڤمݢڠ كونچي كعبة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-30",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ڤركاتاءن \"رَبَّنَا\" اياله",
+  "options": [
+   "واهاي توهن كامي",
+   "إسلام",
+   "عاديل"
+  ],
+  "answer": 0,
+  "explanation": "ربّنا برمقصود واهاي توهن كامي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-31",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسأورڠ يڠ برهجره هندقله كران الله دان اونتوق مﻯباركن",
+  "options": [
+   "إسلام",
+   "عاديل",
+   "الخُلْدِ"
+  ],
+  "answer": 0,
+  "explanation": "هجره كران الله اونتوق مﻯباركن دان ممرتابتكن إسلام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-32",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبريكن حق كڤد اورڠ يڠ برحق منريماڽ ايله ارتي",
+  "options": [
+   "عاديل",
+   "إسلام",
+   "بِالنِّيَّاتِ"
+  ],
+  "answer": 0,
+  "explanation": "عاديل اياله ممبريكن حق كڤد اورڠ يڠ برحق منريماڽ.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-33",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ڤركاتاءن \"اداله دڠن نية\" اياله",
+  "options": [
+   "بِالنِّيَّاتِ",
+   "عاديل",
+   "إسلام"
+  ],
+  "answer": 0,
+  "explanation": "بالنيات برمقصود اداله دڠن نية.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-34",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوكوق يڠ دلارڠ اوليه الله اونتوق دهمڤيري نبي ادم اداله دشرݢ",
+  "options": [
+   "الخُلْدِ",
+   "إسلام",
+   "عاديل"
+  ],
+  "answer": 0,
+  "explanation": "نبي ادم دلارڠ منحمڤيري ڤوكوق ترتنتو دالم شرݢ الخلد.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-35",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن يڠ بوليه مﻯلامتكن ماءنسي دأخيرة اياله",
+  "options": [
+   "عمل صالح",
+   "معصية",
+   "رياء"
+  ],
+  "answer": 0,
+  "explanation": "عمل صالح دان كباءيقن مﻯلامتكن ماءنسي دأخيرة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-36",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي ڤركاتاءن \"بِالسَّيِّئَةِ\" اياله",
+  "options": [
+   "دڠن كجاهتن (كبوروقن)",
+   "دڠن كباءيقن",
+   "دڠن نية"
+  ],
+  "answer": 0,
+  "explanation": "بالسيئة برمقصود دڠن كجاهتن اتاو كبوروقن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-37",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ اوچڤن منجواب سلام اياله",
+  "options": [
+   "وعليكم السلام",
+   "السلام عليكم",
+   "صباح الخير"
+  ],
+  "answer": 0,
+  "explanation": "جواب سلام اياله وعليكم السلام.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-38",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت ماءنسي مغومڤول ڤهالا اياله",
+  "options": [
+   "دنيا",
+   "اخيرة",
+   "قبور"
+  ],
+  "answer": 0,
+  "explanation": "دنيا اداله تمڤت براعمل دان مغومڤول ڤهالا اونتوق اخيرة.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tafsir-ppt2024-39",
+  "exam": "Darjah 4",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن اوتام يڠ ممبيبكن سسواتو عبادة ايت صح اياله",
+  "options": [
+   "نية",
+   "دعاء",
+   "صلوات"
+  ],
+  "answer": 0,
+  "explanation": "نية اداله ركن اوتام يڠ منجاديكن عبادة ايت صح.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-tafsir-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Tafsir",
