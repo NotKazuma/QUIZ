@@ -8,9 +8,32 @@ Laman kuiz ulang kaji sekolah agama dalam bahasa Melayu (soalan objektif, tulisa
 
 - Stack: React + Vite, Firebase Firestore Lite (tiada Firebase Storage), hos di GitHub Pages.
 - Laman langsung: https://kuiz.kazumadigital.net
-- Repo: `NotKazuma/QUIZ`, cawangan `main`.
 - Direktori kerja: `C:\Users\Administrator\Documents\PROJECT\WEBSITE QUIZ`
 - Admin: aimanskspp@gmail.com
+
+### Dua repo berasingan
+
+| Repo | Keterlihatan | Isi |
+|---|---|---|
+| `NotKazuma/QUIZ` | **awam** (GitHub Pages) | kod laman, `data-src/`, `public/data/` |
+| `NotKazuma/QUIZ-soalan` | **peribadi** | 723 kertas peperiksaan PDF asal, 1.4 GB |
+
+Folder `soalan/` di dalam direktori kerja ialah **repo git tersendiri** yang menunjuk ke `QUIZ-soalan`.
+Ia di-gitignore oleh repo utama, jadi `git add -A` di root tidak akan menyentuhnya.
+
+Mesin baharu:
+
+```bash
+git clone https://github.com/NotKazuma/QUIZ.git "WEBSITE QUIZ"
+cd "WEBSITE QUIZ"
+git clone https://github.com/NotKazuma/QUIZ-soalan.git soalan   # perlu akses peribadi
+```
+
+Tambah kertas baharu:
+
+```bash
+cd soalan && git add -A && git commit -m "..." && git push
+```
 
 ## Peraturan yang mesti dipatuhi
 
