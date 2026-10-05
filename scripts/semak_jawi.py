@@ -18,12 +18,17 @@ Perkataan Arab tulen dikecualikan melalui senarai putih di bawah.
 """
 import argparse
 import collections
+import sys
+# Windows: paksa stdout UTF-8 supaya aksara Jawi tidak meranapkan cetakan.
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
 import glob
 import io
 import json
 import os
 import re
-import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC = os.path.join(ROOT, "data-src")
