@@ -490,6 +490,496 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-jenayat-ppt2024-01",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي جناية؟",
+  "options": [
+   "ݢنتي روݢي",
+   "كفارة",
+   "ملاكوكن كسالهن (سڤرتي ممبونوه)",
+   "جوال بلي"
+  ],
+  "answer": 2,
+  "explanation": "جناية برمقصود ملاكوكن كسالهن سڤرتي ممبونوه اتاو منچدراكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-02",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه بهاݢين جناية؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "جناية ترباهاݢي دوا: جناية كأتس ڽاوا دان جناية كأتس اڠݢوتا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-03",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤمبونوهن؟",
+  "options": [
+   "منچدراكن اڠݢوتا",
+   "منجوري دان مرومڤق",
+   "مڠهيلڠكن اڠݢوتا",
+   "ڤربواتن يڠ ممبيبكن كماتين"
+  ],
+  "answer": 3,
+  "explanation": "ڤمبونوهن اياله ڤربواتن يڠ ممبيبكن كماتين.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-04",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جنيس ڤمبونوهن؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبونوهن اد تيݢ جنيس: سڠاج، مڽروڤاءي سڠاج دان ترساله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-05",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكومن باݢي كسالهن ممبونوه دڠن سڠاج؟",
+  "options": [
+   "دية",
+   "تعزير",
+   "قصاص",
+   "حدود"
+  ],
+  "answer": 2,
+  "explanation": "ممبونوه دڠن سڠاج دكناكن حكومن قصاص.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-06",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه ڤمبونوهن ترساله؟",
+  "options": [
+   "دڤوكول دڠن توڠكت",
+   "مڠݢوناكن اوبجيك",
+   "ممباليڠ باتو كأره زيد",
+   "ملونتر سسواتو يڠ دسڠك حيوان تتاڤي مڠناءي ماءنسي"
+  ],
+  "answer": 3,
+  "explanation": "ملونتر سسواتو يڠ دسڠك حيوان تتاڤي مڠناءي ماءنسي اداله ڤمبونوهن ترساله.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-07",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكومن ڤمبونوهن يڠ مڽروڤاءي سڠاج؟",
+  "options": [
+   "حد",
+   "دندا",
+   "قصاص",
+   "تيدق دحكوم قصاص"
+  ],
+  "answer": 3,
+  "explanation": "ڤمبونوهن مڽروڤاءي سڠاج تيدق دحكوم قصاص، تتاڤي دية مغلظة دان كفاره.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-08",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين حكومن قصاص؟",
+  "options": [
+   "دندا",
+   "تعزير",
+   "بالس",
+   "ڤنجارا"
+  ],
+  "answer": 2,
+  "explanation": "قصاص برمقصود بالس (بالسن يڠ سام ترهادڤ كسالهن).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-09",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس كسالهن يڠ واجب قصاص اد",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "قصاص واجب باݢي دوا كسالهن: ممبونوه سڠاج دان منچدراكن اڠݢوتا سڠاج.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-10",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن ممبونوه اورڠ لاءين دڠن سڠاج واجب",
+  "options": [
+   "دندا",
+   "حد",
+   "قصاص",
+   "ڤنجارا"
+  ],
+  "answer": 2,
+  "explanation": "ممبونوه سچارا سڠاج واجب دكناكن قصاص.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-11",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برعقل اداله شرط واجب قصاص باݢي كسالهن",
+  "options": [
+   "ممبونوه",
+   "مرومڤق",
+   "منچوري",
+   "منجبول"
+  ],
+  "answer": 0,
+  "explanation": "ڤلاكو ممبونوه مستيله برعقل باروله دكناكن قصاص.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-12",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه حكومن واجب قصاص دڠن سبب كچدراءن سڤرتي",
+  "options": [
+   "ممبونوه",
+   "مروتن",
+   "ماتاهكن اڠݢوتا",
+   "منچوبيت"
+  ],
+  "answer": 2,
+  "explanation": "ماتاهكن اڠݢوتا اورڠ لاءين دڠن سڠاج بوليه دكناكن قصاص اڠݢوتا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-13",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط قصاص دڠن سبب كچدراءن اد",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 0,
+  "explanation": "شرط قصاص كچدراءن انتاراڽ: برعقل، بالغ دان سام جنيس اڠݢوتا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-14",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط ممبوليهكن قصاص اڠݢوتا اياله",
+  "options": [
+   "مڠسا تيدق رضا",
+   "مڠسا منونتوت ايمبوهن",
+   "اڠݢوتا يڠ لومڤوه تروق",
+   "مڠسا تيدق منونتوت ايمبوهن"
+  ],
+  "answer": 2,
+  "explanation": "اڠݢوتا يڠ لومڤوه/تيدق برفوڠسي ممڤوياءي شرط ترتنتو سبلوم دكناكن قصاص.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-15",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن بالس قصاص اونتوق اڠݢوتا دكناكن ترهادڤ اڠݢوتا يڠ",
+  "options": [
+   "برسندي",
+   "يڠ ترچدرا",
+   "يڠ لومڤوه",
+   "تيدق برسندي"
+  ],
+  "answer": 0,
+  "explanation": "قصاص اڠݢوتا دكناكن ترهادڤ اڠݢوتا يڠ برسندي اݢر بالسن داڤت دسامكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-16",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه كسالهن اڠݢوتا لاءين يڠ واجب قصاص اياله",
+  "options": [
+   "كاكي",
+   "تاڠن",
+   "تليڠا",
+   "جاري"
+  ],
+  "answer": 2,
+  "explanation": "ممڤوتوڠ تليڠا اورڠ لاءين دڠن سڠاج بوليه دكناكن قصاص.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-17",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط واجب قصاص كچوالي",
+  "options": [
+   "بالغ",
+   "برعقل",
+   "للاكي",
+   "بوكن ايبو باڤ (مڠسا)"
+  ],
+  "answer": 2,
+  "explanation": "للاكي بوكن شرط قصاص؛ شرطڽ بالغ، برعقل دان ڤلاكو بوكن ايبو باڤ مڠسا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-18",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط قصاص دڠن سبب كچدراءن كچوالي",
+  "options": [
+   "برعقل",
+   "بالغ",
+   "سام جنيس اڠݢوتا",
+   "اڠݢوتا لومڤوه"
+  ],
+  "answer": 3,
+  "explanation": "اڠݢوتا لومڤوه بوكن شرط قصاص كچدراءن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-19",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن ڤمبونوهن ترساله اياله",
+  "options": [
+   "قصاص دان تعزير",
+   "قصاص دان تيدق دبالس بونوه",
+   "قصاص دان واجب ممباير ݢنتي روݢي",
+   "تيدق دبالس بونوه دان واجب ممباير ݢنتي روݢي"
+  ],
+  "answer": 3,
+  "explanation": "ڤمبونوهن ترساله تيدق دبالس بونوه، تتاڤي واجب ممباير دية/ݢنتي روݢي دان كفاره.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-20",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبونوه يڠ تيدق دجاتوهكن حكومن ماتي اڤابيلا",
+  "options": [
+   "مڠسا رضا دان منريما تقدير",
+   "منريما تقدير دان دماعفكن واريث",
+   "دماعفكن اوليه واريث دان ممباير ݢنتي روݢي",
+   "منريما تقدير، دماعفكن واريث دان ممباير ݢنتي روݢي"
+  ],
+  "answer": 2,
+  "explanation": "قصاص تيدق دجاتوهكن اڤابيلا دماعفكن اوليه واريث مڠسا اتاو دباير دية/ݢنتي روݢي.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-21",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جناية ڤد هرتا سڤرتي منچوري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "منچوري اداله چونتوه جناية كأتس هرتا.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-22",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبونوه دڠن سڠاج واجب دحكوم قصاص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ممبونوه دڠن سڠاج واجب دحكوم قصاص (ملاءينكن دماعفكن واريث).",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-23",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن قصاص اداله حكومن بالس ڤد كسالهن ترتنتو.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "قصاص اداله حكومن بالسن يڠ سام باݢي كسالهن ممبونوه اتاو منچدراكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-24",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منچدراكن اڠݢوتا اورڠ لاءين دڠن سڠاج واجب دية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "منچدراكن اڠݢوتا دڠن سڠاج واجب قصاص؛ دية دكناكن جك قصاص تيدق بوليه دلقساناكن اتاو دماعفكن.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-ppt2024-25",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو شرط واجب قصاص اداله للاكي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "جنتينا للاكي بوكن شرط واجب قصاص.",
+  "source": "PPT 2024",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-jenayat-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Jenayat",
