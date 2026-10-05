@@ -1540,6 +1540,496 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-munakahat-ppt2025-01",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي نكاح دري سݢي بهاس؟",
+  "options": [
+   "ايكاتن",
+   "برتاءوت",
+   "برسلام",
+   "هوبوڠن"
+  ],
+  "answer": 1,
+  "explanation": "نكاح ڤد بهاس برمقصود برچنتوم/برتاءوت (برهيمڤون).",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-02",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عقد يڠ مڠهاروسكن هوبوڠن سوامي ايستري دالم شرع؟",
+  "options": [
+   "نكاح",
+   "سنديڠ",
+   "كهوين",
+   "برسام"
+  ],
+  "answer": 0,
+  "explanation": "عقد نكاح مڠهاروسكن هوبوڠن سوامي ايستري دالم شرع.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-03",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه حكوم ڤرنكاحن دالم إسلام؟",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم",
+   "انم"
+  ],
+  "answer": 2,
+  "explanation": "حكوم ڤرنكاحن اد ليم: واجب، سنة، هاروس، مكروه دان حرام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-04",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري-چيري باكل سوامي يڠ دتونتوت دالم إسلام؟",
+  "options": [
+   "تكوه اݢام",
+   "بركتورونن كاي",
+   "ملاكوكن معصية",
+   "للاكي مشرك"
+  ],
+  "answer": 0,
+  "explanation": "باكل سوامي يڠ دتونتوت اياله يڠ تكوه (كوات) ڤݢڠن اݢام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-05",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤربواتن يڠ مڽاتاكن كأيڠينن سساءورڠ اونتوق بركهوين؟",
+  "options": [
+   "مريسيق",
+   "ممينڠ",
+   "مرجوع",
+   "برنكاح"
+  ],
+  "answer": 1,
+  "explanation": "ممينڠ اياله ڤربواتن مڽاتاكن كأيڠينن اونتوق بركهوين.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-06",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه بنتوق لفظ ممينڠ؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "لفظ ممينڠ اد دوا: صريح (ترڠ) دان كناية (سيندير).",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-07",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممينڠ اتس ڤينڠن اورڠ لاءين؟",
+  "options": [
+   "سنة",
+   "حرام",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "ممينڠ اتس ڤينڠن اورڠ لاءين يڠ تله دتريما اداله حرام.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-08",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا ڤرتونڠن درڤد ڤيهق للاكي؟",
+  "options": [
+   "بوڠا",
+   "هرتا چورين",
+   "هديه",
+   "بارڠ تيدق برهرݢ"
+  ],
+  "answer": 2,
+  "explanation": "هديه (چينچين/هنتارن) اداله تندا ڤرتونڠن درڤد ڤيهق للاكي.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-09",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سماس مجليس ڤرتونڠن اياله",
+  "options": [
+   "ڤرݢاولن بيبس",
+   "باچاءن صلوات",
+   "ملاكوكن معصية",
+   "ملاكوكن ڤمبذيرن"
+  ],
+  "answer": 1,
+  "explanation": "باچاءن صلوات اداله انتارا ادب سماس مجليس ڤرتونڠن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-10",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عورت باكل ايستري يڠ بوليه دليهت سماس ڤرتونڠن اياله",
+  "options": [
+   "موك دان كاكي",
+   "موك دان تاڠن",
+   "موك دان لوتوت",
+   "موك دان كدوا تاڤق تاڠن"
+  ],
+  "answer": 3,
+  "explanation": "موك دان كدوا تاڤق تاڠن هاروس دليهت كتيك مليهت باكل ايستري.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-11",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممباچ خطبة سبلوم ڤمينڠن اياله",
+  "options": [
+   "سنة",
+   "حرام",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "ممباچ خطبة سبلوم ڤمينڠن حكومڽ سنة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-12",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركن نكاح اد",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم",
+   "توجوه"
+  ],
+  "answer": 1,
+  "explanation": "ركن نكاح اد ليم: ڤڠنتين للاكي، ڤڠنتين ڤرمڤوان، ولي، دوا ساكسي دان صيغة.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-13",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط صح صيغة عقد نكاح اياله",
+  "options": [
+   "تيدق دتعليقكن",
+   "برسلڠ ماس لاما سلڤس ايجاب",
+   "بوليه دباتسكن وقتو",
+   "تيدق مڠݢوناكن لفظ نكاح"
+  ],
+  "answer": 0,
+  "explanation": "صيغة عقد نكاح مستيله تيدق دتعليقكن (تيدق برشرط).",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-14",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه لفظ قبول نكاح اياله",
+  "options": [
+   "اكو نكاحكن ...",
+   "اكو كهوينكن اڠكاو ...",
+   "اكو تريما نكاح ...",
+   "اكو حلالكن كڤدمو ..."
+  ],
+  "answer": 2,
+  "explanation": "لفظ قبول اياله \"اكو تريما نكاحڽ ...\".",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-15",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صح ڤركهوينن دڠن سوامي ملفظكن",
+  "options": [
+   "زَوِّجْنِي",
+   "زَوَّجْتُك",
+   "تَزَوَّجْهَا",
+   "تَزَوَّجْتُهَا"
+  ],
+  "answer": 3,
+  "explanation": "باكل سوامي ملفظكن قبول سڤرتي \"تَزَوَّجْتُهَا\" (اكو تريما نكاحڽ).",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-16",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"أَحْلَلْتُك بِنْتِي\" اداله لفظ صيغة جنيس",
+  "options": [
+   "صريح",
+   "كناية",
+   "قبول",
+   "ايجاب"
+  ],
+  "answer": 1,
+  "explanation": "\"أَحْلَلْتُك بِنْتِي\" اداله لفظ كناية (سيندير) كران تيدق مڠݢوناكن ڤركاتاءن نكاح/تزويج.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-17",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بنتوق لفظ قبول كچوالي",
+  "options": [
+   "اكو تريما نكاحڽ",
+   "اكو ريضا نكاحڽ",
+   "اكو نكاحكن ديكاو",
+   "اكو تريما نكاح ترسبوت"
+  ],
+  "answer": 2,
+  "explanation": "\"اكو نكاحكن ديكاو\" اداله لفظ ايجاب درڤد ولي، بوكن قبول.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-18",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط صح نكاح باݢي باكل سوامي كچوالي",
+  "options": [
+   "دالم إحرام",
+   "براݢام إسلام",
+   "كهندق سنديري",
+   "بوكن محرم"
+  ],
+  "answer": 0,
+  "explanation": "باكل سوامي يڠ دالم إحرام تيدق صح برنكاح؛ شرطڽ إسلام، كهندق سنديري دان بوكن محرم.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-19",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط صح ساكسي باݢي نكاح اياله",
+  "options": [
+   "ݢيلا دان للاكي",
+   "للاكي دان عاديل",
+   "عاديل دان ڤرمڤوان",
+   "ݢيلا دان ڤرمڤوان"
+  ],
+  "answer": 1,
+  "explanation": "ساكسي نكاح مستيله للاكي دان عاديل.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-20",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ولي يڠ هاروس مناكحكن انق ݢديسڽ تنڤا ايذين اياله",
+  "options": [
+   "انق للاكي دان باڤ",
+   "باڤ دان باڤ ساودارا",
+   "باڤ ساودارا دان داتوق",
+   "باڤ دان داتوق"
+  ],
+  "answer": 3,
+  "explanation": "ولي مجبر (باڤ دان داتوق) هاروس مناكحكن انق ݢديس تنڤا ايذين.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-21",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "للاكي برڤڽاكيت (تيدق ممڤو) مكروه اونتوق برنكاح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "للاكي يڠ تيدق ممڤو ممبري نفقه/تڠݢوڠجواب مكروه اونتوق برنكاح.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-22",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "للاكي إسلام بوليه برنكاح دڠن ڤرمڤوان مشرك.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "حرام باݢي للاكي إسلام بركهوين دڠن ڤرمڤوان مشرك.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-23",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس مڠولڠ مليهت باكل سوامي اتاو ايستري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "هاروس مليهت (ترماسوق مڠولڠ) باكل ڤاسڠن سكادر كڤرلوان سبلوم بركهوين.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-24",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حرام ممينڠ ڤرمڤوان يڠ بلوم برنكاح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "هاروس ممينڠ ڤرمڤوان يڠ بلوم برنكاح دان تياد حالڠن.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-ppt2025-25",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"ساي سوكاكن اوق\" اداله لفظ كناية ڤمينڠن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "\"ساي سوكاكن اوق\" اداله چونتوه لفظ كناية (سيندير) دالم ممينڠ.",
+  "source": "PPT 2025",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-munakahat-pat2025-01",
   "exam": "Darjah 4",
   "subject": "Munakahat",
