@@ -1,5 +1,495 @@
 [
  {
+  "id": "darjah-4-jenayat-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكومن يڠ دكناكن كأتس ڤمبونوه؟",
+  "options": [
+   "دية",
+   "قَسَّم",
+   "قصاص",
+   "كفاره"
+  ],
+  "answer": 2,
+  "explanation": "ڤمبونوه دكناكن حكومن قصاص (بونوه دبالس بونوه).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جنيس جنايات؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "جنايات ترباهاݢي كڤد دوا: جنايات كأتس ڽاوا دان جنايات كأتس اڠݢوتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جنيس ڤمبونوهن؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبونوهن اد تيݢ: سڠاج، مڽروڤاءي سڠاج دان تيدق سڠاج.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه چيري ڤمبونوهن سڠاج؟",
+  "options": [
+   "توجوان تيدق سڠاج",
+   "توجوان هندق ممبونوه",
+   "ممبونوه چارا ڤقسا",
+   "توجوان مڽروڤاءي سڠاج"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبونوهن سڠاج اداله دڠن نية/توجوان هندق ممبونوه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين حكومن قصاص؟",
+  "options": [
+   "بونوه دبالس بونوه",
+   "ڤوتوڠ دبالس دندا",
+   "منچدراكن دبالس ڤوكول",
+   "ملاكوكن دبالس بونوه"
+  ],
+  "answer": 0,
+  "explanation": "قصاص برمقصود بالسن يڠ سام: بونوه دبالس بونوه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكومن منچدراكن اورڠ لاءين دڠن سڠاج؟",
+  "options": [
+   "هاروس قصاص",
+   "سنة تعزير",
+   "واجب دچدراكن",
+   "واجب باير دندا"
+  ],
+  "answer": 0,
+  "explanation": "منچدراكن سچارا سڠاج هاروس دكناكن قصاص (جك ممبوليهكن بالسن سام).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكومن باݢي انق يڠ ممبونوه باڤاڽ؟",
+  "options": [
+   "كفاره",
+   "قصاص",
+   "حرام دبونوه",
+   "ݢنتي روݢي"
+  ],
+  "answer": 1,
+  "explanation": "انق يڠ ممبونوه باڤاڽ دكناكن حكومن قصاص.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت ڤمبونوه يڠ تيدق واجب دكناكن حكومن قصاص؟",
+  "options": [
+   "برعقل",
+   "تيدق مابوق",
+   "صيحت",
+   "كانق-كانق يڠ بلوم بالغ"
+  ],
+  "answer": 3,
+  "explanation": "كانق-كانق يڠ بلوم بالغ تيدق دكناكن قصاص.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي دية اياله",
+  "options": [
+   "ݢنتي ڤاوا",
+   "بالس بونوه",
+   "ݢنتي روݢي",
+   "بالس قصاص"
+  ],
+  "answer": 2,
+  "explanation": "دية برمقصود ݢنتي روݢي (ڤمباياران) كران جنايات.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بولن يڠ دحرامكن ممبونوه اياله",
+  "options": [
+   "رمضان",
+   "شوال",
+   "ذوالقعدة",
+   "شعبان"
+  ],
+  "answer": 2,
+  "explanation": "ذوالقعدة اداله انتارا بولن حرام يڠ دلارڠ ممبونوه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مـحففة يڠ برتوكر كڤد مغلظة اياله اڤابيلا",
+  "options": [
+   "ممبونوه اورڠ عوام",
+   "برلاكو دالم بولن شعبان",
+   "برلاكو دتانه مدينه",
+   "اورڠ يڠ دبونوه اداله مَحْرَم"
+  ],
+  "answer": 3,
+  "explanation": "دية مـحففة برتوكر كڤد مغلظة اڤابيلا مڠسا اداله مَحْرَم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية يڠ دكناكن كران ممبونوه ڤرمڤوان مجوسي اياله",
+  "options": [
+   "1/10 درڤد دية مسلم",
+   "1/3 درڤد 1/10 دية مسلم",
+   "1/2 درڤد 1/10 دية مسلم",
+   "1/6 درڤد 1/10 دية مسلم"
+  ],
+  "answer": 2,
+  "explanation": "دية ڤرمڤوان مجوسي اياله سڤاروه درڤد 1/10 دية مسلم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية يڠ دكناكن كران ممبونوه (ممڤوتوڠ) دوا ڤركلڠن تاڠن اياله",
+  "options": [
+   "50 ايكور اونتا",
+   "100 ايكور اونتا",
+   "100 ايكور كمبيڠ",
+   "200 ايكور كمبيڠ"
+  ],
+  "answer": 1,
+  "explanation": "دوا بله تاڠن دكناكن دية ڤنوه، ياءيت 100 ايكور اونتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن كران ممڤوتوڠ دوا تاڠن اتاو كاكي ملبيهي ڤركلڠن اياله",
+  "options": [
+   "سنة باير دية",
+   "حرام باير دية",
+   "واجب باير دية",
+   "هاروس باير دية"
+  ],
+  "answer": 2,
+  "explanation": "ممڤوتوڠ دوا اڠݢوتا واجب دباير دية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية كران ممڤوتوڠ (ساتو) تاڠن اياله",
+  "options": [
+   "50 ايكور كمبيڠ",
+   "50 ايكور اونتا",
+   "50 ايكور لمبو",
+   "50 ايكور كيبش"
+  ],
+  "answer": 1,
+  "explanation": "ساتو تاڠن دكناكن سڤاروه دية، ياءيت 50 ايكور اونتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية كران ممڤوتوڠ هيدوڠ اياله",
+  "options": [
+   "50 ايكور اونتا",
+   "100 ايكور لمبو",
+   "50 ايكور لمبو",
+   "100 ايكور اونتا"
+  ],
+  "answer": 3,
+  "explanation": "هيدوڠ اداله اڠݢوتا توڠݢل، دكناكن دية ڤنوه 100 ايكور اونتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله دية ممڤوتوڠ كلوڤق مات كچوالي",
+  "options": [
+   "100 ايكور اونتا",
+   "25 ايكور اونتا",
+   "1/4 دية",
+   "10 ايكور اونتا"
+  ],
+  "answer": 3,
+  "explanation": "دية ممڤوتوڠ كلوڤق مات اداله 25 ايكور سبله (1/4 دية ڤنوه)، بوكن 10 ايكور.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله تعريف قَسَّمَة كچوالي",
+  "options": [
+   "برسومڤه سباڽق 50 كالي",
+   "برسومڤه سباڽق 100 كالي",
+   "برسومڤه مڠوكوهكن كبنرن دعواءن",
+   "برسومڤه اوليه اورڠ يڠ مندعوا"
+  ],
+  "answer": 1,
+  "explanation": "قَسَّمَة اياله برسومڤه 50 كالي، بوكن 100 كالي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واجب ممباير كفاره كأتس ڤمبونوه باݢي",
+  "options": [
+   "ڤمبونوهن سڠاج دان مڽروڤاءي سڠاج",
+   "ڤمبونوهن سڠاج دان تيدق سڠاج",
+   "ڤمبونوهن سڠاج دان چارا ڤقساءن",
+   "ممبونوه مڽروڤاءي سڠاج دان تيدق سڠاج"
+  ],
+  "answer": 3,
+  "explanation": "كفاره واجب باݢي ڤمبونوهن مڽروڤاءي سڠاج دان تيدق سڠاج.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس كفاره ڤمبونوهن اياله",
+  "options": [
+   "ممرديككن همبا دان ممرديككن اورڠ مجوسي",
+   "ممرديككن همبا دان برڤواسا دوا بولن برتوروت-توروت",
+   "ممباير دية دان ممرديككن اورڠ مجوسي",
+   "ممرديككن اورڠ مجوسي دان برڤواسا دوا بولن"
+  ],
+  "answer": 1,
+  "explanation": "كفاره ڤمبونوهن اياله ممرديككن همبا موكمين اتاو برڤواسا دوا بولن برتوروت-توروت.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن ممبونوه سأورڠ واجب دحكوم قصاص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤمبونوهن سڠاج واجب دحكوم قصاص (ملاءينكن دماعفكن واريث).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن منچدراكن هيدوڠ سهيڠݢ ممبيبكن تولڠ ڤچه دكناكن قصاص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كچدراءن ممچهكن تولڠ تيدق دكناكن قصاص، تتاڤي دباير دية/حكومة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية يڠ دكناكن كران ممبونوه خنثى مشكل اداله 50 ايكور اونتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "دية خنثى مشكل اياله سڤاروه دية للاكي چمڤور سڤاروه دية ڤرمڤوان، بوكن 50 ايكور اونتا سهاج.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية كأتس ڤمبونوه مجوسي اياله 1/3 درڤد 1/10 دية مسلم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "دية مجوسي بوكنله 1/3 درڤد 1/10 دية مسلم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممبونوه تيدق واجب قَسَّمَة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "قَسَّمَة دواجبكن دالم كيس ڤمبونوهن يڠ تيدق دكتاهوي ڤمبونوهڽ (لوث).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-jenayat-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Jenayat",

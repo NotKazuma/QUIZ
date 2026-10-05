@@ -1,5 +1,495 @@
 [
  {
+  "id": "darjah-4-munakahat-pat2022-01",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود نكاح ڤد بهاس؟",
+  "options": [
+   "كاسيه دان سايڠ",
+   "مسرا دان كاسيه",
+   "داكڤ دان برتاءوت",
+   "برتاءوت دان برجالن"
+  ],
+  "answer": 2,
+  "explanation": "نكاح ڤد بهاس برمقصود برهيمڤون/برچنتوم (داكڤ دان برتاءوت).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-02",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ڤرنكاحن باݢي اورڠ يڠ تيدق ممڤوياءي ڤربلنجاءن؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "ڤرنكاحن باݢي يڠ تيدق ممڤوڽاءي ڤربلنجاءن اداله مكروه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-03",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري-چيري باكل سوامي يڠ دتونتوت دالم إسلام؟",
+  "options": [
+   "مشرك",
+   "برهرتا",
+   "صالح",
+   "تيدق سطارف"
+  ],
+  "answer": 2,
+  "explanation": "باكل سوامي يڠ دتونتوت اياله يڠ صالح دان برعقيدة باءيق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-04",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممينڠ ڤرمڤوان يڠ ماسيه دالم عِدَّة سچارا ترڠ (صَرِيح)؟",
+  "options": [
+   "سنة",
+   "حرام",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "ممينڠ سچارا ترڠ (صريح) ترهادڤ ڤرمڤوان دالم عِدَّة اداله حرام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-05",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه روكون نكاح؟",
+  "options": [
+   "تيݢ",
+   "ليم",
+   "انم",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "روكون نكاح اد ليم: ڤڠنتين للاكي، ڤڠنتين ڤرمڤوان، ولي، دوا ساكسي دان صيغه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-06",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود عاديل (باݢي ساكسي)؟",
+  "options": [
+   "كومڤولن اورڠ كافير",
+   "كانق-كانق يڠ بلوم بالغ",
+   "ماءنسي يڠ تياد مروأه",
+   "اورڠ يڠ برصيفت بنر"
+  ],
+  "answer": 3,
+  "explanation": "عاديل برمقصود اورڠ يڠ برصيفت بنر دان منجاوهي دوسا بسر.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-07",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ولي منكاحكن انقڽ يڠ ݢديس تنڤا ايذينڽ؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس",
+   "تيدق هاروس"
+  ],
+  "answer": 2,
+  "explanation": "ولي مجبر (باڤ/داتوق) هاروس منكاحكن انق ݢديس تنڤا ايذينڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-08",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤونچا ولي أقرب هيلڠ كلايقن سباݢاي ولي نكاح؟",
+  "options": [
+   "كانق-كانق",
+   "بالغ",
+   "براݢام إسلام",
+   "سمڤورنا عقل"
+  ],
+  "answer": 0,
+  "explanation": "ولي يڠ ماسيه كانق-كانق تيدق لايق منجادي ولي نكاح.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-09",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا كوفو (كفاءة) يڠ دأكوءي اوليه إسلام اياله",
+  "options": [
+   "همبا",
+   "برڤاكيت",
+   "اورڠ فاسق",
+   "ممڤوياءي ڤكرجاءن"
+  ],
+  "answer": 3,
+  "explanation": "انتارا كفاءة يڠ دأكوءي اياله ممڤوياءي ڤكرجاءن (مات ڤنچرين) يڠ باءيق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-10",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركهوينن يڠ دحرامكن سلاما-لامان دسبوت",
+  "options": [
+   "مُؤَبَّد",
+   "مشركه",
+   "سمنتارا",
+   "غَيْرُ مُؤَبَّد"
+  ],
+  "answer": 0,
+  "explanation": "ڤركهوينن يڠ دحرامكن سلاما-لامان دسبوت محرم مُؤَبَّد.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-11",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرمڤوان يڠ دحرامكن بركهوين دڠن سبب نسب اياله",
+  "options": [
+   "ايبو تيري",
+   "انق سوسوان",
+   "ڤرمڤوان كافرة",
+   "ايبو ساودارا سبله ايبو"
+  ],
+  "answer": 3,
+  "explanation": "ايبو ساودارا (مق سودارا) حرام دنكاحي كران سبب نسب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-12",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم للاكي يڠ مرديك مڠهويني امڤت اورڠ ڤرمڤوان اداله",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 3,
+  "explanation": "للاكي هاروس مڠهويني سهيڠݢ امڤت اورڠ ايستري دڠن شرط عاديل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-13",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب يڠ ممبوليهكن خيار دالم ڤركهوينن اياله",
+  "options": [
+   "بوتا",
+   "كودوڠ كاكي",
+   "ݢيلا",
+   "ڤوتوس جاري"
+  ],
+  "answer": 2,
+  "explanation": "ݢيلا اداله عيب يڠ ممبوليهكن خيار (فسخ) دالم ڤركهوينن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-14",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مَهْر (مس كهوين) دسبوت جوݢ سباݢاي",
+  "options": [
+   "الـمِثْل",
+   "النَّحْل",
+   "المُسَمَّى",
+   "الصَّدَاق"
+  ],
+  "answer": 3,
+  "explanation": "مَهْر دسبوت جوݢ الصَّدَاق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-15",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممبري مهر كڤد ايستري اياله",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس",
+   "سنة مؤكده"
+  ],
+  "answer": 1,
+  "explanation": "ممبري مهر كڤد ايستري اداله واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-16",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عُرف مس كهوين دنݢري جوهر اداله",
+  "options": [
+   "RM 11.50",
+   "RM 22.50",
+   "RM 33.50",
+   "RM 44.50"
+  ],
+  "answer": 1,
+  "explanation": "عُرف مس كهوين نݢري جوهر اياله RM 22.50.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-17",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه مڠاداكن وَلِيمَةُ العُرْس كچوالي",
+  "options": [
+   "تندا كشكورن",
+   "مراعيكن ڤركهوينن",
+   "منجامو تتامو",
+   "سباݢاي تندا كسديهن"
+  ],
+  "answer": 3,
+  "explanation": "وَلِيمَةُ العُرْس بوكن تندا كسديهن، تتاڤي تندا كݢمبيراءن دان كشكورن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-18",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكوم ممبري مس كهوين كچوالي",
+  "options": [
+   "تياد قدر ترتنتو",
+   "بوكن روكون نكاح",
+   "بوكن حق ايستري",
+   "سنة دسبوت دالم عقد نكاح"
+  ],
+  "answer": 2,
+  "explanation": "مس كهوين اداله حق ايستري، جادي كڽاتاءن \"بوكن حق ايستري\" اداله ساله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-19",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ماكن درڤد جاموان وَلِيمَةُ العُرْس اياله",
+  "options": [
+   "سنة دان مكروه",
+   "سنة دان حرام",
+   "مكروه دان حرام",
+   "سنة دان تيدق واجب"
+  ],
+  "answer": 3,
+  "explanation": "ماكن درڤد جاموان وليمة اداله سنة دان تيدق واجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-20",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط واجب مڠحاضيري اوندڠن وَلِيمَةُ العُرْس اياله",
+  "options": [
+   "تيدق دحصوصكن اورڠ كاي سهاج دان جمڤوتن ڤد هاري ڤرتام",
+   "جمڤوتن ڤد هاري ڤرتام دان جاموان سلاما تيݢ هاري",
+   "تيدق دحصوصكن اورڠ كاي، جمڤوتن هاري ڤرتام دان تيݢ هاري",
+   "جمڤوتن هاري ڤرتام، تيݢ هاري دان دأوندڠ بوكن إسلام"
+  ],
+  "answer": 0,
+  "explanation": "شرط واجب حاضير: جمڤوتن تيدق دحصوصكن اورڠ كاي سهاج دان ڤد هاري ڤرتام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-21",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حرام ممينڠ ڤرمڤوان دالم عِدَّة رَجْعِيَّة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤرمڤوان دالم عِدَّة رَجْعِيَّة ماسيه دكيرا ايستري، جادي حرام دڤينڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-22",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كِنَايَة اداله لفظ سچارا ترڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كِنَايَة اداله لفظ سيندير (تيدق ترڠ)، مانكالا صريح اداله لفظ ترڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-23",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كوفو (كفاءة) اداله شرط صح نكاح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "كفاءة بوكن شرط صح نكاح، تتاڤي حق ڤرمڤوان دان ولي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-24",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حرام مڠهويني ڤرمڤوان يڠ مرتد.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "حرام مڠهويني ڤرمڤوان يڠ مرتد (كلوار درڤد إسلام).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-munakahat-pat2022-25",
+  "exam": "Darjah 4",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايستري برحق ممبطلكن ڤرنكاحن (دڠن سبب يڠ دبنركن).",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ايستري برحق منونتوت فسخ ڤرنكاحن اڤابيلا اد سبب/عيب يڠ دبنركن شرع.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-munakahat-pat2024-01",
   "exam": "Darjah 4",
   "subject": "Munakahat",
