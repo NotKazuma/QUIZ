@@ -2580,5 +2580,495 @@
   "explanation": "همبا ترهالڠ درڤد منريما ڤوساك.",
   "source": "PAT 2025",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-01",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي فرائض ڤد بهاس؟",
+  "options": [
+   "صدقه",
+   "ڤمبرين",
+   "ڤربلنجاءن",
+   "سسواتو يڠ دتنتوكن"
+  ],
+  "answer": 3,
+  "explanation": "فرائض ڤد بهاس برمقصود سسواتو يڠ دتنتوكن (باهاݢين يڠ دتتڤكن).",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-02",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سومبر علمو فرائض؟",
+  "options": [
+   "قياس",
+   "مجله",
+   "الحديث",
+   "ڤندافت راماي"
+  ],
+  "answer": 2,
+  "explanation": "سومبر علمو فرائض اياله القرءان دان الحديث.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-03",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كباءيقن ممڤلاجري علمو فرائض؟",
+  "options": [
+   "بوروق سڠكا",
+   "مڠيلقكن ڤرݢادوهن",
+   "تيدق عديل",
+   "موجودكن ڤرسڠكيتاءن"
+  ],
+  "answer": 1,
+  "explanation": "علمو فرائض داڤت مڠيلقكن ڤرݢادوهن دالم ڤمباهاݢين هرتا.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-04",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه ركن ممڤوساكاءي؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "ركن ممڤوساكاءي اد تيݢ: موروث، وارث دان مَوْرُوْث.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-05",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود مَوْرُوْث؟",
+  "options": [
+   "هرتا ڤوساك",
+   "ڤربلنجاءن كماتين",
+   "اورڠ يڠ ممڤوساكاءي",
+   "اورڠ يڠ ممبري هرتا"
+  ],
+  "answer": 0,
+  "explanation": "مَوْرُوْث اياله هرتا ڤوساك يڠ دتيڠݢلكن سي ماتي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-06",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط ممڤوساكاءي باݢي واريث؟",
+  "options": [
+   "تيدق وجود",
+   "بنر-بنر هيدوڤ",
+   "دصحكن ماتي",
+   "وارث مرتد"
+  ],
+  "answer": 1,
+  "explanation": "واريث مستيله بنر-بنر هيدوڤ كتيك سي ماتي منيڠݢل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-07",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ مڠوروسكن بيت المال؟",
+  "options": [
+   "امام",
+   "كتوا كامڤوڠ",
+   "ڤمرينته إسلام",
+   "واريث سي ماتي"
+  ],
+  "answer": 2,
+  "explanation": "بيت المال دأوروس اوليه ڤمرينته إسلام.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-08",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه نسب يڠ ممڤوساكاءي هرتا؟",
+  "options": [
+   "باڤ",
+   "سواي",
+   "انق تيري",
+   "اديق اڠكت"
+  ],
+  "answer": 0,
+  "explanation": "باڤ اداله واريث نسب يڠ ممڤوساكاءي هرتا.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-09",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر هرتا يڠ بوليه دوصيتكن اياله",
+  "options": [
+   "1/2 درڤد هرتا",
+   "1/3 درڤد هرتا",
+   "1/4 درڤد هرتا",
+   "1/6 درڤد هرتا"
+  ],
+  "answer": 1,
+  "explanation": "وصيت تيدق بوليه ملبيهي 1/3 درڤد هرتا.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-10",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه هوتڠ كڤد الله اياله",
+  "options": [
+   "فديه",
+   "كادو",
+   "هوتڠ بڠك",
+   "ݢنتي روݢي"
+  ],
+  "answer": 0,
+  "explanation": "فديه اداله چونتوه هوتڠ يڠ بركاءيتن دڠن حق الله.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-11",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كواجيڤن سبلوم ممباهاݢي هرتا ڤوساك اياله",
+  "options": [
+   "مڠاداكن كندوري",
+   "ممبري صدقه",
+   "مڠابايكن وصيت",
+   "ڤڠوروسن جنازه"
+  ],
+  "answer": 3,
+  "explanation": "ڤڠوروسن جنازه (دان بايار هوتڠ) ڤرلو دلاكوكن سبلوم ممباهاݢي هرتا ڤوساك.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-12",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ بوليه ممڤوساكاءي دان بوليه دڤوساكاءي هرتاڽ اياله",
+  "options": [
+   "باڤ",
+   "نبي",
+   "انق اڠكت",
+   "همبا مُبَعَّض"
+  ],
+  "answer": 0,
+  "explanation": "باڤ بوليه ممڤوساكاءي دان دڤوساكاءي هرتاڽ كران ڤرتالين نسب.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-13",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ڤرلو دلاكوكن كأتس هرتا ڤوساك نبي-نبي اياله",
+  "options": [
+   "هبه",
+   "كادو",
+   "صدقه",
+   "جوال بلي"
+  ],
+  "answer": 2,
+  "explanation": "نبي-نبي تيدق منيڠݢلكن ڤوساك؛ هرتا مريك منجادي صدقه.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-14",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث ڤيهق للاكي اد",
+  "options": [
+   "12 اورڠ",
+   "13 اورڠ",
+   "14 اورڠ",
+   "15 اورڠ"
+  ],
+  "answer": 3,
+  "explanation": "واريث ڤيهق للاكي برجومله 15 اورڠ.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-15",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ بوليه ممڤوساكاءي هرتا سي ماتي اياله",
+  "options": [
+   "انق تيري",
+   "ايبو سوسوان",
+   "اديق براديق سباڤ",
+   "چوچو ڤرمڤوان درڤد انق ڤرمڤوان"
+  ],
+  "answer": 2,
+  "explanation": "اديق براديق سباڤ اداله واريث كران ڤرتالين نسب.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-16",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توان يڠ ممرديككن همبا دناماكن",
+  "options": [
+   "معتق",
+   "مُوَرِّث",
+   "واريث",
+   "مَوْرُوْث"
+  ],
+  "answer": 0,
+  "explanation": "توان للاكي يڠ ممرديككن همبا دناماكن مُعْتِق.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-17",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله واريث ڤيهق للاكي كچوالي",
+  "options": [
+   "سواي",
+   "انق للاكي",
+   "داتوق سبله باڤ",
+   "باڤ ساودارا سأيبو"
+  ],
+  "answer": 3,
+  "explanation": "باڤ ساودارا سأيبو اداله ذَوِى الأَرْحَام، بوكن واريث ڤيهق للاكي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-18",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله واريث ڤرمڤوان كچوالي",
+  "options": [
+   "ايبو",
+   "ايستري",
+   "نينيق سبله ايبو",
+   "ساودارا للاكي سأيبو"
+  ],
+  "answer": 3,
+  "explanation": "ساودارا للاكي سأيبو اداله واريث للاكي، بوكن واريث ڤرمڤوان.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-19",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث ڤيهق ڤرمڤوان اياله",
+  "options": [
+   "انق ڤرمڤوان دان نينيق سبله ايبو",
+   "نينيق سبله ايبو دان نينيق سبله باڤ",
+   "انق ڤرمڤوان، نينيق سبله ايبو دان نينيق سبله باڤ",
+   "انق ڤرمڤوان، نينيق سبله ايبو، نينيق سبله باڤ دان ساودارا ڤرمڤوان سباڤ"
+  ],
+  "answer": 3,
+  "explanation": "كسمواڽ اداله واريث ڤيهق ڤرمڤوان.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-20",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ تتڤ برحق ممڤوساكاءي اڤابيلا اد سموا واريث للاكي دان ڤرمڤوان اياله",
+  "options": [
+   "سواي دان نينيق",
+   "سواي دان انق للاكي",
+   "نينيق دان انق للاكي",
+   "نينيق دان ساودارا ڤرمڤوان"
+  ],
+  "answer": 1,
+  "explanation": "سواي دان انق للاكي تتڤ ممڤوساكاءي؛ نينيق دحجب اوليه ايبو دان ساودارا دحجب اوليه انق للاكي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-21",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمباهاݢين هرتا ڤوساك واجب مڠيكوت حكوم إسلام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤمباهاݢين هرتا ڤوساك واجب مڠيكوت حكوم فرائض دالم إسلام.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-22",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "علمو فرائض داڤت منجاءوهكن كظاليمن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "علمو فرائض ممستيكن ستياڤ واريث مندافت حق، مك منجاءوهكن كظاليمن.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-23",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث اياله اورڠ يڠ منيڠݢلكن هرتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "واريث اياله اورڠ يڠ ممڤوساكاءي هرتا؛ اورڠ يڠ منيڠݢلكن هرتا اياله مُوَرِّث.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-24",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط ممڤوساكاءي اد 3 ڤركارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "شرط ممڤوساكاءي اد تيݢ: ماتيڽ مُوَرِّث، هيدوڤڽ وارث دان مڠتاهوءي اره ڤوساك.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-ppt2026-25",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيت المال دأوروسكن اوليه واريث سي ماتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "بيت المال دأوروسكن اوليه ڤمرينته إسلام، بوكن واريث سي ماتي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
  }
 ]

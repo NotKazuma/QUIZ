@@ -2793,5 +2793,495 @@
   "explanation": "الجهل (جاهيل) مستحيل باݢي الله.",
   "source": "PAT 2025",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-01",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود مبادئ؟",
+  "options": [
+   "عادت",
+   "كترڠن (اساس)",
+   "شريعة",
+   "مڠتاهوءي"
+  ],
+  "answer": 1,
+  "explanation": "مبادئ برمقصود كترڠن ريڠكس اتاو اساس سسواتو علمو.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-02",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه علمو يڠ منتڤكن عقيدة إسلام؟",
+  "options": [
+   "توحيد",
+   "اخلاق",
+   "مناكحات",
+   "جنايات"
+  ],
+  "answer": 0,
+  "explanation": "علمو توحيد منتڤكن عقيدة إسلام.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-03",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سومبر امبيلن علمو توحيد؟",
+  "options": [
+   "السنة دان شرع",
+   "اجماع دان قياس",
+   "امام دان علماء",
+   "القرءان دان حديث"
+  ],
+  "answer": 3,
+  "explanation": "علمو توحيد برسومبر درڤد القرءان دان حديث.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-04",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممڤلاجري علمو توحيد؟",
+  "options": [
+   "سنة",
+   "هاروس",
+   "فرض عين",
+   "فرض كفايه"
+  ],
+  "answer": 2,
+  "explanation": "ممڤلاجري علمو توحيد اداله فرض عين.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-05",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مڠنل الله تعالى؟",
+  "options": [
+   "حرام",
+   "واجب",
+   "مكروه",
+   "هاروس"
+  ],
+  "answer": 1,
+  "explanation": "مڠنل الله تعالى حكومڽ واجب كأتس ستياڤ مكلف.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-06",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين عقل؟",
+  "options": [
+   "منفعة",
+   "ڤرينته",
+   "ڤتونجوق",
+   "فيكيرن"
+  ],
+  "answer": 3,
+  "explanation": "عقل اياله فيكيرن (عقل بودي) يڠ ممبيذاكن ماءنسي دڠن حيوان.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-07",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توݢس عقل؟",
+  "options": [
+   "منجادي سومبر حكوم اوتام",
+   "مڠيكوت ڤركاتاءن اورڠ لاءين",
+   "كڤرچاياءن يڠ تيدق تكوه",
+   "مڠحكومكن سسواتو ايت مستي اد"
+  ],
+  "answer": 3,
+  "explanation": "توݢس عقل اياله مڠحكومكن سسواتو (واجب، مستحيل اتاو هاروس).",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-08",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه بهاݢين حكوم عقل؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "سڤولوه"
+  ],
+  "answer": 1,
+  "explanation": "حكوم عقل تربهاݢي كڤد تيݢ: واجب، مستحيل دان هاروس.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-09",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه واجب عقلي نظري اياله",
+  "options": [
+   "ساتو سڤاروه درڤد تيݢ",
+   "كأداءن سساءورڠ برݢرق",
+   "ممبري ڤهالا كڤد اورڠ يڠ تيدق برعمل",
+   "وجود الله يڠ منجاديكن عالم"
+  ],
+  "answer": 3,
+  "explanation": "وجود الله يڠ منجاديكن عالم اداله واجب عقلي نظري يڠ ممرلوكن دليل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-10",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس عقلي تربهاݢي كڤد",
+  "options": [
+   "دوا",
+   "ليم",
+   "امڤت",
+   "لاڤن"
+  ],
+  "answer": 0,
+  "explanation": "هاروس عقلي تربهاݢي كڤد دوا: ضروري دان نظري.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-11",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤنچيڤتا عالم اين اداله",
+  "options": [
+   "الله",
+   "ماءنسي",
+   "حيوان",
+   "ملائكة"
+  ],
+  "answer": 0,
+  "explanation": "الله اداله ڤنچيڤتا سكليان عالم.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-12",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم اعتقاد يڠ تياد ڤوتوس (تيدق جازم) اياله",
+  "options": [
+   "السنة",
+   "كافير",
+   "موءمن",
+   "مسلم"
+  ],
+  "answer": 1,
+  "explanation": "اعتقاد يڠ تيدق جازم (تياد ڤوتوس) تيدق صح ايمانڽ دان بوليه دحكوم كافير.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-13",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠيكوت ڤركاتاءن اورڠ لاءين تنڤا دليل اداله ارتي",
+  "options": [
+   "شَكّ",
+   "ظَنّ",
+   "تقليد",
+   "موافقة"
+  ],
+  "answer": 2,
+  "explanation": "تقليد اياله مڠيكوت ڤركاتاءن اورڠ لاءين تنڤا مڠتاهوءي دليل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-14",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي تقليد جازم اداله",
+  "options": [
+   "تيدق تكوه",
+   "كيقينن ڤادو",
+   "كڤرچاياءن يڠ لمه",
+   "اعتقاد يڠ سنتياس براوبه"
+  ],
+  "answer": 1,
+  "explanation": "تقليد جازم اياله مڠيكوت دڠن كيقينن يڠ ڤادو (تكوه).",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-15",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن ايمان اورڠ يڠ برتقليد غير جازم اياله",
+  "options": [
+   "جيوا تنڠ",
+   "دسوكاءي اورڠ",
+   "هيدوڤ سليسا",
+   "سنتياس دالم بهاي"
+  ],
+  "answer": 3,
+  "explanation": "ايمان تقليد غير جازم تيدق كوكوه، مك سنتياس دالم بهاي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-16",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي هاروس عقلي نظري اياله",
+  "options": [
+   "سسواتو ايت مستي تياد",
+   "ممرلوكن كڤد ڤنليتين (دليل)",
+   "منتڤكن تنڤا ڤربحثن",
+   "بوليه منريما اد دان تياد تنڤا دليل"
+  ],
+  "answer": 1,
+  "explanation": "هاروس عقلي نظري اياله هاروس (بوليه اد اتاو تياد) يڠ ممرلوكن ڤنليتين/دليل.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-17",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا برايكوت اداله تقليد يڠ تيدق صح ايمانڽ كچوالي",
+  "options": [
+   "ظَنّ",
+   "شَكّ",
+   "وَهَمْ",
+   "جازم"
+  ],
+  "answer": 3,
+  "explanation": "تقليد جازم صح ايمانڽ؛ تقليد ظن، شك دان وهم تيدق صح.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-18",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله فاءيده ممڤلاجري علمو توحيد كچوالي",
+  "options": [
+   "داڤت مڠنل الله",
+   "ڤرچاي كڤد رسول",
+   "هيدوڤ دالم ككليروان",
+   "بهاݢيا ددنيا دان اخيرة"
+  ],
+  "answer": 2,
+  "explanation": "هيدوڤ دالم ككليروان بوكن فاءيده؛ علمو توحيد منجاءوهكن ككليروان عقيدة.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-19",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت بهاݢين تقليد؟",
+  "options": [
+   "جازم دان غير جازم",
+   "جازم دان موافقة",
+   "جازم، دليل دان موافقة",
+   "دليل دان موافقة"
+  ],
+  "answer": 0,
+  "explanation": "تقليد تربهاݢي كڤد دوا: جازم دان غير جازم.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-20",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بهاݢين مستحيل عقلي اياله",
+  "options": [
+   "نظري دان عقلي",
+   "نظري دان ضروري",
+   "نظري، عقلي دان ضروري",
+   "نظري، عقلي دان شرعي"
+  ],
+  "answer": 1,
+  "explanation": "مستحيل عقلي تربهاݢي كڤد نظري دان ضروري.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-21",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠتاهوءي نام-نام الله اداله فرض عين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مڠنل الله ترماسوق نام دان صيفتڽ اداله فرض عين.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-22",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا الأسماء الحسنى اياله السَّلَام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "السَّلَام اداله انتارا الأسماء الحسنى (نام-نام الله يڠ باءيق).",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-23",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي إجمالي اياله ترڤرينچي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "إجمالي اياله سچارا ريڠكس؛ يڠ ترڤرينچي اياله تفصيلي.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-24",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى واجب ملاكوكن سسواتو اتاو تيدق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ملاكوكن اتاو منيڠݢلكن سسواتو اداله هاروس باݢي الله، بوكن واجب.",
+  "source": "PPT 2026",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-tauhid-ppt2026-25",
+  "exam": "Darjah 4",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عقيده يڠ بنر تتاڤي تنڤا دليل دناماكن تقليد.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "عقيده يڠ بنر تتاڤي تنڤا مڠتاهوءي دليلڽ دناماكن تقليد.",
+  "source": "PPT 2026",
+  "perlu_semak": true
  }
 ]
