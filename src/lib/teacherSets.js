@@ -68,7 +68,7 @@ export async function createSet(user, { title, subjectLabel }) {
     title: title.trim(),
     subjectLabel: (subjectLabel || '').trim(),
     questions: [],
-    shareOpen: false,   // pautan kongsi ditutup sehingga cikgu membukanya
+    shareOpen: true,    // pautan kongsi aktif secara lalai; cikgu boleh tutup bila selesai
     createdAt: now,
     updatedAt: now,
   };

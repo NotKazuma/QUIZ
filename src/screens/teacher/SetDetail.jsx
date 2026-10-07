@@ -106,18 +106,17 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
       {set.questions.length > 0 && !renaming && (
         <div className="card share-card">
           <span className="sheet-label"><Emoji e="🔗" /> Kongsi latihan ini</span>
+          <p className="muted-note">Keputusan pautan ini hanya untuk set anda — tidak bercampur dengan set cikgu lain, walaupun soalan serupa.</p>
 
-          {/* Suis buka/tutup — pautan yang ditutup tidak boleh dijawab (elak orang luar). */}
-          <button className={'btn ' + (set.shareOpen ? 'btn-outline' : 'btn-primary')} onClick={async () => {
-            try { onChange(await setShareOpen(set, !set.shareOpen)); }
-            catch { alert('Gagal menukar status pautan.'); }
-          }}>
-            <Emoji e={set.shareOpen ? '🔓' : '🔒'} /> {set.shareOpen ? 'Pautan DIBUKA — tekan untuk tutup' : 'Buka pautan untuk dikongsi'}
-          </button>
-
-          {set.shareOpen ? (
+          {set.shareOpen === false ? (
             <>
-              <p className="muted-note">Hantar pautan kepada murid. Tutup semula bila selesai supaya orang luar tidak boleh menjawab.</p>
+              <p className="muted-note">Pautan ditutup — murid tidak boleh menjawab.</p>
+              <button className="btn btn-primary" onClick={async () => {
+                try { onChange(await setShareOpen(set, true)); } catch { alert('Gagal membuka pautan.'); }
+              }}><Emoji e="🔓" /> Buka semula pautan</button>
+            </>
+          ) : (
+            <>
               {countOptions(set.questions.length).length > 0 && (
                 <div className="count-chips" role="radiogroup" aria-label="Bilangan soalan">
                   {countOptions(set.questions.length).map(n => (
@@ -134,9 +133,10 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
               }}>
                 <Emoji e="📋" /> {copied ? 'Pautan disalin!' : 'Salin pautan latihan'}
               </button>
+              <button className="btn btn-ghost btn-sm" onClick={async () => {
+                try { onChange(await setShareOpen(set, false)); } catch { alert('Gagal menutup pautan.'); }
+              }}><Emoji e="🔒" /> Tutup pautan (bila dah selesai)</button>
             </>
-          ) : (
-            <p className="muted-note">Pautan ditutup — murid tidak boleh menjawab. Buka dahulu untuk mendapat pautan.</p>
           )}
 
           <button className="btn btn-ghost" onClick={loadResults} disabled={loadingRes}>

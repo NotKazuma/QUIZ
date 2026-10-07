@@ -187,7 +187,7 @@ export default function App() {
       try {
         const set = await getSet(setId);
         if (!set) { alert('Set latihan ini tidak dijumpai.'); return; }
-        if (!set.shareOpen) { alert('Pautan latihan ini telah ditutup oleh cikgu.'); return; }
+        if (set.shareOpen === false) { alert('Pautan latihan ini telah ditutup oleh cikgu.'); return; }
         const qs = objectiveOnly(set.questions || []);
         if (!qs.length) { alert('Set latihan ini kosong.'); return; }
         await startQuiz({ id: set.id, name: set.title, sharedSetId: set.id }, qs, null, null, count);

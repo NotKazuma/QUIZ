@@ -138,7 +138,7 @@ service cloud.firestore {
       match /attempts/{uid} {
         // Murid menulis rekod sendiri — hanya jika pautan set sedang DIBUKA (elak orang luar bila ditutup).
         allow write: if signedIn() && uid == request.auth.uid
-          && get(/databases/$(database)/documents/teacherSets/$(sid)).data.shareOpen == true;
+          && get(/databases/$(database)/documents/teacherSets/$(sid)).data.get('shareOpen', true) == true;
         allow read: if isAdmin()
           || (signedIn()
               && get(/databases/$(database)/documents/teacherSets/$(sid)).data.ownerUid == request.auth.uid);
