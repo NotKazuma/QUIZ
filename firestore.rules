@@ -145,6 +145,23 @@ service cloud.firestore {
       }
     }
 
+    // Bilik latihan (soalan bank rasmi, awam & boleh jejak). Pemilik = cikgu/admin.
+    match /rooms/{rid} {
+      allow get: if signedIn();                               // pautan bilik boleh dibuka sesiapa
+      allow list: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+      allow create: if canTeach() && request.resource.data.ownerUid == request.auth.uid;
+      allow update: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid
+        && request.resource.data.ownerUid == request.auth.uid);
+      allow delete: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+
+      match /attempts/{uid} {
+        allow write: if signedIn() && uid == request.auth.uid
+          && get(/databases/$(database)/documents/rooms/$(rid)).data.get('open', true) == true;
+        allow read: if isAdmin()
+          || (signedIn() && get(/databases/$(database)/documents/rooms/$(rid)).data.ownerUid == request.auth.uid);
+      }
+    }
+
     // Profil awam: avatar, nama paparan, gelaran & statistik ringkas. Pengguna log masuk boleh baca; pemilik sahaja tulis.
     match /publicProfiles/{uid} {
       allow read: if signedIn();

@@ -35,6 +35,8 @@ import { applyTheme } from './lib/theme.js';
 import { NEEDS_STATE, parsePath, pathFor } from './lib/routes.js';
 import { clearShareParams, readShare } from './lib/share.js';
 import { getSet, submitSetAttempt } from './lib/teacherSets.js';
+import { createRoom, getRoom, submitRoomAttempt } from './lib/rooms.js';
+import RoomHost from './screens/RoomHost.jsx';
 import LoadingScreen, { hideBootSplash } from './components/LoadingScreen.jsx';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
@@ -69,6 +71,7 @@ export default function App() {
   const startExam = useRef(null);          // id peperiksaan dari /latihan/<id>, dipulih bila config sedia
   const startSubject = useRef(null);       // {subjectId, count} dari pautan kongsi — buka panel subjek automatik
   const startSet = useRef(null);           // {setId, count} dari pautan kongsi set cikgu
+  const startRoom = useRef(null);          // {roomId} dari pautan bilik latihan (soalan bank rasmi)
   const pendingShare = useRef(readShare()); // pautan kongsi dari URL — untuk auto-log-masuk tetamu (public)
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
@@ -100,6 +103,7 @@ export default function App() {
   const [quizSource, setQuizSource] = useState([]); // soalan asal sesi (untuk "Ulang latihan")
   const [quizRun, setQuizRun] = useState(0);
   const [result, setResult] = useState(null);
+  const [room, setRoom] = useState(null);   // bilik latihan yang dibuka pemilik (papan keputusan)
 
   // Rujukan terkini untuk fungsi yang dipanggil dari dalam kuiz.
   const statsRef = useRef(stats);
@@ -152,6 +156,9 @@ export default function App() {
       setScreen('path'); startExam.current = start.examId;
     } else if (share?.kind === 'set') {
       startSet.current = { setId: share.setId, count: share.count };
+      setScreen('home'); startExam.current = null;
+    } else if (share?.kind === 'room') {
+      startRoom.current = { roomId: share.roomId };
       setScreen('home'); startExam.current = null;
     } else {
       setScreen(start && !NEEDS_STATE.includes(start.screen) ? start.screen : 'home');
@@ -367,8 +374,9 @@ export default function App() {
       assignment: hw ? { id: hw.id, classId: hw.classId, title: hw.title, dueAt: hw.dueAt ?? null } : null,
       // Soalan set cikgu tiada dalam fail subjek, jadi salinannya disimpan untuk disambung kemudian.
       snapshot: hw?.questions ? questions : null,
-      // Pautan kongsi set cikgu: keputusan dijejak kembali kepada pemilik set.
+      // Pautan kongsi set cikgu / bilik rasmi: keputusan dijejak kembali kepada pemilik.
       sharedSetId: subject.sharedSetId || null,
+      sharedRoomId: subject.sharedRoomId || null,
       savedAt: new Date().toISOString(),
     };
     saveSession(user.uid, raw);
@@ -430,8 +438,9 @@ export default function App() {
     setSaved(null);
     updateStats(recordQuizEnd(statsRef.current, { examId: exam?.id, subjectId, score: r.score, total: r.total }));
     if (apiEnabled) api('finish', { mode: 'practice' }).then(syncWallet).catch(() => {});
-    // Pautan kongsi set cikgu: hantar keputusan kepada pemilik set untuk dijejak.
+    // Pautan kongsi: hantar keputusan kepada pemilik set/bilik untuk dijejak.
     if (session?.sharedSetId) submitSetAttempt(session.sharedSetId, user, r).catch(() => {});
+    if (session?.sharedRoomId) submitRoomAttempt(session.sharedRoomId, user, r).catch(() => {});
     afterQuiz(r);
     setResult(r);
     go('result');
@@ -517,6 +526,35 @@ export default function App() {
       }
     })();
   }, [loggedIn]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Pautan bilik latihan (/?bilik=..): soalan bank rasmi, awam & boleh jejak.
+  // Pemilik → papan keputusan; murid → terus menjawab.
+  useEffect(() => {
+    if (!loggedIn || !startRoom.current || !config) return;
+    const { roomId } = startRoom.current;
+    startRoom.current = null;
+    (async () => {
+      try {
+        const r = await getRoom(roomId);
+        if (!r) { alert('Bilik latihan ini tidak dijumpai.'); return; }
+        if (r.ownerUid === user.uid) { setRoom(r); go('roomHost'); return; }  // pemilik lihat keputusan
+        if (r.open === false) { alert('Bilik latihan ini telah ditutup oleh cikgu.'); return; }
+        await playRoom(r);
+      } catch {
+        alert('Gagal memuat bilik latihan.');
+      }
+    })();
+  }, [loggedIn, config]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  // Muat soalan bank rasmi untuk bilik, kemudian mula latihan (jejak keputusan).
+  async function playRoom(r) {
+    const ex = config?.exams.find(e => e.id === r.examId);
+    const subject = ex?.subjects.find(s => s.id === r.subjectId);
+    if (!subject) { alert('Subjek bilik tidak dijumpai.'); return; }
+    const qs = objectiveOnly(await loadQuestions(subject.file));
+    if (!qs.length) { alert('Bilik ini tiada soalan.'); return; }
+    await startQuiz({ id: subject.id, name: subject.name, sharedRoomId: r.id }, qs, null, null, r.count);
+  }
 
   // Kemas kini URL mengikut halaman; halaman tanpa data (cth. /kuiz selepas refresh) → Utama.
   useEffect(() => {
@@ -667,11 +705,21 @@ export default function App() {
         )}
         {loggedIn && screen === 'path' && exam && (
           <ExamPath exam={exam} stats={stats} onBack={() => go('home')} autoOpen={startSubject.current}
+            canTrack={isAdmin(user) || isTeacher(user, role)}
+            onMakeRoom={async (subject, count) => {
+              try {
+                const r = await createRoom(user, { title: `${exam.name} · ${subject.name}`, examId: exam.id, subjectId: subject.id, count });
+                setRoom(r); go('roomHost');
+              } catch { alert('Gagal membuat bilik latihan.'); }
+            }}
             onStart={(subject, questions, m, y, limit) => {
               setYear(y);
               if (m === 'challenge') startChallenge(subject, questions, false, null, limit);
               else startQuiz(subject, questions, null, y, limit);
             }} />
+        )}
+        {loggedIn && screen === 'roomHost' && room && (
+          <RoomHost room={room} onBack={() => go('home')} onChange={setRoom} onPractise={playRoom} />
         )}
         {loggedIn && screen === 'quiz' && session && (
           <Quiz key={quizRun} session={session}

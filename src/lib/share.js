@@ -17,11 +17,19 @@ export function setLink({ setId, count }) {
   return u.toString();
 }
 
+// Bilik latihan (soalan bank rasmi, boleh jejak): /?bilik=<roomId>
+export function roomLink({ roomId }) {
+  const u = new URL(location.origin + '/');
+  u.searchParams.set('bilik', roomId);
+  return u.toString();
+}
+
 // Baca parameter kongsi daripada URL semasa. Pulangkan null jika tiada.
 export function readShare(search = location.search) {
   const q = new URLSearchParams(search);
   const bil = parseInt(q.get('bil'), 10);
   const count = Number.isFinite(bil) && bil > 0 ? bil : null;
+  if (q.get('bilik')) return { kind: 'room', roomId: q.get('bilik') };
   if (q.get('set')) return { kind: 'set', setId: q.get('set'), count };
   if (q.get('subjek')) return { kind: 'subject', subjectId: q.get('subjek'), count };
   return null;
@@ -30,7 +38,7 @@ export function readShare(search = location.search) {
 // Buang parameter kongsi daripada bar alamat selepas digunakan (supaya refresh tidak ulang).
 export function clearShareParams() {
   const u = new URL(location.href);
-  ['subjek', 'bil', 'set'].forEach(k => u.searchParams.delete(k));
+  ['subjek', 'bil', 'set', 'bilik'].forEach(k => u.searchParams.delete(k));
   history.replaceState(null, '', u.pathname + (u.search || '') + u.hash);
 }
 
