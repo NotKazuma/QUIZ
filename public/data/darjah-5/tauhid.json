@@ -1,0 +1,492 @@
+[
+ {
+  "id": "darjah-5-tauhid-pat2022-01",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مڠتاهوءي دليل عقلي سچارا اجمالي؟",
+  "options": [
+   "سنة",
+   "هاروس",
+   "فرض عين",
+   "فرض كفايه"
+  ],
+  "answer": 2,
+  "explanation": "مڠتاهوءي دليل عقلي سچارا اجمالي اداله فرض عين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-02",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود اجمالي؟",
+  "options": [
+   "لڠكڤ",
+   "ريڠكس",
+   "هوراين",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 1,
+  "explanation": "اجمالي برمقصود سچارا ريڠكس (كسلوروهن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-03",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مڠتاهوءي دليل عقلي سچارا تفصيلي؟",
+  "options": [
+   "واجب",
+   "هاروس",
+   "فرض كفايه",
+   "فرض عين"
+  ],
+  "answer": 2,
+  "explanation": "مڠتاهوءي دليل عقلي سچارا تفصيلي اداله فرض كفايه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-04",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تمڤت برديرين عرض؟",
+  "options": [
+   "جرم",
+   "سديا",
+   "ككل",
+   "توڠݢل"
+  ],
+  "answer": 0,
+  "explanation": "عرض برديري ڤد جرم (جسم/بندا).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-05",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود سسواتو يڠ بهارو؟",
+  "options": [
+   "اد ڤرتيمبڠن",
+   "اد ڤروبهن",
+   "منتفشكن",
+   "منجاديكن"
+  ],
+  "answer": 1,
+  "explanation": "سسواتو يڠ بهارو (حادث) اياله يڠ مڠالمي ڤروبهن.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-06",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي دور ڤد بهاس؟",
+  "options": [
+   "رنتاين",
+   "ڤوترن",
+   "كجادين",
+   "سامبوڠن"
+  ],
+  "answer": 1,
+  "explanation": "دور ڤد بهاس برمقصود ڤوترن (كيترن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-07",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه دليل عقلي صيفت قدم؟",
+  "options": [
+   "قُلْ هُوَ اللَّهُ أَحَدٌ",
+   "هُوَ الأَوَّلُ وَالآخِرُ",
+   "لَيْسَ كَمِثْلِهِ شَيْءٌ",
+   "وَاللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ"
+  ],
+  "answer": 1,
+  "explanation": "\"هُوَ الأَوَّلُ وَالآخِرُ\" منونجوقكن صيفت قدم (الله يڠ اول تنڤا ڤرمولاءن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-08",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه لاون باݢي صيفت بقاء؟",
+  "options": [
+   "حدوث (بيناسا)",
+   "تعدد",
+   "عدم",
+   "موت"
+  ],
+  "answer": 0,
+  "explanation": "بقاء برمقصود ككل تياد كسودهن؛ لاوننڽ اياله بيناسا/حادث (تيدق ككل).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-09",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لَيْسَ كَمِثْلِهِ شَيْءٌ اداله دليل صيفت",
+  "options": [
+   "قدرة",
+   "وحدانية",
+   "قيامه تعالى بنفسه",
+   "مخالفته تعالى للحوادث"
+  ],
+  "answer": 3,
+  "explanation": "\"لَيْسَ كَمِثْلِهِ شَيْءٌ\" منونجوقكن صيفت مخالفته للحوادث (الله تيدق سروڤا دڠن مخلوق).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-10",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممرلوكن تمڤت برديري (محل) دان ڤنچيڤتا اداله چيري",
+  "options": [
+   "جرم",
+   "عرض",
+   "ذات",
+   "دلالة"
+  ],
+  "answer": 1,
+  "explanation": "عرض ممرلوكن محل (تمڤت) اونتوق برديري دان ممرلوكن ڤنچيڤتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-11",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن جك الله بريبيلڠ-بيلڠ اياله",
+  "options": [
+   "هيدوڤ سجهترا",
+   "دنيا امان دان داماي",
+   "ماءنسي برساتو ڤادو",
+   "عالم اكن بيناسا"
+  ],
+  "answer": 3,
+  "explanation": "جك الله بريبيلڠ-بيلڠ، عالم اكن بيناسا (هوجه كمونكينن برلاكو ڤرتنتڠن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-12",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو صيفت مستحيل باݢي الله تعالى اياله",
+  "options": [
+   "بيسو",
+   "مليهت",
+   "مندڠر",
+   "بركهندق"
+  ],
+  "answer": 0,
+  "explanation": "بيسو اداله صيفت مستحيل باݢي الله (لاون صيفت كلام).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-13",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم الله منجاديكن مخلوق اداله",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "منجاديكن مخلوق اداله هاروس باݢي الله (بوكن واجب اتس-ڽ).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-14",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم الله تعالى منجاديكن اتاو تيدق منجاديكن سواتو ممكن اداله",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "منجاديكن اتاو منيڠݢلكن سسواتو يڠ ممكن اداله هاروس باݢي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-15",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين صيفت سلبية اياله",
+  "options": [
+   "ثبوتية",
+   "عدمية (سلبية)",
+   "وجودية",
+   "حالية"
+  ],
+  "answer": 1,
+  "explanation": "صيفت سلبية دناماكن جوݢ صيفت سلبي/عدمية كران منفيكن ككورڠن درڤد الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-16",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت يڠ هاڽ مروجوع كڤد ذات الله اياله",
+  "options": [
+   "قدم",
+   "بقاء",
+   "وجود",
+   "وحدانية"
+  ],
+  "answer": 2,
+  "explanation": "وجود اداله صيفت نفسية يڠ مروجوع كڤد ذات الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-17",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت سلبية كچوالي",
+  "options": [
+   "قدم",
+   "وحدانية",
+   "بقاء",
+   "سمع"
+  ],
+  "answer": 3,
+  "explanation": "سمع اداله صيفت معاني، بوكن صيفت سلبية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-18",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت صيفت يڠ ترماسوق بهاݢين معنوية كچوالي",
+  "options": [
+   "كَوْنُهُ قَادِرًا",
+   "كَوْنُهُ مُرِيدًا",
+   "كَوْنُهُ مَيِّتًا",
+   "كَوْنُهُ بَصِيرًا"
+  ],
+  "answer": 2,
+  "explanation": "\"كَوْنُهُ مَيِّتًا\" (كأداءن ماتي) بوكن صيفت معنوية، بهكن مستحيل باݢي الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-19",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه صيفت يڠ ترماسوق دالم بهاݢين معاني؟",
+  "options": [
+   "قدم دان علم",
+   "علم دان بصر",
+   "علم دان كونه حيا",
+   "بصر دان كونه حيا"
+  ],
+  "answer": 1,
+  "explanation": "علم دان بصر اداله صيفت معاني؛ قدم صيفت سلبية دان كونه حيا صيفت معنوية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-20",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيݢ ڤركارا يڠ مستي دكتهوءي دالم ممبحثكن صيفت يڠ برتعلّق اياله",
+  "options": [
+   "روا، تمڤت دان بنتوق",
+   "تمڤت دان بنتوق",
+   "روا، تمڤت دان بهاݢين",
+   "تمڤت، بنتوق دان بهاݢين"
+  ],
+  "answer": 0,
+  "explanation": "دالم ممبحثكن صيفت يڠ برتعلّق، ڤرلو دكتهوءي روا، تمڤت دان بنتوق تعلّقڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-21",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠتاهوءي دليل نقلي سچارا تفصيلي اداله فرض كفايه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مڠتاهوءي دليل نقلي سچارا تفصيلي اداله فرض كفايه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-22",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهارو عالم اين تندا كوجودن الله تعالى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كبهاروان (حدوث) عالم اين منجادي تندا كوجودن الله سباݢاي ڤنچيڤتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-23",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت قدرة اياله عدم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "لاون صيفت قدرة اياله عجز (لمه)، بوكن عدم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-24",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت سلبية دناماكن جوݢ صيفت عدمية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صيفت سلبية دناماكن جوݢ صيفت عدمية كران منفيكن ككورڠن درڤد الله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2022-25",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤونچا تربيت صيفت معنوية اياله صيفت سلبية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "صيفت معنوية تربيت درڤد صيفت معاني، بوكن صيفت سلبية.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ }
+]

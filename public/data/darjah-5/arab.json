@@ -1,0 +1,492 @@
+[
+ {
+  "id": "darjah-5-arab-pat2022-01",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "حَوِّلْ \"١٠٦\" بِالكَلِمَةِ.",
+  "options": [
+   "مِائَةٌ وَسِتَّةٌ",
+   "مِائَةٌ وَثَمَانِيَةٌ",
+   "مِائَةٌ وَتِسْعَةٌ",
+   "مِائَةٌ وَعَشَرَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "١٠٦ = مِائَةٌ وَسِتَّةٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-02",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَمْ رِنْجِيتًا؟ (RM 138)",
+  "options": [
+   "مِائَةٌ وَخَمْسَةٌ وَثَلَاثُوْنَ",
+   "مِائَةٌ وَثَمَانِيَةٌ وَثَلَاثُوْنَ",
+   "مِائَةٌ وَإِثْنَانِ وَثَلَاثُوْنَ",
+   "مِائَةٌ وَثَلَاثَةٌ وَأَرْبَعُوْنَ"
+  ],
+  "answer": 1,
+  "explanation": "١٣٨ = مِائَةٌ وَثَمَانِيَةٌ وَثَلَاثُوْنَ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-03",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَيُّ الضَّمِيْرِ الغَائِبِ؟",
+  "options": [
+   "أَنَا",
+   "هُوَ",
+   "أَنْتَ",
+   "نَحْنُ"
+  ],
+  "answer": 1,
+  "explanation": "\"هُوَ\" ضَمِيْرُ الغَائِبِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-04",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَيْفَ حَالُكَ؟",
+  "options": [
+   "الحَمْدُلِلَّه",
+   "صَبَاحُ النُّوْرِ",
+   "مَسَاءُ النُّوْرِ",
+   "شُكْرًا جَزِيْلًا"
+  ],
+  "answer": 0,
+  "explanation": "جَوَابُ \"كَيْفَ حَالُكَ\" هُوَ \"الحَمْدُلِلَّه\".",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-05",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنِ الفِعْلَ مِمَّا يَأْتِي.",
+  "options": [
+   "المَاءُ",
+   "عَنْ",
+   "نَأْخُذُ",
+   "الرِّيَاضَةُ"
+  ],
+  "answer": 2,
+  "explanation": "\"نَأْخُذُ\" فِعْلٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-06",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنِ الفِعْلَ المُضَارِعَ لِلْمُخَاطَبِ.",
+  "options": [
+   "يَدْخُلُ",
+   "يَدْخُلَانِ",
+   "يَدْخُلُوْنَ",
+   "تَدْخُلَانِ"
+  ],
+  "answer": 3,
+  "explanation": "فِعْلُ المُخَاطَبِ يَبْدَأُ بِالتَّاءِ، مِثْلُ \"تَدْخُلَانِ\".",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-07",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَيُّ الضَّمِيْرِ المُتَكَلِّمِ؟",
+  "options": [
+   "أَنَا",
+   "أَنْتَ",
+   "هُمَا",
+   "أَنْتُمَا"
+  ],
+  "answer": 0,
+  "explanation": "\"أَنَا\" ضَمِيْرُ المُتَكَلِّمِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-08",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِخْتَرِ الفِعْلَ المُضَارِعَ مِمَّا يَأْتِي.",
+  "options": [
+   "هُمَا",
+   "الأَرْنَبُ",
+   "يُرِيْدُ",
+   "مُسَاعَدَةٌ"
+  ],
+  "answer": 2,
+  "explanation": "\"يُرِيْدُ\" فِعْلٌ مُضَارِعٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-09",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "شَاطِئُ الجَزِيْرَةِ فِي جُوهُور يُوْجَدُ فِي _______.",
+  "options": [
+   "مُوَار",
+   "مِرْسِيْڠ",
+   "كْلُوَاڠ",
+   "سِيݢَامَت"
+  ],
+  "answer": 1,
+  "explanation": "مِرْسِيْڠ (Mersing) مَشْهُوْرَةٌ بِشَوَاطِئِهَا فِي جُوهُور.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-10",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ أَمْثِلَةِ المَلَابِسِ هِيَ _______.",
+  "options": [
+   "السِّرْوَالُ",
+   "الشَّمْبُو",
+   "الصَّابُوْن",
+   "فُرْسَةُ الأَسْنَانِ"
+  ],
+  "answer": 0,
+  "explanation": "\"السِّرْوَالُ\" (seluar) مِنَ المَلَابِسِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-11",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"pilihlah kasut\" بِاللُّغَةِ العَرَبِيَّةِ هِيَ _______.",
+  "options": [
+   "اِحْمِلِ الحَقِيْبَةَ",
+   "اِخْتَرِ الحِذَاءَ",
+   "اِطْوِ المَلَابِسَ",
+   "اِجْمَعِ الآتِيَ"
+  ],
+  "answer": 1,
+  "explanation": "pilihlah kasut = اِخْتَرِ الحِذَاءَ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-12",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ أَمْثِلَةِ الفَوَاكِهِ هِيَ _______.",
+  "options": [
+   "البَابَايَا",
+   "الفُلْفُل",
+   "البَاذِنْجَان",
+   "الفَاصُوْلِيَا"
+  ],
+  "answer": 0,
+  "explanation": "\"البَابَايَا\" (betik) مِنَ الفَوَاكِهِ؛ البَاقِي خَضْرَاوَاتٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-13",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "وَجَدْتُ فِي السُّوْقِ الزِّرَاعِيِّ _______.",
+  "options": [
+   "الدَّوَاءُ",
+   "الخَضْرَاوَاتُ",
+   "آلَةُ الرِّيَاضِيَّةِ",
+   "آلَةُ الدِّرَاسَةِ"
+  ],
+  "answer": 1,
+  "explanation": "الخَضْرَاوَاتُ تُوْجَدُ فِي السُّوْقِ الزِّرَاعِيِّ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-14",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسْمَاءُ الِاسْتِفْهَامِ هِيَ اسْمٌ _______.",
+  "options": [
+   "مَجْرُوْرٌ",
+   "مَبْنِيٌّ",
+   "مُعْرَبٌ",
+   "مَرْفُوْعٌ"
+  ],
+  "answer": 1,
+  "explanation": "أَسْمَاءُ الِاسْتِفْهَامِ مَبْنِيَّةٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-15",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ أَمْثِلَةِ أَسْمَاءِ الِاسْتِفْهَامِ هِيَ _______.",
+  "options": [
+   "مِنْ",
+   "وَ",
+   "أَوْ",
+   "كَيْفَ"
+  ],
+  "answer": 3,
+  "explanation": "\"كَيْفَ\" مِنْ أَسْمَاءِ الِاسْتِفْهَامِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-16",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "تُقَامُ فِي ١٢ رَبِيْعِ الأَوَّلِ الِاحْتِفَالُ بِذِكْرَى _______.",
+  "options": [
+   "نُزُوْلِ القُرْءَانِ",
+   "الإِسْرَاءِ وَالمِعْرَاجِ",
+   "مَوْلِدِ الرَّسُوْلِ",
+   "يَوْمِ الِاسْتِقْلَالِ"
+  ],
+  "answer": 2,
+  "explanation": "فِي ١٢ رَبِيْعِ الأَوَّلِ يُحْتَفَلُ بِمَوْلِدِ الرَّسُوْلِ ﷺ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-17",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كُلُّ مَا يَأْتِي مِنْ بَرْنَامِجِ الِاحْتِفَالِ بِمَوْلِدِ الرَّسُوْلِ إِلَّا _______.",
+  "options": [
+   "المُحَاضَرَةُ",
+   "الأَنَاشِيْدُ الدِّيْنِيَّةُ",
+   "تَوْزِيْعُ الطَّعَامِ",
+   "لَعَبُ الكُرَةِ الرِّيْشِ"
+  ],
+  "answer": 3,
+  "explanation": "لَعَبُ الكُرَةِ الرِّيْشِ لَيْسَ مِنْ بَرْنَامِجِ الِاحْتِفَالِ بِمَوْلِدِ الرَّسُوْلِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-18",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الكَلِمَاتُ الآتِيَةُ هِيَ مِنَ اسْمِ المُفْرَدِ إِلَّا _______.",
+  "options": [
+   "الحَقْلُ",
+   "الحَاصِدُ",
+   "الفَلَّاحُ",
+   "الحُقُوْلُ"
+  ],
+  "answer": 3,
+  "explanation": "\"الحُقُوْلُ\" جَمْعٌ، وَلَيْسَ مُفْرَدًا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-19",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِسْتَخْرِجِ الأَسْمَاءَ مِنْ \"الفَلَّاحُ يَخْرُجُ إِلَى الحُقُوْلِ فِي الصَّبَاحِ\".",
+  "options": [
+   "يَخْرُجُ وَالفَلَّاحُ",
+   "يَخْرُجُ، الفَلَّاحُ وَالصَّبَاحُ",
+   "يَخْرُجُ، الصَّبَاحُ وَالحُقُوْلُ",
+   "الفَلَّاحُ، الصَّبَاحُ وَالحُقُوْلُ"
+  ],
+  "answer": 3,
+  "explanation": "الأَسْمَاءُ: الفَلَّاحُ، الصَّبَاحُ وَالحُقُوْلُ؛ \"يَخْرُجُ\" فِعْلٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-20",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "التَّسْهِيْلَاتُ فِي القَرْيَةِ مِنْهَا _______.",
+  "options": [
+   "المَسْجِدُ وَالمَدْرَسَةُ",
+   "المَسْجِدُ وَالفُنْدُقُ",
+   "المَدْرَسَةُ وَالفُنْدُقُ",
+   "الفُنْدُقُ وَالمُسْتَشْفَى"
+  ],
+  "answer": 0,
+  "explanation": "المَسْجِدُ وَالمَدْرَسَةُ مِنَ التَّسْهِيْلَاتِ فِي القَرْيَةِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-21",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِائَةٌ وَعِشْرُوْنَ = ١٢٠.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "مِائَةٌ وَعِشْرُوْنَ = ١٢٠.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-22",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هِيَ مُمَرِّضَةٌ مَاهِرَةٌ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "\"هِيَ مُمَرِّضَةٌ مَاهِرَةٌ\" جُمْلَةٌ صَحِيحَةٌ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-23",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسْمَاءُ الجَزِيْرَةِ كَثِيْرَةٌ مِنْهَا \"جَزِيْرَةُ سِيبُو\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "جَزِيْرَةُ سِيبُو (Pulau Sibu) مِنْ جُزُرِ جُوهُور.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-24",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"pasar malam\" بِاللُّغَةِ العَرَبِيَّةِ هِيَ \"سُوْقُ اللَّيْلِ\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "pasar malam = سُوْقُ اللَّيْلِ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2022-25",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "وُلِدَ النَّبِيُّ مُحَمَّدٌ ﷺ فِي شَهْرِ رَمَضَانَ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "وُلِدَ النَّبِيُّ ﷺ فِي شَهْرِ رَبِيْعِ الأَوَّلِ، لَا رَمَضَانَ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ }
+]
