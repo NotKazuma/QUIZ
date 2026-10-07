@@ -178,25 +178,6 @@ export default function App() {
 
   useEffect(() => { window.scrollTo(0, 0); }, [screen]);
 
-  // Pautan kongsi set cikgu (/?set=..): muat set, mula latihan terus.
-  useEffect(() => {
-    if (!loggedIn || !startSet.current) return;
-    const { setId, count } = startSet.current;
-    startSet.current = null;
-    (async () => {
-      try {
-        const set = await getSet(setId);
-        if (!set) { alert('Set latihan ini tidak dijumpai.'); return; }
-        if (set.shareOpen === false) { alert('Pautan latihan ini telah ditutup oleh cikgu.'); return; }
-        const qs = objectiveOnly(set.questions || []);
-        if (!qs.length) { alert('Set latihan ini kosong.'); return; }
-        await startQuiz({ id: set.id, name: set.title, sharedSetId: set.id }, qs, null, null, count);
-      } catch {
-        alert('Gagal memuat set latihan yang dikongsi.');
-      }
-    })();
-  }, [loggedIn]); // eslint-disable-line react-hooks/exhaustive-deps
-
   function go(next) { setScreen(next); }
 
   // Butang Back/Forward pelayar.
@@ -509,6 +490,25 @@ export default function App() {
   // Wajib pilih nama dahulu selepas log masuk pertama.
   const needsName = Boolean(user && dataReady && !prefs.displayName);
   const loggedIn = user && dataReady && !needsName;
+
+  // Pautan kongsi set cikgu (/?set=..): muat set, mula latihan terus.
+  useEffect(() => {
+    if (!loggedIn || !startSet.current) return;
+    const { setId, count } = startSet.current;
+    startSet.current = null;
+    (async () => {
+      try {
+        const set = await getSet(setId);
+        if (!set) { alert('Set latihan ini tidak dijumpai.'); return; }
+        if (set.shareOpen === false) { alert('Pautan latihan ini telah ditutup oleh cikgu.'); return; }
+        const qs = objectiveOnly(set.questions || []);
+        if (!qs.length) { alert('Set latihan ini kosong.'); return; }
+        await startQuiz({ id: set.id, name: set.title, sharedSetId: set.id }, qs, null, null, count);
+      } catch {
+        alert('Gagal memuat set latihan yang dikongsi.');
+      }
+    })();
+  }, [loggedIn]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Kemas kini URL mengikut halaman; halaman tanpa data (cth. /kuiz selepas refresh) → Utama.
   useEffect(() => {
