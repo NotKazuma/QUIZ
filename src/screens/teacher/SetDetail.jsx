@@ -3,7 +3,7 @@ import { useState } from 'react';
 import QuestionBank from '../../components/QuestionBank.jsx';
 import { BackButton, PageHead } from '../../components/ui.jsx';
 import {
-  copyIntoSet, deleteSet, newSetQuestion, renameSet, saveSetQuestions,
+  copyIntoSet, deleteSet, listSetAttempts, newSetQuestion, renameSet, saveSetQuestions, setShareOpen,
 } from '../../lib/teacherSets.js';
 import OfficialPicker from './OfficialPicker.jsx';
 import Emoji from '../../components/Emoji.jsx';
@@ -18,6 +18,15 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
   const [subjectLabel, setSubjectLabel] = useState(set.subjectLabel || '');
   const [shareCount, setShareCount] = useState(null); // null = semua soalan
   const [copied, setCopied] = useState(false);
+  const [results, setResults] = useState(null);       // keputusan murid yang menjawab pautan
+  const [loadingRes, setLoadingRes] = useState(false);
+
+  async function loadResults() {
+    setLoadingRes(true);
+    try { setResults(await listSetAttempts(set.id)); }
+    catch { alert('Gagal memuat keputusan.'); }
+    finally { setLoadingRes(false); }
+  }
 
   async function persist(next) {
     setSaving(true);
@@ -97,23 +106,61 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
       {set.questions.length > 0 && !renaming && (
         <div className="card share-card">
           <span className="sheet-label"><Emoji e="🔗" /> Kongsi latihan ini</span>
-          <p className="muted-note">Hantar pautan kepada murid. Mereka boleh berlatih tanpa akaun cikgu.</p>
-          {countOptions(set.questions.length).length > 0 && (
-            <div className="count-chips" role="radiogroup" aria-label="Bilangan soalan">
-              {countOptions(set.questions.length).map(n => (
-                <button key={n} className={'chip' + (shareCount === n ? ' is-active' : '')}
-                  onClick={() => setShareCount(n)}>{n}</button>
-              ))}
-              <button className={'chip' + (shareCount === null ? ' is-active' : '')}
-                onClick={() => setShareCount(null)}>Semua ({set.questions.length})</button>
-            </div>
-          )}
-          <button className="btn btn-primary" onClick={async () => {
-            const ok = await copyLink(setLink({ setId: set.id, count: shareCount }));
-            setCopied(ok); setTimeout(() => setCopied(false), 2000);
+
+          {/* Suis buka/tutup — pautan yang ditutup tidak boleh dijawab (elak orang luar). */}
+          <button className={'btn ' + (set.shareOpen ? 'btn-outline' : 'btn-primary')} onClick={async () => {
+            try { onChange(await setShareOpen(set, !set.shareOpen)); }
+            catch { alert('Gagal menukar status pautan.'); }
           }}>
-            <Emoji e="📋" /> {copied ? 'Pautan disalin!' : 'Salin pautan latihan'}
+            <Emoji e={set.shareOpen ? '🔓' : '🔒'} /> {set.shareOpen ? 'Pautan DIBUKA — tekan untuk tutup' : 'Buka pautan untuk dikongsi'}
           </button>
+
+          {set.shareOpen ? (
+            <>
+              <p className="muted-note">Hantar pautan kepada murid. Tutup semula bila selesai supaya orang luar tidak boleh menjawab.</p>
+              {countOptions(set.questions.length).length > 0 && (
+                <div className="count-chips" role="radiogroup" aria-label="Bilangan soalan">
+                  {countOptions(set.questions.length).map(n => (
+                    <button key={n} className={'chip' + (shareCount === n ? ' is-active' : '')}
+                      onClick={() => setShareCount(n)}>{n}</button>
+                  ))}
+                  <button className={'chip' + (shareCount === null ? ' is-active' : '')}
+                    onClick={() => setShareCount(null)}>Semua ({set.questions.length})</button>
+                </div>
+              )}
+              <button className="btn btn-primary" onClick={async () => {
+                const ok = await copyLink(setLink({ setId: set.id, count: shareCount }));
+                setCopied(ok); setTimeout(() => setCopied(false), 2000);
+              }}>
+                <Emoji e="📋" /> {copied ? 'Pautan disalin!' : 'Salin pautan latihan'}
+              </button>
+            </>
+          ) : (
+            <p className="muted-note">Pautan ditutup — murid tidak boleh menjawab. Buka dahulu untuk mendapat pautan.</p>
+          )}
+
+          <button className="btn btn-ghost" onClick={loadResults} disabled={loadingRes}>
+            <Emoji e="📊" /> {loadingRes ? 'Memuat…' : 'Lihat siapa menjawab'}
+          </button>
+
+          {results && (
+            results.length === 0 ? (
+              <p className="muted-note">Belum ada murid menjawab pautan ini.</p>
+            ) : (
+              <div className="attempts">
+                <div className="attempts-head"><span>Nama</span><span>Terbaik</span><span>Terakhir</span><span>Cubaan</span></div>
+                {results.map(a => (
+                  <div className="attempts-row" key={a.uid}>
+                    <span className="at-name">{a.name}</span>
+                    <span className="at-best">{a.best}%</span>
+                    <span>{a.lastScore}/{a.lastTotal}</span>
+                    <span>{a.attempts}×</span>
+                  </div>
+                ))}
+                <p className="muted-note">{results.length} murid · tekan semula untuk kemas kini</p>
+              </div>
+            )
+          )}
         </div>
       )}
 

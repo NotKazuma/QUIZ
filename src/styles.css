@@ -1052,6 +1052,12 @@ p { margin: 0; }
 .share-card { margin-top: 14px; display: grid; gap: 8px; text-align: center; }
 .share-card .count-chips { margin-top: 2px; }
 .muted-note { margin: 0; color: var(--muted-foreground); font-size: 0.85rem; }
+.attempts { margin-top: 10px; display: grid; gap: 4px; text-align: left; }
+.attempts-head, .attempts-row { display: grid; grid-template-columns: 1fr auto auto auto; gap: 10px; align-items: center; padding: 8px 10px; border-radius: 10px; }
+.attempts-head { font-weight: 800; font-size: 0.8rem; color: var(--muted-foreground); }
+.attempts-row { background: var(--card); border: 1px solid var(--border); font-size: 0.9rem; }
+.attempts-row .at-name { font-weight: 700; }
+.attempts-row .at-best { font-weight: 800; color: var(--primary); }
 .admin-questions > .input { margin-bottom: 8px; }
 .admin-questions > .btn-lg { margin-bottom: 4px; }
 .q-row { display: grid; gap: 8px; padding: 12px 14px; }

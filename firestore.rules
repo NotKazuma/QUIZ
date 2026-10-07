@@ -124,12 +124,25 @@ service cloud.firestore {
     // Set soalan cikgu (berasingan daripada bank rasmi). Pemilik & admin sahaja.
     // Murid menerima salinan soalan melalui kerja rumah / perlumbaan, bukan terus dari sini.
     match /teacherSets/{sid} {
-      allow read: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+      // get dibenarkan untuk sesiapa yang log masuk supaya pautan kongsi set boleh dibuka;
+      // list (senarai semua set) hanya untuk pemilik atau admin.
+      allow get: if signedIn();
+      allow list: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
       allow create: if canTeach() && request.resource.data.ownerUid == request.auth.uid;
       allow update: if isAdmin()
         || (signedIn() && resource.data.ownerUid == request.auth.uid
             && request.resource.data.ownerUid == request.auth.uid);
       allow delete: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
+
+      // Keputusan murid yang menjawab pautan kongsi.
+      match /attempts/{uid} {
+        // Murid menulis rekod sendiri — hanya jika pautan set sedang DIBUKA (elak orang luar bila ditutup).
+        allow write: if signedIn() && uid == request.auth.uid
+          && get(/databases/$(database)/documents/teacherSets/$(sid)).data.shareOpen == true;
+        allow read: if isAdmin()
+          || (signedIn()
+              && get(/databases/$(database)/documents/teacherSets/$(sid)).data.ownerUid == request.auth.uid);
+      }
     }
 
     // Profil awam: avatar, nama paparan, gelaran & statistik ringkas. Pengguna log masuk boleh baca; pemilik sahaja tulis.

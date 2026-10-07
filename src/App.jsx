@@ -34,7 +34,7 @@ import { savePublicProfile } from './lib/publicProfile.js';
 import { applyTheme } from './lib/theme.js';
 import { NEEDS_STATE, parsePath, pathFor } from './lib/routes.js';
 import { clearShareParams, readShare } from './lib/share.js';
-import { getSet } from './lib/teacherSets.js';
+import { getSet, submitSetAttempt } from './lib/teacherSets.js';
 import LoadingScreen, { hideBootSplash } from './components/LoadingScreen.jsx';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
@@ -186,9 +186,11 @@ export default function App() {
     (async () => {
       try {
         const set = await getSet(setId);
-        const qs = objectiveOnly(set?.questions || []);
-        if (!qs.length) { alert('Set latihan ini tidak dijumpai atau kosong.'); return; }
-        await startQuiz({ id: set.id, name: set.title }, qs, null, null, count);
+        if (!set) { alert('Set latihan ini tidak dijumpai.'); return; }
+        if (!set.shareOpen) { alert('Pautan latihan ini telah ditutup oleh cikgu.'); return; }
+        const qs = objectiveOnly(set.questions || []);
+        if (!qs.length) { alert('Set latihan ini kosong.'); return; }
+        await startQuiz({ id: set.id, name: set.title, sharedSetId: set.id }, qs, null, null, count);
       } catch {
         alert('Gagal memuat set latihan yang dikongsi.');
       }
@@ -376,6 +378,8 @@ export default function App() {
       assignment: hw ? { id: hw.id, classId: hw.classId, title: hw.title, dueAt: hw.dueAt ?? null } : null,
       // Soalan set cikgu tiada dalam fail subjek, jadi salinannya disimpan untuk disambung kemudian.
       snapshot: hw?.questions ? questions : null,
+      // Pautan kongsi set cikgu: keputusan dijejak kembali kepada pemilik set.
+      sharedSetId: subject.sharedSetId || null,
       savedAt: new Date().toISOString(),
     };
     saveSession(user.uid, raw);
@@ -437,6 +441,8 @@ export default function App() {
     setSaved(null);
     updateStats(recordQuizEnd(statsRef.current, { examId: exam?.id, subjectId, score: r.score, total: r.total }));
     if (apiEnabled) api('finish', { mode: 'practice' }).then(syncWallet).catch(() => {});
+    // Pautan kongsi set cikgu: hantar keputusan kepada pemilik set untuk dijejak.
+    if (session?.sharedSetId) submitSetAttempt(session.sharedSetId, user, r).catch(() => {});
     afterQuiz(r);
     setResult(r);
     go('result');

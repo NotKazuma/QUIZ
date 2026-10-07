@@ -7,6 +7,40 @@ import { getDb } from './firebase.js';
 
 const db = () => getDb();
 
+// ===== Penjejakan keputusan pautan kongsi =====
+// teacherSets/{sid}/attempts/{uid}: { name, best, lastScore, lastTotal, attempts, lastAt }
+// Satu rekod per murid — simpan markah terbaik dan cubaan terakhir.
+export async function submitSetAttempt(setId, user, result) {
+  const ref = doc(db(), 'teacherSets', setId, 'attempts', user.uid);
+  const now = new Date().toISOString();
+  const pct = result.total ? Math.round((result.score / result.total) * 100) : 0;
+  let prev = null;
+  try { const s = await getDoc(ref); if (s.exists()) prev = s.data(); } catch { /* cubaan pertama */ }
+  await setDoc(ref, {
+    uid: user.uid,
+    name: user.name || 'Murid',
+    best: Math.max(pct, prev?.best || 0),
+    lastScore: result.score,
+    lastTotal: result.total,
+    lastPct: pct,
+    attempts: (prev?.attempts || 0) + 1,
+    lastAt: now,
+    firstAt: prev?.firstAt || now,
+  });
+}
+
+export async function listSetAttempts(setId) {
+  const snap = await getDocs(collection(db(), 'teacherSets', setId, 'attempts'));
+  return snap.docs.map(d => d.data()).sort((a, b) => (b.lastAt || '').localeCompare(a.lastAt || ''));
+}
+
+// Buka/tutup pautan kongsi. Pautan yang ditutup tidak boleh dijawab (elak orang luar).
+export async function setShareOpen(set, open) {
+  const updatedAt = new Date().toISOString();
+  await updateDoc(doc(db(), 'teacherSets', set.id), { shareOpen: open, updatedAt });
+  return { ...set, shareOpen: open, updatedAt };
+}
+
 export const SET_EXAM_LABEL = 'Soalan Cikgu';
 
 export async function listMySets(uid) {
@@ -34,6 +68,7 @@ export async function createSet(user, { title, subjectLabel }) {
     title: title.trim(),
     subjectLabel: (subjectLabel || '').trim(),
     questions: [],
+    shareOpen: false,   // pautan kongsi ditutup sehingga cikgu membukanya
     createdAt: now,
     updatedAt: now,
   };
