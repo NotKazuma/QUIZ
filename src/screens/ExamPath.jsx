@@ -19,7 +19,7 @@ const emojiFor = id => SUBJECT_EMOJI.find(([re]) => re.test(id))?.[1] || '📘';
 // Anjakan mendatar (px) untuk corak zigzag.
 const ZIGZAG = [0, 64, 96, 64, 0, -64, -96, -64];
 
-export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, canTrack, onMakeRoom }) {
+export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, onMakeRoom }) {
   const [bySubject, setBySubject] = useState(null);
   const [year, setYear] = useState(null);   // null = semua tahun
   const [open, setOpen] = useState(null);   // subjek yang dibuka dalam panel bawah
@@ -154,7 +154,7 @@ export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, canTr
               }}>
                 <Emoji e="🔗" /> {copied ? 'Pautan disalin!' : 'Kongsi pautan latihan'}
               </button>
-              {canTrack && (
+              {onMakeRoom && (
                 <button className="btn btn-purple" onClick={() => onMakeRoom(open.subject, count)}>
                   <Emoji e="📊" /> Buat pautan boleh jejak (bilik)
                 </button>

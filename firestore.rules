@@ -145,11 +145,11 @@ service cloud.firestore {
       }
     }
 
-    // Bilik latihan (soalan bank rasmi, awam & boleh jejak). Pemilik = cikgu/admin.
+    // Bilik latihan (soalan bank rasmi, awam & boleh jejak). Sesiapa boleh buat & kongsi.
     match /rooms/{rid} {
       allow get: if signedIn();                               // pautan bilik boleh dibuka sesiapa
       allow list: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);
-      allow create: if canTeach() && request.resource.data.ownerUid == request.auth.uid;
+      allow create: if signedIn() && request.resource.data.ownerUid == request.auth.uid;
       allow update: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid
         && request.resource.data.ownerUid == request.auth.uid);
       allow delete: if isAdmin() || (signedIn() && resource.data.ownerUid == request.auth.uid);

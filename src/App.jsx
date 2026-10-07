@@ -705,7 +705,6 @@ export default function App() {
         )}
         {loggedIn && screen === 'path' && exam && (
           <ExamPath exam={exam} stats={stats} onBack={() => go('home')} autoOpen={startSubject.current}
-            canTrack={isAdmin(user) || isTeacher(user, role)}
             onMakeRoom={async (subject, count) => {
               try {
                 const r = await createRoom(user, { title: `${exam.name} · ${subject.name}`, examId: exam.id, subjectId: subject.id, count });
