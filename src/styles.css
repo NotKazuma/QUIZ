@@ -1058,6 +1058,16 @@ p { margin: 0; }
 .attempts-row { background: var(--card); border: 1px solid var(--border); font-size: 0.9rem; }
 .attempts-row .at-name { font-weight: 700; }
 .attempts-row .at-best { font-weight: 800; color: var(--primary); }
+
+/* Senarai bilik latihan */
+.room-list { display: grid; gap: 10px; margin-top: 12px; }
+.room-card { display: flex; align-items: center; justify-content: space-between; gap: 10px; width: 100%; text-align: left; padding: 14px 16px; background: var(--card); border: 1px solid var(--border); border-radius: 14px; cursor: pointer; }
+.room-info { display: grid; gap: 3px; min-width: 0; }
+.room-title { font-weight: 800; }
+.room-sub { font-size: 0.82rem; color: var(--muted-foreground); }
+.room-actions { display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+.room-go { font-weight: 700; font-size: 0.85rem; color: var(--primary); white-space: nowrap; }
+.room-del { font-size: 1.1rem; cursor: pointer; }
 .admin-questions > .input { margin-bottom: 8px; }
 .admin-questions > .btn-lg { margin-bottom: 4px; }
 .q-row { display: grid; gap: 8px; padding: 12px 14px; }

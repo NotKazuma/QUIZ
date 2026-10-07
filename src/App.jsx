@@ -37,6 +37,7 @@ import { clearShareParams, readShare } from './lib/share.js';
 import { getSet, submitSetAttempt } from './lib/teacherSets.js';
 import { createRoom, getRoom, submitRoomAttempt } from './lib/rooms.js';
 import RoomHost from './screens/RoomHost.jsx';
+import MyRooms from './screens/MyRooms.jsx';
 import LoadingScreen, { hideBootSplash } from './components/LoadingScreen.jsx';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
@@ -72,6 +73,7 @@ export default function App() {
   const startSubject = useRef(null);       // {subjectId, count} dari pautan kongsi — buka panel subjek automatik
   const startSet = useRef(null);           // {setId, count} dari pautan kongsi set cikgu
   const startRoom = useRef(null);          // {roomId} dari pautan bilik latihan (soalan bank rasmi)
+  const roomBack = useRef('home');         // skrin untuk kembali daripada RoomHost
   const pendingShare = useRef(readShare()); // pautan kongsi dari URL — untuk auto-log-masuk tetamu (public)
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
@@ -537,7 +539,7 @@ export default function App() {
       try {
         const r = await getRoom(roomId);
         if (!r) { alert('Bilik latihan ini tidak dijumpai.'); return; }
-        if (r.ownerUid === user.uid) { setRoom(r); go('roomHost'); return; }  // pemilik lihat keputusan
+        if (r.ownerUid === user.uid) { roomBack.current = 'home'; setRoom(r); go('roomHost'); return; }  // pemilik lihat keputusan
         if (r.open === false) { alert('Bilik latihan ini telah ditutup oleh cikgu.'); return; }
         await playRoom(r);
       } catch {
@@ -643,7 +645,7 @@ export default function App() {
             onApplyTeacher={() => go('apply-teacher')}
             onAdmin={() => go('admin')} onTeacher={() => go('teacher')} onClasses={() => go('classes')}
             onRace={() => { setRaceClass(null); go('race'); }} onGames={() => go('games')}
-            onStartHomework={startHomework}
+            onStartHomework={startHomework} onRooms={() => go('myRooms')}
             unlockedCount={Object.keys(unlocked).length}
             onResume={resumeQuiz} onDiscard={() => discardSaved()} onLink={link}
             onAchievements={() => go('achievements')}
@@ -708,7 +710,7 @@ export default function App() {
             onMakeRoom={async (subject, count) => {
               try {
                 const r = await createRoom(user, { title: `${exam.name} · ${subject.name}`, examId: exam.id, subjectId: subject.id, count });
-                setRoom(r); go('roomHost');
+                roomBack.current = 'myRooms'; setRoom(r); go('roomHost');
               } catch { alert('Gagal membuat bilik latihan.'); }
             }}
             onStart={(subject, questions, m, y, limit) => {
@@ -717,8 +719,11 @@ export default function App() {
               else startQuiz(subject, questions, null, y, limit);
             }} />
         )}
+        {loggedIn && screen === 'myRooms' && (
+          <MyRooms user={user} onBack={() => go('home')} onOpen={r => { roomBack.current = 'myRooms'; setRoom(r); go('roomHost'); }} />
+        )}
         {loggedIn && screen === 'roomHost' && room && (
-          <RoomHost room={room} onBack={() => go('home')} onChange={setRoom} onPractise={playRoom} />
+          <RoomHost room={room} onBack={() => go(roomBack.current)} onChange={setRoom} onPractise={playRoom} />
         )}
         {loggedIn && screen === 'quiz' && session && (
           <Quiz key={quizRun} session={session}

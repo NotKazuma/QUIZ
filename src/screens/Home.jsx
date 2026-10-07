@@ -19,7 +19,7 @@ const EXAM_EMOJI = {
 
 export default function Home({
   config, error, user, saved, stats, displayName, unlockedCount, admin, teacher, teacherBasis, teacherRequest, onApplyTeacher,
-  myClasses, onAdmin, onTeacher, onClasses, onRace, onGames, onStartHomework,
+  myClasses, onAdmin, onTeacher, onClasses, onRace, onGames, onStartHomework, onRooms,
   onResume, onDiscard, onLink, onAchievements, onSelectExam,
 }) {
   const [total, setTotal] = useState(0);
@@ -113,6 +113,8 @@ export default function Home({
             desc={`${unlockedCount}/${ACHIEVEMENTS.length} lencana dibuka`} onClick={onAchievements} />
           <MiniTile color="" emoji="🏫" title="Kelas saya"
             desc={myClasses.length ? `${myClasses.length} kelas · kerja rumah` : 'Sertai kelas cikgu'} onClick={onClasses} />
+          <MiniTile color="c-blue" emoji="📊" title="Bilik Latihan"
+            desc="Kongsi & jejak siapa menjawab" onClick={onRooms} />
           {teacher ? (
             <MiniTile color="c-purple" emoji="🧑‍🏫" title="Panel Cikgu"
               desc={teacherBasis === 'delima' ? '✅ DELIMa · kelas & soalan' : 'Kelas, soalan & laporan'} onClick={onTeacher} />
