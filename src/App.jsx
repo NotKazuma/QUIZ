@@ -6,7 +6,7 @@ import {
 import {
   authErrorMessage, clearSession, firebaseReady, linkGoogle, loadUserData, saveLook, saveMyClasses, saveProfile, saveProgress,
   saveSession,
-  signOutUser, watchUser,
+  signInGuest, signOutUser, watchUser,
 } from './lib/firebase.js';
 import {
   REWARD, emptyStats, newlyUnlocked, recordAnswer, recordGameEnd, recordQuizEnd, recordRaceEnd, setKeepStreak,
@@ -69,6 +69,7 @@ export default function App() {
   const startExam = useRef(null);          // id peperiksaan dari /latihan/<id>, dipulih bila config sedia
   const startSubject = useRef(null);       // {subjectId, count} dari pautan kongsi — buka panel subjek automatik
   const startSet = useRef(null);           // {setId, count} dari pautan kongsi set cikgu
+  const pendingShare = useRef(readShare()); // pautan kongsi dari URL — untuk auto-log-masuk tetamu (public)
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
   const [subjectId, setSubjectId] = useState(null);
@@ -116,6 +117,12 @@ export default function App() {
 
   useEffect(() => watchUser(setUser), []);
 
+  // Pautan kongsi bersifat awam (gaya Quizizz): pelawat yang belum log masuk
+  // dimasukkan sebagai Tetamu secara automatik supaya boleh terus menjawab.
+  useEffect(() => {
+    if (user === null && pendingShare.current && firebaseReady) signInGuest().catch(() => {});
+  }, [user]);
+
   // Admin: semua tanpa had (syiling, barang, kuasa) & hari berturut tidak putus.
   useEffect(() => {
     const admin = isAdmin(user);
@@ -138,7 +145,8 @@ export default function App() {
     const start = startRoute.current;
     startRoute.current = null;
     // Pautan kongsi: /latihan/<id>?subjek=..&bil=.. atau /?set=..&bil=..
-    const share = readShare();
+    const share = pendingShare.current;
+    pendingShare.current = null;
     if (share?.kind === 'subject' && start?.examId) {
       startSubject.current = { subjectId: share.subjectId, count: share.count };
       setScreen('path'); startExam.current = start.examId;

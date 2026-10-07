@@ -106,7 +106,8 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
       {set.questions.length > 0 && !renaming && (
         <div className="card share-card">
           <span className="sheet-label"><Emoji e="🔗" /> Kongsi latihan ini</span>
-          <p className="muted-note">Keputusan pautan ini hanya untuk set anda — tidak bercampur dengan set cikgu lain, walaupun soalan serupa.</p>
+          <p className="muted-note">Awam — sesiapa dengan pautan boleh menjawab (Tetamu pun boleh, cuma masukkan nama). Keputusan hanya untuk set anda, tidak bercampur dengan set cikgu lain.</p>
+          <p className="muted-note">Nak jejak soalan bank rasmi? Tekan "Salin dari bank rasmi" di atas untuk masukkan soalan rasmi ke set ini, kemudian kongsi.</p>
 
           {set.shareOpen === false ? (
             <>
