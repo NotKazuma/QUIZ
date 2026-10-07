@@ -1045,6 +1045,13 @@ p { margin: 0; }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }
 .chip { min-height: 36px; padding: 0 16px; font: inherit; font-weight: 700; font-size: 0.9rem; color: var(--foreground); background: var(--card); border: 1px solid var(--border); border-radius: 999px; cursor: pointer; }
 .chip.is-active { background: var(--primary); color: var(--primary-foreground); border-color: var(--primary); }
+
+/* Pilih bilangan soalan untuk latihan + kad kongsi pautan */
+.count-chips { display: flex; flex-wrap: wrap; gap: 8px; margin: 2px 0 10px; justify-content: center; }
+.sheet-label { display: block; font-weight: 800; font-size: 0.95rem; margin: 6px 0 4px; text-align: center; }
+.share-card { margin-top: 14px; display: grid; gap: 8px; text-align: center; }
+.share-card .count-chips { margin-top: 2px; }
+.muted-note { margin: 0; color: var(--muted-foreground); font-size: 0.85rem; }
 .admin-questions > .input { margin-bottom: 8px; }
 .admin-questions > .btn-lg { margin-bottom: 4px; }
 .q-row { display: grid; gap: 8px; padding: 12px 14px; }

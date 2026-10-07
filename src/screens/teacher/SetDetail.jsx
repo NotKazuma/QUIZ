@@ -8,6 +8,7 @@ import {
 import OfficialPicker from './OfficialPicker.jsx';
 import Emoji from '../../components/Emoji.jsx';
 import { ask } from '../../components/ConfirmDialog.jsx';
+import { copyLink, countOptions, setLink } from '../../lib/share.js';
 
 export default function SetDetail({ config, set, adminView, onBack, onChange, onDeleted }) {
   const [saving, setSaving] = useState(false);
@@ -15,6 +16,8 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
   const [renaming, setRenaming] = useState(false);
   const [title, setTitle] = useState(set.title);
   const [subjectLabel, setSubjectLabel] = useState(set.subjectLabel || '');
+  const [shareCount, setShareCount] = useState(null); // null = semua soalan
+  const [copied, setCopied] = useState(false);
 
   async function persist(next) {
     setSaving(true);
@@ -87,6 +90,30 @@ export default function SetDetail({ config, set, adminView, onBack, onChange, on
           <button className="btn btn-outline" onClick={() => setPicking(true)}><Emoji e="📥" /> Salin dari bank rasmi</button>
           <button className="btn btn-ghost" onClick={() => setRenaming(true)}><Emoji e="✏️" /> Tukar nama</button>
           <button className="btn btn-ghost btn-danger" onClick={remove}>Padam set</button>
+        </div>
+      )}
+
+      {/* Kongsi set sebagai pautan latihan — murid tekan terus untuk berlatih. */}
+      {set.questions.length > 0 && !renaming && (
+        <div className="card share-card">
+          <span className="sheet-label"><Emoji e="🔗" /> Kongsi latihan ini</span>
+          <p className="muted-note">Hantar pautan kepada murid. Mereka boleh berlatih tanpa akaun cikgu.</p>
+          {countOptions(set.questions.length).length > 0 && (
+            <div className="count-chips" role="radiogroup" aria-label="Bilangan soalan">
+              {countOptions(set.questions.length).map(n => (
+                <button key={n} className={'chip' + (shareCount === n ? ' is-active' : '')}
+                  onClick={() => setShareCount(n)}>{n}</button>
+              ))}
+              <button className={'chip' + (shareCount === null ? ' is-active' : '')}
+                onClick={() => setShareCount(null)}>Semua ({set.questions.length})</button>
+            </div>
+          )}
+          <button className="btn btn-primary" onClick={async () => {
+            const ok = await copyLink(setLink({ setId: set.id, count: shareCount }));
+            setCopied(ok); setTimeout(() => setCopied(false), 2000);
+          }}>
+            <Emoji e="📋" /> {copied ? 'Pautan disalin!' : 'Salin pautan latihan'}
+          </button>
         </div>
       )}
 

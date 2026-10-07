@@ -6,6 +6,7 @@ import Magnet from '../components/bits/Magnet.jsx';
 import Mascot from '../components/Mascot.jsx';
 import { BackButton } from '../components/ui.jsx';
 import { filterByYear, loadExamQuestions, yearOf } from '../lib/quiz.js';
+import { copyLink, countOptions, practiceLink } from '../lib/share.js';
 import Emoji from '../components/Emoji.jsx';
 
 // Emoji subjek ikut kata kunci id.
@@ -18,10 +19,12 @@ const emojiFor = id => SUBJECT_EMOJI.find(([re]) => re.test(id))?.[1] || '📘';
 // Anjakan mendatar (px) untuk corak zigzag.
 const ZIGZAG = [0, 64, 96, 64, 0, -64, -96, -64];
 
-export default function ExamPath({ exam, stats, onBack, onStart }) {
+export default function ExamPath({ exam, stats, onBack, onStart, autoOpen }) {
   const [bySubject, setBySubject] = useState(null);
   const [year, setYear] = useState(null);   // null = semua tahun
   const [open, setOpen] = useState(null);   // subjek yang dibuka dalam panel bawah
+  const [count, setCount] = useState(null); // bilangan soalan untuk latih (null = semua)
+  const [copied, setCopied] = useState(false);
 
   useEffect(() => {
     let alive = true;
@@ -33,6 +36,18 @@ export default function ExamPath({ exam, stats, onBack, onStart }) {
     const all = Object.values(bySubject || {}).filter(Boolean).flat();
     return [...new Set(all.map(yearOf))].sort().reverse();
   }, [bySubject]);
+
+  // Pautan kongsi: buka panel subjek yang diminta secara automatik.
+  useEffect(() => {
+    if (!bySubject || !autoOpen?.subjectId) return;
+    const subject = exam.subjects.find(s => s.id === autoOpen.subjectId);
+    const questions = filterByYear(bySubject[autoOpen.subjectId] || [], null);
+    if (subject && questions.length) {
+      if (autoOpen.count) setCount(autoOpen.count);
+      setOpen({ subject, questions, best: stats?.subjects?.[exam.id + ':' + subject.id] });
+    }
+    autoOpen.subjectId = null; // guna sekali sahaja
+  }, [bySubject]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const nodes = exam.subjects.map(s => {
     const qs = bySubject?.[s.id] || [];
@@ -111,11 +126,33 @@ export default function ExamPath({ exam, stats, onBack, onStart }) {
                 <span>{year ? 'Tahun ' + year : 'Semua tahun'}</span>
                 {open.best !== undefined && <span>Terbaik {open.best}%</span>}
               </div>
-              <button className="btn btn-primary btn-lg" onClick={() => onStart(open.subject, open.questions, 'practice', year)}>
-                <Emoji e="✏️" /> Latihan
+
+              {/* Pilih berapa soalan hendak dilatih — tidak perlu jawab semua. */}
+              {countOptions(open.questions.length).length > 0 && (
+                <>
+                  <span className="sheet-label">Berapa soalan?</span>
+                  <div className="count-chips" role="radiogroup" aria-label="Bilangan soalan">
+                    {countOptions(open.questions.length).map(n => (
+                      <button key={n} className={'chip' + (count === n ? ' is-active' : '')}
+                        onClick={() => setCount(n)}>{n}</button>
+                    ))}
+                    <button className={'chip' + (count === null ? ' is-active' : '')}
+                      onClick={() => setCount(null)}>Semua ({open.questions.length})</button>
+                  </div>
+                </>
+              )}
+
+              <button className="btn btn-primary btn-lg" onClick={() => onStart(open.subject, open.questions, 'practice', year, count)}>
+                <Emoji e="✏️" /> Latihan{count ? ` (${count} soalan)` : ''}
               </button>
-              <button className="btn btn-purple btn-lg" onClick={() => onStart(open.subject, open.questions, 'challenge', year)}>
+              <button className="btn btn-purple btn-lg" onClick={() => onStart(open.subject, open.questions, 'challenge', year, count)}>
                 <Emoji e="⚡" /> Cabaran (bermasa)
+              </button>
+              <button className="btn btn-outline" onClick={async () => {
+                const ok = await copyLink(practiceLink({ examId: exam.id, subjectId: open.subject.id, count }));
+                setCopied(ok); setTimeout(() => setCopied(false), 2000);
+              }}>
+                <Emoji e="🔗" /> {copied ? 'Pautan disalin!' : 'Kongsi pautan latihan'}
               </button>
               <button className="btn btn-ghost" onClick={() => setOpen(null)}>Tutup</button>
             </motion.div>

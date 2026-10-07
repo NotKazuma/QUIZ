@@ -33,6 +33,8 @@ import { POWERUPS } from './lib/shop.js';
 import { savePublicProfile } from './lib/publicProfile.js';
 import { applyTheme } from './lib/theme.js';
 import { NEEDS_STATE, parsePath, pathFor } from './lib/routes.js';
+import { clearShareParams, readShare } from './lib/share.js';
+import { getSet } from './lib/teacherSets.js';
 import LoadingScreen, { hideBootSplash } from './components/LoadingScreen.jsx';
 import { isAdmin, isTeacher, teacherBasis } from './lib/roles.js';
 import TeacherApply from './screens/teacher/TeacherApply.jsx';
@@ -65,6 +67,8 @@ export default function App() {
   const [screen, setScreen] = useState('home');
   const startRoute = useRef(parsePath()); // halaman dari URL semasa laman dibuka
   const startExam = useRef(null);          // id peperiksaan dari /latihan/<id>, dipulih bila config sedia
+  const startSubject = useRef(null);       // {subjectId, count} dari pautan kongsi — buka panel subjek automatik
+  const startSet = useRef(null);           // {setId, count} dari pautan kongsi set cikgu
   const [exam, setExam] = useState(null);
   const [year, setYear] = useState(null);        // null = semua tahun
   const [subjectId, setSubjectId] = useState(null);
@@ -133,8 +137,19 @@ export default function App() {
     // Log masuk pertama: buka halaman dari URL (cth. /kedai); tukar akaun: kembali ke Utama.
     const start = startRoute.current;
     startRoute.current = null;
-    setScreen(start && !NEEDS_STATE.includes(start.screen) ? start.screen : 'home');
-    startExam.current = start?.examId || null;
+    // Pautan kongsi: /latihan/<id>?subjek=..&bil=.. atau /?set=..&bil=..
+    const share = readShare();
+    if (share?.kind === 'subject' && start?.examId) {
+      startSubject.current = { subjectId: share.subjectId, count: share.count };
+      setScreen('path'); startExam.current = start.examId;
+    } else if (share?.kind === 'set') {
+      startSet.current = { setId: share.setId, count: share.count };
+      setScreen('home'); startExam.current = null;
+    } else {
+      setScreen(start && !NEEDS_STATE.includes(start.screen) ? start.screen : 'home');
+      startExam.current = start?.examId || null;
+    }
+    if (share) clearShareParams();
     let alive = true;
     loadUserData(user.uid).then(d => {
       if (!alive) return;
@@ -162,6 +177,23 @@ export default function App() {
   }, [user?.uid]); // eslint-disable-line react-hooks/exhaustive-deps
 
   useEffect(() => { window.scrollTo(0, 0); }, [screen]);
+
+  // Pautan kongsi set cikgu (/?set=..): muat set, mula latihan terus.
+  useEffect(() => {
+    if (!loggedIn || !startSet.current) return;
+    const { setId, count } = startSet.current;
+    startSet.current = null;
+    (async () => {
+      try {
+        const set = await getSet(setId);
+        const qs = objectiveOnly(set?.questions || []);
+        if (!qs.length) { alert('Set latihan ini tidak dijumpai atau kosong.'); return; }
+        await startQuiz({ id: set.id, name: set.title }, qs, null, null, count);
+      } catch {
+        alert('Gagal memuat set latihan yang dikongsi.');
+      }
+    })();
+  }, [loggedIn]); // eslint-disable-line react-hooks/exhaustive-deps
 
   function go(next) { setScreen(next); }
 
@@ -317,8 +349,8 @@ export default function App() {
 
   // ===== Kuiz =====
   // Cabaran: soalan dikocok (maks mengikut config), kolam tebusan = semua soalan subjek.
-  async function startChallenge(subject, questions, all = false, fixedPool = null) {
-    const count = all ? questions.length : subject.test?.questions || 20;
+  async function startChallenge(subject, questions, all = false, fixedPool = null, limit = null) {
+    const count = limit || (all ? questions.length : subject.test?.questions || 20);
     const chosen = shuffle(questions).slice(0, count).map(q => prepareQuestion(q));
     const pool = fixedPool || objectiveOnly(await loadQuestions(subject.file));
     setSubjectId(subject.id);
@@ -328,9 +360,10 @@ export default function App() {
     go('challenge');
   }
 
-  async function startQuiz(subject, questions, hw = null, yr) {
+  async function startQuiz(subject, questions, hw = null, yr, limit = null) {
     if (savedRef.current && !await ask('Anda ada latihan yang belum selesai. Mula latihan baharu dan buang simpanan itu?')) return;
-    const prepared = shuffle(questions).map(q => prepareQuestion(q));
+    const picked = limit ? shuffle(questions).slice(0, limit) : questions;
+    const prepared = shuffle(picked).map(q => prepareQuestion(q));
     const raw = {
       examId: hw?.examId ?? exam?.id ?? null,
       subjectId: subject.id,
@@ -619,11 +652,11 @@ export default function App() {
             onBack={() => go('home')} onLink={link} />
         )}
         {loggedIn && screen === 'path' && exam && (
-          <ExamPath exam={exam} stats={stats} onBack={() => go('home')}
-            onStart={(subject, questions, m, y) => {
+          <ExamPath exam={exam} stats={stats} onBack={() => go('home')} autoOpen={startSubject.current}
+            onStart={(subject, questions, m, y, limit) => {
               setYear(y);
-              if (m === 'challenge') startChallenge(subject, questions);
-              else startQuiz(subject, questions, null, y);
+              if (m === 'challenge') startChallenge(subject, questions, false, null, limit);
+              else startQuiz(subject, questions, null, y, limit);
             }} />
         )}
         {loggedIn && screen === 'quiz' && session && (
