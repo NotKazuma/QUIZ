@@ -8,7 +8,7 @@ import Emoji from '../components/Emoji.jsx';
 const Celebration = lazy(() => import('../components/Celebration.jsx'));
 
 // Skrin tamat latihan/cabaran: Belang bersorak, tiga kotak statistik berwarna.
-export default function Result({ result, user, onLink, onRetry, onSubjects, onHome }) {
+export default function Result({ result, user, onLink, onRetry, onSubjects, onHome, sharedGuest, onLogout }) {
   const { score, total, exam, subject } = result;
   const percent = Math.round((score / total) * 100);
   const challenge = result.mode === 'challenge';
@@ -52,12 +52,22 @@ export default function Result({ result, user, onLink, onRetry, onSubjects, onHo
         )}
       </div>
 
-      {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} compact /></Reveal>}
-      <div className="card-list">
-        <Reveal index={1}><GlowButton className="glow-lg" onClick={onRetry}>{challenge ? 'Cabar lagi' : 'Ulang latihan'}</GlowButton></Reveal>
-        <Reveal index={2}><button className="btn btn-outline btn-lg" onClick={onSubjects}>Pilih subjek lain</button></Reveal>
-        <Reveal index={3}><button className="btn btn-ghost btn-lg" onClick={onHome}>Halaman utama</button></Reveal>
-      </div>
+      {sharedGuest ? (
+        <div className="card-list">
+          <Reveal index={1}><p className="muted" style={{ textAlign: 'center' }}>Markah anda telah dihantar kepada cikgu. Terima kasih!</p></Reveal>
+          <Reveal index={2}><GlowButton className="glow-lg" onClick={onRetry}>Cuba lagi</GlowButton></Reveal>
+          <Reveal index={3}><button className="btn btn-outline btn-lg" onClick={onLogout}><Emoji e="👋" /> Selesai &amp; keluar</button></Reveal>
+        </div>
+      ) : (
+        <>
+          {user.isGuest && <Reveal className="spaced"><LinkReminder onLink={onLink} compact /></Reveal>}
+          <div className="card-list">
+            <Reveal index={1}><GlowButton className="glow-lg" onClick={onRetry}>{challenge ? 'Cabar lagi' : 'Ulang latihan'}</GlowButton></Reveal>
+            <Reveal index={2}><button className="btn btn-outline btn-lg" onClick={onSubjects}>Pilih subjek lain</button></Reveal>
+            <Reveal index={3}><button className="btn btn-ghost btn-lg" onClick={onHome}>Halaman utama</button></Reveal>
+          </div>
+        </>
+      )}
     </section>
   );
 }

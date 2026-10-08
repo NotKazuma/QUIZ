@@ -107,6 +107,7 @@ export default function App() {
   const [result, setResult] = useState(null);
   const [room, setRoom] = useState(null);   // bilik latihan yang dibuka pemilik (papan keputusan)
   const [guestFailed, setGuestFailed] = useState(false); // auto-masuk tetamu gagal → papar Login
+  const [sharedGuest, setSharedGuest] = useState(false);  // tetamu yang masuk via pautan kongsi → auto-logout selepas selesai
 
   // Rujukan terkini untuk fungsi yang dipanggil dari dalam kuiz.
   const statsRef = useRef(stats);
@@ -384,6 +385,7 @@ export default function App() {
     };
     saveSession(user.uid, raw);
     setSaved(raw);
+    setSharedGuest(Boolean(user.isGuest && (subject.sharedSetId || subject.sharedRoomId)));
     setSubjectId(subject.id);
     setQuizSource(questions);
     setSession({ ...raw, questions: prepared });
@@ -744,6 +746,7 @@ export default function App() {
         )}
         {loggedIn && screen === 'result' && result && (
           <Result result={result} user={user} onLink={link}
+            sharedGuest={sharedGuest} onLogout={logout}
             onRetry={() => (result.mode === 'challenge'
               ? startChallenge(exam.subjects.find(x => x.id === subjectId), quizSource)
               : startQuiz({ id: subjectId }, quizSource))}
