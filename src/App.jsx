@@ -106,6 +106,7 @@ export default function App() {
   const [quizRun, setQuizRun] = useState(0);
   const [result, setResult] = useState(null);
   const [room, setRoom] = useState(null);   // bilik latihan yang dibuka pemilik (papan keputusan)
+  const [guestFailed, setGuestFailed] = useState(false); // auto-masuk tetamu gagal → papar Login
 
   // Rujukan terkini untuk fungsi yang dipanggil dari dalam kuiz.
   const statsRef = useRef(stats);
@@ -126,7 +127,7 @@ export default function App() {
   // Pautan kongsi bersifat awam (gaya Quizizz): pelawat yang belum log masuk
   // dimasukkan sebagai Tetamu secara automatik supaya boleh terus menjawab.
   useEffect(() => {
-    if (user === null && pendingShare.current && firebaseReady) signInGuest().catch(() => {});
+    if (user === null && pendingShare.current && firebaseReady) signInGuest().catch(() => setGuestFailed(true));
   }, [user]);
 
   // Admin: semua tanpa had (syiling, barang, kuasa) & hari berturut tidak putus.
@@ -629,7 +630,9 @@ export default function App() {
       <main className="container">
         <Suspense fallback={<LoadingScreen />}>
         {(user === undefined || (user && !dataReady)) && <LoadingScreen overlay label={user ? 'Menyediakan data anda…' : 'Memuatkan…'} />}
-        {user === null && <Login />}
+        {/* Pautan kongsi: auto-masuk tetamu — jangan papar skrin Login, terus ke latihan. */}
+        {user === null && pendingShare.current && !guestFailed && <LoadingScreen overlay label="Menyediakan latihan…" />}
+        {user === null && (!pendingShare.current || guestFailed) && <Login />}
         {needsName && (
           <UsernameSetup user={user} avatar={avatar} onDone={(name, look) => {
             const nextPrefs = { ...prefs, displayName: name };
