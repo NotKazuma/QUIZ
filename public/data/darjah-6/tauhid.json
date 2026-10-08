@@ -1,0 +1,402 @@
+[
+ {
+  "id": "darjah-6-tauhid-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين الأُلُوهِيَّة ڤد بهاس؟",
+  "options": [
+   "كرسولن",
+   "كتوهنن",
+   "كأكوءن",
+   "كمولياءن"
+  ],
+  "answer": 1,
+  "explanation": "الأُلُوهِيَّة ڤد بهاس برمقصود كتوهنن.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الأُلُوهِيَّة تربهاݢي كڤد ______ بهاݢين.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "توحيد تربهاݢي كڤد دوا: توحيد ربوبية دان توحيد ألوهية.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اعتقاد يڠ ______ اياله اعتقاد اهل السنة والجماعة.",
+  "options": [
+   "بنر",
+   "تيدق تڤت",
+   "هاروس",
+   "مستحيل"
+  ],
+  "answer": 0,
+  "explanation": "اعتقاد اهل السنة والجماعة اياله اعتقاد يڠ بنر.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا صيفت يڠ واجب اد باݢي رسول اياله ______.",
+  "options": [
+   "دڤرچاياءي (أمانة)",
+   "بودوه",
+   "دوستا",
+   "مڽمبوڽيكن"
+  ],
+  "answer": 0,
+  "explanation": "انتارا صيفت واجب رسول اياله أمانة (دڤرچاياءي).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باڽق عقائد يڠ تركاندوڠ ددالم دوا كلمة شهادة اياله ______ صيفت (عقيدة).",
+  "options": [
+   "سڤولوه",
+   "تيݢ ڤولوه",
+   "ليم ڤولوه",
+   "انم ڤولوه لاڤن"
+  ],
+  "answer": 2,
+  "explanation": "دوا كلمة شهادة مڠاندوڠي ليم ڤولوه عقيدة (اصول الدين).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكمه دأوتوسكن رسول كڤد مأنسي؟",
+  "options": [
+   "مممباڠونكن باڠونن",
+   "مميمڤين كجالن يڠ بنر",
+   "منچيڤتا تيكنولوݢي",
+   "منجاءوهي صيفت باءيق"
+  ],
+  "answer": 1,
+  "explanation": "حكمه دأوتوسكن رسول اياله مميمڤين مأنسي كجالن يڠ بنر.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-07",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت-صيفت واجب باݢي رسول كچوالي",
+  "options": [
+   "صِدق",
+   "أَمَانَة",
+   "كِتْمَان",
+   "فَطَانَة"
+  ],
+  "answer": 2,
+  "explanation": "كتمان (مڽمبوڽيكن) اداله صيفت مستحيل باݢي رسول، بوكن صيفت واجب.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-08",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه رسول اولوالعزم يڠ صبر كتيك دچمڤقكن كدالم اڤي؟",
+  "options": [
+   "نبي محمد",
+   "نبي عيسى",
+   "نبي موسى",
+   "نبي إبراهيم"
+  ],
+  "answer": 3,
+  "explanation": "نبي إبراهيم عليه السلام صبر كتيك دباكر دالم اڤي نمرود.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-09",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي موسى عليه السلام تله منريما كتاب ______.",
+  "options": [
+   "توراة",
+   "زبور",
+   "انجيل",
+   "القرءان"
+  ],
+  "answer": 0,
+  "explanation": "نبي موسى منريما كتاب توراة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-10",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه انتارا نبي برايكوت يڠ منريما صحف؟",
+  "options": [
+   "نوح",
+   "ادريس",
+   "هود",
+   "صالح"
+  ],
+  "answer": 1,
+  "explanation": "نبي ادريس عليه السلام منريما صحف (30 صحف).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-11",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مخلوق الله يڠ دجاديكن درڤد چهاي اياله ______.",
+  "options": [
+   "نبي",
+   "رسول",
+   "ملائكة",
+   "جين"
+  ],
+  "answer": 2,
+  "explanation": "ملائكة دجاديكن الله درڤد چهاي (نور).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-12",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه ملائكة يڠ مڽروڤاءي صحابت كتيك منمو نبي محمد ﷺ؟",
+  "options": [
+   "مالك",
+   "رضوان",
+   "ميكائيل",
+   "جبريل"
+  ],
+  "answer": 3,
+  "explanation": "ملائكة جبريل ڤرنه مڽروڤاءي صحابت دحية الكلبي كتيك منمو نبي ﷺ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-13",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري ______ دبڠكيتكن سكالين مخلوق.",
+  "options": [
+   "عرفة",
+   "وقف",
+   "قيامة",
+   "نحر"
+  ],
+  "answer": 2,
+  "explanation": "ڤد هاري قيامة سكالين مخلوق دبڠكيتكن سمولا.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-14",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عالم اكن ______ اڤابيلا برلاكو هاري قيامة.",
+  "options": [
+   "امان",
+   "هنچور",
+   "بڠكيت",
+   "سجهترا"
+  ],
+  "answer": 1,
+  "explanation": "سلوروه عالم اكن هنچور بيناسا اڤابيلا برلاكو هاري قيامة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-15",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا سواسانا يڠ برلاكو ڤد هاري قيامة — i. عملن اكن دحساب  ii. موهون شفاعة أنبياء  iii. دهيمڤونكن دڤادڠ محشر  iv. مأنسي دماتيكن",
+  "options": [
+   "i، ii، iii",
+   "i، ii، iv",
+   "i، iii، iv",
+   "ii، iii، iv"
+  ],
+  "answer": 0,
+  "explanation": "ڤد هاري قيامة، عملن دحساب، مأنسي موهون شفاعة دان دهيمڤونكن دڤادڠ محشر.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-16",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين \"قضاء\"؟",
+  "options": [
+   "بالسن نعمت",
+   "سواتو كتتڤن الله سجق ازلي",
+   "سوكتن عملن",
+   "ڤلقساناءن كتتڤن"
+  ],
+  "answer": 1,
+  "explanation": "قضاء اياله كتتڤن الله ترهادڤ سݢالا سسواتو سجق ازلي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-17",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مأنسي ممڤوڽاءي كماهوان اونتوق ______ ملاكوكن عملن باءيق اتاو بوروق.",
+  "options": [
+   "مڽقسا",
+   "مميليه",
+   "منشكوري",
+   "مريضاءي"
+  ],
+  "answer": 1,
+  "explanation": "مأنسي دبري كبيبسن مميليه (اختيار) اونتوق برعمل باءيق اتاو بوروق.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-18",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه برايمان دڠن قضاء دان قدر كچوالي",
+  "options": [
+   "جيوا براس تنڠ",
+   "كورڠ برشكور",
+   "ملاتيه صيفت صبر",
+   "رضا دڠن كتنتوان الله"
+  ],
+  "answer": 1,
+  "explanation": "كورڠ برشكور بوكن حكمه برايمان دڠن قضاء دان قدر.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-19",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرتولوڠن درڤد ݢولوڠن ترتنتو ڤد هاري قيامة اياله ______.",
+  "options": [
+   "معجزة",
+   "كرامة",
+   "شفاعة",
+   "معونة"
+  ],
+  "answer": 2,
+  "explanation": "شفاعة اياله ڤرتولوڠن يڠ دبريكن ڤد هاري قيامة دڠن ايذين الله.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tauhid-sdea2023-20",
+  "exam": "Darjah 6",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شفاعة درڤد نبي محمد ﷺ — i. مڽݢيراكن حساب  ii. منمبه عذاب  iii. مننڠݢوهكن حساب  iv. مريڠنكن عذاب",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "شفاعة نبي ﷺ مريڠنكن عذاب دان مڽݢيراكن حساب باݢي اومتڽ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

@@ -1,0 +1,402 @@
+[
+ {
+  "id": "darjah-6-akhlak-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين اخلاق ڤد بهاس؟",
+  "options": [
+   "ڤراڠاي",
+   "عملن",
+   "كلازيمن",
+   "ڤيكيرن"
+  ],
+  "answer": 0,
+  "explanation": "اخلاق ڤد بهاس برمقصود ڤراڠاي اتاو بودي ڤكرتي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "علمو اخلاق داڤت ممبينا ڤركاءولن يڠ ______ دالم مشاركت.",
+  "options": [
+   "بوروق",
+   "باءيق",
+   "نيݢاتيف",
+   "روسق"
+  ],
+  "answer": 1,
+  "explanation": "علمو اخلاق ممبينا ڤركاءولن يڠ باءيق دالم مشاركت.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عالم سكيتر مروڤاكن انوݢره ______ يڠ ڤاليڠ بسر.",
+  "options": [
+   "الله",
+   "حيوان",
+   "مخلوق",
+   "تومبوه-تومبوهن"
+  ],
+  "answer": 0,
+  "explanation": "عالم سكيتر اداله انوݢره الله يڠ ڤاليڠ بسر كڤد مأنسي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا چارا مليندوڠي عالم سكيتر اداله ______.",
+  "options": [
+   "سيكڤ تيدق برتڠݢوڠجواب",
+   "ممباوڠ سمڤه يڠ تيدق تركاول",
+   "ماتوهي ڤراتورن يڠ تله دتتڤكن",
+   "طمع دان راكوس ترهادڤ سومبر عالم"
+  ],
+  "answer": 2,
+  "explanation": "چارا مليندوڠي عالم سكيتر اياله ماتوهي ڤراتورن يڠ دتتڤكن.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب كچينتاءن نݢارا؟",
+  "options": [
+   "راس بڠݢ كڤد ڤميمڤين",
+   "سنتياس ممڤوڽاءي كسدرن سيۏيك",
+   "منجادي ورݢانݢارا يڠ روسق اخلاق",
+   "تيدق ماتوهي اوندڠ-اوندڠ يڠ دتتڤكن"
+  ],
+  "answer": 1,
+  "explanation": "ادب كچينتاءن نݢارا اياله سنتياس ممڤوڽاءي كسدرن سيۏيك.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كباءيقن منچينتاءي نݢارا كچوالي",
+  "options": [
+   "حاصيل نݢارا لبيه منيڠكت",
+   "رعيت هيدوڤ امان دان داماي",
+   "نام باءيق نݢارا اكن ترچمر",
+   "نݢارا براد دالم سواسانا يڠ سلامت"
+  ],
+  "answer": 2,
+  "explanation": "نام باءيق نݢارا ترچمر بوكن كباءيقن، باهكن كسن بوروق.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-07",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين احسان ڤد بهاس؟",
+  "options": [
+   "بربوات باءيق",
+   "بربوات جاهت",
+   "بربوات كروسقن",
+   "بربوات كسنڠن"
+  ],
+  "answer": 0,
+  "explanation": "احسان ڤد بهاس برمقصود بربوات باءيق.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-08",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تيدق برصيفت احسان اكن منداڤت بالسن ______.",
+  "options": [
+   "بوروق",
+   "شرك",
+   "سيقسا",
+   "نراك"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ مليارهكن احسان اكن منداڤت بالسن سيقسا.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-09",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي رضا منوروت بهاس؟",
+  "options": [
+   "ملقساناكن كرجا بوكن ترڤقسا",
+   "منريما سسواتو ڤركارا دڠن لاڤڠ دادا",
+   "مرندهكن ديري دان تيدق سومبوڠ",
+   "ممبوات باءيق دان منداتڠكن كباءيقن"
+  ],
+  "answer": 1,
+  "explanation": "رضا برمقصود منريما سسواتو ڤركارا دڠن لاڤڠ دادا دان ريلا هاتي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-10",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چارا منچاڤاي كمانيسن رضا — i. سنتياس بردعا دان تواضع  ii. سنتياس براستقامة دالم كطاعتن  iii. ملاهيركن صيفت ايري هاتي  iv. سنتياس برسڠك بوروق سسام مأنسي",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iv",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "چارا منچاڤاي كمانيسن رضا اياله سنتياس بردعا، تواضع دان براستقامة دالم كطاعتن.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-11",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چارا مڽاتاكن تواضع كڤد ݢورو؟",
+  "options": [
+   "مغوچڤكن سلام",
+   "تيدق مندڠر ارهن ݢورو",
+   "دودوق دڠن تيدق سوڤن",
+   "برچاكڤ كاسر كتيك بربيچارا"
+  ],
+  "answer": 0,
+  "explanation": "تواضع كڤد ݢورو اياله دڠن مغوچڤكن سلام دان برادب.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-12",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن كأوتامائن صيفت تواضع كچوالي",
+  "options": [
+   "موليا ددنيا",
+   "براخلاق موليا",
+   "دچينتاءي مأنسي",
+   "دبنچي مشاركت"
+  ],
+  "answer": 3,
+  "explanation": "دبنچي مشاركت بوكن كأوتامائن تواضع، باهكن كسن سومبوڠ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-13",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين تفكّر ڤد بهاس؟",
+  "options": [
+   "مڠيڠتكن",
+   "ممڤرجواڠكن",
+   "منوروتكن",
+   "مميكيركن"
+  ],
+  "answer": 3,
+  "explanation": "تفكّر ڤد بهاس برمقصود مميكيركن اتاو برفيكير.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-14",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تفكّر منومبوهكن بنيه-بنيه ______.",
+  "options": [
+   "كمعصيتن",
+   "كتوحيدن",
+   "كموڠكرن",
+   "كتاكوتن"
+  ],
+  "answer": 1,
+  "explanation": "تفكّر ترهادڤ چيڤتاءن الله منومبوهكن بنيه كتوحيدن دالم هاتي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-15",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين عجب ڤد بهاس؟",
+  "options": [
+   "سوڤن",
+   "تركجي",
+   "كاݢوم",
+   "تركجوت"
+  ],
+  "answer": 2,
+  "explanation": "عجب ڤد بهاس برمقصود كاݢوم اتاو ممباڠݢاكن ديري سنديري.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-16",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب برلاكوڽ ______ كران براس تيڠݢي ديري.",
+  "options": [
+   "عجب",
+   "تفكّر",
+   "بخيل",
+   "سڠك بوروق"
+  ],
+  "answer": 0,
+  "explanation": "عجب برلاكو كران براس تيڠݢي ديري دان ممباڠݢاكن ديري.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-17",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤڽبب سڠك بوروق اياله ______.",
+  "options": [
+   "ساكيت هاتي ترهادڤ اورڠ لاءين",
+   "برباءيق سڠك دڠن اورڠ",
+   "برسيكڤ سوك تولوڠ منولوڠ",
+   "حرمت-مغحرماتي سسام انسان"
+  ],
+  "answer": 0,
+  "explanation": "ساكيت هاتي ترهادڤ اورڠ لاءين بوليه مڽببكن تيمبولڽ سڠك بوروق.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-18",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چارا مغاوبتي دان مغيلڠكن سڠك بوروق — i. مننم راس كراݢوان  ii. مناهن هاتي دري صيفت كبنچين  iii. مغحياتي القرءان دان ڤڠاجرن  iv. منجاݢ كأخلاصن دالم ڤركاءولن",
+  "options": [
+   "i، ii دان iii",
+   "i، ii دان iv",
+   "i، iii دان iv",
+   "ii، iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "چارا مغاوبتي سڠك بوروق اياله مناهن هاتي دري كبنچين، مغحياتي القرءان دان منجاݢ كأخلاصن.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-19",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا جنيس بخيل اياله تيدق ______ نصيحت.",
+  "options": [
+   "منريما",
+   "مندڠر",
+   "ممباچ",
+   "مڽمڤايكن"
+  ],
+  "answer": 3,
+  "explanation": "انتارا جنيس بخيل اياله تيدق مڽمڤايكن نصيحت اتاو علمو كڤد اورڠ لاءين.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2023-20",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا عاقبت بخيل اياله ______.",
+  "options": [
+   "دڤندڠ موليا",
+   "هينا دهادڤن اورڠ لاءين",
+   "هرتا اورڠ بخيل برمنفعت",
+   "منداڤت ڤرليندوڠن دري الله تعالى"
+  ],
+  "answer": 1,
+  "explanation": "عاقبت بخيل اياله هينا دهادڤن اورڠ لاءين دان دبنچي مشاركت.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

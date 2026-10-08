@@ -1,0 +1,402 @@
+[
+ {
+  "id": "darjah-6-tafsir-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"أَزْوَاجًا\" دالم سورة الروم اية 21؟",
+  "options": [
+   "باڤ",
+   "ايبو",
+   "ايستري",
+   "سوامي"
+  ],
+  "answer": 2,
+  "explanation": "أَزْوَاجًا برمقصود ڤاسڠن هيدوڤ (ايستري) يڠ دجاديكن درڤد جنيس كامو سنديري.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حواء عليها السلام دجاديكن درڤد ______ نبي ادم عليه السلام.",
+  "options": [
+   "روسوق",
+   "دادا",
+   "ڤروت",
+   "تاڠن"
+  ],
+  "answer": 0,
+  "explanation": "حواء دجاديكن درڤد تولڠ روسوق نبي ادم.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي ادم عليه السلام دان حواء عليها السلام هيدوڤ دڠن ڤنوه ______.",
+  "options": [
+   "بركادوه",
+   "تنترم",
+   "هورو هارا",
+   "كاچاو بيلاو"
+  ],
+  "answer": 1,
+  "explanation": "مريك هيدوڤ دڠن ڤنوه كتنترمن دان كاسيه سايڠ (سكينة).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه بوكن سواسانا اينستيتوسي كهيدوڤن يڠ بركاسيه سايڠ؟",
+  "options": [
+   "هرموني",
+   "داماي",
+   "تنترم",
+   "هورو هارا"
+  ],
+  "answer": 3,
+  "explanation": "هورو هارا بوكن چيري كهيدوڤن بركاسيه سايڠ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت داسر كلوارݢ سكينة؟ — i. كأيمانن  ii. بركادوه  iii. كاسيه سايڠ  iv. هورو هارا",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "iii دان iv",
+   "i دان iii"
+  ],
+  "answer": 3,
+  "explanation": "داسر كلوارݢ سكينة اياله كأيمانن سرتا كاسيه سايڠ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بريكن ارتي ڤركاتاءن \"الْيَوْمَ\" دالم سورة يس اية 65.",
+  "options": [
+   "ڤد مالم ايت",
+   "ڤد ايسوق هاري",
+   "ڤد وقتو ايت (هاري ايت)",
+   "ڤد هاري سلاس"
+  ],
+  "answer": 2,
+  "explanation": "الْيَوْمَ برمقصود ڤد هاري ايت، ياءيت هاري قيامة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-07",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه مقصود ڤركاتاءن \"نَخْتِمُ\"؟",
+  "options": [
+   "كامي مترايكن",
+   "كامي امبيلكن",
+   "كامي بوكاكن",
+   "كامي سروكن"
+  ],
+  "answer": 0,
+  "explanation": "نَخْتِمُ برمقصود كامي مترايكن (مڠونچي).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-08",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤد هاري ڤڠهيتوڠن، الله تعالى اكن ______ مولوت اورڠ يڠ مڠيڠكري ڤرينتهن.",
+  "options": [
+   "ممبوك",
+   "مستراي (مترايكن)",
+   "مموكول",
+   "منمڤل"
+  ],
+  "answer": 1,
+  "explanation": "الله مترايكن مولوت، لالو تاڠن دان كاكي ڤولا منجادي سقسي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-09",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاري قيامة دسبوت جوݢ سباݢاي هاري ______.",
+  "options": [
+   "ڤڠهيتوڠن",
+   "كبڠكيتن",
+   "عيدالفطري",
+   "عيدالأضحى"
+  ],
+  "answer": 0,
+  "explanation": "هاري قيامة جوݢ دسبوت هاري ڤڠهيتوڠن (يوم الحساب).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-10",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠهيتوڠن الله ڤد هاري اخيرة اداله ساڠت ______.",
+  "options": [
+   "ترڤرينچي",
+   "ترباتس",
+   "لبيه كورڠ",
+   "سمبيل لالو"
+  ],
+  "answer": 0,
+  "explanation": "ڤڠهيتوڠن الله ساڠت ترڤرينچي دان عاديل، تياد يڠ تردزاليمي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-11",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن فَاجْتَنِبُوهُ؟",
+  "options": [
+   "مك بيناساله كامو",
+   "دڠن نبي مريك",
+   "مك جاءوهيله اي (جاڠن كامو لاكوكن)",
+   "اڤ يڠ ساي تݢه كأتس كامو"
+  ],
+  "answer": 2,
+  "explanation": "فَاجْتَنِبُوهُ برمقصود مك جاءوهيله اي (تيڠݢلكنله).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-12",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كلمة لارڠن نبي محمد ﷺ برداسركن ايات دأتس؟",
+  "options": [
+   "فَاجْتَنِبُوهُ",
+   "وَاخْتِلَافُهُمْ",
+   "مَا نَهَيْتُكُمْ",
+   "مَا اسْتَطَعْتُمْ"
+  ],
+  "answer": 2,
+  "explanation": "مَا نَهَيْتُكُمْ برمقصود اڤ يڠ اكو لارڠ كامو درڤداڽ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-13",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم اداله سسواتو كتتڤن مغناءي سسواتو دالم ______ إسلام.",
+  "options": [
+   "عادت",
+   "عبادة",
+   "حكوم",
+   "قاعده"
+  ],
+  "answer": 2,
+  "explanation": "حكوم إسلام اياله كتتڤن شرع ترهادڤ ڤربواتن مكلف.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-14",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اومت نبي ترداهولو دتيمڤا كبيناساءن كران ترلالو باڽق ______.",
+  "options": [
+   "برعمل",
+   "برتاڽ",
+   "برموسوهن",
+   "ڤركادوهن"
+  ],
+  "answer": 1,
+  "explanation": "اومت ترداهولو بيناسا كران ترلالو باڽق برتاڽ دان برسليسيه دڠن نبي مريك.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-15",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه برايكوت ڤڠاجرن حديث لارڠن ڤرتاڽاءن يڠ ملمڤاو؟ — i. اجرن إسلام موده دلقساناكن  ii. اد ڤركارا واجب دلاكوكن دان دتيڠݢلكن  iii. هاروس مڽربو اف يڠ دباوا نبي  iv. ڤركارا يڠ دحرامكن دلارڠ منديكتي",
+  "options": [
+   "i دان iv",
+   "ii دان iii",
+   "i، ii، iv",
+   "ii، iii، iv"
+  ],
+  "answer": 2,
+  "explanation": "ڤڠاجرن حديث: إسلام موده دلقساناكن، اد ڤرينته واجب، دان ڤركارا حرام ڤرلو دجاءوهي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-16",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"أَحَدُكُمْ\"؟",
+  "options": [
+   "سأورڠ درڤد كامو",
+   "تيدق سمڤورنا ايمان",
+   "ساودارا سأݢامان",
+   "اونتوق ديري سنديري"
+  ],
+  "answer": 0,
+  "explanation": "أَحَدُكُمْ برمقصود سأورڠ درڤد كامو.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-17",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق ______ ايمان سأورڠ مؤمن ملاءينكن دي كاسيه ترهادڤ ساودارا.",
+  "options": [
+   "لمه",
+   "كورڠ",
+   "چاچت",
+   "سمڤورنا"
+  ],
+  "answer": 3,
+  "explanation": "تيدق سمڤورنا ايمان سسأورڠ سهيڠݢ دي مڠاسيهي ساودارا سڤرتي مڠاسيهي ديري سنديري.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-18",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ برجاي مممڤرساوداراكن ______ دان انصار دڠن كوكوه.",
+  "options": [
+   "عاد",
+   "ثمود",
+   "قريش",
+   "مهاجرين"
+  ],
+  "answer": 3,
+  "explanation": "نبي ﷺ ممڤرساوداراكن كاوم مهاجرين دان انصار دمدينة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-19",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤڠاجرن حديث اين اياله ______.",
+  "options": [
+   "برݢمبيرا دڠن كسديهن ساودارا",
+   "واجب مندعاكن ساودارا اݢر دتيمڤا كبوروقن",
+   "ايمان سأورڠ بوليه منيڠكت دان منورون",
+   "تيدق برتڠݢوڠجواب ممڤرتݢوهكن ڤرساوداراءن"
+  ],
+  "answer": 2,
+  "explanation": "ايمان سأورڠ مؤمن بوليه منيڠكت دڠن كباءيقن دان منورون دڠن معصية.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2023-20",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله تونتوتن ڤرساوداراءن كچوالي",
+  "options": [
+   "سايڠ مڠاسيهي",
+   "سايڠ منزيارهي",
+   "خيانة مڠخياني",
+   "برسيكڤ تولرنسي"
+  ],
+  "answer": 2,
+  "explanation": "خيانة-مڠخياني برلاونن دڠن تونتوتن ڤرساوداراءن.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

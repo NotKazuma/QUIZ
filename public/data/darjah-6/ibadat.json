@@ -1,0 +1,302 @@
+[
+ {
+  "id": "darjah-6-ibadat-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم للاكي مماكاي كاءين سوترا؟",
+  "options": [
+   "حرام",
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "للاكي حرام مماكاي كاءين سوترا.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مماكايكن كانق-كانق للاكي دڠن كاءين سوترا؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "حرام باݢي والي مماكايكن كانق-كانق للاكي دڠن كاءين سوترا مڠيكوت ڤندڤت جمهور.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر نصاب ڤيرق يڠ واجب دكلواركن زكاة اياله ______.",
+  "options": [
+   "585 ݢرم",
+   "595 ݢرم",
+   "685 ݢرم",
+   "695 ݢرم"
+  ],
+  "answer": 1,
+  "explanation": "نصاب ڤيرق اياله 595 ݢرم.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم زكاة باݢي تيمه دان ڤرمات؟",
+  "options": [
+   "صح",
+   "تيدق صح",
+   "واجب",
+   "تيدق واجب"
+  ],
+  "answer": 3,
+  "explanation": "تيمه دان ڤرمات تيدق واجب دكلواركن زكاة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برس، جاݢوڠ دان ______ ماكنن يڠ بوليه دجاديكن فطرة.",
+  "options": [
+   "كاچڠ دال",
+   "كاچڠ ڤنجڠ",
+   "كاچڠ هيجاو",
+   "كاچڠ ميره"
+  ],
+  "answer": 0,
+  "explanation": "زكاة فطرة دكلواركن دڠن ماكنن اساسي سڤرتي برس، جاݢوڠ دان كاچڠ دال.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ݢولوڠن يڠ برحق منريما زكاة كچوالي",
+  "options": [
+   "عامل",
+   "فقير",
+   "ابن سبيل",
+   "انق يتيم"
+  ],
+  "answer": 3,
+  "explanation": "انق يتيم بوكن انتارا لاڤن أصناف ڤنريما زكاة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-07",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عبادة يڠ واجب دلاكوكن اڤابيلا تله سمڤورنا بولن شعبان 30 هاري؟",
+  "options": [
+   "زكاة",
+   "حج",
+   "صلاة",
+   "ڤواسا"
+  ],
+  "answer": 3,
+  "explanation": "اڤابيلا شعبان ݢنڤ 30 هاري، مك واجب برڤواسا رمضان.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-08",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط-شرط واجب حج دان عمرة اياله — i. إسلام  ii. بالغ  iii. برعقل  iv. همبا",
+  "options": [
+   "i، ii، iii",
+   "i، ii، iv",
+   "i، iii، iv",
+   "ii، iii، iv"
+  ],
+  "answer": 0,
+  "explanation": "شرط واجب حج: إسلام، بالغ، برعقل دان مرديك (بوكن همبا).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-09",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس ميقات باݢي حج دان عمرة ياءيت ميقات مكاني دان ميقات ______.",
+  "options": [
+   "سعي",
+   "طواف",
+   "ملونتر جمرة",
+   "زماني"
+  ],
+  "answer": 3,
+  "explanation": "دوا جنيس ميقات اياله ميقات مكاني (تمڤت) دان ميقات زماني (ماس).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-10",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ نية حج ______ دسبوت دڠن ليده.",
+  "options": [
+   "حرام",
+   "سنة",
+   "مكروه",
+   "واجب"
+  ],
+  "answer": 1,
+  "explanation": "ملفظكن نية حج دڠن ليده حكومڽ سنة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-11",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "طواف اياله مڠليليڠي كعبة سباڽق ______ كالي دڠن شرط ترتنتو.",
+  "options": [
+   "انم",
+   "توجوه",
+   "انم بلس",
+   "توجوه بلس"
+  ],
+  "answer": 1,
+  "explanation": "طواف اياله مڠليليڠي كعبة سباڽق توجوه كالي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-12",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سعي اياله برجالن اولڠ-اليق انتارا صفا دان ______.",
+  "options": [
+   "موصم",
+   "مِنى",
+   "مروة",
+   "مدينة"
+  ],
+  "answer": 2,
+  "explanation": "سعي اياله برجالن اولڠ-اليق انتارا بوكيت صفا دان مروة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-13",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جومله باتو يڠ دلونتر اوليه اورڠ يڠ تيدق ملاكوكن نفر اول؟",
+  "options": [
+   "انم ڤولوه",
+   "توجوه ڤولوه",
+   "لاڤن ڤولوه",
+   "سمبيلن ڤولوه"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ نفر ثاني ملونتر سمواڽ توجوه ڤولوه بيجي باتو (7 + 21×3).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-14",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دحرامكن كأتس للاكي سماس براحرام اياله ______.",
+  "options": [
+   "برسليڤر",
+   "منوتوڤ كڤالا",
+   "برڤايوڠ",
+   "مماكاي ڤاكاين برجاهيت مليليت تبوه"
+  ],
+  "answer": 1,
+  "explanation": "للاكي يڠ براحرام دلارڠ منوتوڤ كڤالا.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2023-15",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دم يڠ صح دݢنتي دڠن سسواتو يڠ لاءين مڠيكوت نيلاين اياله دم ______.",
+  "options": [
+   "تعديل",
+   "تقدير",
+   "ترتيب",
+   "تخيير"
+  ],
+  "answer": 0,
+  "explanation": "دم تعديل اياله دم يڠ دنيلاي دان دݢنتي دڠن سسواتو يڠ ستارا نيلايڽ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

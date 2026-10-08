@@ -541,6 +541,113 @@
           }
         }
       ]
+    },
+    {
+      "id": "darjah-6",
+      "name": "Darjah 6",
+      "desc": "Ujian & peperiksaan sekolah agama Darjah 6",
+      "icon": "num-6",
+      "subjects": [
+        {
+          "id": "akhlak",
+          "name": "Akhlak",
+          "file": "data/darjah-6/akhlak.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "arab",
+          "name": "Bahasa Arab",
+          "file": "data/darjah-6/arab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "ibadat",
+          "name": "Ibadat",
+          "file": "data/darjah-6/ibadat.json",
+          "test": {
+            "questions": 15,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "tauhid",
+          "name": "Tauhid",
+          "file": "data/darjah-6/tauhid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "sirah",
+          "name": "Sirah",
+          "file": "data/darjah-6/sirah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "muamalat",
+          "name": "Muamalat",
+          "file": "data/darjah-6/muamalat.json",
+          "test": {
+            "questions": 7,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "faraid",
+          "name": "Faraid",
+          "file": "data/darjah-6/faraid.json",
+          "test": {
+            "questions": 5,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "tafsir",
+          "name": "Tafsir",
+          "file": "data/darjah-6/tafsir.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "munakahat",
+          "name": "Munakahat",
+          "file": "data/darjah-6/munakahat.json",
+          "test": {
+            "questions": 6,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "tajwid",
+          "name": "Tajwid",
+          "file": "data/darjah-6/tajwid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
+          "id": "jenayat",
+          "name": "Jenayat",
+          "file": "data/darjah-6/jenayat.json",
+          "test": {
+            "questions": 7,
+            "minutes": 20
+          }
+        }
+      ]
     }
   ]
 }

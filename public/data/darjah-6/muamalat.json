@@ -1,0 +1,142 @@
+[
+ {
+  "id": "darjah-6-muamalat-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم المُخَابَرَة؟",
+  "options": [
+   "صح",
+   "هاروس",
+   "سنة",
+   "تيدق صح"
+  ],
+  "answer": 1,
+  "explanation": "المخابرة (كرجاسام تانم دڠن بنيه درڤد ڤكرجا) حكومڽ هاروس.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط ڤد ڤميليق هرتا اتاو مودل دالم عقد؟",
+  "options": [
+   "كانق-كانق",
+   "برعقل",
+   "ݢيلا",
+   "سفيه (بودوه)"
+  ],
+  "answer": 1,
+  "explanation": "شرط ڤميليق مودل اياله برعقل، بالغ دان تيدق سفيه.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إحْيَاءُ المَوَّات اياله ______ تانه تربيار يڠ بلوم دتروكاءي.",
+  "options": [
+   "مروسقكن",
+   "ممبياركن",
+   "منجروبوه",
+   "مڠهيدوڤكن"
+  ],
+  "answer": 3,
+  "explanation": "إحياء الموات برمقصود مڠهيدوڤكن اتاو منروكا تانه ماتي يڠ تربيار.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ كافير ______ منروكاءي تانه دنݢري إسلام.",
+  "options": [
+   "دايذينكن",
+   "دبنركن",
+   "دبوليهكن",
+   "دلارڠ"
+  ],
+  "answer": 3,
+  "explanation": "اورڠ كافير دلارڠ منروكا تانه ماتي دنݢري إسلام.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لقطة يڠ دڤوڠوت اوليه اورڠ فاسق هندقله دسرهكن كڤد اورڠ يڠ ______.",
+  "options": [
+   "ظالم",
+   "عاديل",
+   "خيانة",
+   "ڤنداي"
+  ],
+  "answer": 1,
+  "explanation": "لقطة يڠ دڤوڠوت اورڠ فاسق هندقله دسرهكن كڤد اورڠ يڠ عاديل اتاو ڤيهق بركواس.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه دسنتكن إحْيَاءُ المَوَّات كچوالي",
+  "options": [
+   "تندا برشكور",
+   "مممنفعتكن بومي",
+   "مروسقكن بومي",
+   "ممڤوڽاءي ڤكرجاءن"
+  ],
+  "answer": 2,
+  "explanation": "مروسقكن بومي بوكن حكمه، باهكن برلاونن دڠن توجوان إحياء الموات.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2023-07",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه اللُّقَيْط (انق ڤوڠوت)؟",
+  "options": [
+   "كانق-كانق ترچيچير يڠ تياد ڤنجاݢ",
+   "باءيق يڠ درمڤس",
+   "ڤنچوليقن كانق",
+   "ڤمباوڠن باءي"
+  ],
+  "answer": 0,
+  "explanation": "اللقيط اياله كانق-كانق ترچيچير اتاو تربوڠ يڠ دجومڤاءي تنڤا ڤنجاݢ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

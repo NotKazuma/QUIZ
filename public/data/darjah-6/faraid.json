@@ -1,0 +1,102 @@
+[
+ {
+  "id": "darjah-6-faraid-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو يڠ ممڤوساكاءي اياله ______ كڤد سي ماتي.",
+  "options": [
+   "ايبو اڠكت",
+   "ايبو سوسوان",
+   "ايبو كاندوڠ",
+   "ايبو ساودارا"
+  ],
+  "answer": 2,
+  "explanation": "ايبو يڠ ممڤوساكاءي اياله ايبو كاندوڠ سي ماتي.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ مڠحجاب نينيق درڤد ممڤوساكاءي هرتا سي ماتي؟ — i. ايبو  ii. باڤ  iii. انق  iv. ساودارا",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "نينيق سبله ايبو دحجاب اوليه ايبو، دان نينيق سبله باڤ دحجاب اوليه باڤ.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين ڤوساك حواشي اياله — i. مشترك  ii. ذوي الأرحام  iii. منداڤت بهاݢين فرض  iv. منداڤت بهاݢين عصبة",
+  "options": [
+   "i، ii، iii",
+   "i، ii، iv",
+   "i، iii، iv",
+   "ii، iii، iv"
+  ],
+  "answer": 2,
+  "explanation": "حواشي بوليه منريما سچارا مشترك، سباݢاي اصحاب الفروض، اتاو سباݢاي عصبة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت سبب يڠ مواريثكن (ركن مُؤَثِّر)؟",
+  "options": [
+   "باڤ",
+   "چوچو",
+   "داتوق",
+   "سواي"
+  ],
+  "answer": 3,
+  "explanation": "سواي مواريثي ملالوءي سبب ڤرنيكاهن، بوكن نسب.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله اهلي واريث دالم مسئله أَكْدَرِيَّة كچوالي",
+  "options": [
+   "داتوق",
+   "چوچو",
+   "ايبو",
+   "سواي"
+  ],
+  "answer": 1,
+  "explanation": "واريث مسئله أكدرية اياله سواي، ايبو، داتوق دان ساودارا ڤرمڤوان؛ چوچو تيدق ترليبت.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

@@ -1,0 +1,142 @@
+[
+ {
+  "id": "darjah-6-jenayat-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله اورڠ يڠ ڤرلو حاضير دالم ڤربيچاراءن راسمي تودوهن قذف — i. حاكيم  ii. منتري  iii. اورڠ يڠ دتودوه  iv. اورڠ يڠ منودوه",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i، ii دان iii",
+   "i، iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "دالم ڤربيچاراءن قذف ڤرلو حاضير حاكيم، اورڠ يڠ دتودوه دان اورڠ يڠ منودوه.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممڤرتاهنكن كحرمتن ديري درڤد دروݢول؟",
+  "options": [
+   "سنة",
+   "حرام",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "واجب ممڤرتاهنكن كحرمتن دان ماروه ديري درڤد دروݢول.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صح كإسلامن اورڠ يڠ ______ دڠن مغوچڤ دوا كلمة شهادة.",
+  "options": [
+   "مرتد",
+   "برزنا",
+   "ممبونوه",
+   "منچوري"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ مرتد صح كمبالي إسلام دڠن مغوچڤ دوا كلمة شهادة دان برتوبة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط ڤلقساناءن حكوم مرتد اداله ______.",
+  "options": [
+   "مميز",
+   "ڤيتم",
+   "عاديل",
+   "مكلف"
+  ],
+  "answer": 3,
+  "explanation": "شرط ڤلقساناءن حكوم مرتد اياله مكلف (بالغ، برعقل).",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ملمڤاوي باتس دڠن منچروبوه جيوا اتاو هرتا اداله ڤڠرتين باݢي ______.",
+  "options": [
+   "الجِهَاد",
+   "الرِّدَّة (مرتد)",
+   "البُغَاة (ڤمبرونتق)",
+   "الصِّيَال (ڤنچروبوه)"
+  ],
+  "answer": 3,
+  "explanation": "الصِّيَال اياله ڤنچروبوهن ترهادڤ جيوا، هرتا اتاو ماروه اورڠ لاءين.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه چونتوه مرتد دڠن نية؟",
+  "options": [
+   "زيد مڠمبه ڤوكوق",
+   "زيد بركات ديرين توهن",
+   "زيد تيدق برڤواسا رمضان",
+   "زيد مرانچڠ اونتوق مرتد ميڠݢو هادڤن"
+  ],
+  "answer": 3,
+  "explanation": "مرانچڠ اتاو براَزَم اونتوق كلوار درڤد إسلام اداله مرتد دڠن نية.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2023-07",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه حكمه منيڠݢلكن ڤربواتن مرتد؟ — i. مواريثي هرتا  ii. سلامت درڤد عذاب نراك  iii. كلوارݢ برڤچه بله  iv. ايكتن ككلواركاءن برتمبه ارت",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "ii، iii دان iv",
+   "i، ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "منجاءوهي مرتد ممبوليهكن مواريثي هرتا، سلامت درڤد عذاب نراك دان ايكتن ككلواركاءن برتمبه ارت.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]

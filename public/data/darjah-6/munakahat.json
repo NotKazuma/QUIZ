@@ -1,0 +1,122 @@
+[
+ {
+  "id": "darjah-6-munakahat-sdea2023-01",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت شرط رجوع؟",
+  "options": [
+   "چراي خلع",
+   "طلاق تيݢ",
+   "طلاق رجعي",
+   "اد شرط خيار"
+  ],
+  "answer": 2,
+  "explanation": "رجوع هاڽ صح سلڤس طلاق رجعي (طلاق ساتو اتاو دوا) دالم تيمڤوه عدة.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2023-02",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين إِيلَاء دري سݢي بهاس؟",
+  "options": [
+   "سومڤه",
+   "شراحن",
+   "تودوهن",
+   "خطبة"
+  ],
+  "answer": 0,
+  "explanation": "إيلاء ڤد بهاس برمقصود سومڤه.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2023-03",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوامي يڠ صح إيلاء اياله سأورڠ مكلف دان ممڤوڽاءي كواس ______ ترهادڤ ايستري.",
+  "options": [
+   "رجوع",
+   "طلاق",
+   "ڤرينته",
+   "سومڤه"
+  ],
+  "answer": 1,
+  "explanation": "سوامي يڠ صح إيلاء اياله يڠ ممڤوڽاءي كواس منجاتوهكن طلاق.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2023-04",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن مڽاماكن ايستري دڠن ايبو سنديري اداله ڤڠرتين ______.",
+  "options": [
+   "رجوع",
+   "إيلاء",
+   "ظِهَار",
+   "لِعَان"
+  ],
+  "answer": 2,
+  "explanation": "ظهار اياله مڽاماكن ايستري اتاو اڠݢوتاڽ دڠن ايبو سنديري.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2023-05",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كفارة ظهار دواجبكن كأتس ______.",
+  "options": [
+   "والي",
+   "سقسي",
+   "ايستري",
+   "سوامي"
+  ],
+  "answer": 3,
+  "explanation": "كفارة ظهار واجب دتونايكن اوليه سوامي يڠ مظهار.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2023-06",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله عاقبت ظهار كچوالي",
+  "options": [
+   "ماسيه دالم ايكتن ڤركهوينن",
+   "دحرامكن ملاكوكن ڤرستوبوهن",
+   "واجب ممباير كفارة ظهار",
+   "كفارة ݢوݢور جك برلاكو كماتين"
+  ],
+  "answer": 3,
+  "explanation": "كفارة ظهار تيدق ݢوݢور كران كماتين؛ اين بوكن عاقبت ظهار.",
+  "source": "SDEA 2023",
+  "perlu_semak": true
+ }
+]
