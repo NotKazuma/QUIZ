@@ -488,5 +488,495 @@
   "explanation": "كانق-كانق بوكن اهلي تصرف، مك تيدق صح ملاكوكن عقد تمڤهن.",
   "source": "PAT 2022",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-01",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكاه جنيس جوال بلي؟",
+  "options": [
+   "ليم",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 2,
+  "explanation": "جوال بلي ترباهاݢي كڤد تيݢ جنيس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-02",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم بيع الإشراك؟",
+  "options": [
+   "صح",
+   "حرام",
+   "تيدق صح",
+   "هاروس"
+  ],
+  "answer": 3,
+  "explanation": "بيع الإشراك (جوال بلي سچارا ڤركونسيان) حكومڽ هاروس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-03",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ايستيله باݢي جوال بلي سچارا هرݢ رنده اتاو روݢي؟",
+  "options": [
+   "التَّوْلِيَة",
+   "الاِشْرَاك",
+   "ألمُرَابَحَة",
+   "بَيْعُ المُحَاطَة"
+  ],
+  "answer": 3,
+  "explanation": "منجوال دڠن هرݢ لبيه رنده (روݢي) دسبوت بَيْعُ المُحَاطَة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-04",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه جوال بلي المُنَابَذَة؟",
+  "options": [
+   "جڤكرم",
+   "اتس اڠين",
+   "تيكم نومبور",
+   "مراب بارڠ دالم ݢلڤ"
+  ],
+  "answer": 3,
+  "explanation": "المنابذة اياله جوال بلي دڠن مراب/ملمڤر بارڠ تنڤا دليهت دڠن جلس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-05",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عنصور يڠ ممبيبكن جوال بلي الحاضر للبادي دحكومكن حرام؟",
+  "options": [
+   "ڤنيندسن",
+   "منيڤو همڤير",
+   "هرݢ يڠ ماهل",
+   "سوكر ممڤراوليهي بارڠ"
+  ],
+  "answer": 0,
+  "explanation": "الحاضر للبادي حرام كران اد عنصور ڤنيندسن ترهادڤ اورڠ كامڤوڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-06",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين جوال بلي النَّجْش؟",
+  "options": [
+   "هوتڠ",
+   "تمڤه",
+   "مناريق ڤلڠݢن",
+   "ممڤرداي ڤلڠݢن"
+  ],
+  "answer": 3,
+  "explanation": "النجش اياله منايقكن هرݢ سچارا ڤورا-ڤورا اونتوق ممڤرداي ڤلڠݢن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-07",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكاه جنيس ربا البُيُوع منوروت مذهب الشافعي؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "انم",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "ربا البيوع ترباهاݢي كڤد دوا: ربا فضل دان ربا نسيئة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-08",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه ڤركارا يڠ اد عنصور رباء؟",
+  "options": [
+   "ڤينجمن",
+   "مات واڠ",
+   "هوتڠ ڤياوتڠ",
+   "جوال بلي"
+  ],
+  "answer": 2,
+  "explanation": "هوتڠ ڤياوتڠ يڠ دكناكن بوڠا مڠاندوڠي عنصور رباء.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-09",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ماكنن يڠ اد عنصور رباء اياله",
+  "options": [
+   "برس",
+   "ݢولا",
+   "سايور",
+   "بواه-بواهن"
+  ],
+  "answer": 0,
+  "explanation": "برس اداله بارڠ ربوي (ماكنن اساسي) يڠ تردي عنصور رباء.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-10",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين السلم ڤد بهاس اياله",
+  "options": [
+   "ڤينجمن",
+   "تڠݢوڠن",
+   "مندهولوكن",
+   "بايرن اتاو اوڤه"
+  ],
+  "answer": 2,
+  "explanation": "السلم ڤد بهاس برمقصود مندهولوكن (بايرن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-11",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساتو درڤد روكون السلم اياله",
+  "options": [
+   "هرݢ (مودل)",
+   "باكي هوتڠ",
+   "ايجاب سهاج",
+   "ڤمبري هوتڠ"
+  ],
+  "answer": 0,
+  "explanation": "انتارا روكون السلم اياله هرݢ/مودل (رأس المال).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-12",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠتاهوءي جنيس، صيفت، اوكورن دان كواليتي اداله شرط باݢي",
+  "options": [
+   "هرتا",
+   "جنجي هدية",
+   "بارڠ تمڤهن",
+   "ايجاب دان قبول"
+  ],
+  "answer": 2,
+  "explanation": "بارڠ تمڤهن (دالم السلم) مستي دكتاهوءي جنيس، صيفت، اوكورن دان كواليتيڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-13",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين القرض ڤد بهاس اياله",
+  "options": [
+   "ڤاجق",
+   "ڤوتوڠ",
+   "ممبري كڤواسن",
+   "برسڤاكت"
+  ],
+  "answer": 1,
+  "explanation": "القرض ڤد بهاس برمقصود ڤوتوڠ (مموتوڠ سباهاݢين هرتا اونتوق دبري ڤينجم).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-14",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ تيدق صح منجادي المُوَكِّل اياله",
+  "options": [
+   "كانق-كانق",
+   "للاكي",
+   "رماج",
+   "ديواس"
+  ],
+  "answer": 0,
+  "explanation": "كانق-كانق تيدق صح منجادي موكل كران بلوم بالغ دان برعقل.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-15",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط صيغه الوكالة هاروس دتعليقكن دڠن",
+  "options": [
+   "ڤنجوال",
+   "ڤمبلي",
+   "ماس ترتنتو",
+   "اوروسن سهارين"
+  ],
+  "answer": 2,
+  "explanation": "صيغه وكالة هاروس دتعليقكن دڠن ماس ترتنتو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-16",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممباتلكن عقد وكالة اداله",
+  "options": [
+   "سنة",
+   "مكروه",
+   "هاروس",
+   "مستحيل"
+  ],
+  "answer": 2,
+  "explanation": "وكالة اداله عقد جائز، مك ممباتلكنڽ هاروس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-17",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه دهاروسكن وكالة كجوالي",
+  "options": [
+   "ممڤورناكن حاجت",
+   "ممودهكن اوروسن",
+   "مغهيندروفكن كهرمونين",
+   "منجادي ببان هيدوڤ"
+  ],
+  "answer": 3,
+  "explanation": "منجادي ببان هيدوڤ بوكن حكمه، بهكن برلاونن دڠن توجوان وكالة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-18",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه الإجارة كجوالي",
+  "options": [
+   "ممڠكين ڤربالهن",
+   "ممنوهي نفقه كلوارݢ",
+   "مودهكن كهيدوڤن",
+   "ممنوهي حاجت دان كڤرلوان هيدوڤ مشاركت"
+  ],
+  "answer": 0,
+  "explanation": "ممڠكين ڤربالهن بوكن حكمه الإجارة، ماله برتنتڠن دڠنڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-19",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤكرجاءن يڠ حرام — i. جودي  ii. زنا  iii. صدقه  iv. دوكون",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "i، ii دان iv",
+   "i، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "جودي، زنا دان دوكون اداله ڤكرجاءن حرام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-20",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمة الجُعَالَة — i. تولوڠ منولوڠ  ii. مڠݢالقكن اوسها  iii. مڠهرݢاءي اوسها اورڠ لاءين  iv. منونجوق-نونجوق",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "i دان iv",
+   "i، iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "الجعالة مننتوڠ تولوڠ منولوڠ، مڠݢالقكن اوسها دان مڠهرݢاءي اوسها اورڠ لاءين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-21",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط العاقدان اد تيݢ ڤركارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "شرط العاقدان اد تيݢ: بالغ، برعقل دان دڠن ڤيليهن سنديري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-22",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي السلم ممبري كڤواسن كڤد ڤنجوال دان ڤمبلي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "السلم ممبري منفعة دان كڤواسن كڤد كدوا-دوا ڤيهق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-23",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اصل حكوم القرض اداله هاروس.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "اصل حكوم القرض اداله هاروس دان دݢالقكن اونتوق منولوڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-24",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط ڤمبري هوتڠ مستيله سأورڠ يڠ بالغ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "ڤمبري هوتڠ مستيله اورڠ يڠ بالغ، برعقل دان راشيد.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-pat2023-25",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صح برهوتڠ ڤد بارڠ يڠ تيدق ممڤوڽاءي نيلاي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "بارڠ يڠ دهوتڠ مستيله ممڤوڽاءي نيلاي دان برمنفعة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
  }
 ]

@@ -488,5 +488,495 @@
   "explanation": "صيفت معنوية تربيت درڤد صيفت معاني، بوكن صيفت سلبية.",
   "source": "PAT 2022",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-01",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مڠتاهوءي دليل ڤد صيفت الله سچارا اجمالي؟",
+  "options": [
+   "فرض عين",
+   "فرض كفاية",
+   "فرض عشاء",
+   "فرض مغرب"
+  ],
+  "answer": 0,
+  "explanation": "مڠتاهوءي دليل اجمالي باݢي صيفت الله حكومڽ فرض عين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-02",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تعريف باݢي دليل اجمالي؟",
+  "options": [
+   "سچارا مڽلوروه",
+   "سچارا ڤادت",
+   "سچارا ريڠكس",
+   "سچارا كترڠن"
+  ],
+  "answer": 2,
+  "explanation": "دليل اجمالي اياله دليل سچارا ريڠكس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-03",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود دَوْر؟",
+  "options": [
+   "ڤوترن (بريدر)",
+   "رنتاين",
+   "كيترن",
+   "ڤوسرن"
+  ],
+  "answer": 0,
+  "explanation": "دَوْر برمقصود بريدر/برڤوتر، ياءيت كبرݢنتوڠن دوا ڤركارا سچارا بريدر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-04",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكاه صيفت واجب الله يڠ دهيمڤونكن باݢي ممبوقتيكن ادان عالم اين؟",
+  "options": [
+   "ساتو",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "ادان عالم اين ممبوقتيكن صيفت وجود الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-05",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام لاءين باݢي صيفت مَعَانِي؟",
+  "options": [
+   "وُجُودِية",
+   "عَدَمِيَّة",
+   "حَالِيَّة",
+   "ثُبُوتِيَّة"
+  ],
+  "answer": 3,
+  "explanation": "صيفت معاني جوݢ دكنلي سباݢاي صيفت ثبوتية.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-06",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه صيفت واجب الله يڠ دناماكن نفسية؟",
+  "options": [
+   "قدم",
+   "بقاء",
+   "قدرة",
+   "وجود"
+  ],
+  "answer": 3,
+  "explanation": "صيفت نفسية اياله وجود.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-07",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠاڤاكه دناماكن صيفت مَعَانِي؟",
+  "options": [
+   "برسندر ڤد ذات",
+   "ڤچهن كليمه معنى",
+   "نيسبه كڤد معنى",
+   "منولق اتاو منافيكن"
+  ],
+  "answer": 0,
+  "explanation": "دناماكن معاني كران ستياڤ صيفت ايت منتڤكن معنى يڠ برسندر ڤد ذات الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-08",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه صيفت يڠ دنيسبهكن كڤد معنى؟",
+  "options": [
+   "معاني",
+   "سلبية",
+   "معنوية",
+   "نفسية"
+  ],
+  "answer": 2,
+  "explanation": "صيفت معنوية اياله صيفت يڠ دنيسبهكن كڤد معاني.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-09",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت-صيفت يڠ ترماسوق دالم صيفت معنوية اد ______.",
+  "options": [
+   "توجوه",
+   "ليم",
+   "امڤت",
+   "ساتو"
+  ],
+  "answer": 0,
+  "explanation": "صيفت معنوية اد توجوه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-10",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت يڠ برتعلق اياله صيفت-صيفت يڠ اد ______ كرجا كڤد سسواتو يڠ لاءين.",
+  "options": [
+   "هوبوڠن",
+   "ڤرتالين",
+   "دوروڠن",
+   "سارنن"
+  ],
+  "answer": 0,
+  "explanation": "صيفت يڠ برتعلق ممرلوكن هوبوڠن دڠن سسواتو يڠ لاءين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-11",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت قدرة برتعلق كڤد واجب عقلي دان",
+  "options": [
+   "واجب حقيقي",
+   "هاروس عقلي",
+   "مستحيل عرضي",
+   "مستحيل حقيقي"
+  ],
+  "answer": 1,
+  "explanation": "قدرة برتعلق كڤد هاروس عقلي (ممكن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-12",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس عقلي اداله تمڤت تعلق باݢي صيفت",
+  "options": [
+   "قدرة",
+   "ارادة",
+   "حياة",
+   "علم"
+  ],
+  "answer": 0,
+  "explanation": "هاروس عقلي (ممكن) اداله تمڤت تعلق باݢي قدرة دان إرادة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-13",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تخصيص اياله بنتوق تعلق باݢي صيفت",
+  "options": [
+   "قدرة",
+   "إرادة",
+   "قدم",
+   "بقاء"
+  ],
+  "answer": 1,
+  "explanation": "تخصيص اياله فوڠسي تعلق صيفت إرادة (مننتوكن/مڠخصوصكن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-14",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ترلقسان كهندق الله ڤد ازلي اداله",
+  "options": [
+   "تنجيزي قديم",
+   "تنجيزي حديث",
+   "صلوحي قديم",
+   "تحصيل الحاصل"
+  ],
+  "answer": 2,
+  "explanation": "تعلق صلوحي قديم اياله كسدياان ازلي كهندق الله سبلوم وجودڽ مخلوق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-15",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انكشاف اياله بنتوق تعلق باݢي صيفت",
+  "options": [
+   "قدم",
+   "علم",
+   "قدرة",
+   "إرادة"
+  ],
+  "answer": 1,
+  "explanation": "انكشاف اياله فوڠسي تعلق صيفت علم (مڽيڠكڤ/مڠتاهوءي).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-16",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين تعلق علم ساتو ياءيت",
+  "options": [
+   "صلوحي قديم",
+   "قبضة",
+   "تنجيزي قديم",
+   "تنجيزي حادث"
+  ],
+  "answer": 2,
+  "explanation": "تعلق علم اياله ساتو، ياءيت تنجيزي قديم يڠ مليڤوتي سݢالا ڤركارا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-17",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله تمڤت تعلق سمع دان بصر كجوالي",
+  "options": [
+   "واجب",
+   "هاروس",
+   "موجود",
+   "مستحيل"
+  ],
+  "answer": 3,
+  "explanation": "سمع دان بصر برتعلق دڠن سݢالا يڠ موجود، تيدق ترماسوق يڠ مستحيل.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-18",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله مقصود \"دلالة\" كجوالي",
+  "options": [
+   "منترجمهكن",
+   "منجلسكن",
+   "ممبوقتيكن",
+   "منونجوقكن"
+  ],
+  "answer": 0,
+  "explanation": "دلالة برمقصود منونجوقكن، ممبوقتيكن دان منجلسكن، بوكن منترجمهكن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-19",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ترماسوق ددالم تعلق كلام — i. واجب  ii. مستحيل  iii. هاروس  iv. ممكن",
+  "options": [
+   "i دان ii",
+   "ii دان iv",
+   "i، ii دان iii",
+   "i، ii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "كلام برتعلق كڤد يڠ واجب، مستحيل دان هاروس (ممكن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-20",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بنتوق تعلق صيفت واجب الله اياله — i. تأثيري  ii. تخصيص  iii. علم  iv. إنكشاف",
+  "options": [
+   "i دان ii",
+   "i، ii دان iv",
+   "i، ii دان iii",
+   "i، ii، iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "بنتوق تعلق اياله تأثيري (قدرة)، تخصيص (إرادة) دان إنكشاف (علم).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-21",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠتاهوءي دليل ڤد صيفت الله سچارا تفصيلي اداله فرض كفاية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "مڠتاهوءي دليل تفصيلي حكومڽ فرض كفاية.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-22",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت سلبية دساندركن كڤد مغاياكن ككورڠن ذات الله تعالى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "صيفت سلبية منافيكن سݢالا ككورڠن درڤد ذات الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-23",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت يڠ ممڤوڽاءي تعلق اياله انم درڤد صيفت معاني.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "انم صيفت معاني برتعلق (قدرة، إرادة، علم، سمع، بصر، كلام)؛ حياة تياد تعلق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-24",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت علم برتعلق كڤد ڤركارا يڠ مكروه ڤد عقل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "علم برتعلق كڤد يڠ واجب، مستحيل دان هاروس ڤد عقل، بوكن \"مكروه\".",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-pat2023-25",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صَلُوحِي قديم ياءيت الله مندڠر كات-كات مخلوق سجق ازلي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "صلوحي قديم اياله كسدياان تعلق سجق ازلي؛ مخلوق بلوم وجود ڤد ازلي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
  }
 ]

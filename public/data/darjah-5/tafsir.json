@@ -488,5 +488,495 @@
   "explanation": "لفظ سلام يڠ مأثور اياله \"السَّلَامُ عَلَيْكُمْ\".",
   "source": "PAT 2022",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-01",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ تله دبونوه دڠن كجم دميدن احد؟",
+  "options": [
+   "سيدنا علي",
+   "سيدنا عمر",
+   "سيدنا حمزة",
+   "سيدنا ابو بكر"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا حمزة شهيد دبونوه دڠن كجم دالم ڤڤراڠن احد.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-02",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا اونتوق منچاڤاي كرضاءن الله؟",
+  "options": [
+   "مڠعملكن اجرن إسلام",
+   "مڠعملكن اجرن وهابية",
+   "مڠعملكن اجرن شيعة",
+   "مڠعملكن اجرن سست"
+  ],
+  "answer": 0,
+  "explanation": "كرضاءن الله دچاڤاي دڠن مڠعملكن اجرن إسلام يڠ بنر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-03",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي وَتُسَلِّمُوْا؟",
+  "options": [
+   "سرتا ممبري خبر",
+   "سرتا ممبري چريتا",
+   "سرتا ممبري سلام",
+   "سرتا ممبري معلومت"
+  ],
+  "answer": 2,
+  "explanation": "وَتُسَلِّمُوْا برمقصود سرتا ممبري سلام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-04",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب برزيارة يڠ ترباءيق؟",
+  "options": [
+   "مڠينتيڤ",
+   "منچروبوه",
+   "ممبري سلام",
+   "ماسوق تنڤا ايذين"
+  ],
+  "answer": 2,
+  "explanation": "ادب برزيارة يڠ ترباءيق اياله ممبري سلام سبلوم ماسوق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-05",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكاه جومله سلام يڠ ڤرلو دبري جك تياد جوابڽ؟",
+  "options": [
+   "ملبيهي امڤت كالي",
+   "تيدق ملبيهي دوا كالي",
+   "تيدق ملبيهي ليم كالي",
+   "تيدق ملبيهي تيݢ كالي"
+  ],
+  "answer": 3,
+  "explanation": "جك تياد جواب، سلام دبري تيدق ملبيهي تيݢ كالي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-06",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ساله ساتو درڤد تيݢ ڤركارا يڠ دڤرينتهكن الله (سورة النحل: 90)؟",
+  "options": [
+   "تياد احسان",
+   "برصيفت عاديل",
+   "برلاكو ظاليم",
+   "ممنتيڠكن ديري"
+  ],
+  "answer": 1,
+  "explanation": "سورة النحل اية 90 ممرينتهكن برصيفت عاديل، احسان دان ممبري كاوم كرابت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-07",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠاجرن اية سورة النحل: 90؟",
+  "options": [
+   "سنتياس برمحاسبه دان برلاكو عاديل",
+   "برصيفت سومبوڠ",
+   "ملاكوكن عبادة حج",
+   "هيدوڤ برڤچه بله"
+  ],
+  "answer": 0,
+  "explanation": "اية اين مڠاجر كيت سنتياس برمحاسبه سرتا برلاكو عاديل دان احسان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-08",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت ارتي كليمه \"مُقْتَدِرًا\"؟",
+  "options": [
+   "مها بركهندق",
+   "مها بركواس",
+   "مها مڠتاهوءي",
+   "مها مندڠر"
+  ],
+  "answer": 1,
+  "explanation": "مُقْتَدِرًا برمقصود مها بركواس.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-09",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرينته الله دالم سورة العنكبوت اية 8 اياله",
+  "options": [
+   "درهاك كڤد ايبو باڤ",
+   "تياد احسان كڤد ايبو باڤ",
+   "مڠابايكن ايبو باڤ",
+   "بربوات باءيق كڤد ايبو باڤ"
+  ],
+  "answer": 3,
+  "explanation": "سورة العنكبوت اية 8 ممرينتهكن بربوات باءيق كڤد ايبو باڤ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-10",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دوسا يڠ ڤاليڠ بسر دسيسي الله اداله",
+  "options": [
+   "شيريك",
+   "بربوهوڠ",
+   "درهاك",
+   "تكبر"
+  ],
+  "answer": 0,
+  "explanation": "شيريك اداله دوسا يڠ ڤاليڠ بسر دسيسي الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-11",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله منجاديكن سݢومڤل داره دالم رحيم ايبو سلام",
+  "options": [
+   "تيݢ ڤولوه هاري",
+   "امڤت ڤولوه هاري",
+   "ليم ڤولوه هاري",
+   "انم ڤولوه هاري"
+  ],
+  "answer": 1,
+  "explanation": "ڤريڠكت عَلَقَة (سݢومڤل داره) برلاكو سلاما امڤت ڤولوه هاري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-12",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مُضْغَة برارتي",
+  "options": [
+   "ستيتيس اءير ماني",
+   "ستيتيس داره",
+   "سݢومڤل داره بكو",
+   "سݢومڤل داݢيڠ كچيل"
+  ],
+  "answer": 3,
+  "explanation": "مُضْغَة برمقصود سݢومڤل داݢيڠ كچيل.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-13",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيوڤن روح دتيوڤكن كدالم جانين اياله سلڤس",
+  "options": [
+   "سراتوس دوا ڤولوه هاري",
+   "سراتوس تيݢ ڤولوه هاري",
+   "سراتوس امڤت ڤولوه هاري",
+   "سراتوس ليم ڤولوه هاري"
+  ],
+  "answer": 0,
+  "explanation": "روح دتيوڤكن سلڤس 120 هاري (امڤت بولن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-14",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠاخيرن حيات ماءينسي يڠ ترباءيق اياله",
+  "options": [
+   "حُسْنُ الظّن",
+   "حُسْنُ الخَاتِمَة",
+   "سُوْءُ الظّن",
+   "سُوْءُ الخَاتِمَة"
+  ],
+  "answer": 1,
+  "explanation": "ڤڠاخيرن حيات يڠ ترباءيق اياله حُسْنُ الخَاتِمَة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-15",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ستياڤ عمل عبادة يڠ ڤرنه دلاكوكن ڤد زمان رسول الله دناماكن",
+  "options": [
+   "سُنَّة",
+   "بِدْعَة",
+   "حَسَنَة",
+   "ضَلَالَة"
+  ],
+  "answer": 0,
+  "explanation": "عمل عبادة يڠ ڤرنه دلاكوكن ڤد زمان رسول الله اداله سُنَّة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-16",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بِدْعَة يڠ بوليه دعملكن اياله بِدْعَة",
+  "options": [
+   "ضَلَالَة",
+   "ضَرُورَة",
+   "حَسَنَة",
+   "حَصُن"
+  ],
+  "answer": 2,
+  "explanation": "بِدْعَة حَسَنَة اياله بدعة يڠ باءيق دان بوليه دعملكن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-17",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت ڤركارا-ڤركارا يڠ دحكومكن حرام كجوالي",
+  "options": [
+   "مينوم ارق",
+   "طاعة ايبو باڤ",
+   "منچوري",
+   "ماكن ماكنن حرام"
+  ],
+  "answer": 1,
+  "explanation": "طاعة كڤد ايبو باڤ بوكن حرام، بهكن دتونتوت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-18",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوچين باطين اداله ممبرسيهكن هاتي دڠن چارا برايكوت كجوالي",
+  "options": [
+   "برتوبة",
+   "براستغفار",
+   "بوروق سڠك",
+   "بربوات باءيق"
+  ],
+  "answer": 2,
+  "explanation": "بوروق سڠك اداله ڤڽاكيت هاتي، بوكن چارا ممبرسيهكنڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-19",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اياله ڤركارا يڠ ڤرلو دلاكوكن كأتس كتاب القرءان الكريم — i. ممباچاڽ  ii. مڠاجركنڽ  iii. ممڤلاجرينڽ  iv. ممبياركنڽ",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "i، iii دان iv",
+   "ii، iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "القرءان هندقله دباچ، دأجر دان دڤلاجري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-20",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرساوداراءن إسلام ترجينا دأتس داسر برايكوت — i. كاسيه سايڠ  ii. حرمت مڠحرمتي  iii. ڤرموسوهن  iv. كبنچين",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "i، iii دان iv",
+   "ii، iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "ڤرساوداراءن إسلام دبينا اتس داسر كاسيه سايڠ دان حرمت مڠحرمتي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-21",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود \"وَيَنْهَى\" اياله دان ملارڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "وَيَنْهَى برمقصود دان ملارڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-22",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فَحْشَاء، مُنْكَر، بَغْي اداله ڤربواتن يڠ دلارڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "فحشاء، منكر دان بغي اداله ڤربواتن يڠ دلارڠ الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-23",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسنڠن دان كميواهن ددنيا هندقله برفقسيكن ايمان دان تقوى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "كسنڠن هيدوڤ هندقله دلندسكن ايمان دان تقوى كڤد الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-24",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شُبْهَة اياله ڤركارا-ڤركارا يڠ جلس حلال دان حرامڽ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "شُبْهَة اياله ڤركارا يڠ سمر/تيدق جلس حلال اتاو حرامڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tafsir-pat2023-25",
+  "exam": "Darjah 5",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام تيدق مڠݢسا اومتڽ برصيفت وَرَع.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "إسلام مڠݢلقكن اومتڽ برصيفت وَرَع.",
+  "source": "PAT 2023",
+  "perlu_semak": true
  }
 ]
