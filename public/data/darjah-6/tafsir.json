@@ -798,5 +798,405 @@
   "explanation": "إسلام ملارڠ مممباوڠ وقتو (ماس) دڠن ڤركارا يڠ سيا-سيا.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"وَرَحْمَةً\" دالم سورة الروم اية 21؟",
+  "options": [
+   "اونتوق كامو",
+   "دأنتارا كامو",
+   "دان بلس كاسيهن",
+   "باݢي اورڠ يڠ برفيكير"
+  ],
+  "answer": 2,
+  "explanation": "وَرَحْمَةً برمقصود دان بلس كاسيهن (رحمة) انتارا سوامي ايستري.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"لِتَسْكُنُوا إِلَيْهَا\" برمقصود \"سوڤاي كامو ______ دان هيدوڤ مسرا\".",
+  "options": [
+   "برسنڠ هاتي (تنترم)",
+   "بربوات باءيق",
+   "ملقساناكن كواجيفن",
+   "منجاءوهي كامو"
+  ],
+  "answer": 0,
+  "explanation": "لِتَسْكُنُوا إِلَيْهَا برمقصود سوڤاي كامو مندافت كتنترمن دان كتنڠن هاتي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حواء عليها السلام دجاديكن درڤد روسوق نبي ______.",
+  "options": [
+   "ادم",
+   "هود",
+   "نوح",
+   "صالح"
+  ],
+  "answer": 0,
+  "explanation": "حواء دجاديكن درڤد تولڠ روسوق نبي ادم عليه السلام.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت چيري-چيري ونيتا دالم كلوارݢ سكينة؟ — i. تنڠ  ii. طمع  iii. تنترم  iv. ظاليم",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iv دان ii"
+  ],
+  "answer": 1,
+  "explanation": "چيري كلوارݢ سكينة اياله هيدوڤ تنڠ دان تنترم.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود \"كلوارݢ سكينة\"؟",
+  "options": [
+   "برماس موك",
+   "كلوارݢ بهاݢيا",
+   "ملاكوكن كروسقن",
+   "برسيكڤ تݢس"
+  ],
+  "answer": 1,
+  "explanation": "كلوارݢ سكينة اياله كلوارݢ يڠ بهاݢيا، تنترم دان بركاسيه سايڠ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"فَاسِقٌ\" دالم سورة الحجرات اية 6؟",
+  "options": [
+   "سأورڠ برايمان",
+   "سأورڠ فاسق",
+   "سأورڠ ڤندوستا",
+   "سأورڠ كفور"
+  ],
+  "answer": 1,
+  "explanation": "فَاسِقٌ برمقصود سأورڠ فاسق، ياءيت اورڠ يڠ درهاك دان كلوار دري كتاعتن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسواتو ڤركارا ______ ترجادي عاقبت بريتا ڤلسو.",
+  "options": [
+   "باءيق",
+   "بوروق",
+   "برمنفعت",
+   "مناسبه"
+  ],
+  "answer": 1,
+  "explanation": "بريتا ڤلسو مننداتڠكن ڤركارا بوروق دان كروسقن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-08",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بريتا ڤلسو مڠعاقبتكن كبوروقن كڤد ______.",
+  "options": [
+   "عالم",
+   "چوراݢ",
+   "اينديۏيدو دان مشاركت",
+   "حيوان"
+  ],
+  "answer": 2,
+  "explanation": "بريتا ڤلسو مممباوا كبوروقن كڤد اينديۏيدو دان مشاركت.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-09",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤربواتن فاسق كچوالي",
+  "options": [
+   "مڽيبركن بريتا ڤلسو",
+   "مڽيبركن فتنه",
+   "ملاكوكن دوسا بسر",
+   "مڠهيندري دوسا بسر"
+  ],
+  "answer": 3,
+  "explanation": "مڠهيندري دوسا بسر بوكن ڤربواتن فاسق، باهكن ڤربواتن ترڤوجي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-10",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه ڤربواتن يڠ امت تركوتوق — i. منابور فتنه  ii. براخلاق موليا  iii. مڠادو دومبا  iv. مڠرجاكن صلاة",
+  "options": [
+   "i دان iii",
+   "ii دان iii",
+   "i، ii دان iii",
+   "i، ii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "منابور فتنه دان مڠادو دومبا اداله ڤربواتن يڠ امت تركوتوق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-11",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه معنا ڤركاتاءن \"فَإِنَّمَا أَهْلَكَ\"؟",
+  "options": [
+   "جاڠن كامو",
+   "دان برتاڽالاه",
+   "مك بيناساله",
+   "باقي مفسر"
+  ],
+  "answer": 2,
+  "explanation": "فَإِنَّمَا أَهْلَكَ برمقصود مك بيناساله (سسوڠݢوهڽ يڠ مممبيناساكن).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-12",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسن اومت ترداهولو يڠ باڽق برتاڽ؟",
+  "options": [
+   "منداڤت ڤهالا",
+   "سوءالن ترجواب",
+   "منمبه علمو ڤڠتاهوان",
+   "منداڤت عاقبت بوروق"
+  ],
+  "answer": 3,
+  "explanation": "اومت ترداهولو يڠ باڽق برتاڽ دان برسليسيه منداڤت عاقبت بوروق سهيڠݢ بيناسا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-13",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلمة ______ مرجوع كڤد ڤركارا يڠ دتݢه دان دلارڠ.",
+  "options": [
+   "مَا نَهَيْتُكُمْ",
+   "فَاجْتَنِبُوهُ",
+   "فَإِنَّمَا أَهْلَكَ",
+   "مَا اسْتَطَعْتُمْ"
+  ],
+  "answer": 0,
+  "explanation": "مَا نَهَيْتُكُمْ برمقصود اڤ يڠ اكو لارڠ، ياءيت ڤركارا يڠ دتݢه.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-14",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكوم تكليفي دالم إسلام كچوالي",
+  "options": [
+   "سنة",
+   "فرض",
+   "مكروه",
+   "صح"
+  ],
+  "answer": 3,
+  "explanation": "صح اداله حكوم وضعي، بوكن حكوم تكليفي (فرض، سنة، حرام، مكروه، هاروس).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-15",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه الله ملارڠ سسواتو ڤركارا كران دسباليقڽ تردافت ______.",
+  "options": [
+   "مضرت",
+   "كباءيقن",
+   "منفعت",
+   "كسرونوقن"
+  ],
+  "answer": 0,
+  "explanation": "الله ملارڠ سسواتو كران دسباليقڽ تردافت مضرت كڤد مأنسي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-16",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"طُمَأْنِينَةٌ\"؟",
+  "options": [
+   "كبنرن",
+   "كتنڠن",
+   "كراݢوان",
+   "كجاهيلن"
+  ],
+  "answer": 1,
+  "explanation": "طُمَأْنِينَةٌ برمقصود كتنڠن هاتي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-17",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"مَا لَا يَرِيبُكَ\" برمقصود ڤركارا يڠ تيدق كامو ______.",
+  "options": [
+   "راݢوكن",
+   "لاكوكن",
+   "كاتاكن",
+   "لالوءي"
+  ],
+  "answer": 0,
+  "explanation": "مَا لَا يَرِيبُكَ برمقصود ڤركارا يڠ تيدق مراݢوكن كامو.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-18",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركاتاءن \"فَإِنَّ الصِّدْقَ\" برارتي ______.",
+  "options": [
+   "دي منادهكن",
+   "كامو مميليه",
+   "سسام مريك",
+   "كران كبنرن ايت"
+  ],
+  "answer": 3,
+  "explanation": "فَإِنَّ الصِّدْقَ برمقصود كران سسوڠݢوهڽ كبنرن (كجوجورن) ايت.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-19",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورڠ يڠ ______ اياله منيڠݢلكن ڤركارا يڠ مراݢوكن.",
+  "options": [
+   "شك",
+   "برتقوى",
+   "شبهة",
+   "كرسهن"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ برتقوى منيڠݢلكن ڤركارا يڠ مراݢوكن (شبهة).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2025-20",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام منڠݢالقكن اومتڽ مڠعملكن صيفت ______ دان برهاتي-هاتي.",
+  "options": [
+   "ورع",
+   "عجب",
+   "شبهة",
+   "وسواس"
+  ],
+  "answer": 0,
+  "explanation": "إسلام منڠݢالقكن صيفت ورع، ياءيت برهاتي-هاتي دان منجاءوهي شبهة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

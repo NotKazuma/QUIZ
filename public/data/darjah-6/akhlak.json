@@ -798,5 +798,405 @@
   "explanation": "دتيمڤا رزقي بوكن كبوروقن بخيل، باهكن ككاياءن.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه سومبر امبيلن اخلاق إسلامية؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "سومبر اوتام اخلاق إسلامية اد دوا: القرءان دان السنة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن مممڤلاجري علمو اخلاق داڤت مممبنتوق ______.",
+  "options": [
+   "كميواهن",
+   "ڤراساءن",
+   "سماڠت",
+   "كڤريبادين"
+  ],
+  "answer": 3,
+  "explanation": "مممڤلاجري علمو اخلاق مممبنتوق كڤريبادين موليا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كڤنتيڠن منجاݢ عالم سكيتر كچوالي",
+  "options": [
+   "مأنسي داڤت منفعت",
+   "منداڤت باڽق هرتا",
+   "منجامين هيدوڤ صيحت",
+   "مڠهرݢاءي انوݢره الله"
+  ],
+  "answer": 1,
+  "explanation": "منداڤت باڽق هرتا بوكن كڤنتيڠن منجاݢ عالم سكيتر.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بنتوق-بنتوق ڤنچمرن — i. ݢس  ii. اسيد  iii. اءير  iv. اودارا",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "انتارا بنتوق ڤنچمرن اياله ڤنچمرن اءير دان اودارا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب كچينتاءن كڤد نݢارا؟",
+  "options": [
+   "مروسقكن عالم",
+   "كورڠ كسدرن سيۏيك",
+   "ماتوهي ركن نݢارا",
+   "بكرجاسام دڠن موسوه"
+  ],
+  "answer": 2,
+  "explanation": "ادب كچينتاءن نݢارا اياله ماتوهي ركن نݢارا دان اوندڠ-اوندڠ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ منچينتاءي نݢارا اكن ممڤرتاهنكن نݢارا دان سڠݢوڤ ______.",
+  "options": [
+   "برقربان",
+   "بركادوه",
+   "دأعتراف",
+   "دسانجوڠ"
+  ],
+  "answer": 0,
+  "explanation": "چينتا نݢارا منجاديكن سأورڠ سڠݢوڤ برقربان دمي نݢارا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين احسان منوروت بهاس؟",
+  "options": [
+   "چينتا",
+   "منزياره",
+   "بربوات باءيق",
+   "بركاسيه سايڠ"
+  ],
+  "answer": 2,
+  "explanation": "احسان ڤد بهاس برمقصود بربوات باءيق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-08",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت احسان دالم برعبادة سڤرتي جهاد دان ______ انق.",
+  "options": [
+   "منديديق",
+   "مممارهي",
+   "منجاءوهي",
+   "ماتوهي"
+  ],
+  "answer": 0,
+  "explanation": "احسان دالم برعبادة ترماسوق برجهاد دان منديديق انق دڠن باءيق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-09",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معصية يڠ مممباوا دوسا اياله مينوم ارق دان ______.",
+  "options": [
+   "امانه",
+   "جوجور",
+   "بردوستا",
+   "برچاكڤ بنر"
+  ],
+  "answer": 2,
+  "explanation": "مينوم ارق دان بردوستا كدوانڽ معصية يڠ مممباوا دوسا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-10",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت برڤواس هاتي دڠن اڤ يڠ اد باݢي منچاڤاي كمانيسن رضا اداله ______.",
+  "options": [
+   "قَنَاعَة",
+   "تواضع",
+   "احسان",
+   "اخلاص"
+  ],
+  "answer": 0,
+  "explanation": "قَنَاعَة اياله برڤواس هاتي دڠن اڤ يڠ دميليكي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-11",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مرندهكن هاتي كڤد سسواتو يڠ دأݢوڠكن اداله مقصود ______.",
+  "options": [
+   "رضا",
+   "تواضع",
+   "تَفَكُّر",
+   "احسان"
+  ],
+  "answer": 1,
+  "explanation": "تواضع اياله مرندهكن ديري كڤد يڠ دأݢوڠكن تنڤا سومبوڠ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-12",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت تواضع كڤد ݢورو كچوالي",
+  "options": [
+   "مغوچڤكن سلام",
+   "دودوق دڠن تيدق سوڤن",
+   "منجاݢ نام باءيق",
+   "ملقساناكن ارهن ݢورو"
+  ],
+  "answer": 1,
+  "explanation": "دودوق دڠن تيدق سوڤن برلاونن دڠن صيفت تواضع كڤد ݢورو.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-13",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي تَفَكُّر ڤد بهاس؟",
+  "options": [
+   "مميكيركن",
+   "مموليا كن",
+   "مندعاءكن",
+   "مرندهكن"
+  ],
+  "answer": 0,
+  "explanation": "تَفَكُّر ڤد بهاس برمقصود مميكيركن اتاو مرنوڠ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-14",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تَفَكُّر يڠ بتول اكن ملاهيركن ڤراساءن ______.",
+  "options": [
+   "چينتا كڤد الله",
+   "بنچي كڤد كلوارݢ",
+   "چينتا كڤد هرتا",
+   "تاكوت كڤد ديري سنديري"
+  ],
+  "answer": 0,
+  "explanation": "تفكّر ترهادڤ چيڤتاءن الله ملاهيركن راس چينتا دان تقوى كڤد الله.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-15",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عجب برلاكو دسببكن سريڠ منريما ______ دان مراس سڠت دڠنڽ.",
+  "options": [
+   "ڤوجين",
+   "چاچين",
+   "ڤمبرين",
+   "ڤرتولوڠن"
+  ],
+  "answer": 0,
+  "explanation": "عجب تيمبول اڤابيلا سريڠ منريما ڤوجين سهيڠݢ ممباڠݢاكن ديري.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-16",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ارتي \"الظَّن\" ڤد بهاس — i. كراݢوان  ii. سڠكاءن  iii. سسواتو يڠ تيدق ڤستي  iv. كاݢوم ڤد ديري",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "i، iii، iv",
+   "i، ii، iii"
+  ],
+  "answer": 3,
+  "explanation": "الظَّن ڤد بهاس برمقصود كراݢوان، سڠكاءن دان سسواتو يڠ تيدق ڤستي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-17",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسن برسڠك بوروق ترهادڤ الله؟",
+  "options": [
+   "كنجرن ڤهالا",
+   "دفندڠ تيڠݢي",
+   "دڤوجي مأنسي",
+   "دموركاءي الله"
+  ],
+  "answer": 3,
+  "explanation": "برسڠك بوروق ترهادڤ الله مڽببكن دموركاءي الله.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-18",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤونچا برلاكو سڠك بوروق؟",
+  "options": [
+   "مڠيكوت هاوا نفسو",
+   "سنتياس برلاڤڠ دادا",
+   "سنتياس منجاݢ اخلاق",
+   "كرڤ برݢاءول دڠن علماء"
+  ],
+  "answer": 0,
+  "explanation": "مڠيكوت هاوا نفسو اداله ڤونچا تيمبولڽ سڠك بوروق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-19",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤونچا منجادي بخيل اياله بيمبڠ منجادي ______ دان تيدق كاي.",
+  "options": [
+   "اخلاص",
+   "تواضع",
+   "كدكوت",
+   "ميسكين"
+  ],
+  "answer": 3,
+  "explanation": "بخيل تيمبول كران بيمبڠ منجادي ميسكين دان كهابيسن هرتا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-akhlak-sdea2025-20",
+  "exam": "Darjah 6",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عاقبت بخيل منجاديكن هاتي تيدق تنڠ دان سوكر منداڤت ______.",
+  "options": [
+   "كبهاݢياءن",
+   "كهيناءن",
+   "كچلاروان",
+   "كبوروقن"
+  ],
+  "answer": 0,
+  "explanation": "بخيل مڽببكن هاتي تيدق تنڠ دان سوكر منداڤت كبهاݢياءن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

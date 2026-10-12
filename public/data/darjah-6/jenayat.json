@@ -278,5 +278,105 @@
   "explanation": "هرتا بُغَاة دتاهن (دسيمڤن) سهيڠݢ مريك كمبالي طاعة كڤد ڤمرينته.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چونتوه لفظ قَذَف صريح كچوالي",
+  "options": [
+   "اڠكاو تله برزنا",
+   "اين بوكن انق سوامي مو",
+   "بارو برنكاح سوده برانق",
+   "واهاي ڤرمڤوان يڠ برزنا"
+  ],
+  "answer": 1,
+  "explanation": "\"اين بوكن انق سوامي مو\" اداله قذف كناية (سيندير)، بوكن صريح يڠ مڽبوت زنا سچارا جلس.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كأداءن يڠ بوليه مڽببكن سأورڠ ايت مرتد؟",
+  "options": [
+   "جك دأنچم",
+   "ترساله اوچڤن",
+   "مڠهينا رسول",
+   "توندوق كڤالا تندا حرمت"
+  ],
+  "answer": 2,
+  "explanation": "مڠهينا الله اتاو رسول دڠن سڠاج بوليه مڽببكن سأورڠ مرتد.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله عنصور كسالهن مممبرونتق (بُغَاة) كچوالي",
+  "options": [
+   "نية",
+   "ڤربواتن مندرهاك",
+   "دسوكوڠ ڤمرينته",
+   "ڤڠݢوناءن كككرسن"
+  ],
+  "answer": 2,
+  "explanation": "دسوكوڠ ڤمرينته بوكن عنصور كسالهن بُغَاة؛ بُغَاة جوستيرو مندرهاك ترهادڤ ڤمرينته.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مممبرونتق ترهادڤ ڤمرينته يڠ عاديل اداله ______.",
+  "options": [
+   "صح",
+   "سنة",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 2,
+  "explanation": "مممبرونتق (بُغَاة) ترهادڤ ڤمرينته يڠ عاديل حكومڽ حرام.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"مڠݢرقكن سݢالا كقواتن اونتوق مممبيلا ديري دان مڠهالڠ موسوه\" مرجوع كڤد ______.",
+  "options": [
+   "البُغَاة",
+   "الرِّدَّة",
+   "الصِّيَال",
+   "الجِهَاد"
+  ],
+  "answer": 2,
+  "explanation": "الصِّيَال اياله اوسها مممبيلا ديري، هرتا اتاو ماروه درڤد سرڠن ڤنچروبوه.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

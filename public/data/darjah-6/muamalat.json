@@ -318,5 +318,165 @@
   "explanation": "ݢنجرن دري كدوا-دوا ڤسرتا تنڤا مُحَلِّل منجادي جودي، مك تيدق هاروس.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين المُخَابَرَة دان المُزَارَعَة؟",
+  "options": [
+   "فاوه (باݢي حاصيل)",
+   "اوڤه",
+   "سيوا",
+   "بلي"
+  ],
+  "answer": 0,
+  "explanation": "المخابرة دان المزارعة اياله سيستم فاوه، ياءيت كرجاسام تانم دڠن باݢي حاصيل.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "المَالِك اياله ______ اتاو مودل.",
+  "options": [
+   "ڤڠوسها",
+   "كأونتوڠن",
+   "جنيس ڤرنياݢاءن",
+   "ڤميليق هرتا"
+  ],
+  "answer": 3,
+  "explanation": "المَالِك اياله ڤميليق هرتا اتاو مودل دالم عقد.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عقد القِرَاض تربطل جك ساله سأورڠ اهلي تَصَرُّف ______.",
+  "options": [
+   "لوفا",
+   "ساكيت",
+   "ماتي",
+   "برفينده"
+  ],
+  "answer": 2,
+  "explanation": "عقد قراض تربطل اڤابيلا ساله سأورڠ ڤيهق يڠ براكد ماتي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط كهاروسن إحْيَاءُ المَوَّات؟",
+  "options": [
+   "ڤنروك مسلم",
+   "ڤنروك كافر",
+   "تانه تله دميليقي",
+   "تانه دسكت كراجاءن"
+  ],
+  "answer": 0,
+  "explanation": "شرط كهاروسن إحياء الموات اياله ڤنروك اورڠ إسلام دان تانه ايت تيادا ڤميليق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كاتݢوري بارڠ لقطة تربهاݢي كڤد ______.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "بارڠ لقطة تربهاݢي كڤد دوا: يڠ ككل تاهن لاما دان يڠ چڤت روسق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ايستيله نام باݢي كانق-كانق يڠ ترچامڤق دري سودوت بهاس؟",
+  "options": [
+   "اللُّقَيْط",
+   "القرية",
+   "اللُّقَطَة",
+   "البادية"
+  ],
+  "answer": 0,
+  "explanation": "اللُّقَيْط اياله كانق-كانق ترچامڤق اتاو تربوڠ يڠ دجومڤاءي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت ڤموڠوت اللُّقَيْط — i. إسلام  ii. همبا  iii. سفيه  iv. مكلف",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ڤموڠوت لقيط مستيله إسلام، مكلف، مرديك دان عاديل.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2025-08",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت چارا ڤرتنديڠن (مسابقة) يڠ دشرعكن؟ — i. مماتوهي ڤراتورن  ii. بيبس تنڤا ڤراتورن  iii. قدر جاءوهڽ تيدق دتنتوكن  iv. قدر جاءوهڽ دتنتوكن",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ڤرتنديڠن يڠ دشرعكن مستي مماتوهي ڤراتورن دان قدر جاءوهڽ دتنتوكن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

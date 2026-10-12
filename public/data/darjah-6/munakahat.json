@@ -198,5 +198,145 @@
   "explanation": "كفارة ظهار واجب دتونايكن اوليه سوامي يڠ مظهار.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه صيفت ڤوسيتيف يڠ منجادي حكمه رجوع دالم ڤركهوينن؟",
+  "options": [
+   "دندم",
+   "ماره",
+   "ساليڠ مممبنچي",
+   "كاسيه سايڠ"
+  ],
+  "answer": 3,
+  "explanation": "حكمه رجوع اياله مڠمبالي كان كاسيه سايڠ دان كهرمونيان روم تڠݢ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إِيلَاء ڤونچاڽ طلاق برتڠݢوه دالم تيمڤوه ______ بولن.",
+  "options": [
+   "امڤت",
+   "ليم",
+   "انم",
+   "توجوه"
+  ],
+  "answer": 0,
+  "explanation": "إيلاء اياله سومڤه سوامي تيدق مڽتوبوهي ايستري دالم تيمڤوه امڤت بولن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سومڤه إِيلَاء دخاصكن هاڽ اونتوق تيدق ملاكوكن ______.",
+  "options": [
+   "ڤرجومڤاءن",
+   "برسنتوهن",
+   "ڤرستوبوهن",
+   "برمسراءن"
+  ],
+  "answer": 2,
+  "explanation": "إيلاء اياله سومڤه تيدق ملاكوكن ڤرستوبوهن دڠن ايستري.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ايستيله سوامي يڠ مڽاماكن ايسترين دڠن ڤرمڤوان يڠ حرام دنيكاحي؟",
+  "options": [
+   "إِيلَاء",
+   "ظِهَار",
+   "رجوع",
+   "طلاق"
+  ],
+  "answer": 1,
+  "explanation": "ظهار اياله مڽاماكن ايستري دڠن ڤرمڤوان يڠ حرام دنيكاحي سڤرتي ايبو سنديري.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوامي يڠ ملفظكن ظهار دان تيدق منطلاقكن ايسترين ______ مممباير كفارة.",
+  "options": [
+   "واجب",
+   "سنة",
+   "حرام",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "سوامي يڠ مظهار واجب مممباير كفارة سبلوم مڽنتوهي ايستري سمولا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توجوان عدة باݢي ڤرمڤوان يڠ دچرايكن؟",
+  "options": [
+   "منجارقكن هوبوڠن",
+   "موجودكن مسئله",
+   "مممستيكن رحيم برسيه",
+   "مموتوسكن كاسيه سايڠ"
+  ],
+  "answer": 2,
+  "explanation": "توجوان عدة اياله مممستيكن رحيم برسيه (كوسوڠ) درڤد كاندوڠن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس-جنيس ڤنچرايان تربهاݢي كڤد ______.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "لفظ ڤنچرايان تربهاݢي كڤد دوا: صريح (جلس) دان كناية (سيندير).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

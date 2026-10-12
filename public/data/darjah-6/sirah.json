@@ -778,5 +778,405 @@
   "explanation": "عبد الرحمن بن عوف منجادي ڤنصيحت اقرب كڤد سيدنا عمر الخطاب.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه مأنسي ڤرتام يڠ دچيڤتاكن اوليه الله تعالى؟",
+  "options": [
+   "نبي ادم",
+   "نبي نوح",
+   "نبي هود",
+   "نبي صالح"
+  ],
+  "answer": 0,
+  "explanation": "نبي ادم عليه السلام اداله مأنسي ڤرتام يڠ دچيڤتا الله.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى مممرينتهكن نبي نوح عليه السلام مممبينا ______.",
+  "options": [
+   "رومه",
+   "بهترا",
+   "مسجد",
+   "ايستانا"
+  ],
+  "answer": 1,
+  "explanation": "نبي نوح دڤرينتهكن مممبينا بهترا (كاڤل) اونتوق مڽلامتكن اورڠ برايمان.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي يوسف عليه السلام تله دچامڤقكن اوليه ______ كدالم ڤريݢي.",
+  "options": [
+   "باڤاڽ",
+   "داتوقڽ",
+   "ساودارا-ساوداراڽ",
+   "كتوانڽ"
+  ],
+  "answer": 2,
+  "explanation": "نبي يوسف دچامڤقكن كدالم ڤريݢي اوليه ساودارا-ساوداراڽ كران حاسد.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "راج يڠ تله دبونوه اوليه نبي داود عليه السلام اياله ______.",
+  "options": [
+   "ذوالكفلي",
+   "عبدالله",
+   "جالوت",
+   "طالوت"
+  ],
+  "answer": 2,
+  "explanation": "نبي داود مممبونوه راج جالوت (الذي يڠ ظاليم) دالم ڤڤرڠن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مخلوق يڠ دڤرينته اوليه نبي سليمان عليه السلام اياله ______.",
+  "options": [
+   "جين دان مأنسي",
+   "مأنسي دان بيناتڠ",
+   "بيناتڠ دان ملائكة",
+   "جين، مأنسي دان بيناتڠ"
+  ],
+  "answer": 3,
+  "explanation": "نبي سليمان دأنوݢرهكن كواس مممرينته جين، مأنسي دان بيناتڠ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي عيسى عليه السلام اداله ڤوترا سَيِّدَة ______ يڠ دلاهيركن دبيت لحم فلسطين.",
+  "options": [
+   "مريم",
+   "فاطمة",
+   "عائشة",
+   "خديجة"
+  ],
+  "answer": 0,
+  "explanation": "نبي عيسى اداله ڤوترا سيدة مريم، لاهير تنڤا باڤ دڠن قدرة الله.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤرياتاءن تنتڠ نبي عيسى عليه السلام كچوالي",
+  "options": [
+   "ڤوترا سيدة مريم",
+   "لاهير دبيت لحم",
+   "لاهير تنڤا باڤ",
+   "مممڤوڽاءي اديق برادق"
+  ],
+  "answer": 3,
+  "explanation": "نبي عيسى لاهير تنڤا باڤ دان اداله انق توڠݢل سيدة مريم.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-08",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود \"خَاتَمُ النَّبِيِّين\"؟",
+  "options": [
+   "ڤنوتوڤ سݢالا نبي",
+   "مممباوا بريتا ݢمبيرا",
+   "رحمة كڤد سكالين عالم",
+   "ڤڠهولو سكالين نبي دان مأنسي"
+  ],
+  "answer": 0,
+  "explanation": "خَاتَمُ النَّبِيِّين برمقصود ڤنوتوڤ سݢالا نبي، ياءيت نبي محمد ﷺ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-09",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه بنتوق فيزيكل رسول الله ﷺ؟",
+  "options": [
+   "رنده",
+   "تيڠݢي",
+   "كوروس",
+   "برتوبوه سدرهان"
+  ],
+  "answer": 3,
+  "explanation": "رسول الله ﷺ برتوبوه سدرهان، تيدق ترلالو تيڠݢي اتاو رنده.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-10",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلوار اءير دري ______ اداله معجزة نبي محمد ﷺ.",
+  "options": [
+   "مات",
+   "كاكي",
+   "چله تليڠا",
+   "چله-چله جاري"
+  ],
+  "answer": 3,
+  "explanation": "انتارا معجزة نبي ﷺ اياله اءير تربيت دري چله-چله جاري باݢيندا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-11",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دماناكه ڤوست ڤمرينتهن الخلفاء الراشدين؟",
+  "options": [
+   "مكة",
+   "مدينة",
+   "عراق",
+   "جوردن"
+  ],
+  "answer": 1,
+  "explanation": "ڤوست ڤمرينتهن خلفاء الراشدين اياله دمدينة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-12",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه صحابة يڠ دلاهيركن دمكة دوا تاهون سلڤس كلاهيرن رسول الله ﷺ؟",
+  "options": [
+   "سيدنا ابو بكر الصديق",
+   "سيدنا عثمان بن عفان",
+   "سيدنا عمر بن الخطاب",
+   "سيدنا علي بن ابي طالب"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا ابو بكر الصديق لاهير دمكة لبيه كورڠ دوا تاهون سلڤس كلاهيرن نبي ﷺ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-13",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت جاس دان سومبڠن سيدنا ابو بكر الصديق؟ — i. مڠيريڠي هجره نبي محمد ﷺ  ii. مڽرتاءي نبي ﷺ دالم ڤڤرڠن  iii. مڠيمامكن صلاة  iv. دأوتوس سباݢاي ݢبنور شام",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا ابو بكر مڠيريڠي هجره نبي ﷺ كݢوا ثور دان مڽرتاءي باݢيندا دالم ڤڤرڠن.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-14",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤرياتاءن تنتڠ سيدنا عثمان بن عفان كچوالي",
+  "options": [
+   "لاهير دمدينة",
+   "خليفة كتيݢ",
+   "كتورونن بني امية",
+   "هجره كمدينة"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا عثمان لاهير دمكة (طائف)، بوكن دمدينة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-15",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام تله مممرينته سلاما ______ سهيڠݢ كيني.",
+  "options": [
+   "1200 تاهون",
+   "1300 تاهون",
+   "1400 تاهون",
+   "1500 تاهون"
+  ],
+  "answer": 2,
+  "explanation": "إسلام تله برتاڤق لبيه كورڠ 1400 تاهون سجق كراسولن نبي محمد ﷺ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-16",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه ڤڠاسس بني امية يڠ باڤاڽ برنام ابو سفيان بن حرب؟",
+  "options": [
+   "عمر",
+   "مروان",
+   "امية",
+   "معاوية"
+  ],
+  "answer": 3,
+  "explanation": "معاوية بن ابو سفيان اداله ڤڠاسس دولة بني امية.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-17",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كجاياءن دولة امية دالم بيدڠ علمو القرءان — i. مممڤركنلكن تيتيق حروف  ii. مورناكن القرءان  iii. موجودكن ڤچهن جزء القرءان  iv. ملتقكن باريس ڤد حروف القرءان",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i، ii دان iv",
+   "i، iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "دولة امية مممڤركنلكن تيتيق حروف، مممباهاݢيكن جزء دان ملتقكن باريس ڤد حروف القرءان.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-18",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسوڠݢوهن تنترا إسلام مننترا ايمڤاير ______ تله مڽببكنڽ موسنه دان دتعلوق.",
+  "options": [
+   "عثمانية",
+   "عرب",
+   "عباسية",
+   "فُرسي"
+  ],
+  "answer": 3,
+  "explanation": "تنترا إسلام برجاي منوندوقكن ايمڤاير فُرسي (ڤارسي) دان رومي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-19",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ابو عبيدة بن الجراح رضي الله عنه اداله دري قوم ______.",
+  "options": [
+   "انصار",
+   "قريش",
+   "مهاجرين",
+   "يهودي"
+  ],
+  "answer": 1,
+  "explanation": "ابو عبيدة بن الجراح براسل دري قوم قريش دان ترماسوق كاوم مهاجرين.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2025-20",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الزبير بن العوام رضي الله عنه وفاة كتيك براوسيا ______.",
+  "options": [
+   "40 تاهون",
+   "41 تاهون",
+   "43 تاهون",
+   "45 تاهون"
+  ],
+  "answer": 3,
+  "explanation": "الزبير بن العوام شهيد سلڤس ڤڤرڠن جمل.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

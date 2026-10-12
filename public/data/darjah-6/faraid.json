@@ -198,5 +198,105 @@
   "explanation": "ايبو منداڤت 1/3، 1/6 اتاو 1/3 باقي؛ نصف (1/2) بوكن بهاݢين ايبو.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايستيله باݢي اورڠ يڠ برواصيت اياله ______.",
+  "options": [
+   "مُوصِي",
+   "قبول",
+   "ايجاب",
+   "مُوصِي لَهُ"
+  ],
+  "answer": 0,
+  "explanation": "مُوصِي اياله اورڠ يڠ مممبوات وصية؛ مُوصِي لَهُ ڤولا اورڠ يڠ منريما وصية.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ دمقصودكن ايبو يڠ مممڤوساكاءي؟",
+  "options": [
+   "ايبو تيري",
+   "ايبو مرتوا",
+   "ايبو سوسوان",
+   "ايبو كاندوڠ"
+  ],
+  "answer": 3,
+  "explanation": "ايبو يڠ مممڤوساكاءي اياله ايبو كاندوڠ سي ماتي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاݢين ڤوساك باݢي باف جك سي ماتي منيڠݢلكن فروع وارث ڤرمڤوان سهاج — i. 1/3  ii. 1/4  iii. 1/6  iv. عصبة",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "اڤابيلا اد فروع وارث ڤرمڤوان، باف منداڤت 1/6 سچارا فرض دان باقي سچارا عصبة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه بيلڠن بهاݢين فرض باݢي وارث حَوَاشِي؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "وارث حواشي بوليه منريما ببراڤ قدر فرض سڤرتي 1/2، 2/3، 1/3 دان 1/6.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-faraid-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن ركن برلاكو ڤوساك مُشْتَرَكَة كچوالي",
+  "options": [
+   "ايبو",
+   "نينيق",
+   "سوامي",
+   "ساودارا سئيبو"
+  ],
+  "answer": 1,
+  "explanation": "مسئله مشتركة مليبتكن سوامي، ايبو، ساودارا سئيبو دان ساودارا كاندوڠ؛ نينيق تيدق ترليبت.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

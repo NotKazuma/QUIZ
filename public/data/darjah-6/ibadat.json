@@ -598,5 +598,305 @@
   "explanation": "ايستري حرام براحرام حج اتاو عمرة سنة تنڤا ايذين سوامي.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مماكايكن سوترا باݢي كانق-كانق للاكي؟",
+  "options": [
+   "سنة",
+   "هاروس",
+   "مكروه",
+   "حرام"
+  ],
+  "answer": 3,
+  "explanation": "مماكايكن كانق-كانق للاكي دڠن سوترا حرام مڠيكوت ڤندڤت جمهور.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "للاكي ______ مماكاي چينچين يڠ دبوات درڤد امس.",
+  "options": [
+   "سنة",
+   "هاروس",
+   "مكروه",
+   "حرام"
+  ],
+  "answer": 3,
+  "explanation": "للاكي حرام مماكاي امس ترماسوق چينچين امس.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠلواركن زكاة فطرة ڤد هاري تراخير رمضان اداله ______.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "مڠلواركن زكاة فطرة سبلوم صلاة عيد ڤد هاري تراخير رمضان حكومڽ واجب.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت شرط صح ڤواسا؟",
+  "options": [
+   "ݢيلا",
+   "حيض",
+   "ڤيتم",
+   "برعقل"
+  ],
+  "answer": 3,
+  "explanation": "انتارا شرط صح ڤواسا اياله برعقل، إسلام، دان سوچي درڤد حيض.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برلبيهن دالم ______ دحكومكن مكروه كتيك برڤواسا.",
+  "options": [
+   "برعبادة",
+   "برصدقه",
+   "بركومور-كومور",
+   "مممباچ القرءان"
+  ],
+  "answer": 2,
+  "explanation": "بركومور-كومور سچارا برلبيهن مكروه كتيك برڤواسا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن اورڠ يڠ دهاروسكن بربوك ڤواسا كچوالي",
+  "options": [
+   "مسافر",
+   "اورڠ توا اوزور",
+   "اورڠ ساكيت",
+   "ڤرمڤوان حيض"
+  ],
+  "answer": 3,
+  "explanation": "ڤرمڤوان حيض واجب (بوكن سكادر هاروس) بربوك دان حرام برڤواسا.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤواسا يڠ دسنتكن ڤد 9 ذوالحجة؟",
+  "options": [
+   "ڤواسا انم",
+   "ڤواسا تاسوعاء",
+   "ڤواسا عاشوراء",
+   "ڤواسا هاري عرفة"
+  ],
+  "answer": 3,
+  "explanation": "ڤواسا سنة ڤد 9 ذوالحجة اياله ڤواسا هاري عرفة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-08",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا چارا مڠهيدوڤكن ليلة القدر اياله — i. صلاة سنة  ii. جوال بلي  iii. مممباچ القرءان  iv. برچاكڤ مالم",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "ليلة القدر دهيدوڤكن دڠن صلاة سنة دان مممباچ القرءان.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-09",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عمرة ڤد بهاس اياله ______.",
+  "options": [
+   "برعمل",
+   "برنياك",
+   "برزياره",
+   "برمسافر"
+  ],
+  "answer": 2,
+  "explanation": "عمرة ڤد بهاس برمقصود برزياره (منزياره).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-10",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة حج دان عمرة دواجبكن هاڽ ______ سعمور هيدوڤ.",
+  "options": [
+   "سكالي",
+   "تيݢ كالي",
+   "دوا كالي",
+   "امڤت كالي"
+  ],
+  "answer": 0,
+  "explanation": "حج دان عمرة واجب هاڽ سكالي سعمور هيدوڤ باݢي يڠ برمامڤو.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-11",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس ميقات اياله ______ دان ميقات مكاني.",
+  "options": [
+   "ميقات زماني",
+   "ميقات معنوي",
+   "ميقات معتكف",
+   "ميقات مودّة"
+  ],
+  "answer": 0,
+  "explanation": "دوا جنيس ميقات اياله ميقات زماني (ماس) دان ميقات مكاني (تمڤت).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-12",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماس برمولا وقوف دعرفة اياله سلڤس ݢلينچير ماتاهاري ڤد ______.",
+  "options": [
+   "9 ذوالحجة",
+   "11 ذوالحجة",
+   "9 ذوالقعدة",
+   "11 ذوالقعدة"
+  ],
+  "answer": 0,
+  "explanation": "وقوف دعرفة برمولا سلڤس ݢلينچير ماتاهاري ڤد 9 ذوالحجة.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-13",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام عبادة برجالن اولڠ-اليق انتارا صفا دان مروة؟",
+  "options": [
+   "تَحَلُّل",
+   "وقوف",
+   "سَعِي",
+   "طواف"
+  ],
+  "answer": 2,
+  "explanation": "سعي اياله برجالن اولڠ-اليق انتارا بوكيت صفا دان مروة توجوه كالي.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-14",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عملن سعي دلاكوكن سباڽق ______.",
+  "options": [
+   "4 كالي",
+   "5 كالي",
+   "6 كالي",
+   "7 كالي"
+  ],
+  "answer": 3,
+  "explanation": "سعي دلاكوكن سباڽق توجوه كالي درڤد صفا كمروة دان سباليقڽ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2025-15",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دحرامكن سماس احرام باݢي للاكي اياله ______.",
+  "options": [
+   "مماكاي تالي ڤيڠݢڠ",
+   "مينوم سوسو",
+   "مماكاي كوفياه (منوتوڤ كڤالا)",
+   "مميكت رامبوت"
+  ],
+  "answer": 2,
+  "explanation": "للاكي يڠ براحرام دلارڠ منوتوڤ كڤالا سڤرتي مماكاي كوفياه اتاو سوڠكوق.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

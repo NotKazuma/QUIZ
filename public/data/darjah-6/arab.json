@@ -798,5 +798,405 @@
   "explanation": "\"الْقَمِيصَ الْأَحْمَرَ\" نَعْتٌ مَنْصُوبٌ يُنَاسِبُ الْمَنْعُوتَ.",
   "source": "SDEA 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-01",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِخْتَرِ الْفَاعِلَ الْمُضْمَرَ لِلْفِعْلِ الْمَاضِي.",
+  "options": [
+   "أَجْلِسُ",
+   "جَلَسْتُمْ",
+   "يَجْلِسَ",
+   "يَجْلِسْنَ"
+  ],
+  "answer": 1,
+  "explanation": "\"جَلَسْتُمْ\" فِعْلٌ مَاضٍ وَفَاعِلُهُ ضَمِيرٌ مُتَّصِلٌ (تُمْ).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-02",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنَا ______.",
+  "options": [
+   "مُسْلِمٌ",
+   "مُسْلِمًا",
+   "مُسْلِمَاتٌ",
+   "مُسْلِمَتَيْنِ"
+  ],
+  "answer": 0,
+  "explanation": "\"أَنَا مُسْلِمٌ\" خَبَرٌ مَرْفُوعٌ مُفْرَدٌ مُذَكَّرٌ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-03",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هُوَ الْخَبَرُ؟",
+  "options": [
+   "مَصْدَرٌ مَنْصُوبٌ",
+   "اسْمٌ نَكِرَةٌ مَنْصُوبٌ",
+   "مَا يُكَمِّلُ مَعْنَى الْمُبْتَدَأِ",
+   "الِاسْمُ يَقَعُ فِي أَوَّلِ الْجُمْلَةِ"
+  ],
+  "answer": 2,
+  "explanation": "الْخَبَرُ هُوَ مَا يُكَمِّلُ مَعْنَى الْمُبْتَدَأِ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-04",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا سَبَبُ دُخُولِ الْجَنَّةِ؟",
+  "options": [
+   "عُقُوقُ الْوَالِدَيْنِ",
+   "بِرُّ الْوَالِدَيْنِ",
+   "يَصِفُ بِصِفَةٍ مَذْمُومَةٍ",
+   "إِكْرَاهُ الْوَالِدَيْنِ"
+  ],
+  "answer": 1,
+  "explanation": "بِرُّ الْوَالِدَيْنِ سَبَبٌ مِنْ أَسْبَابِ دُخُولِ الْجَنَّةِ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-05",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَلْعَبُ الطُّلَّابُ ______ فِي الْمَلْعَبِ.",
+  "options": [
+   "كُرَةُ الْقَدَمِ",
+   "كُرَةَ الْقَدَمِ",
+   "الْكُرَةِ الْقَدَمِ",
+   "الْكُرَةَ الْقَدَمَ"
+  ],
+  "answer": 1,
+  "explanation": "\"كُرَةَ الْقَدَمِ\" مَفْعُولٌ بِهِ مَنْصُوبٌ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-06",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فِيمَا يَأْتِي الْجُمَلُ لِلْمَفْعُولِ الْمُطْلَقِ — i. هَذِهِ مَدْرَسَةٌ جَمِيلَةٌ  ii. أَنَا أُزَيِّنُ الْبَيْتَ مَسَاءً  iii. زَرَعَ مُحَمَّدٌ الْأُرُزَّ زَرْعًا  iv. سَجَدَ مُحَمَّدٌ سَجْدَتَيْنِ",
+  "options": [
+   "i و ii",
+   "ii و iii",
+   "iii و iv",
+   "ii، iii، iv"
+  ],
+  "answer": 2,
+  "explanation": "\"زَرْعًا\" وَ\"سَجْدَتَيْنِ\" مَفْعُولٌ مُطْلَقٌ (بَيَانُ نَوْعٍ وَعَدَدٍ).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-07",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا تَعْرِيفُ التَّمْيِيزِ؟",
+  "options": [
+   "اسْمٌ مَرْفُوعٌ",
+   "اسْمٌ نَكِرَةٌ مَنْصُوبٌ",
+   "اسْمُ الْوَزْنِ مَعْرِفَةٌ",
+   "اسْمُ الْعَدَدِ مَجْرُورٌ"
+  ],
+  "answer": 1,
+  "explanation": "التَّمْيِيزُ اسْمٌ نَكِرَةٌ مَنْصُوبٌ يُزِيلُ الْإِبْهَامَ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-08",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الْآتِيَةُ مِنْ أَحْرُفِ النِّدَاءِ إِلَّا ______.",
+  "options": [
+   "وَ",
+   "هَيَّا",
+   "أَيُّ",
+   "حَتَّى"
+  ],
+  "answer": 3,
+  "explanation": "\"حَتَّى\" حَرْفُ جَرٍّ وَغَايَةٍ، وَلَيْسَ مِنْ أَحْرُفِ النِّدَاءِ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-09",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنْ حُرُوفَ الْجَرِّ مِنَ الْجُمْلَةِ \"إِنَّ الْأَسْمَاكَ تَسْتَخْدِمُ الْخَيَاشِيمَ لِلْحُصُولِ عَلَى الْأُكْسِجِينِ\".",
+  "options": [
+   "لَام، عَلَى",
+   "إِنَّ، عَلَى",
+   "إِنَّ، لَام",
+   "إِنَّ، لَام، عَلَى"
+  ],
+  "answer": 0,
+  "explanation": "حُرُوفُ الْجَرِّ فِي الْجُمْلَةِ: اللَّامُ (لِلْحُصُولِ) وَعَلَى.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-10",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الْآتِيَةُ هِيَ حُرُوفُ الْجَرِّ إِلَّا ______.",
+  "options": [
+   "بِ",
+   "مِنْ",
+   "أَنْ",
+   "عَلَى"
+  ],
+  "answer": 2,
+  "explanation": "\"أَنْ\" حَرْفُ نَصْبٍ لِلْفِعْلِ، وَلَيْسَ حَرْفَ جَرٍّ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-11",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنِ الْجُمْلَةَ فِيهَا حَرْفُ الْجَرِّ — i. هُوَ أَبُو مُعَاذٍ  ii. أَنَا مِنْ جَوْهَرِ بَهَارُو  iii. يَتَحَدَّثُ عُمَرُ مَعَ جَدِّهِ  iv. تَطْبُخُ الْأُمُّ فِي الْمَطْبَخِ",
+  "options": [
+   "i و ii",
+   "ii و iv",
+   "i، ii و iii",
+   "ii، iii و iv"
+  ],
+  "answer": 1,
+  "explanation": "حَرْفُ الْجَرِّ ظَاهِرٌ فِي \"مِنْ\" وَ\"فِي\"؛ أَمَّا \"مَعَ\" فَظَرْفٌ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-12",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الْجُمْلَةُ \"قَرَأْتُ كِتَابَ اللَّهِ\" كَلِمَةُ \"اللَّهِ\" هِيَ ______.",
+  "options": [
+   "مُبْتَدَأٌ",
+   "مُضَافٌ إِلَيْهِ",
+   "تَمْيِيزٌ",
+   "مَفْعُولٌ بِهِ"
+  ],
+  "answer": 1,
+  "explanation": "\"اللَّهِ\" مُضَافٌ إِلَيْهِ مَجْرُورٌ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-13",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هُوَ الْمُضَافُ إِلَيْهِ؟",
+  "options": [
+   "اسْمٌ مَنْصُوبٌ",
+   "اسْمٌ مَرْفُوعٌ",
+   "اسْمٌ مَجْرُورٌ",
+   "اسْمٌ مَصْدَرٌ"
+  ],
+  "answer": 2,
+  "explanation": "الْمُضَافُ إِلَيْهِ اسْمٌ مَجْرُورٌ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-14",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"نَجَحَ ابْنُ الْأَخِ عُمَرُ\" الْمُضَافُ إِلَيْهِ هُوَ ______.",
+  "options": [
+   "ابْنُ",
+   "الْأَخِ",
+   "عُمَرُ",
+   "ابْنُ الْأَخِ"
+  ],
+  "answer": 1,
+  "explanation": "فِي \"ابْنُ الْأَخِ\" الْمُضَافُ إِلَيْهِ هُوَ \"الْأَخِ\" مَجْرُورٌ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-15",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"اشْتَرَكَتِ الطَّالِبَاتُ فِي مُبَارَاةِ كُرَةِ ______\".",
+  "options": [
+   "الْجَرْيِ",
+   "السَّلَّةِ",
+   "الْقُرْصِ",
+   "الرِّيَاضِيِّ"
+  ],
+  "answer": 1,
+  "explanation": "\"كُرَةِ السَّلَّةِ\" إِضَافَةٌ مُنَاسِبَةٌ (مُضَافٌ إِلَيْهِ مَجْرُورٌ).",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-16",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هِيَ مُدِيرَةُ ______ الْكَرِيمَةُ.",
+  "options": [
+   "الْمَدْرَسَةُ",
+   "مَدْرَسَةً",
+   "الْمَدْرَسَةِ",
+   "الْمَدْرَسَةَ"
+  ],
+  "answer": 2,
+  "explanation": "\"مُدِيرَةُ الْمَدْرَسَةِ\" مُضَافٌ إِلَيْهِ مَجْرُورٌ بِالْكَسْرَةِ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-17",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هُوَ ______ إِلَى الْمَدْرَسَةِ بِالْحَافِلَةِ.",
+  "options": [
+   "أَذْهَبُ",
+   "يَذْهَبُ",
+   "تَذْهَبُ",
+   "نَذْهَبُ"
+  ],
+  "answer": 1,
+  "explanation": "الضَّمِيرُ \"هُوَ\" يُنَاسِبُهُ الْفِعْلُ \"يَذْهَبُ\".",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-18",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أُنَظِّفُ الْمَنْزِلَ ______ يَوْمٍ.",
+  "options": [
+   "كُلَّ",
+   "حَوْلَ",
+   "عَلَى",
+   "وَرَاءَ"
+  ],
+  "answer": 0,
+  "explanation": "\"كُلَّ يَوْمٍ\" ظَرْفٌ يُفِيدُ التَّكْرَارَ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-19",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هَذَا مَنْزِلِي ______.",
+  "options": [
+   "كَبِيرٌ",
+   "صَغِيرًا",
+   "جَمِيلٌ",
+   "نَظِيفًا"
+  ],
+  "answer": 0,
+  "explanation": "الْخَبَرُ مَرْفُوعٌ: \"كَبِيرٌ\".",
+  "source": "SDEA 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-arab-sdea2025-20",
+  "exam": "Darjah 6",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "لَبِسَتْ عَائِشَةُ ______ الْأَبْيَضَ.",
+  "options": [
+   "الثَّوْبَ",
+   "الْقَلَنْسُوَةَ",
+   "الْحَقِيبَةَ",
+   "الْحِذَاءَ"
+  ],
+  "answer": 0,
+  "explanation": "\"الثَّوْبَ الْأَبْيَضَ\" مَفْعُولٌ بِهِ مَنْصُوبٌ يُطَابِقُ النَّعْتَ الْمُذَكَّرَ.",
+  "source": "SDEA 2025",
+  "perlu_semak": true
  }
 ]

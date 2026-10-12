@@ -598,7 +598,7 @@
           "name": "Muamalat",
           "file": "data/darjah-6/muamalat.json",
           "test": {
-            "questions": 16,
+            "questions": 20,
             "minutes": 20
           }
         },
@@ -607,7 +607,7 @@
           "name": "Faraid",
           "file": "data/darjah-6/faraid.json",
           "test": {
-            "questions": 10,
+            "questions": 15,
             "minutes": 20
           }
         },
@@ -625,7 +625,7 @@
           "name": "Munakahat",
           "file": "data/darjah-6/munakahat.json",
           "test": {
-            "questions": 10,
+            "questions": 17,
             "minutes": 20
           }
         },
@@ -643,7 +643,7 @@
           "name": "Jenayat",
           "file": "data/darjah-6/jenayat.json",
           "test": {
-            "questions": 14,
+            "questions": 19,
             "minutes": 20
           }
         }
