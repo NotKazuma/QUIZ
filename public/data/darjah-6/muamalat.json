@@ -138,5 +138,185 @@
   "explanation": "اللقيط اياله كانق-كانق ترچيچير اتاو تربوڠ يڠ دجومڤاءي تنڤا ڤنجاݢ.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم المُخَابَرَة دان المُزَارَعَة؟",
+  "options": [
+   "سنة",
+   "صح",
+   "هاروس",
+   "تيدق صح"
+  ],
+  "answer": 2,
+  "explanation": "المخابرة دان المزارعة (كرجاسام تانم) حكومڽ هاروس.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "المُخَابَرَة دان المُزَارَعَة دهاروسكن اڤابيلا ______ مڽيواكن تانهڽ.",
+  "options": [
+   "ڤنجوال",
+   "ڤمبلي",
+   "ڤميليق",
+   "ڤمودل"
+  ],
+  "answer": 2,
+  "explanation": "دهاروسكن اڤابيلا ڤميليق تانه مڽيواكن تانهڽ اونتوق دأوسهاكن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام مڠݢاݢه اومتڽ برمعاملات سچارا ______.",
+  "options": [
+   "رباء",
+   "عاديل",
+   "ظاليم",
+   "خيانة"
+  ],
+  "answer": 1,
+  "explanation": "إسلام مننتوت اومتڽ برمعاملات سچارا عاديل دان جوجور.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم منروكا تانه تربيار يڠ تياد ڤميليق؟",
+  "options": [
+   "سنة",
+   "هاروس",
+   "مكروه",
+   "حرام"
+  ],
+  "answer": 1,
+  "explanation": "منروكا تانه ماتي يڠ تياد ڤميليق (إحياء الموات) حكومڽ هاروس.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-05",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه إحْيَاءُ المَوَّات — i. مممبري مسئله كڤد مأنسي  ii. منجادي تمڤت تيڠݢل بهارو  iii. اݢر مأنسي سنتياس برشكور  iv. منجاديكن مأنسي برصيفت طمع",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "حكمه إحياء الموات اياله مڽدياكن تمڤت تيڠݢل بهارو دان مننبهكن راس شكور.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-06",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بارڠ يڠ دجومڤاءي تتاڤي تيدق دكتاهوءي ڤميليقن اداله ڤڠرتين باݢي ______.",
+  "options": [
+   "اللُّقَطَة",
+   "القِرَاض",
+   "اللُّقَيْط",
+   "المُخَابَرَة"
+  ],
+  "answer": 0,
+  "explanation": "اللُّقَطَة اياله بارڠ جومڤاءن يڠ تيدق دكتاهوءي ڤميليقڽ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-07",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه مموڠوت اللُّقَيْط كچوالي",
+  "options": [
+   "ممليهارا انق يڠ تربيار",
+   "مروسقكن اينستيتوسي كلوارݢ",
+   "ممبري كسدرن كڤد مشاركت",
+   "ملاهيركن مشاركت برتڠݢوڠجواب"
+  ],
+  "answer": 1,
+  "explanation": "مروسقكن اينستيتوسي كلوارݢ بوكن حكمه، باهكن برلاونن دڠن توجوان مموڠوت لقيط.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-08",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "المُسَابَقَة برارتي ______ سڤرتي لومبا كودا دان لومبا لاري.",
+  "options": [
+   "ڤرنياݢاءن",
+   "ڤراوسهاءن",
+   "ڤرماءينن",
+   "ڤرلومباءن"
+  ],
+  "answer": 3,
+  "explanation": "المسابقة برمقصود ڤرلومباءن اتاو ڤرتنديڠن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-muamalat-sdea2024-09",
+  "exam": "Darjah 6",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بنتوق ݢنجرن يڠ دحكومكن هاروس دالم ڤرتنديڠن كچوالي",
+  "options": [
+   "دري ڤيهق كتيݢ",
+   "دري ساله سأورڠ ڤسرتا",
+   "دري كدوا-دوا ڤسرتا تنڤا مُحَلِّل",
+   "دري دوا ڤسرتا دان مُحَلِّل"
+  ],
+  "answer": 2,
+  "explanation": "ݢنجرن دري كدوا-دوا ڤسرتا تنڤا مُحَلِّل منجادي جودي، مك تيدق هاروس.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]

@@ -398,5 +398,405 @@
   "explanation": "خيانة-مڠخياني برلاونن دڠن تونتوتن ڤرساوداراءن.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"يَبُنَيَّ\" دالم سورة لقمان اية 17؟",
+  "options": [
+   "واهاي باڤ كسايڠنكو",
+   "واهاي انق كسايڠنكو",
+   "واهاي داتوق كسايڠنكو",
+   "واهاي ايبو كسايڠنكو"
+  ],
+  "answer": 1,
+  "explanation": "يَبُنَيَّ برمقصود واهاي انقكو، سروان لقمان كڤد انقڽ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"وَأْمُرْ بِالْمَعْرُوفِ\" برمقصود \"دان سوروهله بربوات ______\".",
+  "options": [
+   "كباءيقن",
+   "كباهاݢياءن",
+   "كجوجورن",
+   "كسرونوقن"
+  ],
+  "answer": 0,
+  "explanation": "أمر بالمعروف برمقصود مڽورو ملاكوكن كباءيقن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة مروڤاكن ______ اݢام يڠ تيدق بوليه دتيڠݢلكن.",
+  "options": [
+   "تياڠ",
+   "داسر",
+   "سندي",
+   "ڤوكوڠ"
+  ],
+  "answer": 0,
+  "explanation": "صلاة اداله تياڠ اݢام يڠ واجب دتݢقكن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله نصيحت لقمان الحكيم كچوالي",
+  "options": [
+   "مڽورو بربوات معروف",
+   "تونايكن صلاة",
+   "منچݢه كموڠكرن",
+   "ملاكوكن كموڠكرن"
+  ],
+  "answer": 3,
+  "explanation": "ملاكوكن كموڠكرن برلاونن دڠن نصيحت لقمان يڠ مڽورو منچݢه كموڠكرن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-05",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوروسن اݢام يڠ واجب دأتور اوليه سأورڠ باڤ — i. عقيدة  ii. عبادة  iii. جناية  iv. اخلاق",
+  "options": [
+   "i دان iii",
+   "ii دان iv",
+   "i، ii، iii",
+   "i، ii، iv"
+  ],
+  "answer": 3,
+  "explanation": "باڤ واجب ممبيمبيڠ انق دالم عقيدة، عبادة دان اخلاق.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-06",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"اسْتَجَابُوا\" دالم سورة الشورى اية 38؟",
+  "options": [
+   "ممرينته",
+   "منجابر",
+   "مماتوهي (مڽاهوت)",
+   "سمڤورنا"
+  ],
+  "answer": 2,
+  "explanation": "اسْتَجَابُوا برمقصود مريك مڽاهوت دان مماتوهي سروان توهن مريك.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-07",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قاعده مممبوات سسواتو كڤوتوسن منوروت ايات اياله ______.",
+  "options": [
+   "سمينر",
+   "چرامه",
+   "مشوارت",
+   "تعليمت"
+  ],
+  "answer": 2,
+  "explanation": "ايات مننكنكن قاعده مشوارت (شورى) دالم مممبوات كڤوتوسن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-08",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤندوان مممبينا ڤرڤادوان اومت كچوالي",
+  "options": [
+   "زكاة",
+   "صلاة",
+   "ڤواسا",
+   "مشوارت"
+  ],
+  "answer": 2,
+  "explanation": "ايات مڽبوت صلاة، مشوارت دان انفاق (زكاة)؛ ڤواسا تيدق دسبوت سباݢاي ڤندوان ڤرڤادوان دسيني.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-09",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا چارا مممڤرايلوقكن حال احوال اوروسن دنيا دان اخرة اياله ______.",
+  "options": [
+   "چرامه",
+   "مشوارت",
+   "نصيحت",
+   "ݢوتوڠ-رويوڠ"
+  ],
+  "answer": 1,
+  "explanation": "مشوارت ممبنتو مممڤرايلوقكن اوروسن دنيا دان اخرة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-10",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة ______ داڤت مڠوكوهكن هوبوڠن اومت إسلام.",
+  "options": [
+   "تمام",
+   "برجماعه",
+   "توبة",
+   "برسنديرين"
+  ],
+  "answer": 1,
+  "explanation": "صلاة برجماعه مممڤرايرتكن هوبوڠن سسام اومت إسلام.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-11",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"إِلَّا طَيِّبًا\"؟",
+  "options": [
+   "ملاءينكن يڠ بنر",
+   "ملاءينكن يڠ سوچي",
+   "ملاءينكن يڠ بسر",
+   "ملاءينكن يڠ باءيق"
+  ],
+  "answer": 3,
+  "explanation": "طَيِّبًا برمقصود يڠ باءيق لاݢي حلال؛ الله تيدق منريما ملاءينكن يڠ باءيق.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-12",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"وَمَشْرَبُهُ حَرَامٌ\"؟",
+  "options": [
+   "سدڠكن مينومنڽ حرام",
+   "سدڠكن ڤاكاينڽ حرام",
+   "سدڠكن ماكننڽ حرام",
+   "سدڠكن ڤكرجاءنڽ حرام"
+  ],
+  "answer": 0,
+  "explanation": "مَشْرَب برمقصود مينومن، مك \"مشربه حرام\" اياله مينومنڽ حرام.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-13",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا دعاء يڠ دتريما الله — i. دعاء اورڠ مسافر  ii. دعاء اورڠ ظاليم  iii. دعاء كدوا ايبو باڤ  iv. دعاء ڤمرينته يڠ كجم",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iv",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "انتارا دعاء يڠ مقبول اياله دعاء اورڠ مسافر دان دعاء كدوا ايبو باڤ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-14",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤكرجاءن مروڤاكن ساله ساتو سومبر ______.",
+  "options": [
+   "اصلي",
+   "علمو",
+   "رزقي",
+   "رجوعن"
+  ],
+  "answer": 2,
+  "explanation": "ڤكرجاءن يڠ حلال اداله سومبر رزقي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-15",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سومبر ماكنن يڠ ______ منجادي شرط دعاء دڤركنانكن.",
+  "options": [
+   "حرام",
+   "برذات",
+   "حلال",
+   "برخاصيت"
+  ],
+  "answer": 2,
+  "explanation": "ماكنن دان مينومن يڠ حلال اداله شرط دعاء دمقبولكن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-16",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي ڤركاتاءن \"تَرْكُهُ\"؟",
+  "options": [
+   "دي يڠ مڠهندقي",
+   "دي ممبركتكن",
+   "دي مڠايندهكن",
+   "دي منيڠݢلكن"
+  ],
+  "answer": 3,
+  "explanation": "تَرْكُهُ برمقصود دي منيڠݢلكنڽ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-17",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دالم برباڤ كأداءن اومت إسلام دأنجوركن مممبري ______.",
+  "options": [
+   "نصيحت",
+   "مسئله",
+   "كسوسهن",
+   "تنتڠن"
+  ],
+  "answer": 0,
+  "explanation": "اومت إسلام دأنجوركن مممبري نصيحت دالم ڤركارا يڠ برفاءيده.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-18",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دتونتوت اوليه شرع سڤرتي ______.",
+  "options": [
+   "برسڠكيتا",
+   "مڠادو دومبا",
+   "براخلاق موليا",
+   "منچݢه كباءيقن"
+  ],
+  "answer": 2,
+  "explanation": "براخلاق موليا اداله ڤركارا يڠ دتونتوت اوليه شرع.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-19",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اومت إسلام ڤرلو براوسها منمبه ______ اݢر منجادي اينسان برݢونا.",
+  "options": [
+   "واوسن",
+   "عملن باءيق",
+   "هرتا",
+   "رومه"
+  ],
+  "answer": 1,
+  "explanation": "منمبه عملن باءيق منجاديكن سأورڠ اينسان برݢونا دان منيڠݢلكن ڤركارا سيا-سيا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tafsir-sdea2024-20",
+  "exam": "Darjah 6",
+  "subject": "Tafsir",
+  "topic": "Tafsir",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام ملارڠ اومتڽ مممباوڠ ______ تنڤا ملاكوكن ڤركارا برفاءيده.",
+  "options": [
+   "تناݢ",
+   "وقتو",
+   "هرتا",
+   "دوءيت"
+  ],
+  "answer": 1,
+  "explanation": "إسلام ملارڠ مممباوڠ وقتو (ماس) دڠن ڤركارا يڠ سيا-سيا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]

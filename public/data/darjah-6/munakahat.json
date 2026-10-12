@@ -118,5 +118,85 @@
   "explanation": "كفارة ظهار تيدق ݢوݢور كران كماتين؛ اين بوكن عاقبت ظهار.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي رجوع ڤد بهاس؟",
+  "options": [
+   "داتڠ",
+   "كمبالي",
+   "ڤرݢي",
+   "برجاءوهن"
+  ],
+  "answer": 1,
+  "explanation": "رجوع ڤد بهاس برمقصود كمبالي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط رجوع؟",
+  "options": [
+   "چراي طلاق رجعي",
+   "چراي طلاق تيݢ",
+   "چراي تبوس طلاق (خلع)",
+   "رجوع اد شرط خيار"
+  ],
+  "answer": 0,
+  "explanation": "رجوع هاڽ صح سلڤس چراي طلاق رجعي دالم تيمڤوه عدة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط ركن ظهار باݢي سوامي؟",
+  "options": [
+   "بالغ",
+   "مرتد",
+   "ݢيلا",
+   "مابوق"
+  ],
+  "answer": 0,
+  "explanation": "شرط سوامي يڠ مظهار اياله بالغ دان برعقل.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-munakahat-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ واجب دكناكن كفارة ظهار؟",
+  "options": [
+   "سوامي",
+   "ايستري",
+   "والي",
+   "انق"
+  ],
+  "answer": 0,
+  "explanation": "كفارة ظهار واجب دتونايكن اوليه سوامي يڠ مظهار.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]

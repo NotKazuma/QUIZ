@@ -138,5 +138,145 @@
   "explanation": "منجاءوهي مرتد ممبوليهكن مواريثي هرتا، سلامت درڤد عذاب نراك دان ايكتن ككلواركاءن برتمبه ارت.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منودوه زنا ترهادڤ اورڠ يڠ باءيق تنڤا بوقتي اداله ______ دان بردوسا بسر.",
+  "options": [
+   "سنة",
+   "حرام",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "منودوه زنا تنڤا بوقتي (قذف) اداله حرام دان دوسا بسر.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤيهق يڠ منودوه قذف تتاڤي تيدق داڤت مڠموكاكن سقسي اكن دحكوم ______.",
+  "options": [
+   "40 سبتن",
+   "60 سبتن",
+   "80 سبتن",
+   "100 سبتن"
+  ],
+  "answer": 2,
+  "explanation": "حد قذف اياله لاڤن ڤولوه (80) سبتن.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه يڠ برايكوت اداله كسن برلاكوڽ لعان؟ — i. ݢوݢور حد قذف  ii. ثابت حد زنا  iii. ككل هوبوڠن ڤركهوينن  iv. بوليه بركهوين سمولا",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "لعان مڠݢوݢوركن حد قذف اتس سوامي دان ثابت حد زنا اتس ايستري جك تيدق برلعان بالس.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الصِّيَال ڤد بهاس اياله ______.",
+  "options": [
+   "مممبونوه",
+   "منچابول",
+   "منچروبوه (مڽرڠ)",
+   "مممبرونتق"
+  ],
+  "answer": 2,
+  "explanation": "الصِّيَال ڤد بهاس برمقصود مڽرڠ اتاو منچروبوه.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-05",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسن برلاكوڽ الصِّيَال؟",
+  "options": [
+   "هرتا تركمڤول ڤد ݢولوڠن ترتنتو",
+   "اينديۏيدو اكن راجين بكرجا",
+   "ايكونومي برتمبه ماجو",
+   "ڤميمڤين سنتياس درحرمتي"
+  ],
+  "answer": 0,
+  "explanation": "الصِّيَال (ڤنچروبوهن) مروسقكن كأمانن دان مڽببكن هرتا تركمڤول ڤد ݢولوڠن يڠ منچروبوه.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-06",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن ______ اداله ڤربواتن مندرهاك كڤد ڤمرينته يڠ عاديل.",
+  "options": [
+   "الرِّدَّة",
+   "الجِهَاد",
+   "الصِّيَال",
+   "البُغَاة"
+  ],
+  "answer": 3,
+  "explanation": "البُغَاة اياله ݢولوڠن يڠ مممبرونتق دان مندرهاك ترهادڤ ڤمرينته يڠ عاديل.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-jenayat-sdea2024-07",
+  "exam": "Darjah 6",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هرتا ڤمبرونتق (بُغَاة) يڠ دتاون بوليه دجاديكن هرتا ______.",
+  "options": [
+   "رمڤسن ڤرڠ",
+   "كراجاءن",
+   "يڠ دتاهن",
+   "كنتراءن"
+  ],
+  "answer": 2,
+  "explanation": "هرتا بُغَاة دتاهن (دسيمڤن) سهيڠݢ مريك كمبالي طاعة كڤد ڤمرينته.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]

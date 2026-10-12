@@ -298,5 +298,305 @@
   "explanation": "دم تعديل اياله دم يڠ دنيلاي دان دݢنتي دڠن سسواتو يڠ ستارا نيلايڽ.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم مماكاي سوترا باݢي للاكي دان خُنْثَى؟",
+  "options": [
+   "سنة",
+   "حرام",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "للاكي دان خنثى حرام مماكاي سوترا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠݢوناكن ______ سباݢاي تالي ڤدڠ اداله هاروس.",
+  "options": [
+   "سوترا",
+   "كسومبا",
+   "امس",
+   "ڤيرق"
+  ],
+  "answer": 0,
+  "explanation": "هاروس مڠݢوناكن سوترا سباݢاي تالي ڤدڠ باݢي للاكي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ڤرمڤوان مماكاي دان مڠݢوناكن سوترا اداله ______.",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "هاروس باݢي ڤرمڤوان مماكاي دان مڠݢوناكن سوترا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين زكاة دري سݢي بهاس؟",
+  "options": [
+   "برصدقه",
+   "مممبرسيهكن هرتا",
+   "كورڠ اتاو تولق",
+   "تممبه اتاو تومبوه"
+  ],
+  "answer": 3,
+  "explanation": "زكاة ڤد بهاس برمقصود برتممبه، سوبور اتاو تومبوه.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-05",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بواه-بواهن سڤرتي تمر دان ______ ترماسوق دالم ڤركارا يڠ دواجبكن زكاة.",
+  "options": [
+   "كورما",
+   "اغݢور كريڠ",
+   "تين",
+   "كيوي"
+  ],
+  "answer": 1,
+  "explanation": "زكاة بواهن دكناكن كأتس تمر دان اغݢور كريڠ (كيسميس).",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-06",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط واجب مڠلواركن زكاة ترنقن كچوالي",
+  "options": [
+   "كافير",
+   "مرديك",
+   "چوكوڤ حول",
+   "دفليهارا دڤادڠ يڠ هاروس"
+  ],
+  "answer": 0,
+  "explanation": "كافير بوكن شرط؛ زكاة ترنقن واجب اتس اورڠ إسلام.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-07",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط واجب زكاة بيناتڠ شريكت (خُلْطَة)؟",
+  "options": [
+   "ڤڠمبالا يڠ سام",
+   "تمڤت مينوم يڠ برلاءينن",
+   "ثمره سوسو برلاءينن",
+   "تمڤت تيدور براسيڠن"
+  ],
+  "answer": 0,
+  "explanation": "زكاة خُلْطَة مڽارتكن ڤڠمبالا، تمڤت مينوم دان كندڠ يڠ سام.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-08",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بواه-بواهن يڠ دواجبكن زكاة اياله ______ — i. جاݢوڠ  ii. كورما  iii. اغݢور كريڠ  iv. جمبو",
+  "options": [
+   "i دان ii",
+   "ii دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "بواهن يڠ دواجبكن زكاة اياله كورما (تمر) دان اغݢور كريڠ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-09",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط واجب زكاة بيجي-بيجين اياله ______.",
+  "options": [
+   "ماسيه منته",
+   "موده دڤتيق",
+   "چوكوڤ نصاب",
+   "چوكوڤ حول"
+  ],
+  "answer": 2,
+  "explanation": "زكاة بيجي-بيجين واجب اڤابيلا چوكوڤ نصاب كتيك دتواي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-10",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام، مكلف دان ______ ترماسوق دالم شرط عامل زكاة.",
+  "options": [
+   "للاكي",
+   "ڤرمڤوان",
+   "كانق-كانق",
+   "مؤلف"
+  ],
+  "answer": 0,
+  "explanation": "انتارا شرط عامل زكاة اياله إسلام، مكلف دان للاكي يڠ امانه.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-11",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دواجبكن ڤواسا بولن رمضان دڠن سبب تله ______ بولن شعبان 30 هاري.",
+  "options": [
+   "ڤرچاي",
+   "ملاءوءي",
+   "سمڤورنا",
+   "مڠتاهوءي"
+  ],
+  "answer": 2,
+  "explanation": "ڤواسا رمضان واجب اڤابيلا سمڤورنا (ݢنڤ) بولن شعبان 30 هاري.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-12",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ماكن سچارا ترلوڤا كتيك برڤواسا اياله ______.",
+  "options": [
+   "بطل",
+   "حرام",
+   "مكروه",
+   "تيدق بطل"
+  ],
+  "answer": 3,
+  "explanation": "ماكن اتاو مينوم كران ترلوڤا تيدق ممبطلكن ڤواسا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-13",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم بركومور سچارا برلبيهن كتيك برڤواسا دڠن توجوان برسجوق-سجوق؟",
+  "options": [
+   "حرام",
+   "سنة",
+   "بطل ڤواسا",
+   "مكروه (تيدق بطل)"
+  ],
+  "answer": 3,
+  "explanation": "بركومور برلبيهن اونتوق برسجوق-سجوق حكومڽ مكروه، تتاڤي تيدق ممبطلكن ڤواسا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-14",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم اعتكاف ڤد سڤولوه هاري تراخير بولن رمضان؟",
+  "options": [
+   "واجب",
+   "حرام",
+   "مكروه",
+   "سنة مؤكدة"
+  ],
+  "answer": 3,
+  "explanation": "اعتكاف ڤد سڤولوه هاري تراخير رمضان حكومڽ سنة مؤكدة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-ibadat-sdea2024-15",
+  "exam": "Darjah 6",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم احرام (حج/عمرة سنة) باݢي ايستري تنڤا ايذين سوامي اياله ______.",
+  "options": [
+   "صح",
+   "بطل",
+   "حرام",
+   "سنة"
+  ],
+  "answer": 2,
+  "explanation": "ايستري حرام براحرام حج اتاو عمرة سنة تنڤا ايذين سوامي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]

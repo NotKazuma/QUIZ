@@ -398,5 +398,385 @@
   "explanation": "طلحة ترمشهور برانفاق هرتا دان براد دباريسن هادڤن ڤڤرڠن منجاݢ نبي ﷺ.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جومله رسول يڠ دسبوت نامڽ دالم القرءان؟",
+  "options": [
+   "23 اورڠ",
+   "24 اورڠ",
+   "25 اورڠ",
+   "26 اورڠ"
+  ],
+  "answer": 2,
+  "explanation": "ترداڤت 25 اورڠ نبي دان رسول يڠ دسبوت نامڽ دالم القرءان.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي ادم عليه السلام مروڤاكن مأنسي ______ يڠ دچيڤتا اوليه الله تعالى.",
+  "options": [
+   "كدوا",
+   "كتيݢ",
+   "ڤرتام",
+   "كأمڤت"
+  ],
+  "answer": 2,
+  "explanation": "نبي ادم اداله مأنسي ڤرتام يڠ دچيڤتا الله.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي ادريس عليه السلام مروڤاكن اورڠ ڤرتام مڠݢوناكن كوليت سباݢاي ______.",
+  "options": [
+   "ماكنن",
+   "ڤاكاين",
+   "مينومن",
+   "توليسن"
+  ],
+  "answer": 1,
+  "explanation": "نبي ادريس اورڠ ڤرتام منجاهيت دان مڠݢوناكن كوليت سباݢاي ڤاكاين.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه نبي يڠ منجالنكن اوسها دعوه كڤد قومڽ سلاما 950 تاهون؟",
+  "options": [
+   "نبي ادم",
+   "نبي نوح",
+   "نبي يوسف",
+   "نبي ادريس"
+  ],
+  "answer": 1,
+  "explanation": "نبي نوح عليه السلام بردعوه كڤد قومڽ سلاما 950 تاهون.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-05",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت عذاب يڠ دتورونكن الله كڤد قوم سدوم؟ — i. بنجير بسر  ii. دترباليقكن بومينڽ  iii. هوجن ڤانس  iv. هوجن باتو دري تانه ترباكر",
+  "options": [
+   "i دان ii",
+   "iii دان iv",
+   "i دان iii",
+   "ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "قوم سدوم (قوم نبي لوط) دعذاب دڠن بومي دترباليقكن دان هوجن باتو دري تانه ترباكر.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-06",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤركارا يڠ بنر بركناءن نبي اسحاق عليه السلام كچوالي",
+  "options": [
+   "ڤوترا ڤرتام نبي ابراهيم",
+   "سيتي ساره نام ايبوڽ",
+   "باݢيندا مميليقي دوا اورڠ انق",
+   "وفاة ڤد عمور 180 تاهون"
+  ],
+  "answer": 0,
+  "explanation": "نبي اسحاق اداله ڤوترا كدوا نبي ابراهيم؛ ڤوترا ڤرتام اياله نبي إسماعيل.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-07",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه نبي يڠ منداڤت ݢلرن خَاتَمُ النَّبِيِّين؟",
+  "options": [
+   "ادم",
+   "ابراهيم",
+   "محمد",
+   "يحيى"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ اداله خَاتَمُ النَّبِيِّين، ڤنوتوڤ سݢالا نبي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-08",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ سنتياس ممولاكن ______ كڤد سسياڤا يڠ دتموءيڽ.",
+  "options": [
+   "سلام",
+   "ڤرديباتن",
+   "درما",
+   "ڤرچاكڤن"
+  ],
+  "answer": 0,
+  "explanation": "باݢيندا سنتياس ممولاكن سلام سباݢاي تندا كاسيه سايڠ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-09",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معجزة نبي محمد ﷺ يڠ مڠاندوڠي حكوم دان ڤراتورن لڠكڤ اياله ______.",
+  "options": [
+   "تربله بولن دلاڠيت",
+   "كلوار اءير دري چله جارين",
+   "كتاب سوچي القرءان",
+   "ڤريستيوا اسراء دان معراج"
+  ],
+  "answer": 2,
+  "explanation": "القرءان الكريم اداله معجزة تراݢوڠ يڠ مڠاندوڠي حكوم دان ڤراتورن هيدوڤ لڠكڤ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-10",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود خُلَفَاء اياله ______.",
+  "options": [
+   "تڠݢوڠجواب",
+   "ݢولوڠن ڤميمڤين (ڤڠݢنتي)",
+   "ݢولوڠن ڤمبيلا",
+   "ڤوست ڤمرينتهن"
+  ],
+  "answer": 1,
+  "explanation": "خُلَفَاء برمقصود ݢولوڠن ڤميمڤين يڠ مڠݢنتيكن رسول الله ﷺ دالم اوروسن اومت.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-11",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله مغناءي سيدنا ابو بكر رضي الله عنه كچوالي",
+  "options": [
+   "خليفة كدوا إسلام",
+   "مڠحرامكن ارق ڤد ديرين",
+   "دلاهيركن دكوتا مكة",
+   "صحابت ڤاليڠ اقرب دڠن رسول الله ﷺ"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا ابو بكر اداله خليفة ڤرتام، بوكن كدوا.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-12",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دأنتارا برايكوت يڠ ماناكه بنر تنتڠ كڤريبادين سيدنا عمر؟ — i. دبري ݢلرن الصديق  ii. دبسركن دڠن ديديقن كراس  iii. مواريثي صيفت ڤهلاون  iv. منچادڠكن دعوه سچارا سمبوڽي",
+  "options": [
+   "i دان ii",
+   "i دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا عمر دبسركن دڠن ديديقن كراس دان مواريثي صيفت ڤهلاون يڠ ݢاݢه.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-13",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جومله دولة إسلامية يڠ مشهور؟",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "توجوه",
+   "سمبيلن"
+  ],
+  "answer": 0,
+  "explanation": "انتارا دولة إسلامية يڠ مشهور اياله بني أمية، بني عباس دان عثمانية.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-14",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "معاوية بن ابو صفيان دلاهيركن د ______ ڤد تاهون 613 ميلادية.",
+  "options": [
+   "شام",
+   "مكة",
+   "دمشق",
+   "مدينة"
+  ],
+  "answer": 1,
+  "explanation": "معاوية بن ابو صفيان دلاهيركن دكوتا مكة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-15",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام دولة عباسية دأمبيل سمڤنا نام ______.",
+  "options": [
+   "العباس",
+   "الهادي",
+   "المنصور",
+   "المهدي"
+  ],
+  "answer": 0,
+  "explanation": "دولة عباسية دنيسبهكن كڤد العباس بن عبدالمطلب، بڤا ساودارا رسول الله ﷺ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-16",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه نام سبنر خليفة يڠ دݢلر \"السَّفَّاح\"؟",
+  "options": [
+   "يزيد بن معاوية",
+   "ابو جعفر المنصور",
+   "معاوية بن ابو صفيان",
+   "ابو العباس السفاح"
+  ],
+  "answer": 3,
+  "explanation": "ابو العباس السفاح اداله خليفة ڤرتام دولة عباسية.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-17",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه جومله صحابت نبي محمد ﷺ يڠ منداڤت جامين شرݢ كتيك ماسيه هيدوڤ؟",
+  "options": [
+   "5 اورڠ",
+   "6 اورڠ",
+   "9 اورڠ",
+   "10 اورڠ"
+  ],
+  "answer": 3,
+  "explanation": "العشرة المبشّرة اياله 10 اورڠ صحابت يڠ دجامين شرݢ سماس هيدوڤ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-18",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ابو عبيدة بن الجراح وفاة كران دسرڠ ______ ڤد تاهون 19 هجرية.",
+  "options": [
+   "ڤرڠ",
+   "هندڤ",
+   "ڤڽاكيت (وابق طاعون)",
+   "مأنسي"
+  ],
+  "answer": 2,
+  "explanation": "ابو عبيدة بن الجراح وفاة اكيبت وابق طاعون عمواس ڤد تاهون 18-19 هجرة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-sirah-sdea2024-19",
+  "exam": "Darjah 6",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبد الرحمن بن عوف منجادي ڤنصيحت كڤد ______.",
+  "options": [
+   "سيدنا عمر",
+   "سيدنا علي",
+   "سيدنا عثمان",
+   "سيدنا ابو بكر"
+  ],
+  "answer": 0,
+  "explanation": "عبد الرحمن بن عوف منجادي ڤنصيحت اقرب كڤد سيدنا عمر الخطاب.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]

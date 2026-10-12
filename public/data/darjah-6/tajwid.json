@@ -398,5 +398,405 @@
   "explanation": "ايات ترسبوت دمولاكن دڠن كلمة بَلَى سباݢاي چونتوه قاعده وقف.",
   "source": "SDEA 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-01",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين حروف أَقْوَى؟",
+  "options": [
+   "لمه",
+   "قوات",
+   "ڤرتڠهن",
+   "ڤاليڠ قوات"
+  ],
+  "answer": 3,
+  "explanation": "أَقْوَى برمقصود ڤاليڠ قوات.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-02",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف يڠ برصيفت مُتَوَسِّطَة (توسّط) اداله سباڽق ______ حروف.",
+  "options": [
+   "ليم",
+   "انم",
+   "توجوه",
+   "لاڤن"
+  ],
+  "answer": 0,
+  "explanation": "حروف توسّط اد ليم، تركومڤول دالم كلمة \"لِنْ عُمَرْ\".",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-03",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه حروف ضَعِيْفَة اياله ______.",
+  "options": [
+   "س",
+   "ص",
+   "م",
+   "ن"
+  ],
+  "answer": 0,
+  "explanation": "حروف س برصيفت همس دان رخاوة، مك ترماسوق حروف ضعيفة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-04",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"ماسوقكن سسواتو كدالم سسواتو\" منونجوقكن ڤڠرتين باݢي باچاءن ______.",
+  "options": [
+   "إقلاب",
+   "إدغام",
+   "إظهار",
+   "إخفاء"
+  ],
+  "answer": 1,
+  "explanation": "إدغام برمقصود ماسوقكن سسواتو حروف كدالم حروف يڠ لاءين.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-05",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه بهاݢين إدغام؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "انم",
+   "توجوه"
+  ],
+  "answer": 1,
+  "explanation": "بهاݢين إدغام اد تيݢ: مثلين، متجانسين دان متقاربين.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-06",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت سبب تيدق بوليه برلاكو ادغام مثلين؟ — i. حروف برصيفت قوية  ii. برتمو حروف لام  iii. ڤد باچاءن سكتة  iv. حروف ڤرتام اداله حروف مد",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "ادغام مثلين تيدق برلاكو ڤد باچاءن سكتة دان اڤابيلا حروف ڤرتام اداله حروف مد.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-07",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چونتوه باچاءن لام لفظ الجلالة دباچ ترقيق كچوالي",
+  "options": [
+   "وَأَقْسَمُوا بِاللَّهِ",
+   "لِلَّهِ مَا فِي السَّمَاوَاتِ",
+   "قَوَّامًا اللَّهُ مُهْلِكُهُمْ",
+   "اللَّهُ يَعْلَمُ مَا تَحْمِلُ"
+  ],
+  "answer": 3,
+  "explanation": "لام لفظ الجلالة دباچ ترقيق سلڤس باريس باوه؛ سلڤس باريس اتس اتاو هادڤن دباچ تفخيم.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-08",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت حكوم راء دباچ تفخيم؟ — i. لَا يَسْخَرْ قَوْمٌ  ii. طَرَّنَابِكُمْ  iii. إِلَّا رِجَالًا نُوحِي  iv. وَرِزْقٌ كَرِيمٌ",
+  "options": [
+   "i دان ii",
+   "i، ii دان iv",
+   "ii دان iii",
+   "i، iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "راء دباچ تفخيم اڤابيلا برباريس اتس/هادڤن اتاو سكون سلڤس باريس اتس (يَسْخَرْ، طَرّ).",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-09",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه حكوم راء يڠ دباچ دڠن ترقيق؟",
+  "options": [
+   "لَا يَسْخَرْ قَوْمٌ",
+   "فَيَسْخَرُونَ مِنْهُمْ",
+   "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+   "إِلَّا رِجَالًا نُوحِي"
+  ],
+  "answer": 3,
+  "explanation": "راء ڤد \"رِجَالًا\" برباريس باوه، مك دباچ ترقيق (نيڤيس).",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-10",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم باچاءن راء ڤد كلمة \"عَذَابِي وَنُذُرِ\" اياله ______.",
+  "options": [
+   "تبل",
+   "نيڤيس",
+   "تبل دان نيڤيس سركالي",
+   "تبل اتاو نيڤيس (جواز الوجهين)"
+  ],
+  "answer": 3,
+  "explanation": "راء ڤد \"نُذُرِ\" كتيك وقف هاروس دباچ تبل اتاو نيڤيس (جواز الوجهين).",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-11",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دالم قاعده رسم عثماني، ______ برتندا كڤالا حروف صاد (ص).",
+  "options": [
+   "إظهار",
+   "همزة وصل",
+   "حروف قوية",
+   "إدغام متقاربين"
+  ],
+  "answer": 1,
+  "explanation": "همزة وصل دتندا دڠن كڤالا حروف صاد كچيل دأتس اليف.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-12",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "همزة وصل بوليه مملاكن اسم. اڤاكه جنيس \"اسم\" يڠ دمقصودكن؟",
+  "options": [
+   "اسم فعل",
+   "اسم نكرة",
+   "اسم إشارة",
+   "اسم مفعول"
+  ],
+  "answer": 1,
+  "explanation": "همزة وصل برلاكو ڤد اسم معرفة (ال) دان اسم نكرة سماعي سڤرتي اسم، ابن دان امرؤ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-13",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "همزة يڠ تتڤ باچاءنڽ كتيك مملاكن اتاو برسامبوڠ اداله همزة ______.",
+  "options": [
+   "وصل",
+   "قطع",
+   "وقف",
+   "نعم"
+  ],
+  "answer": 1,
+  "explanation": "همزة قطع تتڤ دباچ سام اد دمولاكن اتاو دسامبوڠ.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-14",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برأڤاكه كأداءن همزة قطع؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "همزة قطع بوليه براد دأول، دتڠه اتاو دأخير كلمة (تيݢ كأداءن).",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-15",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "______ ڤد بهاس اياله مناهن اتاو برهنتي.",
+  "options": [
+   "وصل",
+   "وقف",
+   "قطع",
+   "إدغام"
+  ],
+  "answer": 1,
+  "explanation": "وقف ڤد بهاس برمقصود مناهن اتاو برهنتي.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-16",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود وقف تَعَانُق اياله ______.",
+  "options": [
+   "ڤرمولاءن",
+   "ڤاتوهن",
+   "ڤمرهاتين (مراقبة)",
+   "ڤميسهن"
+  ],
+  "answer": 2,
+  "explanation": "وقف تعانق جوݢ دكنلي وقف مراقبة (ڤمرهاتين)، ياءيت وقف ڤد ساله ساتو تمڤت سهاج.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-17",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه نام لاءين باݢي وقف جبريل؟",
+  "options": [
+   "سنة",
+   "سكتة",
+   "تعانق",
+   "مراقبة"
+  ],
+  "answer": 3,
+  "explanation": "وقف جبريل دكنلي جوݢ سباݢاي وقف مراقبة.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-18",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چونتوه وقف جبريل (تعانق) كچوالي",
+  "options": [
+   "وَالْعَصْرِ إِنَّ",
+   "فَأَسْتَبِقُوا الْخَيْرَاتِ",
+   "صَدَقَ اللَّهُ",
+   "فَخَرَّ فَنَادَى"
+  ],
+  "answer": 2,
+  "explanation": "\"صَدَقَ اللَّهُ\" بوكن انتارا تمڤت وقف تعانق (مراقبة).",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-19",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قاعده وقف ڤد كلمة \"كَلَّا\" اد ______ بهاݢين.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "قاعده وقف ڤد كلمة كَلَّا دباهاݢيكن كڤد تيݢ بهاݢين.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-6-tajwid-sdea2024-20",
+  "exam": "Darjah 6",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"قَالَ نَعَمْ وَإِنَّكُمْ إِذًا ...\" اياله چونتوه قاعده وقف ڤد كلمة ______.",
+  "options": [
+   "كلا",
+   "بلى",
+   "نعم",
+   "خاص"
+  ],
+  "answer": 2,
+  "explanation": "ايات اين دمولاكن دڠن كلمة نَعَمْ سباݢاي چونتوه قاعده وقف.",
+  "source": "SDEA 2024",
+  "perlu_semak": true
  }
 ]
