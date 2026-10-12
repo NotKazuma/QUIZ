@@ -6,6 +6,7 @@ import { Icon, Progress, Reveal } from '../components/ui.jsx';
 import {
   KEYS_ARABIC, KEYS_RUMI, assetUrl, isArabicScript, scriptProps,
 } from '../lib/quiz.js';
+import { TILE_COLORS } from '../lib/challenge.js';
 import Emoji from '../components/Emoji.jsx';
 
 const PRAISE = ['Hebat!', 'Syabas!', 'Tepat sekali!', 'Mantap!', 'Bagus!'];
@@ -53,6 +54,7 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
 
   const script = scriptProps(q.script);
   const keys = isArabicScript(q.script) ? KEYS_ARABIC : KEYS_RUMI;
+  const wide = q.options.length <= 4 && q.options.every(o => o.length <= 28);
   const year = q.source ? q.source.replace(/\D+/g, '') : '';
   const progress = ((current + (answered ? 1 : 0)) / total) * 100;
   const explanation = q.explanation?.trim();
@@ -85,24 +87,26 @@ export default function Quiz({ session, onProgress, onAnswer, onQuit, onFinish }
           {q.image && <img className="question-image" src={assetUrl(q.image)} alt="Gambar soalan" />}
         </Reveal>
 
-        <div className={'options ' + script.className} dir={script.dir} role="radiogroup" aria-label="Pilihan jawapan">
+        <div className={'tiles ' + (wide ? 'tiles-2 ' : '') + script.className} dir={script.dir} role="radiogroup" aria-label="Pilihan jawapan">
           {q.options.map((text, i) => {
             let state = '';
-            if (answered && i === q.answer) state = ' correct';
-            else if (answered && i === chosen) state = ' wrong';
-            else if (!answered && i === picked) state = ' is-picked';
+            if (answered) {
+              if (i === q.answer) state = ' is-correct';
+              else if (i === chosen) state = ' is-wrong';
+              else state = ' is-dim';
+            } else if (i === picked) state = ' is-picked';
+            else if (picked !== null) state = ' is-faded';
             return (
-              <Reveal key={i} index={i + 1} distance={20}>
-                <button className={'option' + state} onClick={() => !answered && setPicked(i)} disabled={answered}
-                  role="radio" aria-checked={i === picked}>
-                  <span className="option-key">
-                    {answered && i === q.answer ? <Icon name="check" />
-                      : answered && i === chosen ? <Icon name="x" />
-                        : keys[i] || i + 1}
-                  </span>
-                  <span className="option-text">{text}</span>
-                </button>
-              </Reveal>
+              <button key={i} className={'tile' + state} style={{ '--tile': TILE_COLORS[i % TILE_COLORS.length] }}
+                onClick={() => !answered && setPicked(i)} disabled={answered}
+                role="radio" aria-checked={i === picked}>
+                <span className="tile-key">
+                  {answered && i === q.answer ? <Icon name="check" />
+                    : answered && i === chosen ? <Icon name="x" />
+                      : keys[i] || i + 1}
+                </span>
+                <span className="tile-text">{text}</span>
+              </button>
             );
           })}
         </div>

@@ -960,6 +960,14 @@ p { margin: 0; }
 .tile.is-dim { opacity: 0.3; }
 .tile.is-correct { --tile: #16a34a; animation: pop 0.35s ease-out; outline: 4px solid #bbf7d0; }
 .tile.is-wrong { --tile: #dc2626; animation: shake 0.4s ease-in-out; }
+/* Latihan: keadaan pra-SEMAK — jubin dipilih terang + ring, yang lain pudar. */
+.tile.is-picked {
+  outline: 4px solid rgb(255 255 255 / 0.9);
+  outline-offset: -2px;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 0 color-mix(in srgb, var(--tile) 70%, black);
+}
+.tile.is-faded { filter: grayscale(0.7); opacity: 0.5; }
 .tile-key {
   display: grid; place-items: center; flex-shrink: 0;
   width: 32px; height: 32px; border-radius: 8px;
