@@ -46,9 +46,11 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
   }, [source, sets, cls.teacherUid]);
 
   const years = useMemo(() => [...new Set((questions || []).map(yearOf))].sort().reverse(), [questions]);
+  // Tiada lagi "Semua tahun" — lalai ke tahun terbaru.
+  const activeYear = year || years[0] || '';
   const available = source === 'set'
     ? objectiveOnly(chosenSet?.questions || [])
-    : questions ? filterByYear(questions, year || null) : [];
+    : questions ? filterByYear(questions, activeYear || null) : [];
   const n = count === 'all' ? available.length : Math.min(count, available.length);
 
   async function submit(e) {
@@ -74,12 +76,12 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
         mode,
         dueAt: due ? new Date(due).toISOString() : null,
       } : {
-        title: title.trim() || `${exam.name} ${subject.name}${year ? ' ' + year : ''}`,
+        title: title.trim() || `${exam.name} ${subject.name}${activeYear ? ' ' + activeYear : ''}`,
         examId: exam.id,
         examName: exam.name,
         subjectId: subject.id,
         subjectName: subject.name,
-        year: year || null,
+        year: activeYear || null,
         questionIds: picked.map(q => q.id),
         mode,
         dueAt: due ? new Date(due).toISOString() : null,
@@ -137,8 +139,7 @@ export default function AssignmentForm({ cls, config, onCancel, onCreated }) {
           </label>
           <label className="field">
             <span className="field-label">Tahun</span>
-            <select className="input" value={year} onChange={e => setYear(e.target.value)}>
-              <option value="">Semua tahun</option>
+            <select className="input" value={activeYear} onChange={e => setYear(e.target.value)}>
               {years.map(y => <option key={y} value={y}>{y}</option>)}
             </select>
           </label>

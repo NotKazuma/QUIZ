@@ -36,12 +36,14 @@ export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, onMak
     const all = Object.values(bySubject || {}).filter(Boolean).flat();
     return [...new Set(all.map(yearOf))].sort().reverse();
   }, [bySubject]);
+  // Tiada lagi "Semua tahun" — lalai ke tahun terbaru; murid boleh tukar tahun.
+  const activeYear = year ?? years[0] ?? null;
 
   // Pautan kongsi: buka panel subjek yang diminta secara automatik.
   useEffect(() => {
     if (!bySubject || !autoOpen?.subjectId) return;
     const subject = exam.subjects.find(s => s.id === autoOpen.subjectId);
-    const questions = filterByYear(bySubject[autoOpen.subjectId] || [], null);
+    const questions = filterByYear(bySubject[autoOpen.subjectId] || [], activeYear);
     if (subject && questions.length) {
       if (autoOpen.count) setCount(autoOpen.count);
       setOpen({ subject, questions, best: stats?.subjects?.[exam.id + ':' + subject.id] });
@@ -51,7 +53,7 @@ export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, onMak
 
   const nodes = exam.subjects.map(s => {
     const qs = bySubject?.[s.id] || [];
-    const questions = filterByYear(qs, year);
+    const questions = filterByYear(qs, activeYear);
     const best = stats?.subjects?.[exam.id + ':' + s.id];
     const status = !bySubject ? 'loading' : !questions.length ? 'empty' : best >= 80 ? 'done' : best !== undefined ? 'started' : 'new';
     return { subject: s, questions, best, status };
@@ -70,9 +72,8 @@ export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, onMak
 
       {years.length > 0 && (
         <div className="year-chips" role="radiogroup" aria-label="Tahun kertas">
-          <button className={'chip' + (year === null ? ' is-active' : '')} onClick={() => setYear(null)}>Semua tahun</button>
           {years.map(y => (
-            <button key={y} className={'chip' + (year === y ? ' is-active' : '')} onClick={() => setYear(y)}>{y}</button>
+            <button key={y} className={'chip' + (activeYear === y ? ' is-active' : '')} onClick={() => setYear(y)}>{y}</button>
           ))}
         </div>
       )}
@@ -123,7 +124,7 @@ export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, onMak
               <span className="sheet-title"><Emoji e={emojiFor(open.subject.id)} size="1.6rem" /> {open.subject.name}</span>
               <div className="sheet-meta">
                 <span>{open.questions.length} soalan</span>
-                <span>{year ? 'Tahun ' + year : 'Semua tahun'}</span>
+                <span>{activeYear ? 'Tahun ' + activeYear : ''}</span>
                 {open.best !== undefined && <span>Terbaik {open.best}%</span>}
               </div>
 
@@ -142,10 +143,10 @@ export default function ExamPath({ exam, stats, onBack, onStart, autoOpen, onMak
                 </>
               )}
 
-              <button className="btn btn-primary btn-lg" onClick={() => onStart(open.subject, open.questions, 'practice', year, count)}>
+              <button className="btn btn-primary btn-lg" onClick={() => onStart(open.subject, open.questions, 'practice', activeYear, count)}>
                 <Emoji e="✏️" /> Latihan{count ? ` (${count} soalan)` : ''}
               </button>
-              <button className="btn btn-purple btn-lg" onClick={() => onStart(open.subject, open.questions, 'challenge', year, count)}>
+              <button className="btn btn-purple btn-lg" onClick={() => onStart(open.subject, open.questions, 'challenge', activeYear, count)}>
                 <Emoji e="⚡" /> Cabaran (bermasa)
               </button>
               <button className="btn btn-outline" onClick={async () => {

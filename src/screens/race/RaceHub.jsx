@@ -60,9 +60,11 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
     loadQuestions(subject.file).then(qs => setQuestions(objectiveOnly(qs))).catch(() => setQuestions([]));
   }, [subject]);
   const years = useMemo(() => [...new Set((questions || []).map(yearOf))].sort().reverse(), [questions]);
+  // Tiada lagi "Semua tahun" — lalai ke tahun terbaru.
+  const activeYear = year || years[0] || '';
   const available = source === 'set'
     ? objectiveOnly(chosenSet?.questions || [])
-    : questions ? filterByYear(questions, year || null) : [];
+    : questions ? filterByYear(questions, activeYear || null) : [];
   const n = Math.min(count, available.length);
 
   if (!raceReady) {
@@ -113,7 +115,7 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
           // Salinan soalan set cikgu (tanpa medan undefined — Realtime Database tidak menerimanya).
           questions: JSON.parse(JSON.stringify(originals)),
         }
-        : { examId: exam.id, examName: exam.name, subjectId: subject.id, subjectName: subject.name, year: year || null };
+        : { examId: exam.id, examName: exam.name, subjectId: subject.id, subjectName: subject.name, year: activeYear || null };
       const newPin = await createRace(user, {
         ...base,
         classId: presetClass?.id || null,
@@ -226,8 +228,7 @@ export default function RaceHub({ user, config, presetClass, teacher, onBack, on
           <div className="field-row">
             {source !== 'set' && <label className="field">
               <span className="field-hint">Tahun</span>
-              <select className="input" value={year} onChange={e => setYear(e.target.value)}>
-                <option value="">Semua tahun</option>
+              <select className="input" value={activeYear} onChange={e => setYear(e.target.value)}>
                 {years.map(y => <option key={y} value={y}>{y}</option>)}
               </select>
             </label>}
