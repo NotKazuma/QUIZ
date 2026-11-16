@@ -775,6 +775,611 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-sirah-pat2023-01",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين إسراء؟",
+  "options": [
+   "ڤرڤيندهن رسول الله ﷺ",
+   "ڤرڤيندهن دري مكة كمدينة",
+   "ڤرڤيندهن دري مكة كمصر",
+   "ڤرجالنن رسول الله ﷺ ڤد وقتو مالم"
+  ],
+  "answer": 3,
+  "explanation": "إسراء اياله ڤرجالنن رسول الله ﷺ ڤد وقتو مالم دري مسجد الحرام كمسجد الأقصى.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-02",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه برلاكوڽ ڤريستيوا إسراء؟",
+  "options": [
+   "مالم",
+   "ڤاݢي",
+   "صبح",
+   "تڠه هاري"
+  ],
+  "answer": 0,
+  "explanation": "ڤريستيوا إسراء دان معراج برلاكو ڤد وقتو مالم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-03",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاڠيت كبراڤاكه نبي محمد ﷺ برتمو دڠن نبي يوسف ؑ؟",
+  "options": [
+   "ڤرتام",
+   "كدوا",
+   "كتيݢ",
+   "كأمڤت"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ برتمو نبي يوسف ؑ دي لاڠيت كتيݢ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-04",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه كتوا سكالين نبي؟",
+  "options": [
+   "نبي ادم ؑ",
+   "نبي ايوب ؑ",
+   "نبي إدريس ؑ",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 3,
+  "explanation": "نبي محمد ﷺ اداله كتوا سكالين نبي دان رسول.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-05",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين هجره ڤد بهاس؟",
+  "options": [
+   "برمقيم",
+   "برمستوطين",
+   "برمسافر كران برنياݢ",
+   "برڤينده كتمڤت يڠ بهارو"
+  ],
+  "answer": 3,
+  "explanation": "هجره ڤد بهاس برمقصود برڤينده دري ساتو تمڤت كتمڤت يڠ بهارو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-06",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كماناكه نبي محمد ﷺ برهجره ڤد تاهون 622 ميلادية؟",
+  "options": [
+   "مكة",
+   "مصر",
+   "مدينة",
+   "فلسطين"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ برهجره كمدينة ڤد تاهون 622 ميلادية.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-07",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤ لاماكه برلاكوڽ ڤمولاءون ترهادڤ كلوارݢ رسول الله ﷺ؟",
+  "options": [
+   "2 تاهون",
+   "3 تاهون",
+   "4 تاهون",
+   "5 تاهون"
+  ],
+  "answer": 1,
+  "explanation": "ڤمولاءون (مقاطعة) قريش ترهادڤ بني هاشم برلاكو سلاما 3 تاهون.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-08",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه يڠ رسول الله ﷺ لاكوكن دڤركامڤوڠن بني سليم؟",
+  "options": [
+   "برصدقه",
+   "ممبري زكاة",
+   "منزيارهي قبور",
+   "منديريكن صلاة جمعة"
+  ],
+  "answer": 3,
+  "explanation": "رسول الله ﷺ منديريكن صلاة جمعة ڤرتام دڤركامڤوڠن بني سليم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-09",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ مڠݢنتيكن تمڤت تيدور رسول الله ﷺ اياله",
+  "options": [
+   "حمزه",
+   "عمر الخطاب",
+   "عامر بن فهيرة",
+   "علي بن أبي طالب"
+  ],
+  "answer": 3,
+  "explanation": "سيدنا علي بن أبي طالب مڠݢنتيكن تمڤت تيدور رسول الله ﷺ سماس هجرة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-10",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلرن باكي اورڠ يڠ برهجرة كمدينة برسام رسول الله ﷺ اياله",
+  "options": [
+   "مشركين",
+   "مسلمين",
+   "مهاجرين",
+   "مخلصين"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ برهجرة كمدينة برسام رسول الله ﷺ دسبوت مهاجرين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-11",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مسجد يڠ دديريكن ڤد تاهون ك-14 كرسولن اياله مسجد",
+  "options": [
+   "قباء",
+   "النبوي",
+   "الأقصى",
+   "الحرام"
+  ],
+  "answer": 0,
+  "explanation": "مسجد قباء دديريكن رسول الله ﷺ ستله تيبا دقباء سماس هجرة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-12",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت يڠ منجادي تومڤوان اومت إسلام باكي مڠرجاكن حج اياله مسجد",
+  "options": [
+   "قباء",
+   "الحرام",
+   "النبوي",
+   "الأقصى"
+  ],
+  "answer": 1,
+  "explanation": "مسجد الحرام اياله تومڤوان اومت إسلام مڠرجاكن حج.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-13",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوست ڤنديديقن مروڤاكن تمڤت",
+  "options": [
+   "منمبهكن هرتا",
+   "مڠمبڠكن علمو",
+   "منجاتوهكن مروءه",
+   "منجادي موسوه"
+  ],
+  "answer": 1,
+  "explanation": "ڤوست ڤنديديقن (چونتوهڽ مسجد) اياله تمڤت مڠمبڠكن علمو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-14",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام اوتوسن إسلام يڠ دأوتوس كمصر اياله",
+  "options": [
+   "عمرو بن أمية",
+   "حاطب بن العاصي",
+   "حاطب بن أبي بلتعة",
+   "شُجَاع بن وَهْب الأسدي"
+  ],
+  "answer": 2,
+  "explanation": "حاطب بن أبي بلتعة دأوتوس رسول الله ﷺ كڤد ڤميمڤين مصر (المقوقس).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-15",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا سبب إسلام ممبنركن ڤڤرڠن اياله اونتوق",
+  "options": [
+   "كقواسن ديري",
+   "منداڤت ڤوجين",
+   "ممڤرتاهنكن عقيدة",
+   "منونجوقكن كهيبتن"
+  ],
+  "answer": 2,
+  "explanation": "إسلام ممبنركن ڤڤرڠن اونتوق ممڤرتاهنكن عقيدة دان ممبلا ديري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-16",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت بنتوق جهاد دالم إسلام كچوالي",
+  "options": [
+   "منونتوت علمو",
+   "منچاري رزقي",
+   "ممبالس چاچين اورڠ",
+   "منيڠكتكن كماجوان"
+  ],
+  "answer": 2,
+  "explanation": "ممبالس چاچين اورڠ بوكن بنتوق جهاد دالم إسلام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-17",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت حكمه برجهاد كچوالي",
+  "options": [
+   "منجادي ترككل",
+   "منداڤت ڤهالا",
+   "دتمڤتكن دشرݢ",
+   "منداڤت كجاياءن هيدوڤ"
+  ],
+  "answer": 0,
+  "explanation": "جهاد دلاكوكن كران الله؛ منجادي ترككل بوكن حكمة برجهاد.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-18",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت كڽاتاءن يڠ بنر تنتڠ ڤڤرڠن بدر؟ i. 14 اورڠ إسلام شهيد  ii. 70 اورڠ كافير قريش ترقربان  iii. 20 اورڠ كافير مملوق إسلام  iv. كمڠن بركڤيهق كڤد تنترا إسلام",
+  "options": [
+   "i دان ii",
+   "ii دان iv",
+   "ii، iii دان iv",
+   "i، ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "ڤڤرڠن بدر: 14 اورڠ إسلام شهيد، 70 اورڠ قريش ترقربان دان كمڠن بركڤيهق كڤد تنترا إسلام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-19",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله مڠناءي ڤرجنجين حديبية. i. برلاكو دالم بولن رجب  ii. دسرتاءي اوليه قوم نصراني  iii. دأمبيل سمڤنا نام سبواه كامڤوڠ  iv. دسرتاءي قوم مهاجرين دان انصار",
+  "options": [
+   "i دان iii",
+   "iii دان iv",
+   "ii، iii دان iv",
+   "i، ii، iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "ڤرجنجين حديبية دنامكن مڠيكوت نام تمڤت، دسرتاءي قوم مهاجرين دان انصار.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-20",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ برهجرة كمصر ڤد تاهون 622 ميلادية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، رسول الله ﷺ برهجرة كمدينة، بوكن كمصر.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-21",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مسجد النبوي دبينا سچارا برݢوتوڠ رويوڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، مسجد النبوي دبينا سچارا برݢوتوڠ رويوڠ اوليه كاوم مهاجرين دان انصار.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-22",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة دمسجد الحرام منداڤت ݢنجرن 100,000 ڤهالا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، صلاة دمسجد الحرام لبيه باءيق درڤد 100,000 صلاة ديتمڤت لاءين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-23",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: تمڤت نبي محمد ﷺ برتمو نبي إدريس ؑ",
+  "options": [
+   "لاڠيت كدوا",
+   "لاڠيت كتيݢ",
+   "لاڠيت كأمڤت"
+  ],
+  "answer": 2,
+  "explanation": "نبي إدريس ؑ براد دي لاڠيت كأمڤت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-24",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: كلرن سيدنا أبو بكر",
+  "options": [
+   "الصديق",
+   "الرحمن",
+   "باب العلم"
+  ],
+  "answer": 0,
+  "explanation": "سيدنا أبو بكر دݢلر الصديق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-25",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: ڤرڤيندهن رسول الله ﷺ دري مكة كمدينة",
+  "options": [
+   "مسافر",
+   "هجرة",
+   "برمقيم"
+  ],
+  "answer": 1,
+  "explanation": "ڤرڤيندهن رسول الله ﷺ دري مكة كمدينة دسبوت هجرة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-26",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: ڤوست ڤركمبڠن علمو",
+  "options": [
+   "ڤاسر",
+   "مسجد",
+   "هوسڤيتل"
+  ],
+  "answer": 1,
+  "explanation": "مسجد اداله ڤوست ڤركمبڠن علمو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-27",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مسجد يڠ ترلتق 3 كيلوميتر دري مسجد النبوي اياله ______",
+  "options": [
+   "مسجد قباء",
+   "مسجد الحرام",
+   "مسجد الأقصى"
+  ],
+  "answer": 0,
+  "explanation": "مسجد قباء ترلتق كيرا-كيرا 3 كيلوميتر دري مسجد النبوي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-28",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ منجادي لنداسن دالم ڤمبيناءن نݢارا إسلام اياله ______",
+  "options": [
+   "القرءان دان السنة",
+   "أبو طالب",
+   "راج كسرى"
+  ],
+  "answer": 0,
+  "explanation": "القرءان دان السنة اداله لنداسن ڤمبيناءن نݢارا إسلام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-29",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام ڤميمڤين نݢارا ڤرسي اياله ______",
+  "options": [
+   "راج كسرى",
+   "أبو طالب",
+   "مسجد قباء"
+  ],
+  "answer": 0,
+  "explanation": "راج كسرى اداله ڤميمڤين نݢارا ڤرسي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-30",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم اورڠ إسلام ممڤرتاهنكن ديري اداله ______",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "ممڤرتاهنكن ديري دان عقيدة اداله واجب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-sirah-pat2023-31",
+  "exam": "Darjah 4",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرجنجين يڠ ترمتراي انتارا مشركين دان رسول الله ﷺ دناماكن ______",
+  "options": [
+   "ڤرجنجين حديبية",
+   "ڤرجنجين العقبة",
+   "ڤرجنجين مدينة"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين انتارا رسول الله ﷺ دان مشركين قريش دناماكن ڤرجنجين حديبية.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-sirah-ppt2024-01",
   "exam": "Darjah 4",
   "subject": "Sirah",
