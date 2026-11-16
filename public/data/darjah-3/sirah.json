@@ -1,5 +1,284 @@
 [
  {
+  "id": "darjah-3-sirah-upp22022-01",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دماناكه ترلتقڽ ݢوا حراء؟",
+  "options": [
+   "جبل ثور",
+   "جبل نور",
+   "جبل طورسيناء"
+  ],
+  "answer": 1,
+  "explanation": "ݢوا حراء ترلتق د جبل نور.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-02",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه وحي كدوا يڠ دتورونكن كڤد نبي محمد ﷺ؟",
+  "options": [
+   "سورة المدثر",
+   "سورة الفاتحة",
+   "سورة العلق"
+  ],
+  "answer": 0,
+  "explanation": "وحي كدوا اياله سورة المدثر؛ سورة العلق اياله وحي ڤرتام.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-03",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كوتا يڠ برداكتن دڠن طائف اياله",
+  "options": [
+   "مكة",
+   "المدينة",
+   "بغداد"
+  ],
+  "answer": 0,
+  "explanation": "طائف برداكتن دڠن مكة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-04",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا نام اورڠ يڠ مننتڠ دعوه نبي محمد ﷺ اياله",
+  "options": [
+   "أبو بكر",
+   "أبو جهل",
+   "أبو طالب"
+  ],
+  "answer": 1,
+  "explanation": "أبو جهل انتارا اورڠ يڠ مننتڠ دعوه نبي محمد ﷺ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-05",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاريخ وحي ڤرتام دتورونكن",
+  "options": [
+   "17 رجب",
+   "17 شعبان",
+   "17 رمضان"
+  ],
+  "answer": 2,
+  "explanation": "وحي ڤرتام دتورونكن ڤد 17 رمضان.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-06",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤريڠكت دعوه نبي محمد ﷺ",
+  "options": [
+   "سچارا ڤادت",
+   "سچارا سوليت",
+   "سچارا ريڠكس"
+  ],
+  "answer": 1,
+  "explanation": "ڤريڠكت اول دعوه نبي محمد ﷺ اياله سچارا سوليت.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-07",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "للاكي ڤرتام يڠ منريما دعوه إسلام",
+  "options": [
+   "أبو بكر الصديق",
+   "عمر ابن الخطاب",
+   "عثمان بن عفان"
+  ],
+  "answer": 0,
+  "explanation": "أبو بكر الصديق اياله للاكي ڤرتام يڠ منريما دعوه إسلام.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-08",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت نبي محمد ﷺ سماس بردعوه",
+  "options": [
+   "ڤسابر",
+   "ڤماره",
+   "ڤناكوت"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ برصيفت ڤسابر سماس بردعوه.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-09",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله اورڠ يڠ برهجره كالي ڤرتام كحبشة",
+  "options": [
+   "13",
+   "15",
+   "17"
+  ],
+  "answer": 1,
+  "explanation": "15 اورڠ صحابة برهجره كالي ڤرتام كحبشة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-10",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ مڠاسيڠكن ديري د ݢوا حراء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، نبي محمد ﷺ برتحنث (مڠاسيڠكن ديري) د ݢوا حراء.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-11",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نبي محمد ﷺ بردعوه سچارا سوليت سلاما 2 تاهون.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، دعوه سچارا سوليت برلاكو سلاما 3 تاهون.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-12",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "راج حبشة مروڤاكن سأورڠ راج يڠ عاديل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، راج حبشة (النجاشي) اداله راج يڠ عاديل.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-13",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا اورڠ يڠ مڽوكوڠ دعوه نبي محمد ﷺ اياله أبو جهل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، أبو جهل مننتڠ دعوه نبي محمد ﷺ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-14",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام سڤوڤو سيدتنا خديجة",
+  "options": [
+   "علي بن أبي طالب",
+   "ورقة بن نوفل"
+  ],
+  "answer": 1,
+  "explanation": "ورقة بن نوفل اياله سڤوڤو سيدتنا خديجة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-sirah-upp22022-15",
+  "exam": "Darjah 3",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كانق-كانق ڤرتام يڠ مملوق إسلام",
+  "options": [
+   "علي بن أبي طالب",
+   "ورقة بن نوفل"
+  ],
+  "answer": 0,
+  "explanation": "علي بن أبي طالب اياله كانق-كانق ڤرتام يڠ مملوق إسلام.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-sirah-pat2022-01",
   "exam": "Darjah 3",
   "subject": "Sirah",
