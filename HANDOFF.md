@@ -92,15 +92,23 @@ Fungsi pembantu dalam `src/lib/classes.js`: `listStudentSubmissions`, `classAver
 
 ### 1. Tukar set kertas yang belum siap
 
-Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (10 set), Darjah 4 PAT 2022, PAT 2024, PAT 2025, PPT 2024, PPT 2025, PPT 2026 (11 subjek penuh).
+Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (10 set), Darjah 4 (semua 7 set: PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2024, PPT 2025, PPT 2026; 11 subjek setiap satu).
 
 Masih berbaki (set lengkap sahaja — set tak lengkap dilangkau):
 
 - Darjah 3 — UPP2 2022
-- Darjah 4 — PAT 2023
 - Darjah 5 — PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2022, PPT 2024, PPT 2025, PPT 2026
 
-Set seterusnya mengikut turutan: **Darjah 4 PAT 2023**.
+Set seterusnya mengikut turutan: **Darjah 3 UPP2 2022**, kemudian Darjah 5 PAT 2022.
+
+Catatan kerja Darjah 4 (supaya sesi seterusnya tidak ulang kesilapan):
+
+- Selepas setiap subjek jalankan `python scripts/semak_jawi.py --baiki`; ia kini juga menangkap **huruf pelik** (bentuk persembahan Unicode seperti ﻯ ﻤ yang menggantikan ڽ/م, serta ڊ ڏ ں ݬ). Keluaran sepatutnya `0 perkataan` untuk bahagian itu.
+- Ejaan seragam korpus: awalan **مڠ-/ڤڠ-** (bukan مغ-/ڤغ-), **منداڤت**, **سلڤس**, **بروضوء**. Perkataan Arab berbaris (harakat) tidak disentuh.
+- Teks kertas yang dicetak tersasul atau tidak jelas **dilangkau** (contoh: tajwid PAT 2023 soalan 10). Kunci jawapan tiada; semua jawapan ialah jawapan sendiri dan bertanda `perlu_semak`.
+- Pertentangan yang diketahui, mohon cikgu semak: hukum belajar ilmu tajwid ("fardu kifayah, mengamal fardu ain" dalam PPT 2025/PPT 2024) berbanding "واجب فرض عين" dalam set yang lebih awal.
+- PDF kadang-kadang tidak tertib halaman (contoh: munakahat PAT 2023 — soalan 8–14 di halaman 7, soalan 15–20 di halaman 8). Baca semua halaman sebelum menulis.
+- Render dengan `pdftoppm -png -r 200 <pdf> <awalan>` (pymupdf tidak sentiasa boleh diimport). Untuk zum, guna `-x -y -W -H` pada 350–400 dpi.
 
 Aliran kerja per set (skrip pembantu ada dalam folder scratchpad sesi):
 
