@@ -2193,13 +2193,13 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حروف \"م\" توڠݢل مماء بولاتن دان بادن مناروں.",
+  "question": "حروف \"م\" توڠݢل مماء بولاتن دان بادن منورون.",
   "options": [
    "بتول",
    "ساله"
   ],
   "answer": 0,
-  "explanation": "م توڠݢل مماء بولاتن دان بادن مناروں.",
+  "explanation": "م توڠݢل مماء بولاتن دان بادن منورون.",
   "source": "UPP2 2024",
   "perlu_semak": true
  },
@@ -3477,14 +3477,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "خط يڠ دݬوناكن ددالم القرءان.",
+  "question": "خط يڠ دݢوناكن ددالم القرءان.",
   "options": [
    "خط نسخ",
    "خط رومي",
-   "انݬكا"
+   "اڠكا"
   ],
   "answer": 0,
-  "explanation": "خط نسخ دݬوناكن ددالم القرءان.",
+  "explanation": "خط نسخ دݢوناكن ددالم القرءان.",
   "source": "UPP2 2025",
   "perlu_semak": true
  },

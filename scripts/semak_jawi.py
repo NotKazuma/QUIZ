@@ -13,6 +13,8 @@ Yang disemak:
   4. ف (fa)  di tempat ڤ (pa)             contoh: تمفت -> تمڤت
   5. Aksara Latin yang tertinggal dalam teks soalan
   6. Indeks jawapan `a` di luar julat `o`
+  7. Huruf pelik: bentuk persembahan (ﻯ ﻤ ...) dan ڊ ڏ ں ݬ yang tersalah ganti
+     huruf lain akibat salin/OCR rosak (ﻤ -> م dibaiki automatik dengan --baiki)
 
 Perkataan Arab tulen dikecualikan melalui senarai putih di bawah.
 """
@@ -37,6 +39,20 @@ NGA, GHAIN, FA = "ڠ", "غ", "ف"
 
 VARIAN = {KAF_P: KAF, GAF_P: GA, GAF_U: GA, YEH_P: YEH, PEH_P: PA,
           "‌": "", "‍": ""}
+
+VARIAN["ﻤ"] = "م"   # م bentuk tengah (presentation form) -> م
+
+# Huruf yang tidak patut ada dalam teks Jawi (kesan salin/OCR yang rosak).
+# Bentuk persembahan U+FB50-FDEF dan U+FE70-FEFF (ﷺ U+FDFA dikecualikan);
+# huruf jarang yang pernah menggantikan ݢ/ڠ/د secara salah.
+PELIK_JULAT = [(0xFB50, 0xFDEF), (0xFE70, 0xFEFF)]
+PELIK_HURUF = {"ڊ", "ڏ", "ں", "ݬ"}   # ڊ ڏ ں ݬ
+
+
+def pelik(ch):
+    cp = ord(ch)
+    return ch in PELIK_HURUF or any(a <= cp <= b for a, b in PELIK_JULAT)
+
 
 # Perkataan Arab yang memang guna غ
 GHAIN_OK = {
@@ -73,6 +89,7 @@ def semak(baiki=False):
     nga_gh = collections.Counter()
     pa_fa = collections.Counter()
     latin = collections.Counter()
+    pelik_kata = collections.Counter()
     ralat = []
     tukar_fail = 0
 
@@ -107,6 +124,10 @@ def semak(baiki=False):
             a = q.get("a")
             if not isinstance(a, int) or not 0 <= a < len(o):
                 ralat.append("%s soalan %d: indeks jawapan %r di luar julat" % (rel, i, a))
+            for t in [q.get("q", ""), q.get("e", "")] + o:
+                for w in re.findall(r"[^\s\"\[\],.:;()؟؛،/]+", t):
+                    if any(pelik(c) for c in w):
+                        pelik_kata[w] += 1
             if q.get("s") == "arab":
                 continue
             for t in [q.get("q", ""), q.get("e", "")] + o:
@@ -139,11 +160,12 @@ def semak(baiki=False):
     lapor("Semak غ (mungkin patut ڠ)", nga_gh)
     lapor("Semak ف (mungkin patut ڤ)", pa_fa)
     lapor("Latin dalam teks", latin)
+    lapor("Huruf pelik (bentuk persembahan / ڊ ڏ ں ݬ) - perlu dibetulkan", pelik_kata, 60)
 
     print("\n=== Ralat struktur: %d ===" % len(ralat))
     for r in ralat[:30]:
         print("  " + r)
-    return 1 if ralat else 0
+    return 1 if (ralat or pelik_kata) else 0
 
 
 if __name__ == "__main__":

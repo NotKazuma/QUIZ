@@ -659,6 +659,723 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-jenayat-pat2023-01",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تعريف جنايات؟",
+  "options": [
+   "مڠمبيل اوڤه",
+   "منچابوت ڤوكوق",
+   "ملاكوكن اكتيۏيتي",
+   "ملاكوكن كسالهن"
+  ],
+  "answer": 3,
+  "explanation": "جنايات برمقصود ملاكوكن كسالهن (ڤربواتن يڠ دلارڠ اوليه شرع).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-02",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤربواتن يڠ مڽببكن كماتين؟",
+  "options": [
+   "منجوري",
+   "ممبونوه",
+   "مموكول",
+   "مروڤق"
+  ],
+  "answer": 1,
+  "explanation": "ممبونوه اداله ڤربواتن يڠ مڽببكن كماتين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-03",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جنيس ڤمبونوهن؟",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبونوهن تربهاݢي تيݢ: سڠاج، مڽروڤاءي سڠاج دان ترساله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-04",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي حكومن قصاص؟",
+  "options": [
+   "دنداءن",
+   "كنتي روݢي",
+   "ممباير كنتي روݢي ريڠن",
+   "حكومن بالس ڤد كسالهن ترتنتو"
+  ],
+  "answer": 3,
+  "explanation": "قصاص اياله حكومن بالس ڤد كسالهن ترتنتو (چونتوه ڤمبونوهن دان كچدراءن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-05",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط واجب قصاص باكي ڤمبونوه؟",
+  "options": [
+   "بالغ",
+   "اورڠ ݢيلا",
+   "هيلڠ عقل",
+   "تيدق صيحت"
+  ],
+  "answer": 0,
+  "explanation": "ڤمبونوه واجب دقصاص جك بالغ؛ اورڠ ݢيلا دان هيلڠ عقل تيدق دقصاص.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-06",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه كچدراءن يڠ دكناكن حكومن قصاص؟",
+  "options": [
+   "مليهت",
+   "مندڠر",
+   "ملوكاكن",
+   "ممبونوه"
+  ],
+  "answer": 2,
+  "explanation": "ملوكاكن (چدرا) انتارا كچدراءن يڠ دكناكن قصاص.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-07",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط قصاص اڠݢوتا لومڤوه؟",
+  "options": [
+   "تيدق رضا",
+   "مڠسا منونتوت ايمبوهن",
+   "مڠسا ممعافكن ڤساله",
+   "داره اڠݢوتا لومڤوه بوليه برهنتي"
+  ],
+  "answer": 3,
+  "explanation": "اڠݢوتا لومڤوه بوليه دقصاص اڤابيلا داره اڠݢوتا ترسبوت بوليه برهنتي؛ ڤيليهن لاءين اداله سبب قصاص ݢوݢور.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-08",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه بالسن منچدراكن هيڠݢ تولڠ ڤچه؟",
+  "options": [
+   "دحكوم قصاص",
+   "دبالس بونوه",
+   "ممباير كفارة",
+   "تيدق دبالس قصاص"
+  ],
+  "answer": 3,
+  "explanation": "كچدراءن هيڠݢ تولڠ ڤچه تيدق دقصاص كران سوكر ممستيكن كسامارتان؛ دكناكن دية/أرش.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-09",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تعريف دية اياله",
+  "options": [
+   "كفارة",
+   "قصاص",
+   "صحيح",
+   "كنتي روݢي"
+  ],
+  "answer": 3,
+  "explanation": "دية اياله كنتي روݢي يڠ دباير كران ڤمبونوهن اتاو كچدراءن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-10",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب دية \"مخففة\" برتوكر كڤد \"مغلظة\" اياله",
+  "options": [
+   "ڤمبونوهن جيرن سبله",
+   "ڤمبونوهن ترهادڤ راكن",
+   "ڤمبونوهن دبولن شوال",
+   "ڤمبونوهن دتانه حرام مكة"
+  ],
+  "answer": 3,
+  "explanation": "ڤمبونوهن دتانه حرام مكة (بولن حرام اتاو ترهادڤ محرم) منجاديكن دية مغلظة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-11",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية باكي ڤرمڤوان دان خنثى مشكل اياله",
+  "options": [
+   "30 ايكور اونتا",
+   "40 ايكور اونتا",
+   "50 ايكور اونتا",
+   "60 ايكور اونتا"
+  ],
+  "answer": 2,
+  "explanation": "دية ڤرمڤوان دان خنثى مشكل اياله ستڠه (50 ايكور اونتا) درڤد دية للاكي (100).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-12",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية كران ممبونوه ماجوسي اياله",
+  "options": [
+   "1/3 درڤد 1/10 دية ممبونوه مسلم",
+   "2/3 درڤد 1/10 دية ممبونوه مسلم",
+   "1/2 درڤد 1/10 دية ممبونوه مسلم",
+   "1/4 درڤد 1/10 دية ممبونوه مسلم"
+  ],
+  "answer": 1,
+  "explanation": "دية ماجوسي اياله 2/3 درڤد 1/10 دية مسلم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-13",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مموتوڠ جاري اياله",
+  "options": [
+   "10 ايكور اونتا",
+   "10 ايكور لمبو",
+   "10 ايكور كمبيڠ",
+   "10 ايكور كرباو"
+  ],
+  "answer": 0,
+  "explanation": "دية مموتوڠ ستياڤ ساتو جاري اياله 10 ايكور اونتا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-14",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مڠهيلڠكن مات اياله",
+  "options": [
+   "1/2 دية",
+   "1/4 دية",
+   "1/6 دية",
+   "1/8 دية"
+  ],
+  "answer": 0,
+  "explanation": "دية مڠهيلڠكن ساتو مات اياله ستڠه (1/2) دية؛ كدوا-دوا مات دية ڤنوه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-15",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مموتوڠ دوا بيبير مولوت اياله",
+  "options": [
+   "40 ايكور اونتا",
+   "60 ايكور اونتا",
+   "80 ايكور اونتا",
+   "100 ايكور اونتا"
+  ],
+  "answer": 3,
+  "explanation": "مموتوڠ كدوا-دوا بيبير مولوت دية ڤنوه، ياءيت 100 ايكور اونتا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-16",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن دية مموتوڠ تليڠا كچوالي",
+  "options": [
+   "دكناكن دية",
+   "30 ايكور اونتا سبله تليڠا",
+   "50 ايكور اونتا سبله تليڠا",
+   "100 ايكور اونتا كدوا-دوا تليڠا"
+  ],
+  "answer": 1,
+  "explanation": "دية سبله تليڠا 50 ايكور اونتا؛ كدوا-دوا 100 ايكور اونتا. 30 ايكور بوكن دية تليڠا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-17",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن ڤركارا يڠ بركاءيتن دڠن دية مڠهيلڠكن عقل كچوالي",
+  "options": [
+   "50 ايكور اونتا",
+   "100 ايكور اونتا",
+   "تياد دية جك سمبوه",
+   "دڤولڠكن دية جك سمبوه"
+  ],
+  "answer": 0,
+  "explanation": "دية مڠهيلڠكن عقل اياله 100 ايكور اونتا؛ جك عقل سمبوه، دية تيدق واجب/دڤولڠكن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-18",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن تعريف غُرَّة. i. للاكي  ii. ڤرمڤوان  iii. همبا للاكي  iv. همبا ڤرمڤوان",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "غرة اياله همبا (للاكي اتاو ڤرمڤوان) سباݢاي دية ككچوراءن جنين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-19",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه ڤرياتاءن برايكوت جنيس كفارة ڤمبونوهن؟ i. مرديكاكن سأورڠ همبا  ii. مرديكاكن 2 اورڠ همبا  iii. ڤواسا 2 بولن برتوروت-توروت  iv. ڤواسا 3 بولن برتوروت-توروت",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "كفارة ڤمبونوهن: مرديكاكن سأورڠ همبا مؤمن؛ جك تيدق مڠمڤو، ڤواسا 2 بولن برتوروت-توروت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-20",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبونوهن سچارا بركومڤولن دكناكن حكومن قصاص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ڤمبونوهن سچارا بركومڤولن (كومڤولن ممبونوه ساتو اورڠ) دقصاص.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-21",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن مموتوڠ اڠݢوتا برسندي بوليه دكناكن قصاص.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، اڠݢوتا برسندي بوليه دقصاص كران كسامارتان بوليه دجامين.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-22",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبونوه خنثى سچارا سڠاج ديتن 10 ايكور اونتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، دية خنثى مشكل 50 ايكور اونتا (ستڠه درڤد دية للاكي).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-23",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية مموتوڠ تاڠن اياله 10 ايكور اونتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، دية مموتوڠ ساتو تاڠن اياله 50 ايكور اونتا؛ 10 ايكور اونتا اياله دية ساتو جاري.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-24",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبونوه ترساله واجب ممباير كفارة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ڤمبونوهن ترساله واجب كفارة دان دية.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-25",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: حكومن ممبونوه سچارا سڠاج",
+  "options": [
+   "دية",
+   "قصاص",
+   "كفارة"
+  ],
+  "answer": 1,
+  "explanation": "حكومن ڤمبونوهن سڠاج اياله قصاص.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-26",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: لوك يڠ سمڤاي كتولڠ",
+  "options": [
+   "أرش",
+   "قصد",
+   "مُوضِحَة"
+  ],
+  "answer": 2,
+  "explanation": "لوك يڠ سمڤاي كتولڠ (مڽيڤكن تولڠ) دسبوت مُوضِحَة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-27",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: جومله سومڤه دعواءن ايت بنر",
+  "options": [
+   "30 كالي",
+   "40 كالي",
+   "50 كالي"
+  ],
+  "answer": 2,
+  "explanation": "سومڤه (قسامة) دالم دعواءن دارة اياله 50 كالي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-28",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: جنيس كفارة ڤمبونوهن",
+  "options": [
+   "برسومڤه 10 كالي",
+   "مرديكاكن همبا مؤمن",
+   "برڤواسا 5 بولن برتوروت"
+  ],
+  "answer": 1,
+  "explanation": "كفارة ڤمبونوهن: مرديكاكن همبا مؤمن؛ جك تيدق مڠمڤو برڤواسا 2 بولن برتوروت-توروت.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-29",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن يڠ دكناكن كڤد ڤمبونوه اياله ______",
+  "options": [
+   "قصاص",
+   "حرام",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "حكومن ڤمبونوه سڠاج اياله قصاص.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-30",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممبونوه اورڠ لاءين اياله ______",
+  "options": [
+   "حرام",
+   "واجب",
+   "قَسَم"
+  ],
+  "answer": 0,
+  "explanation": "ممبونوه اورڠ لاءين تانڤا حق اداله حرام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-31",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية كچدراءن هيڠݢ كتولڠ اياله ______",
+  "options": [
+   "5 ايكور اونتا",
+   "قصاص",
+   "حرام"
+  ],
+  "answer": 0,
+  "explanation": "دية موضحة (لوك سمڤاي كتولڠ) اياله 5 ايكور اونتا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-32",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسومڤه مندعوا كبنرن دعواءنن دسبوت ______",
+  "options": [
+   "قَسَم",
+   "قصاص",
+   "واجب"
+  ],
+  "answer": 0,
+  "explanation": "قَسَم اياله سومڤه ڤندعوا اتاو ڤنولق دالم دعواءن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-33",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم كفارة كأتس اورڠ ݢيلا اياله ______",
+  "options": [
+   "واجب",
+   "حرام",
+   "قصاص"
+  ],
+  "answer": 0,
+  "explanation": "كفارة ڤمبونوهن ترساله واجب والاوڤون ڤلاكوڽ اورڠ ݢيلا (دبايركن درڤد هرتاڽ).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-34",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبونوهن يڠ دلاكوكن دڠن توجوان ممبونوه اياله ______",
+  "options": [
+   "ڤمبونوهن سڠاج",
+   "ڤمبونوهن ترساله",
+   "ڤمبونوهن مڽروڤاءي سڠاج"
+  ],
+  "answer": 0,
+  "explanation": "ڤمبونوهن يڠ دلاكوكن دڠن توجوان ممبونوه دسبوت ڤمبونوهن سڠاج.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-35",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية تربهاݢي كڤد ______",
+  "options": [
+   "دية مغلظة دان دية مخففة",
+   "قصاص دان كفارة",
+   "قَسَم دان تعزير"
+  ],
+  "answer": 0,
+  "explanation": "دية تربهاݢي كڤد دية مغلظة (برت) دان دية مخففة (ريڠن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-36",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جك كتياداءن اونتا مك ديتن دتوكركن كڤد ______",
+  "options": [
+   "1000 دينار اتاو 12,000 درهم",
+   "قصاص",
+   "قَسَم"
+  ],
+  "answer": 0,
+  "explanation": "جك اونتا تيدق دجومڤاي، دية دتوكر كڤد 1000 دينار امس اتاو 12,000 درهم ڤيرق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-jenayat-pat2023-37",
+  "exam": "Darjah 4",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دية ملوكاكن اورڠ يهودي اياله ______",
+  "options": [
+   "1/3 درڤد دية مسلم",
+   "1/2 درڤد دية مسلم",
+   "2/3 درڤد 1/10 دية مسلم"
+  ],
+  "answer": 0,
+  "explanation": "دية اورڠ يهودي (دان نصراني) اياله 1/3 درڤد دية اورڠ إسلام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-jenayat-ppt2024-01",
   "exam": "Darjah 4",
   "subject": "Jenayat",
@@ -711,10 +1428,10 @@
    "منچدراكن اڠݢوتا",
    "منجوري دان مرومڤق",
    "مڠهيلڠكن اڠݢوتا",
-   "ڤربواتن يڠ مﻯببكن كماتين"
+   "ڤربواتن يڠ مڽببكن كماتين"
   ],
   "answer": 3,
-  "explanation": "ڤمبونوهن اياله ڤربواتن يڠ مﻯببكن كماتين اورڠ لاءين.",
+  "explanation": "ڤمبونوهن اياله ڤربواتن يڠ مڽببكن كماتين اورڠ لاءين.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -734,7 +1451,7 @@
    "ليم"
   ],
   "answer": 1,
-  "explanation": "ڤمبونوهن اد تيݢ: سڠاج، مﻯروڤاءي سڠاج دان ترساله.",
+  "explanation": "ڤمبونوهن اد تيݢ: سڠاج، مڽروڤاءي سڠاج دان ترساله.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -786,7 +1503,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه حكومن ڤمبونوهن يڠ مﻯروڤاءي سڠاج؟",
+  "question": "اڤاكه حكومن ڤمبونوهن يڠ مڽروڤاءي سڠاج؟",
   "options": [
    "حد",
    "دندا",
@@ -794,7 +1511,7 @@
    "تيدق دحكوم قصاص"
   ],
   "answer": 3,
-  "explanation": "ڤمبونوهن مﻯروڤاءي سڠاج تيدق دحكوم قصاص، تتاڤي دية.",
+  "explanation": "ڤمبونوهن مڽروڤاءي سڠاج تيدق دحكوم قصاص، تتاڤي دية.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -890,11 +1607,11 @@
   "options": [
    "ممبونوه",
    "مروتن",
-   "مﻯاتهكن اڠݢوتا",
+   "مماتهكن اڠݢوتا",
    "منچوبيت"
   ],
   "answer": 2,
-  "explanation": "مﻯاتهكن اڠݢوتا دڠن سڠاج بوليه دكناكن قصاص كچدراءن.",
+  "explanation": "مماتهكن اڠݢوتا دڠن سڠاج بوليه دكناكن قصاص كچدراءن.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -950,7 +1667,7 @@
   "options": [
    "برعقل",
    "بالغ",
-   "مﻯاتهكن اڠݢوتا",
+   "مماتهكن اڠݢوتا",
    "اڠݢوتا لومڤوه"
   ],
   "answer": 3,
@@ -986,7 +1703,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤمبونوه يڠ تيدق دجاتوهكن حكومن ماتي اڤابيلا. i. مغسا رضا  ii. منريما تقدير  iii. دمعافكن اوليه واريث مغسا  iv. مﻯباير ݢنتي روݢي",
+  "question": "ڤمبونوه يڠ تيدق دجاتوهكن حكومن ماتي اڤابيلا. i. مڠسا رضا  ii. منريما تقدير  iii. دمعافكن اوليه واريث مڠسا  iv. ممباير ݢنتي روݢي",
   "options": [
    "i دان ii",
    "ii دان iii",
@@ -1098,7 +1815,7 @@
   "script": "jawi",
   "question": "چونتوه حكوم قصاص اياله",
   "options": [
-   "مﻯوكول",
+   "مموكول",
    "ممبونوه",
    "منچدراكن سديكيت"
   ],
@@ -1119,10 +1836,10 @@
   "options": [
    "ڤمبونوهن سڠاج",
    "ڤمبونوهن ترساله",
-   "ڤمبونوهن مﻯروڤاءي سڠاج"
+   "ڤمبونوهن مڽروڤاءي سڠاج"
   ],
   "answer": 2,
-  "explanation": "مڠݢوناكن اوبجيك يڠ تيدق بياس ممبونوه اياله ڤمبونوهن مﻯروڤاءي سڠاج.",
+  "explanation": "مڠݢوناكن اوبجيك يڠ تيدق بياس ممبونوه اياله ڤمبونوهن مڽروڤاءي سڠاج.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -1172,7 +1889,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حكومن ممبونوه سچارا بركومڤولن (كأتس ساتو مغسا) اياله",
+  "question": "حكومن ممبونوه سچارا بركومڤولن (كأتس ساتو مڠسا) اياله",
   "options": [
    "دية",
    "قصاص",
@@ -1248,7 +1965,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "مﻯباير ݢنتي روݢي يڠ ريڠن اياله",
+  "question": "ممباير ݢنتي روݢي يڠ ريڠن اياله",
   "options": [
    "دية مخففة",
    "منچدراكن",
@@ -1286,14 +2003,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حكومن ممبونوه مﻯروڤاءي سڠاج اياله",
+  "question": "حكومن ممبونوه مڽروڤاءي سڠاج اياله",
   "options": [
    "دية مغلظة",
    "قصاص",
    "دية مخففة"
   ],
   "answer": 0,
-  "explanation": "ڤمبونوهن مﻯروڤاءي سڠاج دكناكن دية مغلظة.",
+  "explanation": "ڤمبونوهن مڽروڤاءي سڠاج دكناكن دية مغلظة.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -1362,14 +2079,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "منچدراكن سأورڠ يڠ مﻯببكن تولڠ ڤچه اياله دكناكن",
+  "question": "منچدراكن سأورڠ يڠ مڽببكن تولڠ ڤچه اياله دكناكن",
   "options": [
    "دية",
    "قصاص",
    "تعزير"
   ],
   "answer": 0,
-  "explanation": "چدرا يڠ مﻯببكن تولڠ ڤچه دكناكن دية/حكومة، بوكن قصاص.",
+  "explanation": "چدرا يڠ مڽببكن تولڠ ڤچه دكناكن دية/حكومة، بوكن قصاص.",
   "source": "PPT 2024",
   "perlu_semak": true
  },
@@ -1969,7 +2686,7 @@
    "فاسق"
   ],
   "answer": 1,
-  "explanation": "مغسا مستيله معصوم الدم (سڤرتي اورڠ إسلام) سوڤاي قصاص دكناكن.",
+  "explanation": "مڠسا مستيله معصوم الدم (سڤرتي اورڠ إسلام) سوڤاي قصاص دكناكن.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -2001,15 +2718,15 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه جنيس ڤمبونوهن مغݢوناكن اوبجيك يڠ ڤد كبياساءنڽ تيدق مﻯببكن كماتين؟",
+  "question": "اڤاكه جنيس ڤمبونوهن مڠݢوناكن اوبجيك يڠ ڤد كبياساءنڽ تيدق مڽببكن كماتين؟",
   "options": [
    "ڤمبونوهن سڠاج",
    "ڤمبونوهن ترساله",
    "ڤمبونوهن دڠن نية",
-   "ڤمبونوهن مﻯروڤاءي سڠاج"
+   "ڤمبونوهن مڽروڤاءي سڠاج"
   ],
   "answer": 3,
-  "explanation": "مغݢوناكن اوبجيك يڠ تيدق بياس ممبونوه اياله ڤمبونوهن مﻯروڤاءي سڠاج.",
+  "explanation": "مڠݢوناكن اوبجيك يڠ تيدق بياس ممبونوه اياله ڤمبونوهن مڽروڤاءي سڠاج.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -2045,7 +2762,7 @@
   "options": [
    "ڤمبونوهن سڠاج",
    "ڤمبونوهن ترساله",
-   "ڤمبونوهن مﻯروڤاءي سڠاج",
+   "ڤمبونوهن مڽروڤاءي سڠاج",
    "ڤمبونوهن تنڤا نية"
   ],
   "answer": 0,
@@ -2145,7 +2862,7 @@
   "options": [
    "ممبونوه",
    "ملوكاكن اڠݢوتا",
-   "مﻯامون",
+   "مڽامون",
    "منچوري"
   ],
   "answer": 1,
@@ -2181,7 +2898,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حكومن قصاص باݢي كسالهن مموتوڠ كاكي كانن مغسا ايله",
+  "question": "حكومن قصاص باݢي كسالهن مموتوڠ كاكي كانن مڠسا ايله",
   "options": [
    "دڤوتوڠ كاكي كانن ڤنجناية",
    "دڤوتوڠ تاڠن كانن ڤنجناية",
@@ -2317,7 +3034,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حكوم منچدراكن اغݢوتا بادن اورڠ لاءين واجب دية.",
+  "question": "حكوم منچدراكن اڠݢوتا بادن اورڠ لاءين واجب دية.",
   "options": [
    "بتول",
    "ساله"
@@ -2335,7 +3052,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤموتوڠن اغݢوتا يڠ لومڤوه دكناكن قصاص تنڤا شرط.",
+  "question": "ڤموتوڠن اڠݢوتا يڠ لومڤوه دكناكن قصاص تنڤا شرط.",
   "options": [
    "بتول",
    "ساله"
@@ -2353,7 +3070,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "بالس قصاص هاث دڠن اغݢوتا برسندي.",
+  "question": "بالس قصاص هاث دڠن اڠݢوتا برسندي.",
   "options": [
    "بتول",
    "ساله"
@@ -2371,14 +3088,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "جناية ڤد اغݢوتا اياله",
+  "question": "جناية ڤد اڠݢوتا اياله",
   "options": [
    "ممبونوه",
    "مرومڤق",
    "منچدراكن"
   ],
   "answer": 2,
-  "explanation": "جناية ڤد اغݢوتا اياله منچدراكن اڠݢوتا اورڠ لاءين.",
+  "explanation": "جناية ڤد اڠݢوتا اياله منچدراكن اڠݢوتا اورڠ لاءين.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -2390,14 +3107,14 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "شرط قصاص اياله مغسا",
+  "question": "شرط قصاص اياله مڠسا",
   "options": [
    "إسلام (معصوم الدم)",
    "فاسق",
    "كافر حربي"
   ],
   "answer": 0,
-  "explanation": "مغسا مستيله معصوم الدم سوڤاي قصاص دكناكن.",
+  "explanation": "مڠسا مستيله معصوم الدم سوڤاي قصاص دكناكن.",
   "source": "PPT 2025",
   "perlu_semak": true
  },
@@ -2409,7 +3126,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حكومن باݢي ممچهكن (مماتهكن) تولڠ اغݢوتا اياله",
+  "question": "حكومن باݢي ممچهكن (مماتهكن) تولڠ اڠݢوتا اياله",
   "options": [
    "دية",
    "تعزير",
@@ -2542,7 +3259,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اغݢوتا يڠ بوليه دڤوتوڠ دان دحكوم قصاص اياله اغݢوتا",
+  "question": "اڠݢوتا يڠ بوليه دڤوتوڠ دان دحكوم قصاص اياله اڠݢوتا",
   "options": [
    "برسندي",
    "منچدراكن",
@@ -2910,7 +3627,7 @@
    "دكناكن تعزير"
   ],
   "answer": 1,
-  "explanation": "حكومة برمعنا كنتي روݬي.",
+  "explanation": "حكومة برمعنا كنتي روݢي.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
@@ -3268,13 +3985,13 @@
   "script": "jawi",
   "question": "اڤاكه ارتي ڤمبونوهن؟",
   "options": [
-   "مﻤبكن كچدراءن",
-   "مﻤاتهكن تولڠ",
-   "مغهيلڠكن اڠݢوتا",
-   "ڤربواتن مﻤبكن كماتين"
+   "ممبكن كچدراءن",
+   "مماتهكن تولڠ",
+   "مڠهيلڠكن اڠݢوتا",
+   "ڤربواتن ممبكن كماتين"
   ],
   "answer": 3,
-  "explanation": "ڤمبونوهن اياله ڤربواتن يڠ مﻤبكن كماتين.",
+  "explanation": "ڤمبونوهن اياله ڤربواتن يڠ ممبكن كماتين.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -3286,7 +4003,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "اڤاكه حكومن ترهادڤ ڤربواتن مﻤبونوه؟",
+  "question": "اڤاكه حكومن ترهادڤ ڤربواتن ممبونوه؟",
   "options": [
    "دية",
    "ڤنجارا",
@@ -3314,7 +4031,7 @@
    "ليم"
   ],
   "answer": 1,
-  "explanation": "ڤمبونوهن تربهاݢي تيݢ: سڠاج، مﻤروڤاءي سڠاج دان ترساله.",
+  "explanation": "ڤمبونوهن تربهاݢي تيݢ: سڠاج، ممروڤاءي سڠاج دان ترساله.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -3328,13 +4045,13 @@
   "script": "jawi",
   "question": "اڤاكه ارتي ڤمبونوهن سڠاج؟",
   "options": [
-   "دڠن نية مﻤبونوه",
+   "دڠن نية ممبونوه",
    "منچدراكن اڠݢوتا",
    "تيدق دبالس بونوه",
    "مڠݢوناكن اوبجيك تومڤول"
   ],
   "answer": 0,
-  "explanation": "ڤمبونوهن سڠاج اياله ڤمبونوهن دڠن نية مﻤبونوه مڠݢوناكن الت يڠ بوليه مﻤبونوه.",
+  "explanation": "ڤمبونوهن سڠاج اياله ڤمبونوهن دڠن نية ممبونوه مڠݢوناكن الت يڠ بوليه ممبونوه.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -3390,7 +4107,7 @@
   "options": [
    "ڤمبونوهن سڠاج",
    "ڤمبونوهن اورڠ لاءين",
-   "ڤمبونوهن يڠ مﻤروڤاءي سڠاج",
+   "ڤمبونوهن يڠ ممروڤاءي سڠاج",
    "ڤمبونوهن يڠ تيدق دسڠاجاكن"
   ],
   "answer": 3,
@@ -3426,7 +4143,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "چونتوه ڤمبونوهن يڠ مﻤروڤاءي سڠاج سڤرتي دڤوكول دڠن ______",
+  "question": "چونتوه ڤمبونوهن يڠ ممروڤاءي سڠاج سڤرتي دڤوكول دڠن ______",
   "options": [
    "ڤيستول",
    "توڠكت",
@@ -3434,7 +4151,7 @@
    "ڤارڠ"
   ],
   "answer": 1,
-  "explanation": "مﻤروڤاءي سڠاج مڠݢوناكن الت يڠ بياساڽ تيدق مﻤبونوه سڤرتي توڠكت.",
+  "explanation": "ممروڤاءي سڠاج مڠݢوناكن الت يڠ بياساڽ تيدق ممبونوه سڤرتي توڠكت.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -3446,7 +4163,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "ڤمبونوهن يڠ مﻤروڤاءي سڠاج تيدق دحكوم ______",
+  "question": "ڤمبونوهن يڠ ممروڤاءي سڠاج تيدق دحكوم ______",
   "options": [
    "حدود",
    "قصاص",
@@ -3454,7 +4171,7 @@
    "دية مخففة"
   ],
   "answer": 1,
-  "explanation": "ڤمبونوهن مﻤروڤاءي سڠاج تيدق دكناكن قصاص.",
+  "explanation": "ڤمبونوهن ممروڤاءي سڠاج تيدق دكناكن قصاص.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -3526,7 +4243,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "jawi",
-  "question": "حكومن مغهيلڠكن اڠݢوتا بادن اورڠ لاءين اياله ______ قصاص.",
+  "question": "حكومن مڠهيلڠكن اڠݢوتا بادن اورڠ لاءين اياله ______ قصاص.",
   "options": [
    "حرام",
    "واجب",
@@ -3534,7 +4251,7 @@
    "هاروس"
   ],
   "answer": 1,
-  "explanation": "مغهيلڠكن اڠݢوتا بادن اورڠ لاءين اياله واجب قصاص.",
+  "explanation": "مڠهيلڠكن اڠݢوتا بادن اورڠ لاءين اياله واجب قصاص.",
   "source": "PPT 2026",
   "perlu_semak": true
  },
@@ -3570,7 +4287,7 @@
   "options": [
    "تيدق ساكيت",
    "برتروسن ݢيلا",
-   "مﻤبونوه كتيك صيحت",
+   "ممبونوه كتيك صيحت",
    "تيدق برتروسن ݢيلا"
   ],
   "answer": 1,
