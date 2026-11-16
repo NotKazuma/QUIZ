@@ -1,0 +1,492 @@
+[
+ {
+  "id": "darjah-5-faraid-pat2022-01",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين فرائض دري سكي بهاس؟",
+  "options": [
+   "هرتا",
+   "ڤوساك",
+   "كتنتوان",
+   "وارث"
+  ],
+  "answer": 2,
+  "explanation": "فرائض ڤد بهاس برمقصود كتنتوان (سسواتو يڠ دتنتوكن).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-02",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاكين فرض دوا اورڠ انق ڤرمڤوان اتاو لبيه؟",
+  "options": [
+   "⅔",
+   "⅓",
+   "½",
+   "¼"
+  ],
+  "answer": 0,
+  "explanation": "دوا اورڠ انق ڤرمڤوان اتاو لبيه منداڤت ⅔ جك تياد انق للاكي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-03",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاكين فرض ايبو اڤابيلا سي ماتي تياد منيڠݢلكن انق؟",
+  "options": [
+   "⅔",
+   "½",
+   "⅛",
+   "⅓"
+  ],
+  "answer": 3,
+  "explanation": "ايبو منداڤت ⅓ اڤابيلا سي ماتي تياد انق دان تياد ساودارا يڠ راماي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-04",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاكين عصبه؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "عصبة تربهاݢي تيݢ: عصبة بنفسه، عصبة بالغير دان عصبة مع الغير.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-05",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود عَصَبَةٌ بِنَفْسِهِ؟",
+  "options": [
+   "تيدق منريما ڤوساك",
+   "مڠهابيسي هرتا دڠن سنديري",
+   "دكواساءي فُرُوع وارث",
+   "منريما ڤوساك برسرتا وارث للاكي"
+  ],
+  "answer": 1,
+  "explanation": "عصبة بنفسه مڠهابيسي هرتا (اتاو باقي هرتا) دڠن سنديري تنڤا ممرلوكن واريث لاءين.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-06",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين الحَجْبُ ڤد بهاس؟",
+  "options": [
+   "ترديندڠ",
+   "ترڤيسه",
+   "تركنتوڠ",
+   "ترلراي"
+  ],
+  "answer": 0,
+  "explanation": "الحجب ڤد بهاس برمقصود ترديندڠ (ترهالڠ).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-07",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ تيدق ترهالڠ منداڤت ڤوساك اياله",
+  "options": [
+   "باڤ",
+   "داتوق",
+   "چوچو",
+   "باڤ ساودارا"
+  ],
+  "answer": 0,
+  "explanation": "باڤ تيدق ڤرنه ترهالڠ منداڤت ڤوساك؛ داتوق، چوچو دان باڤ ساودارا بوليه دحالڠ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-08",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ مڠهالڠ چوچو للاكي درڤد ممڤوساكاءي هرتا ڤوساك اياله",
+  "options": [
+   "داتوق",
+   "ايبو",
+   "باڤ",
+   "انق للاكي"
+  ],
+  "answer": 3,
+  "explanation": "انق للاكي مڠهالڠ چوچو للاكي درڤد منداڤت ڤوساك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-09",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ دحالڠي اوليه ايبو درڤد ممڤوساكاءي اياله",
+  "options": [
+   "نينيق",
+   "ايبو ساودارا",
+   "ساودارا ڤرمڤوان",
+   "چوچو ڤرمڤوان"
+  ],
+  "answer": 0,
+  "explanation": "نينيق دحالڠ اوليه ايبو درڤد منداڤت ڤوساك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-10",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ مڠهالڠ اديق-براديق للاكي سأيبو سباڤ درڤد منريما ڤوساك اياله",
+  "options": [
+   "داتوق",
+   "باڤ",
+   "سوامي",
+   "باڤ ساودارا"
+  ],
+  "answer": 1,
+  "explanation": "باڤ مڠهالڠ اديق-براديق للاكي (سأيبو سباڤ) درڤد منريما ڤوساك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-11",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ مڠهالڠ اديق براديق ڤرمڤوان سباڤ اياله",
+  "options": [
+   "ايبو",
+   "داتوق",
+   "انق للاكي",
+   "انق ڤرمڤوان"
+  ],
+  "answer": 2,
+  "explanation": "انق للاكي مڠهالڠ اديق براديق ڤرمڤوان سباڤ درڤد منريما ڤوساك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-12",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله يڠ بوليه دبهاكيكن ڤوساك اداله ڤڠرتين",
+  "options": [
+   "عَصَبَة",
+   "اصل مسئله",
+   "فرائض",
+   "تصحيح مسئله"
+  ],
+  "answer": 1,
+  "explanation": "اصل مسئله اياله جومله بهاكين يڠ بوليه دبهاكيكن ڤوساك.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-13",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين اصل مسئله دالم ڤيلساين مسئله فرائض اياله",
+  "options": [
+   "6 بهاكين",
+   "7 بهاكين",
+   "8 بهاكين",
+   "9 بهاكين"
+  ],
+  "answer": 1,
+  "explanation": "اصل مسئله اد 7: 2، 3، 4، 6، 8، 12 دان 24.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-14",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤڠرتين عَوْلٌ كچوالي",
+  "options": [
+   "ناءيق",
+   "تراڠكت",
+   "ترتيڠكي",
+   "ترنده"
+  ],
+  "answer": 3,
+  "explanation": "عول برمقصود ناءيق/ترڠكت؛ ترنده بوكن ڤڠرتينڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-15",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت مروڤاكن عَوْل ڤد اصل مسئله 12 كچوالي",
+  "options": [
+   "13",
+   "15",
+   "17",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "اصل مسئله 12 بوليه برعول كڤد 13، 15 دان 17؛ 18 تيدق.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-16",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اصل مسئله يڠ تيدق برلاكو عَوْل. i. 2  ii. 3  iii. 4  iv. 5",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "i، ii دان iv",
+   "ii، iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "اصل مسئله 2، 3 دان 4 تيدق برعول؛ 5 بوكن اصل مسئله.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-17",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اَلْحَجْبُ دڠن سبب واريث اياله منداڤت سموا هرتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، الحجب برمقصود ترهالڠ منداڤت ڤوساك، بوكن منداڤت سموا هرتا.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-18",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين اَلْفُرُوض",
+  "options": [
+   "تقدير",
+   "ممڤوساكاءي",
+   "عَصَبَة"
+  ],
+  "answer": 0,
+  "explanation": "الفروض (جمع فرض) برمقصود تقدير (كتنتوان قدر).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-19",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤنريما بهاكين فَرْضُ ⅛",
+  "options": [
+   "باڤ",
+   "ايستري",
+   "نينيق"
+  ],
+  "answer": 1,
+  "explanation": "ايستري منداڤت ⅛ جك اد انق اتاو چوچو.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-20",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله واريث يڠ منداڤت عصبة بغيره",
+  "options": [
+   "امڤت اورڠ",
+   "ليم اورڠ",
+   "انم اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "عصبة بالغير اد امڤت اورڠ: انق ڤرمڤوان، چوچو ڤرمڤوان، ساودارا ڤرمڤوان سأيبو سباڤ دان ساودارا ڤرمڤوان سباڤ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-21",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس-جنيس اصل مسئله",
+  "options": [
+   "نُقْصَان",
+   "حِرْمَان",
+   "تَدَاخُل"
+  ],
+  "answer": 2,
+  "explanation": "تداخل اداله ساله ساتو هوبوڠن انتارا بيلڠن مخرج؛ نقصان دان حرمان اداله جنيس حجب.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-22",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برمقصود سروڤا انتارا دوا مخرج",
+  "options": [
+   "تَمَاثُل",
+   "تَدَاخُل",
+   "تَوَافُق"
+  ],
+  "answer": 0,
+  "explanation": "تماثل برمقصود سام/سروڤا انتارا دوا مخرج.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-23",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين فرض سوامي جك اد فرع الوارث ______",
+  "options": [
+   "¼ ربع",
+   "دوا",
+   "سوامي"
+  ],
+  "answer": 0,
+  "explanation": "سوامي منداڤت ¼ جك اد فرع الوارث (انق اتاو چوچو).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-24",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ تيدق دتتڤكن قدر ڤوساك ______",
+  "options": [
+   "ڤڠرتين عصبة",
+   "¼ ربع",
+   "سبب الحجب"
+  ],
+  "answer": 0,
+  "explanation": "عصبة اياله واريث يڠ تيدق دتتڤكن قدر ڤوساكڽ.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-pat2022-25",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله واريث يڠ منداڤت عصبة مع غيره ______",
+  "options": [
+   "دوا",
+   "¼ ربع",
+   "سوامي"
+  ],
+  "answer": 0,
+  "explanation": "عصبة مع الغير دتريما اوليه دوا جنيس ساودارا ڤرمڤوان (سأيبو سباڤ دان سباڤ).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ }
+]
