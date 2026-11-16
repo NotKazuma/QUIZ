@@ -478,6 +478,15 @@
           }
         },
         {
+          "id": "sirah",
+          "name": "Sirah",
+          "file": "data/darjah-5/sirah.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "muamalat",
           "name": "Muamalat",
           "file": "data/darjah-5/muamalat.json",
