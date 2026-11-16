@@ -478,6 +478,15 @@
           }
         },
         {
+          "id": "muamalat",
+          "name": "Muamalat",
+          "file": "data/darjah-5/muamalat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "faraid",
           "name": "Faraid",
           "file": "data/darjah-5/faraid.json",
