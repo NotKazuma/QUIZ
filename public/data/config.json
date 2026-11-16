@@ -485,6 +485,15 @@
             "questions": 20,
             "minutes": 20
           }
+        },
+        {
+          "id": "jenayat",
+          "name": "Jenayat",
+          "file": "data/darjah-5/jenayat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
         }
       ]
     }
