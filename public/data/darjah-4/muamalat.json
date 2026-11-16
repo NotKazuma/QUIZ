@@ -755,6 +755,702 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-muamalat-pat2023-01",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين البَيْع؟",
+  "options": [
+   "مميليقي",
+   "برڤينده",
+   "ڤينجم ممينجم",
+   "جوال بلي"
+  ],
+  "answer": 3,
+  "explanation": "البيع برمقصود جوال بلي (ڤرتوكرن سسواتو دڠن سسواتو).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-02",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت ركن جوال بلي؟",
+  "options": [
+   "الواهب",
+   "المستعير",
+   "الموهوب",
+   "المعقود عليه"
+  ],
+  "answer": 3,
+  "explanation": "ركن جوال بلي: العاقدان، الصيغة دان المعقود عليه (هرݢ دان بارڠ).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-03",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت شرط باكي ڤنجوال دان ڤمبلي؟",
+  "options": [
+   "كانق-كانق",
+   "ترڤقسا",
+   "اورڠ ݢيلا",
+   "سچارا سوكاريلا"
+  ],
+  "answer": 3,
+  "explanation": "ڤنجوال دان ڤمبلي مستيله سچارا سوكاريلا (تنڤا ڤقساءن).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-04",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت شرط هرݢ دان بارڠ جوالن؟",
+  "options": [
+   "تيدق دكتاهوءي بارڠنڽ",
+   "سسواتو يڠ نجيس",
+   "بارڠ يڠ تيدق برمنفعت",
+   "بوليه دسرهكن دان دتريما"
+  ],
+  "answer": 3,
+  "explanation": "بارڠ جوالن مستي سوچي، برمنفعت، دكتاهوءي دان بوليه دسرهكن/دتريما.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-05",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت چونتوه جوال بلي يڠ حرام دان تيدق صح؟",
+  "options": [
+   "منجوال انجيڠ",
+   "منجوال كريتا",
+   "ممبلي الت توليس",
+   "ممبلي سايور-سايورن"
+  ],
+  "answer": 0,
+  "explanation": "انجيڠ نجيس ماك منجوالڽ حرام دان تيدق صح.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-06",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين العَارِيَّة دري سكي بهاس؟",
+  "options": [
+   "ڤيليه",
+   "جوال بلي",
+   "ڤينجم-ممينجم",
+   "ڤمبرين سسواتو بارڠن"
+  ],
+  "answer": 2,
+  "explanation": "العارية ڤد بهاس برمقصود ڤينجم-ممينجم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-07",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممينجمكن ڤاكاين اونتوق مڠيلقكن درڤد كسجوقن؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "ممينجمكن ڤاكاين اونتوق مڠيلقكن بهاي كسجوقن اداله واجب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-08",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط اورڠ يڠ ممبري ڤينجم اياله",
+  "options": [
+   "اورڠ ݢيلا",
+   "سچارا سوكاريلا",
+   "سچارا ڤقسا",
+   "اورڠ يڠ محجور"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبري ڤينجم (معير) مستيله ممبري سچارا سوكاريلا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-09",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط اورڠ يڠ ممينجم اياله",
+  "options": [
+   "اورڠ يڠ ترتنتو",
+   "تيدق دكنل ڤستي",
+   "تيدق بوليه مڠوروس هرتا",
+   "كوجودنڽ دراكوءي"
+  ],
+  "answer": 0,
+  "explanation": "ڤمينجم (مستعير) هندقله اورڠ يڠ ترتنتو/دكنل ڤستي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-10",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بارڠ ڤينجمن اداله بارڠ امانه يڠ مروڤاكن تڠݢوڠجواب ______",
+  "options": [
+   "المُعِير",
+   "الصِّيغَة",
+   "المُسْتَعِير",
+   "المُسْتَعَار"
+  ],
+  "answer": 2,
+  "explanation": "بارڠ ڤينجمن اداله امانه دان مروڤاكن تڠݢوڠجواب المُسْتَعِير (ڤمينجم).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-11",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤيليه سام اد جادي بلي اتاو تيدق اداله ڤڠرتين",
+  "options": [
+   "الخِيَار",
+   "البَيْع",
+   "الهِبَة",
+   "العَارِيَّة"
+  ],
+  "answer": 0,
+  "explanation": "الخيار اياله حق مميليه سام اد منروسكن اتاو ممباتلكن جوال بلي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-12",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس-جنيس الخِيَار اد",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "خيار تربهاݢي تيݢ: خيار مجلس، خيار شرط دان خيار عيب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-13",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خيار عيب برلاكو اڤابيلا ترداڤت",
+  "options": [
+   "كچمسن",
+   "كچاچتن",
+   "كسوسهن",
+   "كهيلڠن"
+  ],
+  "answer": 1,
+  "explanation": "خيار عيب برلاكو اڤابيلا ترداڤت كچاچتن ڤد بارڠ جوالن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-14",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبرين سسواتو دڠن مڠهارڤكن ڤهالا اداله مقصود",
+  "options": [
+   "هديه",
+   "چندراهاتي",
+   "صدقه",
+   "چندرامات"
+  ],
+  "answer": 2,
+  "explanation": "صدقه اياله ڤمبرين سسواتو كران مڠهارڤكن ڤهالا دري الله.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-15",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ركن الهِبَة كچوالي",
+  "options": [
+   "الواهب",
+   "الصيغة",
+   "الموهوب له",
+   "العارية"
+  ],
+  "answer": 3,
+  "explanation": "ركن هبة: الواهب، الموهوب له، الموهوب دان الصيغة؛ العارية بوكن ركن هبة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-16",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله شرط الوَاهِب (ڤمبري هبة) كچوالي",
+  "options": [
+   "سمڤورنا عقل",
+   "سچارا ڤقسا",
+   "بالغ دان چرديق",
+   "مميليقي اڤ يڠ دهبهكن"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبري هبة مستيله سچارا سوكاريلا؛ ڤقساءن مباتلكن هبة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-17",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط المَوْهُوب اياله. i. هرتا يڠ حلال  ii. اد نيلاي دسيسي شرع  iii. هرتا يڠ دچوري  iv. تياد نيلاي ڤد بارڠ هبة",
+  "options": [
+   "i دان ii",
+   "i، ii دان iii",
+   "i، iii دان iv",
+   "ii، iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "بارڠ هبة مستيله حلال دان برنيلاي دسيسي شرع.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-18",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود العَاقِدَان اياله اورڠ يڠ برعقد.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، العاقدان اياله دوا ڤيهق يڠ برعقد (ڤنجوال دان ڤمبلي).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-19",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايجاب دان قبول بوليه دسلڠي اوليه ديام يڠ ڤنجڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ايجاب دان قبول تيدق بوليه دسلڠي اوليه ديام يڠ ڤنجڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-20",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بارڠ ڤينجمن اداله بارڠ امانه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، بارڠ ڤينجمن اداله امانه كڤد ڤمينجم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-21",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كدوا-دوا ڤيهق ماسيه برادا دتمڤت جوال بلي اداله خيار شرط.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ماسيه برادا دتمڤت جوال بلي اداله خيار مجلس، بوكن خيار شرط.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-22",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "خيار عيب اياله ترداڤت كچاچتن اتاو كروسقن بارڠ جوالن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، خيار عيب برلاكو اڤابيلا بارڠ جوالن چاچت اتاو روسق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-23",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: ارتي المُعِير",
+  "options": [
+   "اورڠ يڠ ممينجم",
+   "بارڠ يڠ دڤينجمكن",
+   "اورڠ يڠ ممبري ڤينجم"
+  ],
+  "answer": 2,
+  "explanation": "المعير اياله اورڠ يڠ ممبري ڤينجم.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-24",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: تڠݢوڠجواب المُسْتَعِير",
+  "options": [
+   "ترڤولڠ جك ماهو كنتي اتاو تيدق",
+   "تيدق ڤرلو كنتي والاوڤون دچوري",
+   "واجب كنتي جك برلاكو كچواين"
+  ],
+  "answer": 2,
+  "explanation": "ڤمينجم واجب مڠݢنتي جك برلاكو كچواين ڤد بارڠ ڤينجمن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-25",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: ارتي المَوْهُوب",
+  "options": [
+   "بارڠ يڠ دهبة",
+   "اورڠ يڠ منريما هبة",
+   "ايجاب دان قبول هبة"
+  ],
+  "answer": 0,
+  "explanation": "الموهوب اياله بارڠ يڠ دهبهكن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-26",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: شرط الوَاهِب",
+  "options": [
+   "ترڤقسا",
+   "سچارا سوكاريلا",
+   "دسوروه اوليه اورڠ لاءين"
+  ],
+  "answer": 1,
+  "explanation": "ڤمبري هبة مستيله سچارا سوكاريلا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-27",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: مقصود القَبْض",
+  "options": [
+   "ڤمݢڠ سمنتارا",
+   "مميليقي اڤ يڠ دهبهكن",
+   "تياد كواس ڤنوه اتس هبة"
+  ],
+  "answer": 1,
+  "explanation": "القبض اياله مميليقي/مڠواساءي اڤ يڠ دهبهكن دڠن ڤنوه.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-28",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايات \"وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى\" اياله ______",
+  "options": [
+   "دليل العارية",
+   "مقصود هدية",
+   "خيار عيب"
+  ],
+  "answer": 0,
+  "explanation": "ايات ترسبوت (المائدة: 2) اياله دليل ڤينجم-ممينجم (العارية).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-29",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بارڠ جوالن يڠ روسق دان چاچت ماك برلاكوله ______",
+  "options": [
+   "خيار عيب",
+   "هاروس",
+   "دليل العارية"
+  ],
+  "answer": 0,
+  "explanation": "كچاچتن بارڠ جوالن ممباوا كڤد خيار عيب.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-30",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم جوال بلي يڠ مڠيكوت شرع اياله ______",
+  "options": [
+   "هاروس",
+   "خيار عيب",
+   "شرط المستعار"
+  ],
+  "answer": 0,
+  "explanation": "جوال بلي يڠ مڠيكوت شرع حكومڽ هاروس (حلال).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-31",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسواتو ڤمبرين كران ممولياكن سسأورڠ دسبوت ______",
+  "options": [
+   "مقصود هدية",
+   "خيار عيب",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "هدية اياله ڤمبرين كران ممولياكن سسأورڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-32",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسواتو يڠ بوليه دأمبيل منفعت درڤداڽ اياله ______",
+  "options": [
+   "شرط المستعار",
+   "هاروس",
+   "دليل العارية"
+  ],
+  "answer": 0,
+  "explanation": "بارڠ ڤينجمن (المستعار) مستيله بوليه دأمبيل منفعتڽ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-33",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله شرط المَعْقُود عَلَيْهِ اياله ______",
+  "options": [
+   "ليم",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "شرط المعقود عليه: سوچي، برمنفعة، بوليه دسرهكن، دميليقي دان دكتاهوءي (ليم).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-34",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممينجمكن دوءيت اونتوق ڤرنياݢاءن جودي حكومڽ ______",
+  "options": [
+   "حرام",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "ممبنتو ڤرنياݢاءن جودي (معصية) اداله حرام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-35",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممينجمكن بارڠ تنڤا ايذين ڤميليقڽ اياله ______",
+  "options": [
+   "حرام",
+   "هاروس",
+   "سنة"
+  ],
+  "answer": 0,
+  "explanation": "ممينجمكن بارڠ اورڠ لاءين تنڤا ايذين اداله حرام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-muamalat-pat2023-36",
+  "exam": "Darjah 4",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ سينديرن باكي ايجاب دان قبول دسبوت ______",
+  "options": [
+   "كناية",
+   "صريح",
+   "خيار"
+  ],
+  "answer": 0,
+  "explanation": "لفظ سينديرن دسبوت كناية؛ لفظ جلس دسبوت صريح.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-muamalat-ppt2024-01",
   "exam": "Darjah 4",
   "subject": "Muamalat",
