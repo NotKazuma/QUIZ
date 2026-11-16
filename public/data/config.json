@@ -434,6 +434,23 @@
           }
         }
       ]
+    },
+    {
+      "id": "darjah-5",
+      "name": "Darjah 5",
+      "desc": "Ujian & peperiksaan sekolah agama Darjah 5",
+      "icon": "num-5",
+      "subjects": [
+        {
+          "id": "tauhid",
+          "name": "Tauhid",
+          "file": "data/darjah-5/tauhid.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        }
+      ]
     }
   ]
 }
