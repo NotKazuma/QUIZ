@@ -1,5 +1,323 @@
 [
  {
+  "id": "darjah-3-akhlak-upp22022-01",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه دانتارا چيري-چيري اورڠ يڠ برڤودي؟",
+  "options": [
+   "تولوڠ-منولوڠ",
+   "سومبوڠ",
+   "منونجوق-نونجوق"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ برڤودي سوك تولوڠ-منولوڠ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-02",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه چارا مڠهرݢاءي ماس؟",
+  "options": [
+   "برݢادوه",
+   "مڠݢڠݢو راكن",
+   "ممبرسيهكن روموه"
+  ],
+  "answer": 2,
+  "explanation": "ممبرسيهكن روموه اداله چارا مڠݢوناكن ماس دڠن باءيق.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-03",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كلبيهن صيفت امانه؟",
+  "options": [
+   "جيوا تنڠ",
+   "دبنچي راكن",
+   "تيدق دڤرچاياءي"
+  ],
+  "answer": 0,
+  "explanation": "انتارا كلبيهن صيفت امانه اياله جيوا تنڠ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-04",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب سأورڠ مريد اياله",
+  "options": [
+   "برموسوهن",
+   "مڠهرمتي ݢورو",
+   "مڠيجق راكن"
+  ],
+  "answer": 1,
+  "explanation": "مريد برتڠݢوڠجواب مڠهرمتي ݢورو.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-05",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا عاقبة بوروق تنڤا محبة اياله",
+  "options": [
+   "دسايڠي",
+   "دڤندڠ موليا",
+   "هيلڠ كبركتن"
+  ],
+  "answer": 2,
+  "explanation": "تنڤا محبة (كاسيه سايڠ) هيلڠ كبركتن دان هوبوڠن ترڤوتوس.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-06",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورڠ يڠ امانه",
+  "options": [
+   "خيانة",
+   "برديندم",
+   "برتڠݢوڠجواب"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ امانه برصيفت برتڠݢوڠجواب.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-07",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ݢلرن اورڠ يڠ ساڠت امانه",
+  "options": [
+   "الأمين",
+   "الإيمان",
+   "المؤمن"
+  ],
+  "answer": 0,
+  "explanation": "رسول الله ﷺ دݢلر الأمين كران ساڠت امانه.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-08",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب كڤد الله تعالى",
+  "options": [
+   "مينوم ارق",
+   "منديريكن صلاة",
+   "منددهكن عورة"
+  ],
+  "answer": 1,
+  "explanation": "منديريكن صلاة اداله تڠݢوڠجواب كڤد الله تعالى.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-09",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب منزياره اورڠ ساكيت",
+  "options": [
+   "كتاوا برلبيهن",
+   "ممبوات بيسيڠ",
+   "مندعاءكن"
+  ],
+  "answer": 2,
+  "explanation": "ادب منزياره اورڠ ساكيت اياله مندعاءكنڽ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-10",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه منزياره اورڠ ساكيت",
+  "options": [
+   "مڠينصافي ديري",
+   "برسيكڤ ڤمالس",
+   "برصيفت سومبوڠ"
+  ],
+  "answer": 0,
+  "explanation": "منزياره اورڠ ساكيت ممبوات كيت مڠينصافي ديري.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-11",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كباءيقن منجاݢ ماس اياله هيدوڤ برجاي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، منجاݢ ماس ممبوات هيدوڤ برجاي.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-12",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ امانه سنتياس طاعة ڤد ڤرينته الله تعالى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، اورڠ يڠ امانه طاعة كڤد ڤرينته الله.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-13",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برتڠݢوڠجواب اكن دبنچي اورڠ لاءين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، اورڠ يڠ برتڠݢوڠجواب دهرمتي اورڠ لاءين.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-14",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملاكوكن معصية مروڤاكن چارا منچاڤاي صيفت محبة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، معصية مڽببكن هيلڠ كبركتن، بوكن چارا منچاڤاي محبة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-15",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايلقكن بربوات بيسيڠ سماس برزياره.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، سماس برزياره هندقله ايلقكن بربوات بيسيڠ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-16",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي امانه اياله ______",
+  "options": [
+   "كاسيه سايڠ",
+   "امان",
+   "برݢادوه"
+  ],
+  "answer": 1,
+  "explanation": "امانه برمقصود امان (دڤرچاياءي).",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-akhlak-upp22022-17",
+  "exam": "Darjah 3",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود محبة اياله ______",
+  "options": [
+   "امان",
+   "كاسيه سايڠ",
+   "برݢادوه"
+  ],
+  "answer": 1,
+  "explanation": "محبة برمقصود كاسيه سايڠ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-akhlak-pat2022-01",
   "exam": "Darjah 3",
   "subject": "Akhlak",
