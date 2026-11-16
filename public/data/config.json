@@ -505,6 +505,15 @@
           }
         },
         {
+          "id": "tafsir",
+          "name": "Tafsir",
+          "file": "data/darjah-5/tafsir.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "munakahat",
           "name": "Munakahat",
           "file": "data/darjah-5/munakahat.json",
