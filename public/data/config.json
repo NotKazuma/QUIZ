@@ -442,6 +442,15 @@
       "icon": "num-5",
       "subjects": [
         {
+          "id": "akhlak",
+          "name": "Akhlak",
+          "file": "data/darjah-5/akhlak.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "tauhid",
           "name": "Tauhid",
           "file": "data/darjah-5/tauhid.json",
