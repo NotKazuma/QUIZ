@@ -1,5 +1,284 @@
 [
  {
+  "id": "darjah-3-ibadat-upp22022-01",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي تيمم؟",
+  "options": [
+   "مڽاڤو بدق",
+   "مڽاڤو ڤاسير",
+   "مڽاڤو دبو تانه"
+  ],
+  "answer": 2,
+  "explanation": "تيمم برمقصود مڽاڤو دبو تانه ڤد موك دان كدوا تاڠن.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-02",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤركارا يڠ دبنركن كتيك سدڠ حيض؟",
+  "options": [
+   "صلاة",
+   "طواف",
+   "بردعاء"
+  ],
+  "answer": 2,
+  "explanation": "ڤرمڤوان يڠ حيض بوليه بردعاء؛ صلاة دان طواف دلارڠ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-03",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا بالغ باكي للاكي؟",
+  "options": [
+   "سوارا ڤچه",
+   "سوارا مردو",
+   "سوارا هالوس"
+  ],
+  "answer": 0,
+  "explanation": "انتارا تندا بالغ باكي للاكي اياله سوارا ڤچه.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-04",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين تكليف ڤد بهاس اياله",
+  "options": [
+   "ڤمببنن",
+   "ڤمبرين",
+   "ڤمبيبسن"
+  ],
+  "answer": 0,
+  "explanation": "تكليف ڤد بهاس برمقصود ڤمببنن (ممببنكن حكوم كڤد مكلف).",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-05",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كڤنتيڠن برسوچي اياله",
+  "options": [
+   "برباءو بوسوق",
+   "منجاݢ كصيحتن",
+   "منجادي ساكيت"
+  ],
+  "answer": 1,
+  "explanation": "برسوچي ممبوات كيت برسيه دان منجاݢ كصيحتن.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-06",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيمڤوه ڤاليڠ لاما داره إسْتِحَاضَة",
+  "options": [
+   "تيدق برتيمڤوه",
+   "40 هاري 40 مالم",
+   "60 هاري 60 مالم"
+  ],
+  "answer": 0,
+  "explanation": "داره إسْتِحَاضَة (داره ڤڽاكيت) تيدق برتيمڤوه.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-07",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تڠݢوڠجواب ستله بالغ",
+  "options": [
+   "منجوري",
+   "منيڠݢلكن صلاة",
+   "منوتوڤ عورة"
+  ],
+  "answer": 2,
+  "explanation": "ستله بالغ واجب منوتوڤ عورة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-08",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم صلاة جمعة",
+  "options": [
+   "سنة",
+   "واجب",
+   "مكروه"
+  ],
+  "answer": 1,
+  "explanation": "صلاة جمعة حكومڽ واجب (فرض عين) باكي للاكي بالغ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-09",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو منديريكن صلاة جمعة",
+  "options": [
+   "ظهر",
+   "عصر",
+   "مغرب"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمعة دلاكوكن ڤد وقتو ظهر.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-10",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وِلَادَة اياله ملاهيركن انق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ولادة برمقصود ملاهيركن انق.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-11",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مڽوچيكن نفاس دڠن بروضوء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، نفاس دسوچيكن دڠن مندي واجب، بوكن بروضوء.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-12",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا چونتوه مندي سنة اياله مندي هاري جمعة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، مندي هاري جمعة اداله مندي سنة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-13",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا حكمه صلاة جمعة اياله مموتوسكن صلة الرحيم.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، صلاة جمعة مڠراتكن صلة الرحيم، بوكن مموتوسكنڽ.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-14",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مندي اونتوق صلاة مينتا هوجن اياله ______",
+  "options": [
+   "مندي واجب",
+   "مندي سنة"
+  ],
+  "answer": 1,
+  "explanation": "مندي اونتوق صلاة مينتا هوجن (استسقاء) اداله مندي سنة.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-3-ibadat-upp22022-15",
+  "exam": "Darjah 3",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مندي كران كلوار داره حيض اياله ______",
+  "options": [
+   "مندي سنة",
+   "مندي واجب"
+  ],
+  "answer": 1,
+  "explanation": "كلوار داره حيض مڽببكن مندي واجب.",
+  "source": "UPP2 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-3-ibadat-pat2022-01",
   "exam": "Darjah 3",
   "subject": "Ibadat",
