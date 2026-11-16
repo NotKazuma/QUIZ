@@ -460,6 +460,15 @@
           }
         },
         {
+          "id": "ibadat",
+          "name": "Ibadat",
+          "file": "data/darjah-5/ibadat.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "tauhid",
           "name": "Tauhid",
           "file": "data/darjah-5/tauhid.json",
