@@ -697,6 +697,704 @@
   "perlu_semak": true
  },
  {
+  "id": "darjah-4-faraid-pat2023-01",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي فرائض دري بهاس؟",
+  "options": [
+   "شرط ڤوساك",
+   "اورڠ مﻤيليقي هرتا",
+   "سسواتو يڠ دتنتوكن",
+   "هرتا يڠ دڤوساكاءي"
+  ],
+  "answer": 2,
+  "explanation": "فرائض ڤد بهاس برمقصود سسواتو يڠ دتنتوكن (قدرڽ).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-02",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه فاءيده مﻤڤلاجري علمو فرائض؟",
+  "options": [
+   "مغݢالقكن ڤرݢادوهن",
+   "منوتوڤ حق واريث",
+   "تيدق اد اساس إسلام",
+   "منجاءوهكن كظاليمن"
+  ],
+  "answer": 3,
+  "explanation": "علمو فرائض منجاءوهكن كظاليمن دالم ڤمباهاݢين هرتا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-03",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مغاڤاكه كيت دݢالقكن مﻤڤلاجري علمو فرائض؟",
+  "options": [
+   "تونتوتن رسول الله",
+   "مغݢالقكن ڤنيندسن",
+   "كظاليمن برللواسا",
+   "مﻤوتوسكن صلة الرحم"
+  ],
+  "answer": 0,
+  "explanation": "مﻤڤلاجري علمو فرائض اداله تونتوتن رسول الله ﷺ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-04",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي مُوَرِّث؟",
+  "options": [
+   "واريث يڠ مﻤڤوساكاءي",
+   "تيدق اد هرتا",
+   "اورڠ يڠ ماتي منيڠݢلكن هرتا",
+   "ڤوساك يڠ دتيڠݢلكن"
+  ],
+  "answer": 2,
+  "explanation": "مُوَرِّث اياله اورڠ يڠ ماتي سرتا منيڠݢلكن هرتا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-05",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه جومله شرط مﻤڤوساكاءي هرتا؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "شرط مﻤڤوساكاءي اد تيݢ: ماتيڽ مورث، هيدوڤ واريث دان مغتاهوءي اره ڤوساك.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-06",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باݢايماناكه سسأورڠ يڠ بوليه دصحكن ماتي دالم شرط مﻤڤوساكاءي؟",
+  "options": [
+   "هيلڠ تياد بريتا",
+   "تيدق دكتاهوءي",
+   "دصحكن ڤيهق بركواس",
+   "تياد ڤڠصحن كماتين"
+  ],
+  "answer": 2,
+  "explanation": "كماتين دصحكن اوليه ڤيهق بركواس (محكمة).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-07",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه سبب يڠ مﻤبوليهكن سسأورڠ ايت مﻤڤوساكاءي هرتا؟",
+  "options": [
+   "ڤرنكاحن",
+   "ايبو تيري",
+   "انق اڠكت",
+   "تياد هوبوڠن كلوارݢ"
+  ],
+  "answer": 0,
+  "explanation": "انتارا سبب مﻤڤوساكاءي اياله ڤرنكاحن (سلاءين نسب دان ولاء).",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-08",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي بيت المال دالم علمو فرائض؟",
+  "options": [
+   "تمڤت بريحت",
+   "تمڤت تيڠݢل انق يتيم",
+   "تمڤت مﻤيمڤن واڠ اورڠ إسلام",
+   "تمڤت مﻤيمڤن هرتا اورڠ إسلام"
+  ],
+  "answer": 3,
+  "explanation": "بيت المال اياله تمڤت مﻤيمڤن هرتا (ڤربندهاراءن) اورڠ إسلام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-09",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حق سي ماتي اتس هرتا يڠ دتيڠݢلكن اياله",
+  "options": [
+   "مﻤبلي رومه لبيه بسر",
+   "باير هوتڠ",
+   "تيدق ملقساناكن وصيت",
+   "تيدق مﻤبهاݢيكن هرتا ڤوساك"
+  ],
+  "answer": 1,
+  "explanation": "انتارا حق سي ماتي اياله هوتڠڽ دبايركن ترليبيه دهولو.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-10",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي همبا مُبَعَّض اياله",
+  "options": [
+   "همبا الله",
+   "همبا عبدي",
+   "سڤاروه هرتا",
+   "سڤاروه همبا"
+  ],
+  "answer": 3,
+  "explanation": "همبا مُبَعَّض اياله همبا يڠ سباهاݢين (سڤاروه) ديريڽ تله مرديك.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-11",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله واريث ڤرمڤوان يڠ مﻤڤوساكاءي هرتا اياله",
+  "options": [
+   "10 اورڠ",
+   "12 اورڠ",
+   "14 اورڠ",
+   "16 اورڠ"
+  ],
+  "answer": 0,
+  "explanation": "واريث ڤرمڤوان سراماي 10 اورڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-12",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله واريث للاكي اياله",
+  "options": [
+   "12 اورڠ",
+   "13 اورڠ",
+   "14 اورڠ",
+   "15 اورڠ"
+  ],
+  "answer": 3,
+  "explanation": "واريث للاكي سراماي 15 اورڠ.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-13",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤوان يڠ مﻤرديكاكن همبا دڤڠݢيل",
+  "options": [
+   "مَوَرِّث",
+   "نَسَب",
+   "مُعْتِقَة",
+   "مُعْتِق"
+  ],
+  "answer": 2,
+  "explanation": "ڤرمڤوان يڠ مﻤرديكاكن همبا دسبوت مُعْتِقَة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-14",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود ذَوِى الأَرْحَام اياله",
+  "options": [
+   "همبا",
+   "راكن",
+   "هوبوڠن قرابة",
+   "صحابت قريب"
+  ],
+  "answer": 2,
+  "explanation": "ذَوِى الأَرْحَام اياله قرابة (كتورونن) يڠ بوكن اصحاب الفروض اتاو عصبة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-15",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اياله سبب ذَوِى الأَرْحَام ڤيهق ڤرمڤوان كچوالي",
+  "options": [
+   "ايبو كڤد داتوق للاكي",
+   "باڤ ساودارا سبله ايبو",
+   "ايبو ساودارا سبله ايبو",
+   "انق ڤرمڤوان باڤ ساودارا"
+  ],
+  "answer": 1,
+  "explanation": "باڤ ساودارا سبله ايبو اداله للاكي، بوكن ذوي الأرحام ڤيهق ڤرمڤوان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-16",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله سبب ذَوِى الأَرْحَام يڠ بوليه مﻤڤوساكاءي كچوالي",
+  "options": [
+   "تياد بيت المال",
+   "تياد قرابة",
+   "تياد اهل الفروض",
+   "بيت المال تيدق تراتور"
+  ],
+  "answer": 1,
+  "explanation": "ذوي الأرحام ايتو سنديري قرابة؛ \"تياد قرابة\" بوكن سببڽ. مريك مﻤڤوساكاءي اڤابيلا تياد اهل الفروض دان عصبة.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-17",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرڽاتاءن يڠ بنر مغناءي واريث ذَوِى الأَرْحَام. i. همبا مُبَعَّض  ii. توان يڠ مﻤرديكاكن همبا  iii. انق ساودارا ڤرمڤوان  iv. انق ڤرمڤوان باڤ ساودارا",
+  "options": [
+   "i دان ii",
+   "ii دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "انق ساودارا ڤرمڤوان دان انق ڤرمڤوان باڤ ساودارا اداله ذوي الأرحام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-18",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله سبب يڠ مغهالڠ درڤد منريما هرتا ڤوساك. i. مﻤبونوه  ii. همبا  iii. انق كاندوڠ  iv. ايستري سي ماتي",
+  "options": [
+   "i دان ii",
+   "ii دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "ڤڠهالڠ ڤوساك اياله مﻤبونوه دان ڤرهمباءن؛ انق كاندوڠ دان ايستري اداله واريث.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-19",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ مرتد تيدق بوليه مﻤڤوساكاءي هرتا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، برلاينن اݢام (مرتد) مغهالڠ مﻤڤوساكاءي هرتا.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-20",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اديق براديق سباڤ بوكن درڤد واريث للاكي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ساودارا للاكي سباڤ اداله انتارا واريث للاكي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-21",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باڤ ساودارا سبله باڤ اداله باڤ ساودارا ذَوِى الأَرْحَام للاكي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، باڤ ساودارا سكندوڠ/سباڤ اداله عصبة، بوكن ذوي الأرحام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-22",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سأورڠ همبا بوليه منريما هرتا ڤوساك سي ماتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ڤرهمباءن مغهالڠ سسأورڠ درڤد منريما ڤوساك.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-23",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: ارتي واريث",
+  "options": [
+   "اورڠ يڠ ماتي منيڠݢلكن هرتا",
+   "واريث يڠ مﻤڤوساكاءي هرتا",
+   "هرتا ڤوساك يڠ دتيڠݢلكن"
+  ],
+  "answer": 1,
+  "explanation": "واريث اياله اورڠ يڠ برحق مﻤڤوساكاءي هرتا سي ماتي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-24",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: اورڠ يڠ مﻤرديكاكن همبا",
+  "options": [
+   "واريث",
+   "وَلَاء",
+   "نَسَب"
+  ],
+  "answer": 1,
+  "explanation": "مﻤرديكاكن همبا اداله سبب ڤوساك ملالوءي وَلَاء.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-25",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: واريث للاكي يڠ منريما ڤوساك",
+  "options": [
+   "انق للاكي",
+   "باڤ ساودارا سأيبو",
+   "داتوق سبله ايبو"
+  ],
+  "answer": 0,
+  "explanation": "انق للاكي اداله واريث تتاڤ؛ باڤ ساودارا سأيبو دان داتوق سبله ايبو ذوي الأرحام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-26",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَفِّقْ: قرابة يڠ بوكن اهلي فروض اتاو عصبة",
+  "options": [
+   "اصحاب الفروض",
+   "فرع الوارث",
+   "ذَوِى الأَرْحَام"
+  ],
+  "answer": 2,
+  "explanation": "قرابة يڠ بوكن اصحاب الفروض اتاو عصبة دسبوت ذَوِى الأَرْحَام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-27",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كواجيڤن سبلوم مﻤبهاݢيكن هرتا ڤوساك اياله ______",
+  "options": [
+   "همبا",
+   "باير هوتڠ",
+   "انق للاكي"
+  ],
+  "answer": 1,
+  "explanation": "انتارا كواجيڤن سبلوم مﻤبهاݢي هرتا اياله مﻤباير هوتڠ سي ماتي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-28",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دأنتارا واريث ڤرمڤوان يڠ مﻤڤوساكاءي هرتا اياله ______",
+  "options": [
+   "نينيق سبله ايبو",
+   "همبا",
+   "باير هوتڠ"
+  ],
+  "answer": 0,
+  "explanation": "نينيق سبله ايبو اداله انتارا واريث ڤرمڤوان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-29",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله ساتو واريث للاكي دان ڤرمڤوان اياله ______",
+  "options": [
+   "داتوق سبله ايبو",
+   "انق للاكي",
+   "همبا"
+  ],
+  "answer": 1,
+  "explanation": "انق (انق للاكي/ڤرمڤوان) اداله واريث باݢي كدوا-دوا ڤيهق.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-30",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث ذَوِى الأَرْحَام اياله ______",
+  "options": [
+   "انق للاكي",
+   "داتوق سبله ايبو",
+   "نينيق سبله ايبو"
+  ],
+  "answer": 1,
+  "explanation": "داتوق سبله ايبو اداله واريث ذَوِى الأَرْحَام.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-31",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ترهالڠ درڤد منريما ڤوساك اياله ______",
+  "options": [
+   "باير هوتڠ",
+   "نينيق سبله ايبو",
+   "همبا"
+  ],
+  "answer": 2,
+  "explanation": "همبا ترهالڠ درڤد منريما ڤوساك كران ڤرهمباءن.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-32",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط مﻤڤوساكاءي اياله مورث تله دصحكن ______",
+  "options": [
+   "هيدوڤ",
+   "ماتي",
+   "سيحت"
+  ],
+  "answer": 1,
+  "explanation": "شرط مﻤڤوساكاءي اياله مورث تله دصحكن ماتي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-33",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ بوليه مﻤڤوساكاءي دان دڤوساكاكن هرتاڽ اياله ______",
+  "options": [
+   "نبي",
+   "اورڠ إسلام يڠ برنسب",
+   "همبا"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ بياسا يڠ برنسب بوليه مﻤڤوساكاءي دان دڤوساكاكن؛ نبي تيدق دڤوساكاءي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-34",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه واريث للاكي اياله ______",
+  "options": [
+   "انق ڤرمڤوان",
+   "انق للاكي",
+   "ايبو"
+  ],
+  "answer": 1,
+  "explanation": "انق للاكي اداله انتارا واريث للاكي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-35",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث ڤرمڤوان يڠ برحق مﻤڤوساكاءي هرتا اياله ______",
+  "options": [
+   "باڤ",
+   "انق ڤرمڤوان",
+   "انق للاكي"
+  ],
+  "answer": 1,
+  "explanation": "انق ڤرمڤوان اداله انتارا واريث ڤرمڤوان.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-4-faraid-pat2023-36",
+  "exam": "Darjah 4",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "داتوق سبله ايبو اياله واريث ذَوِى الأَرْحَام باݢي ______",
+  "options": [
+   "ڤيهق ڤرمڤوان",
+   "ڤيهق للاكي",
+   "اصحاب الفروض"
+  ],
+  "answer": 1,
+  "explanation": "داتوق سبله ايبو اداله ذَوِى الأَرْحَام ڤيهق للاكي.",
+  "source": "PAT 2023",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-4-faraid-ppt2024-01",
   "exam": "Darjah 4",
   "subject": "Faraid",
