@@ -451,6 +451,15 @@
           }
         },
         {
+          "id": "arab",
+          "name": "Bahasa Arab",
+          "file": "data/darjah-5/arab.json",
+          "test": {
+            "questions": 20,
+            "minutes": 20
+          }
+        },
+        {
           "id": "tauhid",
           "name": "Tauhid",
           "file": "data/darjah-5/tauhid.json",
