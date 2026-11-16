@@ -92,14 +92,15 @@ Fungsi pembantu dalam `src/lib/classes.js`: `listStudentSubmissions`, `classAver
 
 ### 1. Tukar set kertas yang belum siap
 
-Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (10 set), Darjah 4 (semua 7 set: PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2024, PPT 2025, PPT 2026; 11 subjek setiap satu).
+Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (semua 11 set termasuk UPP2 2022), Darjah 4 (semua 7 set: PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2024, PPT 2025, PPT 2026; 11 subjek setiap satu).
 
 Masih berbaki (set lengkap sahaja — set tak lengkap dilangkau):
 
-- Darjah 3 — UPP2 2022
 - Darjah 5 — PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2022, PPT 2024, PPT 2025, PPT 2026
 
-Set seterusnya mengikut turutan: **Darjah 3 UPP2 2022**, kemudian Darjah 5 PAT 2022.
+Set seterusnya mengikut turutan: **Darjah 5 PAT 2022**.
+
+Catatan Darjah 3 UPP2 2022: kertas pendek (4 halaman, 17–20 soalan, 2–3 pilihan). Soalan Arab bergambar → gambar dipotong dengan `scripts/crop_images.py` (perlu pautan simbolik `soalan` → `QUIZ-soalan`; ia sudah dikecualikan di `.git/info/exclude`, jangan commit). Soalan salin tulisan tangan / soalan terbuka dilangkau.
 
 Catatan kerja Darjah 4 (supaya sesi seterusnya tidak ulang kesilapan):
 
