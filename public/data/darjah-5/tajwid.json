@@ -1,0 +1,543 @@
+[
+ {
+  "id": "darjah-5-tajwid-pat2022-01",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين استعاذة ڤد بهاس؟",
+  "options": [
+   "مموهون ڤرليندوڠن",
+   "ممينتا ڤنجاݢاءن",
+   "مڠهارڤكن ڤمبيلاءن",
+   "منچاري كسمڤورناءن"
+  ],
+  "answer": 0,
+  "explanation": "استعاذة ڤد بهاس برمقصود مموهون ڤرليندوڠن (دري شيطان).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-02",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاكين مد؟",
+  "options": [
+   "ساتو",
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "مد تربهاݢي دوا: مد اصلي دان مد فرعي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-03",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه قدر ڤنجڠ حركة مد واجب متصل كتيك سامبوڠ؟",
+  "options": [
+   "دوا دان تيݢ",
+   "تيݢ دان امڤت",
+   "امڤت دان ليم",
+   "ليم دان انم"
+  ],
+  "answer": 2,
+  "explanation": "مد واجب متصل دباچ 4 اتاو 5 حركة كتيك وصل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-04",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين مد عارض للسكون؟",
+  "options": [
+   "ڤمباچ منروسكن باچاءن",
+   "ڤمباچ ممبرهنتيكن باچاءن",
+   "ڤمباچ مماتيكن حروف تراخير سبب برهنتي",
+   "ڤمباچ تيدق برهنتي باچاءن برتمو تمڤت وقف"
+  ],
+  "answer": 2,
+  "explanation": "مد عارض للسكون برلاكو اڤابيلا ڤمباچ مماتيكن حروف تراخير كران برهنتي.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-05",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس دباچ 2 اتاو 4 اتاو 6 حركة",
+  "options": [
+   "مد لين",
+   "مد بدل",
+   "مد واجب متصل",
+   "مد جائز منفصل"
+  ],
+  "answer": 0,
+  "explanation": "مد لين (كتيك وقف) دباچ 2، 4 اتاو 6 حركة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-06",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة سام دڠن مد عوض",
+  "options": [
+   "مد لين",
+   "مد واجب متصل",
+   "مد بدل",
+   "مد جائز منفصل"
+  ],
+  "answer": 2,
+  "explanation": "مد عوض دان مد بدل سام-سام دباچ 2 حركة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-07",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مد عوض ترجادي اڤابيلا وقف ڤد حروف يڠ بارباريس",
+  "options": [
+   "دوا دأتس",
+   "دوا دباوه",
+   "دوا دهدافن",
+   "سكون"
+  ],
+  "answer": 0,
+  "explanation": "مد عوض ترجادي اڤابيلا وقف ڤد حروف بارباريس دوا دأتس (تنوين فتح).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-08",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مد فرق اداله توكرن درڤد",
+  "options": [
+   "همزه قطع",
+   "همزه وصل",
+   "حروف اصلي",
+   "حروف مقطعه"
+  ],
+  "answer": 1,
+  "explanation": "مد فرق ترجادي اڤابيلا همزه وصل (ال) دتوكر دڠن مد كران برتمو همزه استفهام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-09",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مد لازم تربهاݢي كڤد",
+  "options": [
+   "2",
+   "3",
+   "4",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "مد لازم تربهاݢي كڤد 4: كلمي مثقل، كلمي مخفف، حرفي مثقل دان حرفي مخفف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-10",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه مد لازم حرفي مثقل اياله",
+  "options": [
+   "الٓمّ",
+   "الٓر",
+   "ءَآلْآنَ",
+   "حٓمّ"
+  ],
+  "answer": 0,
+  "explanation": "الٓمّ اداله مد لازم حرفي مثقل (لام برإدغام دڠن ميم).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-11",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاء ضمير للمذكر الغائب براد دأنتارا دوا حروف يڠ بارباريس اداله ڤڠرتين باكي",
+  "options": [
+   "مد عوض",
+   "مد بدل",
+   "مد صلة",
+   "مد لازم"
+  ],
+  "answer": 2,
+  "explanation": "هاء ضمير يڠ براد دأنتارا دوا حروف بارباريس دباچ دڠن مد صلة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-12",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله تندا٢ وقف كچوالي",
+  "options": [
+   "م",
+   "ج",
+   "ء",
+   "لا"
+  ],
+  "answer": 2,
+  "explanation": "م، ج دان لا اداله تندا وقف؛ ء بوكن تندا وقف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-13",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه ڤركارا يڠ بركاءيتن دڠن وقف ممنوع؟ i. لا  ii. م  iii. وقف يڠ دتݢه  iv. وقف يڠ دمستيكن",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i، ii دان iii",
+   "ii، iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "وقف ممنوع دتندا لا دان اياله وقف يڠ دتݢه.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-14",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود باكي تندا وقف يڠ برتيتيق تيݢ دوا كالي؟ i. وقف اولى  ii. وقف تَعَانُق  iii. هاروس وقف اتاو وصل  iv. هاروس وقف ڤد ساله ساتو تمڤت",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "تندا وقف تعانق مڽبكن هاروس وقف ڤد ساله ساتو تمڤت سهاج.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-15",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إستعاذة بوكن درڤد ايات القرءان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، إستعاذة بوكن ايات القرءان؛ ايا سنة دباچ سبلوم ممباچ القرءان.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-16",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بسملة دتوليس دأول سورة التوبة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، سورة التوبة تيدق دمولاكن دڠن بسملة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-17",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حركة اياله اوكورن ڤنديق باكي نادا سوارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، حركة اياله اوكورن ڤنديق ڤد نادا سوارا (سكالي ڤتيقن جاري).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-18",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مد عارض للسكون دكنلي جوݢ دڠن نام مد عارض للوقف.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، مد عارض للسكون دسبوت جوݢ مد عارض للوقف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-19",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة مد فرق اياله 2 حركة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، مد فرق دباچ 6 حركة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-20",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ إستعاذة",
+  "options": [
+   "بسم الله الرحمن الرحيم",
+   "أعوذ بالله من الشيطان الرجيم",
+   "قل هو الله أحد"
+  ],
+  "answer": 1,
+  "explanation": "لفظ إستعاذة اياله أعوذ بالله من الشيطان الرجيم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-21",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باچاءن إستعاذة ڤد اول سورة التوبة",
+  "options": [
+   "مڽامبوڠ إستعاذة دڠن اول سورة",
+   "مڽامبوڠ إستعاذة ڤد ڤرتڠهن سورة",
+   "مڽامبوڠ إستعاذة ڤد اخير سورة"
+  ],
+  "answer": 0,
+  "explanation": "سورة التوبة تيدق مميليقي بسملة، ماك إستعاذة دسامبوڠ دڠن اول سورة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-22",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم باچاءن ال قمرية",
+  "options": [
+   "إدغام",
+   "إخفاء",
+   "إظهار"
+  ],
+  "answer": 2,
+  "explanation": "ال قمرية دباچ دڠن إظهار (جلس).",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-23",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة مد عوض",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 0,
+  "explanation": "مد عوض دباچ دوا حركة.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-24",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لفظ بسملة ______",
+  "options": [
+   "مد لازم",
+   "بسم الله الرحمن الرحيم",
+   "مد بدل"
+  ],
+  "answer": 1,
+  "explanation": "لفظ بسملة اياله بسم الله الرحمن الرحيم.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-25",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دماسوقكن ڤد ڤركاتاءن كات نام عام ______",
+  "options": [
+   "اليف لام تعريف",
+   "مد واجب متصل",
+   "مد لازم"
+  ],
+  "answer": 0,
+  "explanation": "اليف لام تعريف (ال) دماسوقكن ڤد كات نام عام.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-26",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مد اصلي برتمو دڠن حروف همزه دالم ساتو ڤركاتاءن ______",
+  "options": [
+   "مد بدل",
+   "مد لازم",
+   "مد واجب متصل"
+  ],
+  "answer": 2,
+  "explanation": "مد اصلي يڠ برتمو همزه دالم ساتو ڤركاتاءن اداله مد واجب متصل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-27",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم سكيراڠ حروف همزه براد سبلوم حروف مد دأول ڤركاتاءن ______",
+  "options": [
+   "مد بدل",
+   "مد واجب متصل",
+   "اليف لام تعريف"
+  ],
+  "answer": 0,
+  "explanation": "همزه سبلوم حروف مد دالم ساتو ڤركاتاءن اداله مد بدل.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2022-28",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دباچ 6 حركة كتيك وصل دان وقف ______",
+  "options": [
+   "مد لازم",
+   "مد بدل",
+   "بسم الله الرحمن الرحيم"
+  ],
+  "answer": 0,
+  "explanation": "مد لازم دباچ 6 حركة كتيك وصل دان وقف.",
+  "source": "PAT 2022",
+  "perlu_semak": true
+ }
+]

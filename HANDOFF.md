@@ -92,13 +92,20 @@ Fungsi pembantu dalam `src/lib/classes.js`: `listStudentSubmissions`, `classAver
 
 ### 1. Tukar set kertas yang belum siap
 
-Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (semua 11 set termasuk UPP2 2022), Darjah 4 (semua 7 set: PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2024, PPT 2025, PPT 2026; 11 subjek setiap satu).
+Sudah siap: Darjah 1 dan 2 (penuh), Darjah 3 (semua 11 set termasuk UPP2 2022), Darjah 4 (semua 7 set: PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2024, PPT 2025, PPT 2026; 11 subjek setiap satu), Darjah 5 PAT 2022 (11 subjek).
 
 Masih berbaki (set lengkap sahaja — set tak lengkap dilangkau):
 
-- Darjah 5 — PAT 2022, PAT 2023, PAT 2024, PAT 2025, PPT 2022, PPT 2024, PPT 2025, PPT 2026
+- Darjah 5 — PAT 2023, PAT 2024, PAT 2025, PPT 2022, PPT 2024, PPT 2025, PPT 2026
 
-Set seterusnya mengikut turutan: **Darjah 5 PAT 2022**.
+Set seterusnya mengikut turutan: **Darjah 5 PAT 2023**.
+
+Catatan Darjah 5 (kertas lebih sukar daripada Darjah 4):
+
+- Kertas Darjah 5 ada 8 halaman: soalan 1–20 (3–4 pilihan, termasuk gaya "i, ii, iii, iv"), 21–25 betul/salah, 26–30 padanan, 31–35 isi tempat kosong dengan bank perkataan, 36–40 isi tempat kosong **terbuka** (dilangkau), 41–45 peta minda (dilangkau).
+- Soalan yang dilangkau secara sengaja (jangan teka): bilangan yang bergantung pada buku teks (cth. kaedah bacaan basmalah 3 atau 4 cara), pilihan yang lebih satu jawapan sah (cth. sahabat yang memeluk Islam semasa Fath Mekah), definisi bahasa yang kabur, dan teks yang cetakannya rosak.
+- Sebahagian pilihan Darjah 5 ialah ayat penuh; soalan "kecuali" dijawab dengan menyingkirkan pilihan yang betul.
+- Jawapan padanan/isi tempat kosong ditukar kepada MCQ 3 pilihan (pilihan salah diambil daripada bank/padanan lain dalam soalan yang sama).
 
 Catatan Darjah 3 UPP2 2022: kertas pendek (4 halaman, 17–20 soalan, 2–3 pilihan). Soalan Arab bergambar → gambar dipotong dengan `scripts/crop_images.py` (perlu pautan simbolik `soalan` → `QUIZ-soalan`; ia sudah dikecualikan di `.git/info/exclude`, jangan commit). Soalan salin tulisan tangan / soalan terbuka dilangkau.
 
