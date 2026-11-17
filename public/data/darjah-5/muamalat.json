@@ -1,5 +1,528 @@
 [
  {
+  "id": "darjah-5-muamalat-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه جوال بلي يڠ دحكومكن حرام دان تيدق صح؟",
+  "options": [
+   "چڠكرم",
+   "التَّوْلِيَّة",
+   "النَّجْشِ",
+   "المُرَابَحَة"
+  ],
+  "answer": 0,
+  "explanation": "چڠكرم (ݢرر) اداله جوال بلي يڠ حرام دان تيدق صح؛ التولية دان المرابحة جوال بلي يڠ صح، دان النجش حرام تتاڤي صح.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم \"بَيْعُ التَّوْلِيَّةِ\" سكيراڽ ڤمبلي تله مڠتاهوءي هرݢ اصل؟",
+  "options": [
+   "صح",
+   "حرام",
+   "هاروس",
+   "تيدق صح"
+  ],
+  "answer": 0,
+  "explanation": "بيع التولية صح؛ ڤمبلي مڠتاهوءي هرݢ مودل دان بركساما مڠمبيل ڤنجوال تنڤا اونتوڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم منجوال بواه يڠ ماسيه ڤوتيق؟",
+  "options": [
+   "حرام",
+   "هاروس",
+   "تيدق صح",
+   "حرام دان تيدق صح"
+  ],
+  "answer": 3,
+  "explanation": "جوال بلي بواه يڠ ماسيه ڤوتيق (تيدق دڤره) حرام دان تيدق صح كران مڠاندوڠي ݢرر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منداڤتكن هرݢ يڠ مورة دان منجوال دڠن هرݢ يڠ ماهل اداله توجوان جوال بلي",
+  "options": [
+   "الاِحْتِكَار",
+   "النَّجْش",
+   "الحَاضِرُ لِلْبَادِي",
+   "تَلَقِّي الرُّكْبَان"
+  ],
+  "answer": 0,
+  "explanation": "الاحتكار اياله منيمبون بارڠ سوڤاي هرݢاڽ ناءيق؛ ڤنيمبون ممبلي مورة دان منجوال ماهل.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باكي بَيْعُ المُحَاطَّةِ اياله",
+  "options": [
+   "بَيْعُ الإِشْرَاك",
+   "بَيْعُ الأَمَانَة",
+   "بَيْعُ المُرَابَحَة",
+   "بَيْعُ الوَضِيعَة"
+  ],
+  "answer": 3,
+  "explanation": "بيع المحاطة دسبوت جوݢ بيع الوضيعة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين رباء ڤد بهاس اياله",
+  "options": [
+   "لبيهن",
+   "ڤڠورڠن",
+   "ڤموتوڠن",
+   "ڤرتمبهن اتاو ڤنيڠكتن"
+  ],
+  "answer": 3,
+  "explanation": "رباء ڤد بهاس برمقصود ڤرتمبهن اتاو ڤنيڠكتن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه اوروسن يڠ مليبتكن جوال بلي بارڠ ريبوي اياله",
+  "options": [
+   "روميه",
+   "كرتا",
+   "ڤاكاين",
+   "امس دان ڤيرق"
+  ],
+  "answer": 3,
+  "explanation": "امس دان ڤيرق اداله بارڠ ريبوي (دان ماكنن اوتام).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي يڠ مليبتكن اوروسن ڤينجمن دان هوتڠ اياله",
+  "options": [
+   "القَرْض",
+   "الدُّيُون",
+   "النَّسِيْئَة",
+   "الجَهْلِيَّة"
+  ],
+  "answer": 1,
+  "explanation": "ربا الديون مليبتكن اوروسن ڤينجمن دان هوتڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس ماكنن يڠ اد عنصور٢ رباء اياله",
+  "options": [
+   "ݢندوم",
+   "كيك",
+   "ماكنن ريغن",
+   "كوءيه"
+  ],
+  "answer": 0,
+  "explanation": "ݢندوم (ماكنن اوتام) اداله ساله ساتو ماكنن ريبوي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي رباء اكن منجادي صح اڤابيلا ممنوهي شرط برايكوت",
+  "options": [
+   "برسامائن تيمبڠن",
+   "تيدق اد ڤرستوجوان",
+   "دلاكوكن سچارا هوتڠ",
+   "دلاكوكن سچارا ڤيليهن"
+  ],
+  "answer": 0,
+  "explanation": "جوال بلي رباء صح جك برسامائن تيمبڠن، دلاكوكن سچارا توناي دان سراهن سرتا مرتا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله جوال بلي يڠ حرام دان صح كچوالي",
+  "options": [
+   "النَّجْشِ",
+   "التَّصْرِيَّة",
+   "الاِحْتِكَار",
+   "المُحَاطَّة"
+  ],
+  "answer": 3,
+  "explanation": "المحاطة (الوضيعة) جوال بلي يڠ صح؛ النجش، التصرية دان الاحتكار حرام تتاڤي صح.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كڤاتاءن يڠ بركاءيتن جوال بلي السَّلَم كچوالي",
+  "options": [
+   "تمڤهن",
+   "ڤسنن",
+   "مندهولوكن",
+   "ڤنيڠكتن"
+  ],
+  "answer": 3,
+  "explanation": "السلم ڤد بهاس برمقصود مندهولوكن (ڤمبايرن مودل دهولو) سچارا ڤسنن اتاو تمڤهن؛ ڤنيڠكتن بوكن ڤڠرتينڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط٢ باكي العَاقِدَان (دوا اورڠ يڠ برعقد). i. بالغ  ii. برعقل  iii. مميز  iv. تياد ڤقساءن",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i ، ii دان iv",
+   "ii ، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "شرط العاقدان: بالغ، برعقل دان تياد ڤقساءن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ڤندوان منمڤه بارڠ. i. منتوكن بارڠ  ii. منتوكن هرݢ  iii. منتوكن صيفت بارڠ  iv. تمڤه قد اورڠ يڠ كورڠ ماهير",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i ، ii دان iii",
+   "i ، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ڤندوان منمڤه: منتوكن بارڠ، هرݢ دان صيفت بارڠ؛ منمڤه قد اورڠ يڠ كورڠ ماهير بوكن ڤندوان.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"بَيْعُ الْمُرَابَحَة\" حكومڽ صح.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، بيع المرابحة حكومڽ صح.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس جوال بلي بارڠ يڠ بلوم منجادي ميليق سمڤورنا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، تيدق صح منجوال بارڠ يڠ بلوم منجادي ميليق سمڤورنا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بارڠ تمڤهن تيدق دڤتاكن صيفت دان چيري-چيريڽ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، بارڠ تمڤهن مستي دڤتاكن صيفت دان چيري-چيريڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "\"رِبَاء النَّسِيْئَة\" جوال بلي سچارا برتڠݢوه اتاو تيدق سرنتق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ربا النسيئة اياله جوال بلي سچارا برتڠݢوه (تيدق سرنتق).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي سچارا ساليڠ براونتوڠ",
+  "options": [
+   "بَيْعُ الْمُرَابَحَة",
+   "بَيْعُ التَّوْلِيَّة",
+   "بَيْعُ الإِشْرَاك"
+  ],
+  "answer": 0,
+  "explanation": "بيع المرابحة اياله جوال بلي دڠن اونتوڠ يڠ دستوجوءي كدوا ڤيهق (ساليڠ براونتوڠ).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن بيع المرابحة",
+  "options": [
+   "تيدق مرڠسڠ ڤرنياݢاءن",
+   "منيڠكتكن داي ساءيڠ",
+   "مروڠتوهكن ايكونومي نݢارا"
+  ],
+  "answer": 1,
+  "explanation": "بيع المرابحة منيڠكتكن داي ساءيڠ (كأونتوڠن) دالم ڤرنياݢاءن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب برلاكو بَيْعُ المُحَاطَّة",
+  "options": [
+   "منداڤت كروكين",
+   "مڠهابيسكن ستوك لاما",
+   "باڽق ڤرمينتاءن"
+  ],
+  "answer": 1,
+  "explanation": "بيع المحاطة دلاكوكن اونتوق مڠهابيسكن ستوك لاما.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس٢ رباء البيوع",
+  "options": [
+   "رباء القرض",
+   "رباء الديون",
+   "رباء اليد"
+  ],
+  "answer": 2,
+  "explanation": "ربا اليد اداله ساله ساتو جنيس ربا البيوع (دان ربا الفضل، ربا النسأ).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي سچارا تمڤهن اتاو ڤسنن",
+  "options": [
+   "السَّلَم",
+   "خِيَار",
+   "رباء"
+  ],
+  "answer": 0,
+  "explanation": "السلم اياله جوال بلي سچارا تمڤهن اتاو ڤسنن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي سچارا سنتوهن ______",
+  "options": [
+   "الْمُلَامَسَة",
+   "صح",
+   "رباء الفضل"
+  ],
+  "answer": 0,
+  "explanation": "الملامسة اياله جوال بلي سچارا سنتوهن (ݢرر).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي سچارا بري كواس اتاو لانتيق ______",
+  "options": [
+   "بَيْعُ التَّوْلِيَّة",
+   "الْمُلَامَسَة",
+   "حكمة رباء"
+  ],
+  "answer": 0,
+  "explanation": "جوال بلي سچارا بري كواس اتاو لانتيق (بيع التولية) اداله جوال بلي يڠ تنڤا اونتوڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جوال بلي انتارا بارڠ ريبوي يڠ سام جنيس ______",
+  "options": [
+   "رباء الفضل",
+   "صح",
+   "الْمُلَامَسَة"
+  ],
+  "answer": 0,
+  "explanation": "رباء الفضل اياله جوال بلي انتارا بارڠ ريبوي يڠ سام جنيس دڠن كلبيهن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-muamalat-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Muamalat",
+  "topic": "Muamalat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠيلقكن سبارڠ اكتيۏيتي اوروس نياݢ مڽاليهي شرع ______",
+  "options": [
+   "حكمة رباء",
+   "رباء الفضل",
+   "صح"
+  ],
+  "answer": 0,
+  "explanation": "حكمة ڤڠحرامن رباء اياله مڠيلقكن اكتيۏيتي اوروس نياݢ يڠ مڽاليهي شرع.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-muamalat-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Muamalat",
