@@ -1201,5 +1201,530 @@
   "explanation": "قدر بايرن خلع مڠيكوت كريلاءن كدوا-دوا ڤيهق، بوليه لبيه درڤد مهر مثل.",
   "source": "PAT 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-01",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم نشوز؟",
+  "options": [
+   "سنة",
+   "واجب",
+   "حرام",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "نشوز حكومڽ حرام دان بردوسا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-02",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤونچا يڠ ممباوا كڤد نشوز؟",
+  "options": [
+   "سوامي برتڠݢوڠجواب",
+   "ايكونومي كوكوه",
+   "كلوارݢ هرموني",
+   "كورڠ ڤنديديقن اݢام"
+  ],
+  "answer": 3,
+  "explanation": "كورڠ ڤنديديقن اݢام اداله انتارا ڤونچا نشوز.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-03",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسن نشوز؟",
+  "options": [
+   "برتڠݢوڠجواب كڤد كلوارݢ",
+   "ساليڠ مڠحرمتي",
+   "ممباوا كڤد ڤنچراين",
+   "منجالنكن كواجيڤن سوامي"
+  ],
+  "answer": 2,
+  "explanation": "نشوز بوليه ممباوا كڤد ڤنچراين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-04",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي طلاق؟",
+  "options": [
+   "ملرايكن",
+   "ايكتن",
+   "سيمڤولن",
+   "ڤركهوينن"
+  ],
+  "answer": 0,
+  "explanation": "طلاق ڤد بهاس برمقصود ملرايكن (ملڤسكن ايكتن).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-05",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه شرط ڤد لفظ طلاق؟",
+  "options": [
+   "دلفظكن اوليه ايستري",
+   "دلفظكن دڠن سڠاج",
+   "تياد نية ڤد لفظ كناية",
+   "تياد مقصود ڤنچراين"
+  ],
+  "answer": 1,
+  "explanation": "شرط ڤد لفظ طلاق: دلفظكن دڠن سڠاج؛ لفظ كناية ڤرلو نية.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-06",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط مَحَلٌّ؟",
+  "options": [
+   "ايستري يڠ صح",
+   "ايستري يڠ نشوز",
+   "ايستري طلاق بائن",
+   "ايستري تله هابيس عدة"
+  ],
+  "answer": 0,
+  "explanation": "شرط مَحَل اياله ايستري يڠ صح (ماسيه دالم ككواساءن سوامي).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-07",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط باكي مُطَلِّقٌ؟",
+  "options": [
+   "بالغ",
+   "كيلا",
+   "كانق٢",
+   "دڤقسا"
+  ],
+  "answer": 0,
+  "explanation": "شرط مطلق (سوامي): بالغ، برعقل دان تيدق دڤقسا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-08",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوامي منجاتوهكن طلاق هندقله مڠيكوت ادب",
+  "options": [
+   "برسوڤن ڤد كات٢",
+   "ملڠݢر حكوم شرع",
+   "تيدق مڠحرمتي حق",
+   "مموتوسكن صلة الرحم"
+  ],
+  "answer": 0,
+  "explanation": "ادب منجاتوهكن طلاق: برسوڤن ڤد كات٢ دان مماتوهي حكوم شرع.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-09",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ملينتوڠي ايستري اكر سوامي تيدق منظاليمي ايستري اياله",
+  "options": [
+   "شرط طلاق",
+   "شرط طلاق تعليق",
+   "حكمه طلاق",
+   "حكمه طلاق تعليق"
+  ],
+  "answer": 3,
+  "explanation": "حكمه طلاق تعليق اياله ملينتوڠي ايستري اكر سوامي تيدق منظاليميڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-10",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوامي منچرايكن ايستريڽ دڠن بايرن ترتنتو اياله",
+  "options": [
+   "خُلْع",
+   "نشوز",
+   "طلاق",
+   "رجوع"
+  ],
+  "answer": 0,
+  "explanation": "خلع اياله سوامي منچرايكن ايستري دڠن بايرن (عوض) ترتنتو.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-11",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب يڠ بوليه برلاكوڽ خُلْع اياله",
+  "options": [
+   "ڤرسليسيهن",
+   "سوامي ڤڤايڠ",
+   "ايستري طاعة",
+   "سوامي جوجور"
+  ],
+  "answer": 0,
+  "explanation": "ڤرسليسيهن اداله انتارا سبب برلاكوڽ خلع.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-12",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه لفظ خُلْع اياله",
+  "options": [
+   "اكو چرايكن اڠكاو",
+   "باليقله كروميه ايبومو",
+   "اكو طلاق كامو دڠن طلاق ساتو",
+   "اكو چرايكن اڠكاو دڠن بايرن دوا ريبو ريڠݢيت"
+  ],
+  "answer": 3,
+  "explanation": "لفظ خلع مڠاندوڠي بايرن (عوض)، سڤرتي اكو چرايكن اڠكاو دڠن بايرن دوا ريبو ريڠݢيت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-13",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله سبب فسخ مُقَارِنٌ كچوالي",
+  "options": [
+   "تيدق منڤتي شرط صح نكاح",
+   "انق دكهوينكن سماس كچيل",
+   "ڤركهوينن يڠ تيدق سطرف",
+   "سوامي اتاو ايستري مرتد"
+  ],
+  "answer": 3,
+  "explanation": "مرتد برلاكو سلڤس عقد (طارئ)، بوكن سبب فسخ مقارن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-14",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤربيذاءن طلاق دڠن فسخ كچوالي",
+  "options": [
+   "طلاق بوليه درجوع تنڤا نكاح",
+   "كواس طلاق دتاڠن حاكيم",
+   "كواس طلاق اداله حق سوامي",
+   "طلاق مڠورڠكن بيلڠن طلاق"
+  ],
+  "answer": 1,
+  "explanation": "كواس طلاق اداله حق سوامي، بوكن حاكيم؛ كواس فسخ دتاڠن حاكيم.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-15",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا حكمه دشريعتكن فسخ دالم إسلام اياله. i. ممبري ڤلواڠ ممبطلكن ڤركهوينن  ii. مڠݢالقكن ڤرموسوهن  iii. ڤرايڠتن كڤد سوامي اكر برتڠݢوڠجواب  iv. موجودكن سيكڤ نيݢاتيف",
+  "options": [
+   "i دان iii",
+   "ii دان iii",
+   "ii دان iv",
+   "iii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "حكمه فسخ: ممبري ڤلواڠ ممبطلكن ڤركهوينن دان ڤرايڠتن كڤد سوامي اكر برتڠݢوڠجواب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-16",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط ڤوكولن تَأْدِيب بوكن دموك.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ڤوكولن تأديب هندقله تيدق دموك.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-17",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "طلاق سچارا خُلْع حكومڽ اداله سنة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، حكوم خلع اياله هاروس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-18",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "فسخ تيدق مڠورڠكن بيلڠن طلاق.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، فسخ تيدق مڠورڠكن بيلڠن طلاق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-19",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نشوز ايستري ڤد ڤربواتن",
+  "options": [
+   "برماسم موك",
+   "برچاكڤ كاسر",
+   "منڠكيڠ سوامي"
+  ],
+  "answer": 0,
+  "explanation": "برماسم موك اداله نشوز ايستري دڠن ڤربواتن؛ برچاكڤ كاسر دان منڠكيڠ سوامي اداله نشوز دڠن ڤركاتاءن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-20",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دالم ككواساءن سوامي",
+  "options": [
+   "شرط لفظ",
+   "شرط مَحَل",
+   "شرط وَلَايَة"
+  ],
+  "answer": 2,
+  "explanation": "ولاية اياله ككواساءن سوامي كأتس ايستري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-21",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه لفظ خُلْع",
+  "options": [
+   "اكو چرايكن اڠكاو",
+   "اكو بيبسكن اڠكاو",
+   "اكو چرايكن اڠكاو دڠن بايرن سريبو"
+  ],
+  "answer": 2,
+  "explanation": "لفظ خلع مڠاندوڠي بايرن (عوض).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-22",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب فسخ منداتڠ",
+  "options": [
+   "مرتد",
+   "سوامي طاعة",
+   "برتڠݢوڠجواب"
+  ],
+  "answer": 0,
+  "explanation": "مرتد اداله سبب فسخ يڠ برلاكو سلڤس عقد.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-23",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برچاكڤ كاسر اتاو منڠكيڠ سوامي ______",
+  "options": [
+   "نشوز قد ايستري",
+   "حكمه طلاق",
+   "قدر بايرن خُلْع"
+  ],
+  "answer": 0,
+  "explanation": "برچاكڤ كاسر اتاو منڠكيڠ سوامي اداله نشوز قد ايستري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-24",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠيلقكن ڤربالهن يڠ لبيه بسر ______",
+  "options": [
+   "ڤڠرتين فسخ",
+   "حكمه طلاق",
+   "شرط ايستري"
+  ],
+  "answer": 1,
+  "explanation": "حكمه طلاق اياله مڠيلقكن ڤربالهن يڠ لبيه بسر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-25",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايستري يڠ دخُلْع هندقله اورڠ يڠ برعقل ______",
+  "options": [
+   "شرط ايستري",
+   "نشوز قد ايستري",
+   "ڤڠرتين فسخ"
+  ],
+  "answer": 0,
+  "explanation": "ايستري يڠ دخلع مستي برعقل؛ ايت اداله شرط ايستري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-26",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠيكوت كريلاءن كدوا-دوا ڤيهق ______",
+  "options": [
+   "حكمه طلاق",
+   "شرط ايستري",
+   "قدر بايرن خُلْع"
+  ],
+  "answer": 2,
+  "explanation": "قدر بايرن خلع مڠيكوت كريلاءن كدوا-دوا ڤيهق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-munakahat-pat2024-27",
+  "exam": "Darjah 5",
+  "subject": "Munakahat",
+  "topic": "Munakahat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤمبطلن عقد ڤركهوينن يڠ دسببكن اوليه كچاچتن ______",
+  "options": [
+   "ڤڠرتين فسخ",
+   "قدر بايرن خُلْع",
+   "نشوز قد ايستري"
+  ],
+  "answer": 0,
+  "explanation": "فسخ اياله ڤمبطلن عقد ڤركهوينن يڠ دسببكن اوليه كچاچتن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
  }
 ]
