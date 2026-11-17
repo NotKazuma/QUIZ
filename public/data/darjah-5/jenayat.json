@@ -1141,5 +1141,588 @@
   "explanation": "مرمڤس هرتا دڠن چارا ڤقسا اداله ساله ساتو عنصور حرابة.",
   "source": "PAT 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-01",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسالهن يڠ دكناكن حكومن حدود؟",
+  "options": [
+   "ممبونوه",
+   "ڤچه امانه",
+   "منودوه زنا",
+   "منچدراكن"
+  ],
+  "answer": 2,
+  "explanation": "منودوه زنا (قذف) دكناكن حكومن حدود؛ ممبونوه دان منچدراكن دكناكن قصاص، ڤچه امانة دكناكن تعزير.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-02",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه كسالهن ملاكوكن لارڠن الله؟",
+  "options": [
+   "منيڠݢلكن صلاة",
+   "تيدق برڤواسا",
+   "مڠݢوݢوركن كاندوڠن",
+   "اڠݢن ممباير زكاة"
+  ],
+  "answer": 2,
+  "explanation": "مڠݢوݢوركن كاندوڠن اداله ملاكوكن لارڠن الله؛ يڠ لاءين اداله منيڠݢلكن ڤرينته.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-03",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود باتسن دري سكي بهاس؟",
+  "options": [
+   "بدل",
+   "حدود",
+   "قصاص",
+   "تعزير"
+  ],
+  "answer": 1,
+  "explanation": "حدود ڤد بهاس برمقصود باتسن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-04",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باكايمانكه كأداءن ڤلاكو زنا يڠ بوليه دحكوم؟",
+  "options": [
+   "دڤقسا",
+   "تنڤا ريلا",
+   "كماهوان سنديري",
+   "ترساله سماتا-مات"
+  ],
+  "answer": 2,
+  "explanation": "ڤلاكو زنا يڠ بوليه دحكوم مستي ملاكوكنڽ دڠن كماهوان سنديري (تيدق دڤقسا).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-05",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سياڤاكه يڠ بوليه منجادي سقسي دالم مننتوكن حكومن زنا؟",
+  "options": [
+   "2 اورڠ للاكي",
+   "4 اورڠ ڤرمڤوان يڠ عاديل",
+   "4 اورڠ للاكي",
+   "4 اورڠ للاكي يڠ عاديل"
+  ],
+  "answer": 3,
+  "explanation": "زنا ثابت دڠن 4 اورڠ سقسي للاكي يڠ عاديل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-06",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه سبتن يڠ دكناكن كڤد ڤلاكو زنا؟",
+  "options": [
+   "60",
+   "80",
+   "100",
+   "120"
+  ],
+  "answer": 2,
+  "explanation": "ڤلاكو زنا غير محصن دسبت 100 كالي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-07",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤربواتن باكي هوبوڠن سام جنيس (هوموسيكسوال)؟",
+  "options": [
+   "لواط",
+   "قذف",
+   "لعان",
+   "حرابة"
+  ],
+  "answer": 0,
+  "explanation": "لواط اياله ڤربواتن هوبوڠن سام جنيس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-08",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن باكي ڤلواط مُحْصَن",
+  "options": [
+   "دسبت 100 كالي",
+   "بواڠ داءيره",
+   "حكومن ݢنتوڠ",
+   "رجم سمڤاي ماتي"
+  ],
+  "answer": 3,
+  "explanation": "ڤلواط مُحْصَن دحكوم رجم سمڤاي ماتي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-09",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن رجم سمڤاي ماتي دلقساناكن كڤد",
+  "options": [
+   "ڤرومڤق",
+   "ڤمبونوه",
+   "ڤمينوم ارق",
+   "ڤلاكو لواط"
+  ],
+  "answer": 3,
+  "explanation": "رجم سمڤاي ماتي دلقساناكن كڤد ڤلاكو لواط (مُحْصَن).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-10",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منودوه اورڠ لاءين ملاكوكن زنا اداله ڤڠرتين",
+  "options": [
+   "حرابة",
+   "قذف",
+   "سرقة",
+   "لواط"
+  ],
+  "answer": 1,
+  "explanation": "قذف برمقصود منودوه اورڠ لاءين ملاكوكن زنا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-11",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط صح قذف باكي اورڠ يڠ دتودوه اياله",
+  "options": [
+   "إسلام",
+   "كانق٢",
+   "اورڠ كيلا",
+   "همبا"
+  ],
+  "answer": 0,
+  "explanation": "شرط اورڠ يڠ دتودوه: إسلام، بالغ، برعقل دان مرديك؛ كانق٢، اورڠ كيلا دان همبا تيدق ممنوهي شرط.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-12",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب حكومن قذف بوليه دݢوݢوركن",
+  "options": [
+   "اد 4 اورڠ سقسي",
+   "اد 2 اورڠ سقسي",
+   "تياد ڤڠاكوان درڤد اورڠ يڠ دقذف",
+   "اورڠ يڠ دقذف ممبوات سومڤه"
+  ],
+  "answer": 0,
+  "explanation": "حكومن قذف ݢوݢور اڤابيلا ڤڠقذف مڠاداكن 4 اورڠ سقسي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-13",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط ڤربواتن مينوم ارق يڠ بوليه ددعوا اياله",
+  "options": [
+   "دڤقسا مينوم",
+   "ترتودوه تيدق مينوم ارق",
+   "باهن بوكن بربنتوق مينومن",
+   "مينوم ملالوءي مولوت"
+  ],
+  "answer": 3,
+  "explanation": "ڤربواتن مينوم ارق يڠ بوليه ددعوا اياله مينوم ملالوءي مولوت دڠن كهندق سنديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-14",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط ڤمينوم ارق يڠ دكناكن حكومن اداله",
+  "options": [
+   "مسلم",
+   "اورڠ كيلا",
+   "كانق٢",
+   "دڤقسا مينوم"
+  ],
+  "answer": 0,
+  "explanation": "ڤمينوم ارق يڠ دكناكن حكومن مستي مسلم، بالغ، برعقل دان تيدق دڤقسا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-15",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكوم منچوري كچوالي",
+  "options": [
+   "حرام",
+   "بردوسا بسر",
+   "دڤوتوڠ تاڠن",
+   "تيدق بردوسا"
+  ],
+  "answer": 3,
+  "explanation": "منچوري حكومڽ حرام، بردوسا بسر دان دحكوم ڤوتوڠ تاڠن؛ تيدق بردوسا بوكن حكومڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-16",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت انتارا شرط اونتوق منثابتكن كسالهن منچوري كچوالي",
+  "options": [
+   "بالغ",
+   "برعقل",
+   "تياد شبهة",
+   "دڤقسا"
+  ],
+  "answer": 3,
+  "explanation": "شرط منثابتكن منچوري: بالغ، برعقل دان تياد شبهة؛ دڤقسا بوكن شرط، كران اورڠ يڠ دڤقسا تيدق دكناكن حد.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-17",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا منثابتكن حد حرابة. i. اقرار  ii. ڤقساءن  iii. شهادة  iv. تودوهن",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iii",
+   "ii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "حد حرابة ثابت دڠن اقرار (ڤڠاكوان) اتاو شهادة (سقسي).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-18",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن ڤرلاكوان زنا بوليه مروسقكن نسب كتورونن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، زنا بوليه مروسقكن نسب كتورونن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-19",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ كنا لواط اكن دبواڠ داءيره سلاما 6 بولن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ڤلاكو لواط غير محصن دسبت 100 كالي دان دبواڠ داءيره ستاهون.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-20",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ثابت حد مينوم ارق دڠن سقسي ڤرمڤوان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، حد مينوم ارق ثابت دڠن دوا اورڠ سقسي للاكي اتاو ڤڠاكوان؛ سقسي ڤرمڤوان تيدق دتريما.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-21",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منچوري اياله مڠمبيل هرتا اورڠ لاءين سچارا سمبوڽي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، منچوري اياله مڠمبيل هرتا اورڠ لاءين سچارا سمبوڽي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-22",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين ڤلاكو زنا",
+  "options": [
+   "محسن",
+   "محصن",
+   "مخلص"
+  ],
+  "answer": 1,
+  "explanation": "ڤلاكو زنا تربهاݢي دوا: محصن (سوده بركهوين) دان غير محصن (بلوم بركهوين).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-23",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين لواط",
+  "options": [
+   "تودوهن",
+   "ڤرستوبوهن",
+   "رومڤقن"
+  ],
+  "answer": 1,
+  "explanation": "لواط برمقصود ڤرستوبوهن (هوبوڠن) سام جنيس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-24",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ڤرستوبوهن دڠن بيناتڠ",
+  "options": [
+   "مكروه",
+   "حرام",
+   "تيدق بردوسا"
+  ],
+  "answer": 1,
+  "explanation": "ڤرستوبوهن دڠن بيناتڠ حكومڽ حرام دان بردوسا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-25",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مينوم ارق",
+  "options": [
+   "مكروه دان دتݢه",
+   "حرام دان بردوسا بسر",
+   "تيدق دݢالقكن"
+  ],
+  "answer": 1,
+  "explanation": "مينوم ارق حكومڽ حرام دان بردوسا بسر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-26",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممينوم سكالا جنيس يڠ ممابوقكن ______",
+  "options": [
+   "مينوم ارق",
+   "ثابتن حد",
+   "ڤوتوڠ كاكي كيري"
+  ],
+  "answer": 0,
+  "explanation": "مينوم ارق برمقصود ممينوم سكالا جنيس يڠ ممابوقكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-27",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دسقسيكن 2 اورڠ سقسي (للاكي) ______",
+  "options": [
+   "ثابتن حد",
+   "المُنْتَهِبْ",
+   "ارتي مرومڤق"
+  ],
+  "answer": 0,
+  "explanation": "ثابتن حد (سڤرتي مينوم ارق دان منچوري) دڠن دسقسيكن دوا اورڠ سقسي للاكي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-28",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن منچوري كالي كدوا ______",
+  "options": [
+   "ڤوتوڠ كاكي كيري",
+   "مينوم ارق",
+   "المُنْتَهِبْ"
+  ],
+  "answer": 0,
+  "explanation": "حكومن منچوري كالي كدوا اياله ڤوتوڠ كاكي كيري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-29",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ مڠمبيل هرتا دهادڤن مات توانڽ ______",
+  "options": [
+   "المُنْتَهِبْ",
+   "ڤوتوڠ كاكي كيري",
+   "ثابتن حد"
+  ],
+  "answer": 0,
+  "explanation": "المنتهب اياله اورڠ يڠ مڠمبيل هرتا دهادڤن مات توانڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-pat2024-30",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سرڠن برتوجوان مرمڤس هرتا، ممبونوه اتاو مناكوتكن ______",
+  "options": [
+   "ارتي مرومڤق",
+   "مينوم ارق",
+   "ڤوتوڠ كاكي كيري"
+  ],
+  "answer": 0,
+  "explanation": "مرومڤق (حرابة) اياله سرڠن برتوجوان مرمڤس هرتا، ممبونوه اتاو مناكوتكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
  }
 ]
