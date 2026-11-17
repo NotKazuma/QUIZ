@@ -1,5 +1,567 @@
 [
  {
+  "id": "darjah-5-jenayat-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي حكومن حدود؟",
+  "options": [
+   "حكومن يڠ دتنتوكن محكمه",
+   "ڤراتورن درڤد ماءنسي",
+   "اوندڠ٢ چيڤتاءن ماءنسي",
+   "حكومن يڠ دتنتوكن اوليه شرع"
+  ],
+  "answer": 3,
+  "explanation": "حدود اياله حكومن يڠ دتنتوكن اوليه شرع (القرءان دان السنة).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسالهن يڠ دكناكن حكومن حدود؟",
+  "options": [
+   "برجودي",
+   "منيڤو",
+   "ممبونوه",
+   "منچوري"
+  ],
+  "answer": 3,
+  "explanation": "منچوري دكناكن حكومن حدود؛ ممبونوه دكناكن قصاص دان برجودي دكناكن تعزير.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسالهن يڠ ميببكن حكومن قصاص؟",
+  "options": [
+   "زنا",
+   "مرتد",
+   "ممبونوه",
+   "مينوم ارق"
+  ],
+  "answer": 2,
+  "explanation": "ممبونوه دكناكن حكومن قصاص.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين حدود ڤد بهاس؟",
+  "options": [
+   "ماس",
+   "دندم",
+   "باتس",
+   "سيقسا"
+  ],
+  "answer": 2,
+  "explanation": "حدود ڤد بهاس برمقصود باتس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين زنا اياله",
+  "options": [
+   "هوبوڠن للاكي دڠن للاكي",
+   "هوبوڠن ڤرمڤوان دڠن ڤرمڤوان",
+   "ڤرستوبوهن للاكي دان ڤرمڤوان دڠن ڤرنكاحن يڠ صح",
+   "ڤرستوبوهن للاكي دان ڤرمڤوان تنڤا ڤرنكاحن يڠ صح"
+  ],
+  "answer": 3,
+  "explanation": "زنا اياله ڤرستوبوهن للاكي دان ڤرمڤوان تنڤا ڤرنكاحن يڠ صح.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن باكي ڤنزينا غير مُحْصَن اياله",
+  "options": [
+   "سڤولوه سبتن",
+   "دوا ڤولوه سبتن",
+   "سراتوس سبتن",
+   "دوا راتوس سبتن"
+  ],
+  "answer": 2,
+  "explanation": "ڤنزينا غير محصن دسبت سراتوس كالي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط حكومن كأتس ڤنزينا مُحْصَن اياله",
+  "options": [
+   "كاي",
+   "برتونڠ",
+   "تله بركهوين",
+   "بلوم بركهوين"
+  ],
+  "answer": 2,
+  "explanation": "ڤنزينا محصن اياله يڠ تله بركهوين؛ حكومنڽ رجم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري٢ ڤلاكو زنا يڠ دكناكن حكومن اياله",
+  "options": [
+   "كيلا",
+   "مابوق",
+   "دڤقسا",
+   "كماهوان سنديري"
+  ],
+  "answer": 3,
+  "explanation": "حكومن حد زنا دكناكن كڤد ڤلاكو يڠ ملاكوكنڽ دڠن كماهوان سنديري؛ اورڠ كيلا، مابوق اتاو دڤقسا تيدق دكناكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن كأتس ڤنزينا مُحْصَن اياله",
+  "options": [
+   "دندا",
+   "سبتن",
+   "ڤنجارا",
+   "درجم دڠن باتو"
+  ],
+  "answer": 3,
+  "explanation": "ڤنزينا محصن دحكوم رجم دڠن باتو سمڤاي ماتي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باتو يڠ دݢوناكن اونتوق مرجم",
+  "options": [
+   "ڤانس",
+   "ليچين",
+   "تاجم",
+   "سدرهان بسر"
+  ],
+  "answer": 3,
+  "explanation": "باتو يڠ دݢوناكن اونتوق مرجم اياله باتو يڠ سايز سدرهان بسر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن بوروق زنا اياله",
+  "options": [
+   "رزقي برتمبه",
+   "صيحت توبوه بادن",
+   "دسوكاءي مشاركت",
+   "مڠوندڠ كموركاءن الله تعالى"
+  ],
+  "answer": 3,
+  "explanation": "زنا مڠوندڠ كموركاءن الله تعالى.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤربواتن لواط جوݢ برمقصود",
+  "options": [
+   "ليسبيان",
+   "ۏينداليسما",
+   "سوسياليسما",
+   "هوموسيكسوال"
+  ],
+  "answer": 3,
+  "explanation": "لواط جوݢ دكنلي سباݢاي هوموسيكسوال (هوبوڠن سام جنيس انتارا للاكي).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بالسن كأتس اورڠ يڠ ملواط كچوالي",
+  "options": [
+   "درجم سمڤاي ماتي",
+   "سبتن سراتوس كالي",
+   "دڤنجارا سعمور هيدوڤ",
+   "دبواڠ داءيره سلاما ستاهون"
+  ],
+  "answer": 2,
+  "explanation": "ڤلواط دحكوم مڠيكوت حكوم زنا (رجم، اتاو سبت دان بواڠ داءيره)؛ ڤنجارا سعمور هيدوڤ بوكن ساله ساتو ڤلقساناءنڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤلقساناءن حكومن ڤلواط كچوالي",
+  "options": [
+   "درجم",
+   "دڤنچوڠ",
+   "دراچون",
+   "دچمڤق دري بوكيت"
+  ],
+  "answer": 2,
+  "explanation": "دراچون (دبوبوهكن راچون) بوكن ساله ساتو ڤلقساناءن حكومن ڤلواط.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ ڤرلو اد ڤد اورڠ يڠ ترتودوه. i. إسلام  ii. همبا  iii. كانق٢  iv. برعقل",
+  "options": [
+   "i دان iii",
+   "i دان iv",
+   "i ، ii دان iii",
+   "i ، ii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ دتودوه (مقذوف) مستي إسلام دان برعقل؛ همبا دان كانق٢ بوكن شرط.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تعزير اياله حكومن يڠ دتنتوكن اوليه شرع.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، تعزير اياله حكومن يڠ دتنتوكن اوليه حاكيم؛ حدود دتنتوكن اوليه شرع.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنايه ترهادڤ هرتا بندا سڤرتي منچوري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، منچوري اداله جنايه ترهادڤ هرتا بندا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "منيڠݢلكن صلاة مروڤاكن كسالهن ملاكوكن لارڠن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، منيڠݢلكن صلاة اداله كسالهن منيڠݢلكن كواجيڤن، بوكن ملاكوكن لارڠن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حاكيم واجب منجاتوهكن حكومن حدود كأتس ڤنجنايه.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، حاكيم واجب منجاتوهكن حكومن حدود كأتس ڤنجنايه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنايه ترهادڤ ڽاوا",
+  "options": [
+   "ممبونوه",
+   "منچوري",
+   "برزنا"
+  ],
+  "answer": 0,
+  "explanation": "ممبونوه اداله جنايه ترهادڤ ڽاوا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن ملاكوكن لارڠن",
+  "options": [
+   "سومبڠ محرم",
+   "ڤوليكامي",
+   "برچراي"
+  ],
+  "answer": 0,
+  "explanation": "سومبڠ محرم اداله ساله ساتو كسالهن ملاكوكن لارڠن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن منيڠݢلكن كواجيڤن",
+  "options": [
+   "برصدقه",
+   "برڤواسا",
+   "منيڠݢلكن صلاة"
+  ],
+  "answer": 2,
+  "explanation": "منيڠݢلكن صلاة اداله كسالهن منيڠݢلكن كواجيڤن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقاصد شريعة يڠ ڤرلو دجاݢ",
+  "options": [
+   "بڠسا",
+   "اكام",
+   "ڤيڠكت"
+  ],
+  "answer": 1,
+  "explanation": "اكام (دين) اداله ساله ساتو مقاصد شريعة يڠ ڤرلو دجاݢ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسالهن حدود",
+  "options": [
+   "برݢادوه",
+   "فتنه",
+   "مينوم ارق"
+  ],
+  "answer": 2,
+  "explanation": "مينوم ارق اداله ساله ساتو كسالهن حدود.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دلاكوكن دالم كأداءن سدر دان كماهوان سنديري ______",
+  "options": [
+   "زنا",
+   "مكروه",
+   "سبتن"
+  ],
+  "answer": 0,
+  "explanation": "زنا دلاكوكن دالم كأداءن سدر دان كماهوان سنديري.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط حكومن كأتس ڤنزينا غير مُحْصَن ______",
+  "options": [
+   "بلوم بركهوين",
+   "مكروه",
+   "لواط"
+  ],
+  "answer": 0,
+  "explanation": "ڤنزينا غير محصن اياله يڠ بلوم بركهوين.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكومن يڠ تيدق بوليه دكورڠكن ______",
+  "options": [
+   "سبتن",
+   "زنا",
+   "بلوم بركهوين"
+  ],
+  "answer": 0,
+  "explanation": "حكومن سبتن (حد) تيدق بوليه دكورڠكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-28",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ملاكوكن سبتن دالم مسجد ______",
+  "options": [
+   "مكروه",
+   "زنا",
+   "بلوم بركهوين"
+  ],
+  "answer": 0,
+  "explanation": "ملقساناكن حكومن سبتن ددالم مسجد حكومڽ مكروه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-jenayat-ppt2022-29",
+  "exam": "Darjah 5",
+  "subject": "Jenayat",
+  "topic": "Jenayat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مماسوقكن ذكر كدالم دبر ______",
+  "options": [
+   "لواط",
+   "سبتن",
+   "مكروه"
+  ],
+  "answer": 0,
+  "explanation": "لواط اياله مماسوقكن ذكر كدالم دبر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-jenayat-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Jenayat",
