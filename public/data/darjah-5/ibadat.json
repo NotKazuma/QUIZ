@@ -1,5 +1,605 @@
 [
  {
+  "id": "darjah-5-ibadat-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين صلاة دري سكي بهاس؟",
+  "options": [
+   "دعاء",
+   "ذيكير",
+   "خشوع",
+   "صلوات"
+  ],
+  "answer": 0,
+  "explanation": "صلاة ڤد بهاس برمقصود دعاء (ممهون كباءيقن).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه برمولاءن وقتو صلاة ظهر؟",
+  "options": [
+   "تربيت ماتاهاري",
+   "تربيت فجر صادق",
+   "كلينچير ماتاهاري",
+   "هيلڠ ميك ميره دكاكي لاڠيت"
+  ],
+  "answer": 2,
+  "explanation": "وقتو ظهر برمولا اڤابيلا ماتاهاري كلينچير (زوال).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باكايماناكه عورة ڤرمڤوان يڠ مرديك دلوار صلاة كتيك برسام للاكي اجنبي؟",
+  "options": [
+   "سلوروه بادنڽ",
+   "موك دان تاڠن",
+   "ڤوست هيڠݢ لوتوت",
+   "تاقق كاكي دان توميت"
+  ],
+  "answer": 0,
+  "explanation": "عورة ڤرمڤوان مرديك دلوار صلاة دهادڤن للاكي اجنبي اياله سلوروه بادن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه مقصود شِدَّةُ الْخَوْف؟",
+  "options": [
+   "ترلالو تاكوت",
+   "اورڠ يڠ براني",
+   "ممڤرلاهنكن باچاءن",
+   "اورڠ يڠ برحدث"
+  ],
+  "answer": 0,
+  "explanation": "شدة الخوف برمقصود ترلالو تاكوت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه باچاءن سلڤس تكبيرة الإحرام؟",
+  "options": [
+   "دعاء قنوت",
+   "دعاء افتتاح",
+   "سورة الفاتحة",
+   "سورة لازم"
+  ],
+  "answer": 1,
+  "explanation": "دعاء افتتاح دباچ سلڤس تكبيرة الإحرام سبلوم ممباچ سورة الفاتحة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه باچاءن يڠ ترماسوق ددالم سنة ابعاض؟",
+  "options": [
+   "ممباچ سورة",
+   "ممباچ دعاء قنوت",
+   "مڠوچڤ تكبير إنْتِقَالَات",
+   "ممباچ دعاء افتتاح"
+  ],
+  "answer": 1,
+  "explanation": "ممباچ دعاء قنوت (ڤد صلاة صبح) اداله سنة ابعاض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله سوجود يڠ دتونتوت دالم سوجود سهوي اياله",
+  "options": [
+   "دوا كالي",
+   "تيݢ كالي",
+   "امڤت كالي",
+   "ليم كالي"
+  ],
+  "answer": 0,
+  "explanation": "سجود سهوي دلاكوكن دوا كالي سجود.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين سهوي دري سكي بهاس اياله",
+  "options": [
+   "لوڤا",
+   "سوك",
+   "سديه",
+   "كمبيرا"
+  ],
+  "answer": 0,
+  "explanation": "سهوي ڤد بهاس برمقصود لوڤا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا سبب دلاكوكن سوجود سهوي اياله",
+  "options": [
+   "ترلوڤا اقامة",
+   "ترتيڠݢل الفاتحة",
+   "ترتيڠݢل سنة ابعاض",
+   "ترتيڠݢل سنة هيئات"
+  ],
+  "answer": 2,
+  "explanation": "سجود سهوي دلاكوكن اڤابيلا ترتيڠݢل سنة ابعاض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جنيس٢ صلاة سنة رواتب اياله",
+  "options": [
+   "قبلية سهاج",
+   "بعدية سهاج",
+   "قبلية دان بعدية",
+   "جمع دان قصر"
+  ],
+  "answer": 2,
+  "explanation": "صلاة سنة رواتب تربهاݢي كڤد قبلية (سبلوم) دان بعدية (سلڤس) صلاة فرض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن ركعة صلاة وتر يڠ لبيه سمڤورنا دتونايكن اياله",
+  "options": [
+   "ليم",
+   "توجوه",
+   "سمبيلن",
+   "سبلس"
+  ],
+  "answer": 3,
+  "explanation": "صلاة وتر يڠ لبيه سمڤورنا اياله سبلس ركعة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو صلاة سنة أَوَّابِين اياله",
+  "options": [
+   "سلڤس تربيت فجر",
+   "كتيك كلينچير ماتاهاري",
+   "سلڤس تربيت ماتاهاري سكاله",
+   "انتارا صلاة مغرب دڠن عشاء"
+  ],
+  "answer": 3,
+  "explanation": "صلاة سنة اوابين دلاكوكن انتارا صلاة مغرب دڠن عشاء.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صلاة سنة يڠ دتونايكن سچارا برجماعة كچوالي",
+  "options": [
+   "صلاة سنة تراويح",
+   "صلاة سنة تهجد",
+   "صلاة سنة استسقاء",
+   "صلاة سنة كرهان بولن"
+  ],
+  "answer": 1,
+  "explanation": "صلاة تهجد دلاكوكن سچارا سنديري (منفرد)؛ تراويح، استسقاء دان كرهان بولن دلاكوكن برجماعة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كڤاتاءن برايكوت مروڤاكن وقتو يڠ دمكروهكن اونتوق منونايكن صلاة كچوالي",
+  "options": [
+   "سلڤس صلاة صبح",
+   "سلڤس صلاة عصر",
+   "وقتو تربيت ماتاهاري",
+   "ماسوق وقتو صلاة"
+  ],
+  "answer": 3,
+  "explanation": "ماسوق وقتو صلاة بوكن وقتو مكروه؛ يڠ لاءين اداله وقتو مكروه اونتوق صلاة سنة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت بركاءيتن دڠن صلاة جمع دان قصر؟ i. مڠهيمڤونكن دوا صلاة  ii. مميندقكن صلاة  iii. دهاروسكن باكي مسافير  iv. سنة باكي اورڠ يڠ برمقيم",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i ، ii دان iii",
+   "ii ، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "صلاة جمع (مڠهيمڤونكن) دان قصر (مميندقكن) دهاروسكن باكي مسافير؛ ايا تيدق سنة باكي اورڠ يڠ برمقيم.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله حكمه٢ صلاة جمع دان قصر. i. ممبواڠ ماس  ii. ممودهكن اومت إسلام  iii. صدقه درڤد الله  iv. مڠيڠتكن كڤنتيڠن صلاة",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i ، ii دان iii",
+   "ii ، iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "حكمه جمع دان قصر: ممودهكن اومت، صدقه درڤد الله دان مڠيڠتكن كڤنتيڠن صلاة؛ ممبواڠ ماس بوكن حكمهڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا شرط واجب صلاة اياله برعقل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، شرط واجب صلاة: إسلام، بالغ، برعقل دان سوچي دري حيض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ دعاء قنوت ترماسوق دالم سنة هيئات.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، دعاء قنوت ترماسوق دالم سنة ابعاض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برڤاليڠ درڤد قبلة مروڤاكن ڤركارا يڠ ممبطلكن صلاة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، برڤاليڠ درڤد قبلة ممبطلكن صلاة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وقتو صلاة سنة وتر اياله انتارا ظهر هيڠݢ عشاء.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، وقتو صلاة وتر اياله انتارا عشاء هيڠݢ تربيت فجر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مأموم واجب نية مڠيكوت امام كتيك صلاة برجماعة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، مأموم واجب نية مڠيكوتي امام كتيك صلاة برجماعة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ واجب كتيك برنية ددالم صلاة",
+  "options": [
+   "قصد، تعرض، تعيين",
+   "قلبي، قولي، فعلي",
+   "شك، ظن، وهم"
+  ],
+  "answer": 0,
+  "explanation": "نية دالم صلاة واجب مڠاندوڠي قصد، تعرض دان تعيين.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا سنة سبلوم صلاة",
+  "options": [
+   "اذان",
+   "وضوء",
+   "تيمم"
+  ],
+  "answer": 0,
+  "explanation": "اذان اداله سنة سبلوم صلاة؛ وضوء دان تيمم اداله شرط.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مڠڠكت تاڠن كتيك هندق ركوع",
+  "options": [
+   "سنة",
+   "واجب",
+   "هاروس"
+  ],
+  "answer": 0,
+  "explanation": "مڠڠكت كدوا تاڠن كتيك هندق ركوع حكومڽ سنة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سجود سنة سلاين سجود سهوي",
+  "options": [
+   "ابعاض",
+   "سجدة",
+   "هيئات"
+  ],
+  "answer": 1,
+  "explanation": "سجدة (سڤرتي سجود تلاوة دان شكر) اداله سجود سنة سلاين سجود سهوي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة سنة دوا ركعة سبلوم صلاة ظهر",
+  "options": [
+   "قبلية",
+   "بعدية",
+   "تحية المسجد"
+  ],
+  "answer": 0,
+  "explanation": "صلاة سنة قبلية ظهر اداله دوا ركعة سبلوم صلاة ظهر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تيدق سمڤت ممباچ الفاتحة برسام امام ______",
+  "options": [
+   "مَسْبُوق",
+   "بطل",
+   "سنة ابعاض"
+  ],
+  "answer": 0,
+  "explanation": "مسبوق اياله مأموم يڠ تيدق سمڤت ممباچ الفاتحة برسام امام.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-28",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممباچ دعاء قنوت ددالم صلاة فرض صبح ______",
+  "options": [
+   "سنة ابعاض",
+   "فرض كفاية",
+   "بطل"
+  ],
+  "answer": 0,
+  "explanation": "ممباچ دعاء قنوت ڤد صلاة صبح اداله سنة ابعاض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-29",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ملاكوكن ڤرݢرقن يڠ باڽق ددالم صلاة ______",
+  "options": [
+   "بطل",
+   "مَسْبُوق",
+   "صلاة تهجد"
+  ],
+  "answer": 0,
+  "explanation": "ملاكوكن ڤرݢرقن يڠ باڽق ددالم صلاة ممبطلكن صلاة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-30",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام صلاة مالم سلڤس باڠون درڤد تيدور ______",
+  "options": [
+   "صلاة تهجد",
+   "فرض كفاية",
+   "سنة ابعاض"
+  ],
+  "answer": 0,
+  "explanation": "صلاة تهجد دلاكوكن ڤد مالم هاري سلڤس باڠون درڤد تيدور.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-ppt2022-31",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم صلاة فرض سچارا برجماعة باكي للاكي ______",
+  "options": [
+   "فرض كفاية",
+   "بطل",
+   "مَسْبُوق"
+  ],
+  "answer": 0,
+  "explanation": "صلاة فرض سچارا برجماعة باكي للاكي حكومڽ فرض كفاية.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-ibadat-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Ibadat",
