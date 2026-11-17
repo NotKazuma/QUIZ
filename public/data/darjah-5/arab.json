@@ -1261,5 +1261,648 @@
   "explanation": "هُمْ يَخْرُجُونَ فِي الصَّبَاحِ إِلَى الْحُقُولِ.",
   "source": "PAT 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-01",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا العَدَدُ \"مِائَةٌ وَثَلَاثُونَ\" بِالرَّقْمِ؟",
+  "options": [
+   "١١٣",
+   "١٠٣",
+   "١٣٣",
+   "١٣٠"
+  ],
+  "answer": 3,
+  "explanation": "مِائَةٌ وَثَلَاثُونَ = ١٣٠.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-02",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا الرَّقْمُ \"١١٠\" بِالكَلِمَةِ؟",
+  "options": [
+   "مِائَةٌ وَعَشَرَةٌ",
+   "مِائَةٌ وَوَاحِدٌ",
+   "مِائَةٌ وَعِشْرُونَ",
+   "مِائَةٌ وَخَمْسَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "١١٠ = مِائَةٌ وَعَشَرَةٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-03",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَمْ رِنْجِيتًا هَذِهِ المِكْوَاةُ؟ (RM 120.00)",
+  "options": [
+   "مِائَةٌ وَعَشَرَةٌ",
+   "مِائَةٌ وَعِشْرُونَ",
+   "مِائَةٌ وَثَلَاثُونَ",
+   "مِائَةٌ وَأَرْبَعُونَ"
+  ],
+  "answer": 1,
+  "explanation": "١٢٠ = مِائَةٌ وَعِشْرُونَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-04",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا هُوَ \"ماكنن\" بِالعَرَبِيَّةِ؟",
+  "options": [
+   "الدَّوَاءُ",
+   "الشَّرَابُ",
+   "المَأْكُولَاتُ",
+   "المَشْرُوبَاتُ"
+  ],
+  "answer": 2,
+  "explanation": "ماكنن (makanan) = المَأْكُولَاتُ؛ المَشْرُوبَاتُ = minuman.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-05",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْ يُعَالِجُ المَرْضَى فِي المُسْتَشْفَى؟",
+  "options": [
+   "مُدَرِّسَةٌ",
+   "مُمَرِّضَةٌ",
+   "طُلَّابٌ",
+   "طَبِيبٌ"
+  ],
+  "answer": 3,
+  "explanation": "الطَّبِيبُ يُعَالِجُ المَرْضَى فِي المُسْتَشْفَى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-06",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فَاطِمَةُ تُسَاعِدُ الطَّبِيبَ فِي المُسْتَشْفَى. مَنْ هِيَ فَاطِمَةُ؟",
+  "options": [
+   "مُدَرِّسٌ",
+   "مُمَرِّضَةٌ",
+   "طُلَّابٌ",
+   "مُعَلِّمَةٌ"
+  ],
+  "answer": 1,
+  "explanation": "الَّتِي تُسَاعِدُ الطَّبِيبَ فِي المُسْتَشْفَى هِيَ المُمَرِّضَةُ (jururawat).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-07",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَيْفَ نُحَافِظُ عَلَى الصِّحَّةِ؟",
+  "options": [
+   "نَنَامُ مُتَأَخِّرًا",
+   "نَتَنَاوَلُ الطَّعَامَ المَالِحَ",
+   "نُمَارِسُ الرِّيَاضَةَ",
+   "نَشْرَبُ الشَّرَابَ الحُلْوَ بِكَثْرَةٍ"
+  ],
+  "answer": 2,
+  "explanation": "نُحَافِظُ عَلَى الصِّحَّةِ بِمُمَارَسَةِ الرِّيَاضَةِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-08",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنْ فِعْلَ المُضَارِعِ فِيهِ ضَمِيرُ \"هُوَ\".",
+  "options": [
+   "يَفْعَلْنَ",
+   "يَفْعَلُ",
+   "تَدْخُلُ",
+   "نَفْعَلُ"
+  ],
+  "answer": 1,
+  "explanation": "يَفْعَلُ لِلْغَائِبِ (هُوَ)؛ يَفْعَلْنَ لِلغَائِبَاتِ، وَتَدْخُلُ لِلمُخَاطَبِ أَوْ الغَائِبَةِ، وَنَفْعَلُ لِلمُتَكَلِّمِينَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-09",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "جَزِيرَةُ سِيبُو ______ فِي مِرْسِينْغ.",
+  "options": [
+   "يَقَعُ",
+   "تَقَعُ",
+   "نَقَعُ",
+   "أَقَعُ"
+  ],
+  "answer": 1,
+  "explanation": "جَزِيرَةٌ مُؤَنَّثَةٌ، فَالفِعْلُ المُضَارِعُ لَهَا تَقَعُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-10",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنَا ______ مَنَاظِرَ السَّمَاءِ الزَّرْقَاءِ.",
+  "options": [
+   "تَمَتَّعُ",
+   "تَمَتَّعْتِ",
+   "تَمَتَّعْتُ",
+   "تَمَتَّعْنَا"
+  ],
+  "answer": 2,
+  "explanation": "مَعَ الضَّمِيرِ \"أَنَا\" يَكُونُ الفِعْلُ المَاضِي تَمَتَّعْتُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-11",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ أَمْثِلَةِ ______ هِيَ التُّفَّاحُ، البُرْتُقَالُ وَالعِنَبُ.",
+  "options": [
+   "الخُضْرَوَاتِ",
+   "الفَوَاكِهِ",
+   "الزُّهُورِ",
+   "الحَاجِيَّاتِ"
+  ],
+  "answer": 1,
+  "explanation": "التُّفَّاحُ وَالبُرْتُقَالُ وَالعِنَبُ مِنَ الفَوَاكِهِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-12",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"قاسر مالم\" فِي اللُّغَةِ العَرَبِيَّةِ ______.",
+  "options": [
+   "سُوقُ الفَوَاكِهِ",
+   "سُوقُ اللَّيْلِ",
+   "سُوقُ التِّجَارِيِّ",
+   "سُوقُ الصَّبَاحِ"
+  ],
+  "answer": 1,
+  "explanation": "قاسر مالم (pasar malam) = سُوقُ اللَّيْلِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-13",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ أَسْمَاءِ الاِسْتِفْهَامِ هِيَ ______.",
+  "options": [
+   "أَنْتِ",
+   "أَنْتَ",
+   "كَيْفَ",
+   "هُوَ"
+  ],
+  "answer": 2,
+  "explanation": "كَيْفَ اسْمُ اسْتِفْهَامٍ؛ أَنْتِ وَأَنْتَ وَهُوَ ضَمَائِرُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-14",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "كَلِمَةُ \"مَتَى\" هِيَ مِنْ ______.",
+  "options": [
+   "حُرُوفِ الجَرِّ",
+   "اسْمِ الاِسْتِفْهَامِ",
+   "فِعْلِ المَاضِي",
+   "فِعْلِ المُضَارِعِ"
+  ],
+  "answer": 1,
+  "explanation": "مَتَى مِنْ أَسْمَاءِ الاِسْتِفْهَامِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-15",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ بَرْنَامَجِ الاِحْتِفَالِ بِذِكْرَى مَوْلِدِ الرَّسُولِ ﷺ ______.",
+  "options": [
+   "السِّبَاحَةُ",
+   "مَوْكِبُ طُلَّابٍ",
+   "مُبَارَاةُ الهُوكِي",
+   "النَّوْمُ يَوْمِيًّا"
+  ],
+  "answer": 1,
+  "explanation": "مَوْكِبُ الطُّلَّابِ مِنْ بَرْنَامَجِ الاِحْتِفَالِ بِمَوْلِدِ الرَّسُولِ ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-16",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "المُسْلِمُونَ ______ الطَّعَامَ وَالحَلْوَى فِي احْتِفَالِ مَوْلِدِ الرَّسُولِ ﷺ.",
+  "options": [
+   "يَأْخُذُونَ",
+   "يَرْمُونَ",
+   "يَبِيعُونَ",
+   "يُوَزِّعُونَ"
+  ],
+  "answer": 3,
+  "explanation": "المُسْلِمُونَ يُوَزِّعُونَ الطَّعَامَ وَالحَلْوَى فِي الاِحْتِفَالِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-17",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "العِبَارَاتُ الآتِيَةُ هِيَ الجُمْلَةُ الاِسْمِيَّةُ إِلَّا",
+  "options": [
+   "هُوَ حَسَنُ الخُلُقِ",
+   "هُوَ يَفْهَمُ الدَّرْسَ",
+   "مُحَمَّدٌ رَجُلٌ صَالِحٌ",
+   "رَأَيْتُ مَنْظَرًا جَمِيلًا"
+  ],
+  "answer": 3,
+  "explanation": "رَأَيْتُ مَنْظَرًا جَمِيلًا جُمْلَةٌ فِعْلِيَّةٌ لِأَنَّهَا تَبْدَأُ بِفِعْلٍ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-18",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الكَلِمَاتُ الآتِيَةُ هِيَ مِنْ نَوْعِ الاِسْمِ إِلَّا",
+  "options": [
+   "الضَّمَائِرُ",
+   "الإِضَافَةُ",
+   "الإِشَارَةُ",
+   "الفِعْلِيَّةُ"
+  ],
+  "answer": 3,
+  "explanation": "الفِعْلِيَّةُ لَيْسَتْ مِنْ أَنْوَاعِ الاِسْمِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-19",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنْ كَلِمَةَ الاِسْمِيَّةِ. i. هَذَا  ii. جَمِيلٌ  iii. عَرَفْتِ  iv. تَبْدَأُ",
+  "options": [
+   "i وَ ii",
+   "i وَ iii",
+   "ii وَ iii",
+   "iii وَ iv"
+  ],
+  "answer": 0,
+  "explanation": "هَذَا وَجَمِيلٌ اسْمَانِ؛ عَرَفْتِ وَتَبْدَأُ فِعْلَانِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-20",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مِنْ أَمْثِلَةِ الجُمْلَةِ الفِعْلِيَّةِ. i. أَجْنَاسٌ مُتَعَدِّدَةٌ  ii. القَاعَةُ العَامَّةُ  iii. أَسْكُنُ فِي القَرْيَةِ  iv. تُوجَدُ التَّسْهِيلَاتُ الكَثِيرَةُ",
+  "options": [
+   "i وَ ii",
+   "ii وَ iii",
+   "i وَ iv",
+   "iii وَ iv"
+  ],
+  "answer": 3,
+  "explanation": "الجُمْلَةُ الفِعْلِيَّةُ تَبْدَأُ بِفِعْلٍ: أَسْكُنُ، تُوجَدُ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-21",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسْمَاءُ الشَّوَاطِئِ كَثِيرَةٌ، مِنْهَا \"اير ڤاڤن\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "صَحِيحٌ، شَاطِئُ \"اير ڤاڤن\" (Pantai Air Papan) مِنَ الشَّوَاطِئِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-22",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسْمَاءُ الخَضْرَوَاتِ هُوَ البُرْتُقَالُ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "خَطَأٌ، البُرْتُقَالُ مِنَ الفَوَاكِهِ لَا مِنَ الخَضْرَوَاتِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-23",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"قتاني٢\" فِي اللُّغَةِ العَرَبِيَّةِ هُوَ الفَلَّاحُونَ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "صَحِيحٌ، قتاني٢ (petani-petani) = الفَلَّاحُونَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-24",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الجُمْلَةُ الفِعْلِيَّةُ: مُحَمَّدٌ حَصَدَ الدُّورِيَانَ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "خَطَأٌ، الجُمْلَةُ الفِعْلِيَّةُ تَبْدَأُ بِفِعْلٍ؛ وَهَذِهِ تَبْدَأُ بِاسْمٍ (مُحَمَّدٌ) فَهِيَ اسْمِيَّةٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-25",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الضَّمِيرُ المُتَكَلِّمُ ______",
+  "options": [
+   "هُوَ",
+   "أَنْتَ",
+   "أَنَا"
+  ],
+  "answer": 2,
+  "explanation": "أَنَا ضَمِيرُ المُتَكَلِّمِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-26",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَنْتُمَا ______",
+  "options": [
+   "اُكْتُبْ",
+   "اُكْتُبَا",
+   "اُكْتُبُوا"
+  ],
+  "answer": 1,
+  "explanation": "اُكْتُبَا فِعْلُ أَمْرٍ لِلمُخَاطَبَيْنِ (أَنْتُمَا).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-27",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فِعْلُ الأَمْرِ ______",
+  "options": [
+   "حَمَلَ",
+   "يَحْمِلُ",
+   "اِحْمِلْ"
+  ],
+  "answer": 2,
+  "explanation": "اِحْمِلْ فِعْلُ أَمْرٍ؛ حَمَلَ فِعْلٌ مَاضٍ، وَيَحْمِلُ فِعْلٌ مُضَارِعٌ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-28",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "حُبُّ القَرْيَةِ ______",
+  "options": [
+   "فِيهَا المَبَانِي",
+   "سُكَّانُهَا غَافِلُونَ",
+   "بِيئَتُهَا سَكِينَةٌ"
+  ],
+  "answer": 2,
+  "explanation": "نُحِبُّ القَرْيَةَ لِأَنَّ بِيئَتَهَا سَكِينَةٌ (هَادِئَةٌ).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-29",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الاِحْتِفَالُ بِذِكْرَى ______ الرَّسُولِ.",
+  "options": [
+   "الجَزَرُ",
+   "مَوْلِدِ",
+   "الحَقْلُ"
+  ],
+  "answer": 1,
+  "explanation": "الاِحْتِفَالُ بِذِكْرَى مَوْلِدِ الرَّسُولِ ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-30",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الأَرْنَبُ يَأْكُلُ ______.",
+  "options": [
+   "ديسارو",
+   "الجَزَرَ",
+   "مَوْلِدِ"
+  ],
+  "answer": 1,
+  "explanation": "الأَرْنَبُ يَأْكُلُ الجَزَرَ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-31",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "شَاطِئُ ______ فِي كُوتَا تِينْغِي.",
+  "options": [
+   "الجَزَرُ",
+   "مَوْلِدِ",
+   "ديسارو"
+  ],
+  "answer": 2,
+  "explanation": "شَاطِئُ ديسارو (Pantai Desaru) فِي كُوتَا تِينْغِي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-32",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَنْظَرُ حُقُولِ ______ جَمِيلٌ جِدًّا.",
+  "options": [
+   "مَوْلِدِ",
+   "الحَقْلُ",
+   "الأُرْزِّ"
+  ],
+  "answer": 2,
+  "explanation": "مَنْظَرُ حُقُولِ الأُرْزِّ جَمِيلٌ جِدًّا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-pat2024-33",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَقَعُ ______ بِجَانِبِ البَيْتِ.",
+  "options": [
+   "ديسارو",
+   "مَوْلِدِ",
+   "الحَقْلُ"
+  ],
+  "answer": 2,
+  "explanation": "يَقَعُ الحَقْلُ بِجَانِبِ البَيْتِ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
  }
 ]
