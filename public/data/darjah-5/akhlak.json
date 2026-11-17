@@ -1221,5 +1221,626 @@
   "explanation": "رياء اياله ممڤرليهتكن عمل كباءيقن كڤد اورڠ لاءين.",
   "source": "PAT 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-01",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چارا اونتوق منيڠكتكن ڤروداكتيۏيتي اورڠ إسلام؟",
+  "options": [
+   "داتڠ ليوات",
+   "ممبواڠ ماس",
+   "فوكوس ڤد ساتو كرجا",
+   "كورڠ بردسيڤلين"
+  ],
+  "answer": 2,
+  "explanation": "فوكوس ڤد ساتو كرجا ممبنتو منيڠكتكن ڤروداكتيۏيتي؛ داتڠ ليوات، ممبواڠ ماس دان كورڠ بردسيڤلين مڠورڠكنڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-02",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين جوال بلي؟",
+  "options": [
+   "ڤمبرين",
+   "ڤرتوكرن",
+   "ڤرجنجين"
+  ],
+  "answer": 1,
+  "explanation": "جوال بلي اياله ڤرتوكرن هرتا دڠن هرتا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-03",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب كتيك برسوكن؟",
+  "options": [
+   "برايموسي",
+   "لالاي دالم ڤرماءينن",
+   "منددهكن عورة",
+   "نية منداڤت كرضاءن الله"
+  ],
+  "answer": 3,
+  "explanation": "ادب برسوكن انتاراڽ نية منداڤت كرضاءن الله؛ يڠ لاءين بوكن ادب برسوكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-04",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه لارڠن سماس برسوكن؟",
+  "options": [
+   "بردندم",
+   "بردسيڤلين",
+   "تولوڠ منولوڠ",
+   "برتيمبڠ راس"
+  ],
+  "answer": 0,
+  "explanation": "بردندم اداله لارڠن سماس برسوكن؛ بردسيڤلين، تولوڠ منولوڠ دان برتيمبڠ راس اداله ادب يڠ باءيق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-05",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري ڤميمڤين يڠ باءيق؟",
+  "options": [
+   "برايمان",
+   "سومبوڠ",
+   "مننتيڠكن ديري",
+   "تيدق عاديل"
+  ],
+  "answer": 0,
+  "explanation": "ڤميمڤين يڠ باءيق برايمان؛ سومبوڠ، مننتيڠكن ديري دان تيدق عاديل اداله صيفت يڠ بوروق.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-06",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب سبلوم برمشوارت؟",
+  "options": [
+   "منقتي ماس",
+   "حاضير ليوات",
+   "تيدق برسديا"
+  ],
+  "answer": 0,
+  "explanation": "سبلوم برمشوارت هندقله منقتي ماس دان برسديا؛ حاضير ليوات دان تيدق برسديا بوكن ادب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-07",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه صيفت ترڤوجي دالم مشوارت؟",
+  "options": [
+   "اخلاص",
+   "بردندم",
+   "بڠݢ ديري",
+   "مننتيڠكن ديري"
+  ],
+  "answer": 0,
+  "explanation": "اخلاص اداله صيفت ترڤوجي دالم مشوارت؛ بردندم، بڠݢ ديري دان مننتيڠكن ديري اداله صيفت ترچلا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-08",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه تندا اخلاص؟",
+  "options": [
+   "مرنده ديري",
+   "منيڠݢي ديري",
+   "مراس بڠݢ",
+   "ترڤداي دڠن ڤوجين"
+  ],
+  "answer": 0,
+  "explanation": "اورڠ يڠ اخلاص سنتياس مرنده ديري؛ منيڠݢي ديري، مراس بڠݢ دان ترڤداي دڠن ڤوجين بوكن تندا اخلاص.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-09",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دانتارا كلبيهن اخلاص اياله",
+  "options": [
+   "ترݢودا دڠن شيطان",
+   "تيدق برحق منداڤت شفاعة",
+   "دعاء تيدق دمقبولكن الله",
+   "ترسلامت دري سيقسا نراك"
+  ],
+  "answer": 3,
+  "explanation": "اورڠ يڠ اخلاص ترسلامت دري سيقسا نراك.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-10",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسوڠݢوهڽ الله منولوڠ اورڠ يڠ صبر مروڤاكن دليل صيفت",
+  "options": [
+   "رياء",
+   "صبر",
+   "شكور",
+   "اخلاص"
+  ],
+  "answer": 1,
+  "explanation": "الله منولوڠ اورڠ يڠ صبر؛ ايت مروڤاكن دليل صيفت صبر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-11",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حقيقت صيفت صبر اياله صبر",
+  "options": [
+   "ملاكوكن دوسا",
+   "مڠرجاكن كطاعتن",
+   "ملاكوكن لارڠن الله",
+   "منيڠݢلكن كطاعتن"
+  ],
+  "answer": 1,
+  "explanation": "صبر دالم مڠرجاكن كطاعتن اداله ساله ساتو حقيقت صبر؛ ملاكوكن دوسا دان لارڠن الله، سرتا منيڠݢلكن كطاعتن بوكن صبر.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-12",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين حسد اياله",
+  "options": [
+   "برشكور",
+   "برصبر",
+   "ايري هاتي",
+   "باءيق هاتي"
+  ],
+  "answer": 2,
+  "explanation": "حسد برمقصود ايري هاتي ترهادڤ نعمت اورڠ لاءين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-13",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت حسد برڤونچا درڤد",
+  "options": [
+   "صبر",
+   "شكور",
+   "تواضع",
+   "تكبر"
+  ],
+  "answer": 3,
+  "explanation": "حسد برڤونچا درڤد صيفت تكبر؛ صبر، شكور دان تواضع اداله صيفت ترڤوجي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-14",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت حسد اكن ملاهيركن صيفت ترچلا سڤرتي",
+  "options": [
+   "زُهْد",
+   "مڠومڤت",
+   "امانه",
+   "استقامة"
+  ],
+  "answer": 1,
+  "explanation": "حسد ملاهيركن صيفت ترچلا سڤرتي مڠومڤت؛ زهد، امانه دان استقامة اداله صيفت ترڤوجي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-15",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم رياء اياله",
+  "options": [
+   "واجب",
+   "هاروس",
+   "مكروه",
+   "حرام"
+  ],
+  "answer": 3,
+  "explanation": "رياء حكومڽ حرام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-16",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كاتيݢوري رياء كچوالي",
+  "options": [
+   "هاتي",
+   "ڤربواتن",
+   "ڤركاتاءن",
+   "ڤنمڤيلن"
+  ],
+  "answer": 0,
+  "explanation": "رياء تربهاݢي ڤد ڤربواتن، ڤركاتاءن دان ڤنمڤيلن؛ هاتي بوكن كاتيݢوري رياء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-17",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چارا منجاءوهي صيفت رياء كچوالي",
+  "options": [
+   "رياء ممبيناساكن عملن",
+   "سنتياس مڠيڠتي الله",
+   "سوك ممبڠݢاكن ديري",
+   "سدر كباءيقن درڤد الله"
+  ],
+  "answer": 2,
+  "explanation": "سوك ممبڠݢاكن ديري بوكن چارا منجاءوهي رياء؛ يڠ لاءين اداله چارا مڠهيندري رياء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-18",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين تكبر ڤد بهاس. i. سومبوڠ  ii. چرديق  iii. بڠݢ ديري  iv. مرنده ديري",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i دان iv",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "تكبر ڤد بهاس برمقصود سومبوڠ دان بڠݢ ديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-19",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت كسن صيفت تكبر. i. ترڤوجي  ii. ڤماره  iii. دڠكي  iv. مڠحرمتي ماءنسي",
+  "options": [
+   "i دان iii",
+   "i دان iv",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ڤماره دان دڠكي اداله كسن صيفت تكبر؛ ترڤوجي دان مڠحرمتي ماءنسي بوكن كسنڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-20",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤميمڤين يڠ برتڠݢوڠجواب مستيله منيڠكتكن ايميج نݢارا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ڤميمڤين يڠ برتڠݢوڠجواب مستيله منيڠكتكن ايميج نݢارا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-21",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مصيبة مروڤاكن كسنڠن دان كݢمبيراءن.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، مصيبة اياله كسوسهن يڠ منيمڤا مانوسيا؛ بوكن كسنڠن دان كݢمبيراءن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-22",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نعمت الله كڤد مخلوق بوليه دهيتوڠ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، نعمت الله كڤد مخلوق تيدق داڤت دهيتوڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-23",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رياء مروڤاكن صيفت ترچلا.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، رياء مروڤاكن صيفت ترچلا دان حكومڽ حرام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-24",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب برجوال بلي",
+  "options": [
+   "جوجور",
+   "سومبوڠ",
+   "ڤڠوتور"
+  ],
+  "answer": 0,
+  "explanation": "ادب برجوال بلي هندقله جوجور.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-25",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا اورڠ اخلاص",
+  "options": [
+   "رياء",
+   "صبر",
+   "اڠكوه"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ يڠ اخلاص سنتياس صبر؛ رياء دان اڠكوه بوكن تندا اخلاص.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-26",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چيري اورڠ يڠ رياء",
+  "options": [
+   "سنتياس برشكور",
+   "منوندوقكن كقالا",
+   "ممڤرليهتكن عبادة"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ رياء سوك ممڤرليهتكن عبادة كڤد اورڠ لاءين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-27",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين تكبر",
+  "options": [
+   "بڠݢ ديري",
+   "مرنده ديري",
+   "برتولق انسور"
+  ],
+  "answer": 0,
+  "explanation": "تكبر برمقصود بڠݢ ديري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-28",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤونچا ڤروداكتيۏيتي اورڠ إسلام رنده ______",
+  "options": [
+   "كورڠ ݢالقن",
+   "رياضه",
+   "طاعة"
+  ],
+  "answer": 0,
+  "explanation": "كورڠ ݢالقن اداله ساله ساتو ڤونچا ڤروداكتيۏيتي اورڠ إسلام رنده.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-29",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اكتيۏيتي يڠ مڽيحتكن توبوه بادن ______",
+  "options": [
+   "رياضه",
+   "طاعة",
+   "برمشوارت"
+  ],
+  "answer": 0,
+  "explanation": "رياضه اداله اكتيۏيتي يڠ مڽيحتكن توبوه بادن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-30",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب رعيت ترهادڤ ڤميمڤين ______",
+  "options": [
+   "طاعة",
+   "صبر",
+   "رياضه"
+  ],
+  "answer": 0,
+  "explanation": "رعيت هندقله طاعة كڤد ڤميمڤين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-31",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مڽلساياكن ڤرسليسيهن ڤنداڤت ______",
+  "options": [
+   "برمشوارت",
+   "صبر",
+   "طاعة"
+  ],
+  "answer": 0,
+  "explanation": "ڤرسليسيهن ڤنداڤت دسلساياكن دڠن برمشوارت.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-pat2024-32",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت يڠ ڤرلو اد ڤد ستياڤ انسان يڠ بركلر مؤمن ______",
+  "options": [
+   "صبر",
+   "رياضه",
+   "كورڠ ݢالقن"
+  ],
+  "answer": 0,
+  "explanation": "صبر اداله صيفت يڠ ڤرلو اد ڤد ستياڤ مؤمن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
  }
 ]
