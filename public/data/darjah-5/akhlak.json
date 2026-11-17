@@ -1,5 +1,605 @@
 [
  {
+  "id": "darjah-5-akhlak-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چيري ڤكرجا ڤروداكتيف؟",
+  "options": [
+   "چواي",
+   "بركواليتي",
+   "لمه سماڠت",
+   "تيدق برتڠݢوڠجواب"
+  ],
+  "answer": 1,
+  "explanation": "ڤكرجا ڤروداكتيف بركواليتي؛ چواي، لمه سماڠت دان تيدق برتڠݢوڠجواب مڠورڠكن ڤروداكتيۏيتي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چارا اونتوق منيڠكتكن ڤروداكتيۏيتي اومت إسلام؟",
+  "options": [
+   "لالاي",
+   "سمبيل ليوا",
+   "طاعة ڤرينته الله",
+   "بنتڠ ارهن كتوا"
+  ],
+  "answer": 2,
+  "explanation": "طاعة ڤرينته الله ممبنتو منيڠكتكن ڤروداكتيۏيتي اومت إسلام.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه چونتوه ادب برسام ڤلڠݢن كتيك برجوال بلي؟",
+  "options": [
+   "برلاݢق",
+   "مانيس موك",
+   "سومبوڠ",
+   "بركات كاسر"
+  ],
+  "answer": 1,
+  "explanation": "مانيس موك اداله ادب كتيك برجوال بلي؛ يڠ لاءين اداله صيفت يڠ دلارڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه انتارا ادب برجوال بلي؟",
+  "options": [
+   "ماره",
+   "برچاكڤ كاسر",
+   "برلاكو خيانة",
+   "منقتي جنجي"
+  ],
+  "answer": 3,
+  "explanation": "منقتي جنجي اداله ادب برجوال بلي؛ ماره، برچاكڤ كاسر دان خيانة دلارڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت اداله اوبجيكتيف سوكن منوروت ڤندڠن إسلام؟",
+  "options": [
+   "ايڠكر ڤرينته الله",
+   "ملمهكن ڤلقساناءن عبادة",
+   "مڽيحتكن توبوه بادن",
+   "منيمبولكن ڤرڤچهن سسام ماءنسي"
+  ],
+  "answer": 2,
+  "explanation": "اوبجيكتيف سوكن اياله مڽيحتكن توبوه بادن؛ يڠ لاءين بوكن توجوان سوكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ادب٢ برسوكن؟",
+  "options": [
+   "ليك دان لالاي",
+   "ڤرچمڤورن بيبس",
+   "تياد سماڠت كسوكنن",
+   "نية منچاري كريضاءن الله"
+  ],
+  "answer": 3,
+  "explanation": "نية منچاري كريضاءن الله اداله ادب برسوكن؛ يڠ لاءين اداله ڤربواتن يڠ دلارڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كتيك برسوكن كيت دلارڠ",
+  "options": [
+   "برساءيڠ",
+   "ملڠݢر ڤراتورن",
+   "برسوڤن سنتون",
+   "برتولق انسور"
+  ],
+  "answer": 1,
+  "explanation": "كيت دلارڠ ملڠݢر ڤراتورن كتيك برسوكن؛ برسوڤن سنتون دان برتولق انسور اداله ادب يڠ باءيق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه برسوكن منوروت اكام إسلام اياله",
+  "options": [
+   "ممبواڠ ماس",
+   "ملمهكن اڠݢوتا بادن",
+   "مڠرتكن صلة الرحيم",
+   "فوڠسي عقل منجادي لمه"
+  ],
+  "answer": 2,
+  "explanation": "برسوكن ممبوات ڤرساودارائن (صلة الرحيم) لبيه ايرت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤميمڤين يڠ باءيق اداله ڤميمڤين يڠ",
+  "options": [
+   "برايمان",
+   "تيدق عاديل",
+   "كورڠ برعلمو",
+   "ممبوات كڤوتوسن سنديري"
+  ],
+  "answer": 0,
+  "explanation": "ڤميمڤين يڠ باءيق مستي برايمان، عاديل دان برعلمو.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا ادب رعيت ترهادڤ ڤميمڤين اياله",
+  "options": [
+   "ايڠكر",
+   "بكرجاسام",
+   "برڤچه بله",
+   "مموكول ڤميمڤين"
+  ],
+  "answer": 1,
+  "explanation": "بكرجاسام دڠن ڤميمڤين اداله ادب رعيت؛ يڠ لاءين اداله ڤربواتن يڠ بوروق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حاصيل درڤد كڤميمڤينن يڠ برتڠݢوڠجواب اكن منجاديكن",
+  "options": [
+   "نݢارا تيدق امان",
+   "هيدوڤ رعيت كوچر كاچير",
+   "ڤمباڠونن نݢارا داڤت دلقساناكن دڠن باءيق"
+  ],
+  "answer": 2,
+  "explanation": "كڤميمڤينن يڠ برتڠݢوڠجواب مڽببكن ڤمباڠونن نݢارا داڤت دلقساناكن دڠن باءيق.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كسن بوروق يڠ دتريما جك تيدق برادب ترهادڤ ڤميمڤين اياله",
+  "options": [
+   "كسلامتن نݢارا ترجامين",
+   "رعيت هيدوڤ امان",
+   "دكناكن تيندقن اوندڠ٢",
+   "منيڠكتكن ايميج نݢارا"
+  ],
+  "answer": 2,
+  "explanation": "رعيت يڠ تيدق برادب ترهادڤ ڤميمڤين بوليه دكناكن تيندقن اوندڠ٢.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "توجوان مشوارت دتونتوت ددالم إسلام اياله",
+  "options": [
+   "دموركاءي الله",
+   "منداڤت كسڤاكتن",
+   "منجاتوهكن مرواه",
+   "مروميتكن مسئله"
+  ],
+  "answer": 1,
+  "explanation": "مشوارت دتونتوت اونتوق منداڤت كسڤاكتن دان كڤوتوسن يڠ تڤت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سماس مشوارت يڠ دانجوركن دالم إسلام اياله",
+  "options": [
+   "برحجه سچارا تيدق جلس",
+   "برصيفت مذمومة",
+   "مڠݢوناكن بهاس يڠ باءيق"
+  ],
+  "answer": 2,
+  "explanation": "مڠݢوناكن بهاس يڠ باءيق اداله ادب سماس مشوارت؛ يڠ لاءين دلارڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كباءيقن برادب كتيك برمشوارت كچوالي",
+  "options": [
+   "برلاكو ڤرݢادوهن",
+   "وجود سواسان امان",
+   "داڤت ميلسايكن مسئله",
+   "مشوارت برجالن لنچر"
+  ],
+  "answer": 0,
+  "explanation": "برلاكو ڤرݢادوهن بوكن كباءيقن برادب كتيك مشوارت؛ يڠ لاءين اداله كباءيقنڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله كسن تيدق منجاݢ ادب كتيك برمشوارت كچوالي",
+  "options": [
+   "تيدق ڤواس هاتي",
+   "برسليسيهن ڤنداڤت",
+   "مڽاكيتكن هاتي",
+   "دسايڠي الله تعالى"
+  ],
+  "answer": 3,
+  "explanation": "دسايڠي الله بوكن كسن تيدق منجاݢ ادب؛ يڠ لاءين اداله كسن بوروقڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤڠرتين اخلاص منوروت بهاس. i. مورني  ii. برسيه  iii. سومبوڠ  iv. خصوص",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iii",
+   "i ، ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "اخلاص ڤد بهاس برمقصود مورني، برسيه دان خصوص (تنڤا تجمور).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كورڠ ڤڠتاهوان دان ڤڠالامن ميببكن رنده داي كرياتيۏيتي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، كورڠ ڤڠتاهوان دان ڤڠالامن ميببكن رنده داي كرياتيۏيتي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برسوكن دڠن نية اونتوق منداڤت كريضاءن الله.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، نية منچاري كريضاءن الله اداله ادب برسوكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ برايمان مستي منطاعتي الله، رسول دان اولي الأمر.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، اورڠ برايمان مستي منطاعتي الله، رسول دان اولي الأمر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رعيت تيدق دتونتوت اونتوق منطاعتي ڤميمڤين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، رعيت دتونتوت منطاعتي ڤميمڤين سلاما تيدق مڠاروه كمعصيتن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤميمڤين يڠ تيدق واجب دطاعتي",
+  "options": [
+   "ظاليم",
+   "باءيق هاتي",
+   "برعلمو"
+  ],
+  "answer": 0,
+  "explanation": "ڤميمڤين يڠ ظاليم تيدق واجب دطاعتي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مقصود مشوارت",
+  "options": [
+   "بربوال-بوال",
+   "برماءين دان ليك",
+   "بربينچڠ دان برمذاكره"
+  ],
+  "answer": 2,
+  "explanation": "مشوارت برمقصود بربينچڠ دان برمذاكره اونتوق مڠمبيل كڤوتوسن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سماس برمشوارت",
+  "options": [
+   "ممبري تومڤوان",
+   "مندڠر دڠن سمبيل ليوا",
+   "برتڠكر"
+  ],
+  "answer": 0,
+  "explanation": "ممبري تومڤوان (دان مندڠر دڠن باءيق) اداله ادب سماس مشوارت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت٢ ترڤوجي كتيك مشوارت",
+  "options": [
+   "اخلاص",
+   "منجاتوهكن مرواه",
+   "مڤاكيتي هاتي مان٢ ڤيهق"
+  ],
+  "answer": 0,
+  "explanation": "اخلاص اداله صيفت ترڤوجي كتيك مشوارت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كلبيهن اخلاص",
+  "options": [
+   "ترقداي دڠن ڤوجين",
+   "تيدق دريضاءي الله",
+   "بيبس درڤد كوداءن شيطان"
+  ],
+  "answer": 2,
+  "explanation": "اورڠ يڠ اخلاص بيبس درڤد كوداءن شيطان.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا بكرجا يڠ دسوكاءي الله ______",
+  "options": [
+   "تكون",
+   "ممانه",
+   "ڤميمڤين"
+  ],
+  "answer": 0,
+  "explanation": "بكرجا دڠن تكون اداله چارا بكرجا يڠ دسوكاءي الله.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-28",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سوكن يڠ ڤاليڠ ڤوڤولر ڤد زمان رسول الله ﷺ ______",
+  "options": [
+   "تكون",
+   "ڤميمڤين",
+   "ممانه"
+  ],
+  "answer": 2,
+  "explanation": "ممانه اداله سوكن يڠ ڤاليڠ ڤوڤولر ڤد زمان رسول الله ﷺ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-29",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب سبلوم برسوكن ______",
+  "options": [
+   "ڤميمڤين",
+   "برسلام-سلامن",
+   "تكون"
+  ],
+  "answer": 1,
+  "explanation": "برسلام-سلامن اداله ادب يڠ باءيق دالم برسوكن.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-30",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ دبري تڠݢوڠجواب مڠوروس رعيت ______",
+  "options": [
+   "تكون",
+   "ڤميمڤين",
+   "ممانه"
+  ],
+  "answer": 1,
+  "explanation": "ڤميمڤين اداله اورڠ يڠ دبري تڠݢوڠجواب مڠوروس رعيت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-akhlak-ppt2022-31",
+  "exam": "Darjah 5",
+  "subject": "Akhlak",
+  "topic": "Akhlak",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ادب رعيت ترهادڤ ڤميمڤين ______",
+  "options": [
+   "تكون",
+   "منطاعتي ڤميمڤين",
+   "برسلام-سلامن"
+  ],
+  "answer": 1,
+  "explanation": "رعيت هندقله منطاعتي ڤميمڤين يڠ عاديل.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-akhlak-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Akhlak",
