@@ -1062,5 +1062,605 @@
   "explanation": "رسول الله ﷺ مڽمڤايكن ڤسنن دان ڤرايڠتن اومت إسلام ملالوءي خطبة.",
   "source": "PAT 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-01",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه ڤرجنجين داماي حُدَيْبِيَّة برلاكو؟",
+  "options": [
+   "بولن رمضان",
+   "بولن شوال",
+   "بولن ذوالقعدة",
+   "بولن ذوالحجة"
+  ],
+  "answer": 2,
+  "explanation": "ڤرجنجين حديبية برلاكو ڤد بولن ذوالقعدة تاهون كأنم هجرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-02",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه توجوان رسول الله ﷺ دان صحابت منوجو كمكة ڤد تاهون كأنم هجرة؟",
+  "options": [
+   "منونايكن عمرة",
+   "منزيارهي صحابت",
+   "ممبينا كعبة",
+   "ممتراي ڤرجنجين عقبة"
+  ],
+  "answer": 0,
+  "explanation": "رسول الله ﷺ دان صحابت منوجو مكة ڤد تاهون كأنم هجرة اونتوق منونايكن عمرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-03",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ إسلام دبنركن ماسوقي مكة سلام براڤ هاري؟",
+  "options": [
+   "2 هاري",
+   "3 هاري",
+   "4 هاري",
+   "5 هاري"
+  ],
+  "answer": 1,
+  "explanation": "اورڠ إسلام دبنركن ماسوق دان تيڠݢل دمكة سلاما 3 هاري.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-04",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه كسن ڤرجنجين حُدَيْبِيَّة؟",
+  "options": [
+   "اكام إسلام بركمبڠ لواس",
+   "ڤميمڤين قريش منولق اجرن إسلام",
+   "هوبوڠن ڤوليتيك دان ايكونومي تيدق ستابيل",
+   "منوتوڤ جالن ڤمبيبسن مكة درڤد اورڠ قريش"
+  ],
+  "answer": 0,
+  "explanation": "ستله ڤرجنجين حديبية، اكام إسلام بركمبڠ لواس كران دعوه داڤت دلاكوكن دڠن داماي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-05",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "باكايماناكه كهيدوڤن مشاركت إسلام دمدينة سلڤس ڤرجنجين حُدَيْبِيَّة؟",
+  "options": [
+   "امان داماي",
+   "هورو-هارا",
+   "سنتياس بركادو",
+   "سوك هيبوران"
+  ],
+  "answer": 0,
+  "explanation": "ستله ڤرجنجين حديبية، مشاركت إسلام دمدينة هيدوڤ دالم كأداءن امان داماي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-06",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤونچا ڤلڠݢرن ڤرجنجين حُدَيْبِيَّة؟",
+  "options": [
+   "قوم قريش مماراڠي بني امية",
+   "قوم قريش مماراڠي بني هاشم",
+   "قوم قريش مماراڠي بني خُزَاعَة",
+   "قوم قريش مماراڠي بني اسرائيل"
+  ],
+  "answer": 2,
+  "explanation": "ڤرجنجين حديبية دلڠݢر اڤابيلا قوم قريش مماراڠي بني خزاعة، سكوتو رسول الله ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-07",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ دلاكوكن اوليه رسول الله ﷺ كتيك ماسوقي مسجد الحرام اياله",
+  "options": [
+   "ممباچ القرءان",
+   "ملاكوكن طواف",
+   "ممبرسيهكن حجر الأسود",
+   "منونايكن صلاة جمعة"
+  ],
+  "answer": 1,
+  "explanation": "رسول الله ﷺ ملاكوكن طواف (قدوم) كتيك ماسوقي مسجد الحرام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-08",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول يڠ دأوتوس اونتوق سموا ماءنسي دان جين اياله",
+  "options": [
+   "نبي محمد ﷺ",
+   "نبي سليمان عليه السلام",
+   "نبي ادم عليه السلام",
+   "نبي ابراهيم عليه السلام"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ دأوتوس اونتوق سموا ماءنسي دان جين.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-09",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تراديسي يڠ منجادي عملن مشاركت جاهيليه اياله",
+  "options": [
+   "صلاة",
+   "برڤواسا",
+   "برهالا سباݢاي ڤرانتارا",
+   "تولوڠ-منولوڠ"
+  ],
+  "answer": 2,
+  "explanation": "مشاركت جاهلية مڽمبه برهالا سباݢاي ڤرانتارا كڤد الله.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-10",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيستم معاملات يڠ دڤركنلكن اوليه رسول الله ﷺ اياله",
+  "options": [
+   "ڤنيڤوان",
+   "ڤنيندسن",
+   "تولوڠ-منولوڠ",
+   "رباء دان رسواه"
+  ],
+  "answer": 2,
+  "explanation": "رسول الله ﷺ مڠانجوركن تولوڠ منولوڠ دان مڠحرامكن رباء، رسواه دان ڤنيڤوان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-11",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اوندڠ٢ يڠ لڠكڤ سڤنجڠ زمان اياله",
+  "options": [
+   "يهودي",
+   "نصراني",
+   "مجوسي",
+   "إسلام"
+  ],
+  "answer": 3,
+  "explanation": "اوندڠ٢ إسلام لڠكڤ دان سسواي سڤنجڠ زمان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-12",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة يڠ دتونايكن اوليه سيدنا ابو بكر ڤد تاهون 9 هجرة اياله",
+  "options": [
+   "ڤواسا",
+   "حج",
+   "زكاة",
+   "صدقه"
+  ],
+  "answer": 1,
+  "explanation": "سيدنا ابو بكر دڤرينتهكن مڠتواي جماعة حج ڤد تاهون 9 هجرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-13",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ مڽمڤايكن خطبة حجة الوداع كتيك براد",
+  "options": [
+   "دمكة",
+   "دعرفة",
+   "دشام",
+   "دمدينة"
+  ],
+  "answer": 1,
+  "explanation": "رسول الله ﷺ مڽمڤايكن خطبة حجة الوداع دعرفة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-14",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله تيندقن نبي محمد ﷺ اڤابيلا ساكيت بركورڠن كچوالي",
+  "options": [
+   "ڤركي مسجد",
+   "مڠرجاكن عمرة",
+   "مڽمڤايكن خطبة",
+   "منونايكن صلاة برجماعة"
+  ],
+  "answer": 1,
+  "explanation": "مڠرجاكن عمرة بوكن تيندقن نبي ﷺ اڤابيلا ساكيتڽ بركورڠن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-15",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله اورڠ يڠ دڤڠكيل رسول الله ﷺ سبلوم كوافاتن كچوالي",
+  "options": [
+   "انقن",
+   "جيرن-جيرنن",
+   "ايستري-ايستريڽ",
+   "چوچو-چوچوڽ"
+  ],
+  "answer": 1,
+  "explanation": "رسول الله ﷺ ممڠݢيل اهلي كلوارݢ (انق، ايستري دان چوچو) سبلوم كوافاتن؛ جيرن بوكن.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-16",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤسنن تراخير رسول الله ﷺ سبلوم كوافاتن. i. منونايكن صلاة  ii. مڠرجاكن عمرة  iii. منجاݢ كباجيقن همبا سهاي  iv. ممباير زكاة",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "ڤسنن تراخير نبي ﷺ: منونايكن صلاة دان منجاݢ كباجيقن همبا سهاي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-17",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ابو سفيان براس ݢرون دڠن كقواتن تنترا إسلام.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ابو سفيان براس ݢرون دڠن كقواتن تنترا إسلام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-18",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مشاركت عرب جاهيليه هيدوڤ دالم كأداءن امان-داماي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، مشاركت عرب جاهلية هيدوڤ دالم كأداءن كاچاو بيلاو (ڤرتيكاين دان ڤرڠ).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-19",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "إسلام منرڤكن عنصور كتقواءن كڤد الله دالم برمعاملات.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، إسلام منرڤكن عنصور كتقواءن كڤد الله دالم برمعاملات.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-20",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ مڠرجاكن حج وداع ڤد تاهون 7 هجرة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، رسول الله ﷺ مڠرجاكن حج وداع ڤد تاهون 10 هجرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-21",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول الله ﷺ برمالم دمنى ڤد 8 ذوالحجة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، رسول الله ﷺ برمالم دمنى ڤد 8 ذوالحجة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-22",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تاهون ڤمبوكاءن كوتا مكة",
+  "options": [
+   "8 هجرة",
+   "10 هجرة",
+   "11 هجرة"
+  ],
+  "answer": 0,
+  "explanation": "كوتا مكة دبوك ڤد تاهون 8 هجرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-23",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤميمڤين اكوڠ سڤنجڠ زمان",
+  "options": [
+   "نبي محمد ﷺ",
+   "نبي عيسى عليه السلام",
+   "نبي موسى عليه السلام"
+  ],
+  "answer": 0,
+  "explanation": "نبي محمد ﷺ اداله ڤميمڤين اكوڠ سڤنجڠ زمان.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-24",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤراونداڠن عرب جاهيليه",
+  "options": [
+   "برڤندوكن القرءان",
+   "حكومن برصيفت منديديق",
+   "منفيكن حق ونيتا"
+  ],
+  "answer": 2,
+  "explanation": "ڤراونداڠن جاهلية منفيكن حق ونيتا.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-25",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "رسول تراخير",
+  "options": [
+   "نبي موسى عليه السلام",
+   "نبي عيسى عليه السلام",
+   "نبي محمد ﷺ"
+  ],
+  "answer": 2,
+  "explanation": "نبي محمد ﷺ اداله رسول تراخير.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-26",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مڠݢنتيكن رسول الله ﷺ سباݢاي امام",
+  "options": [
+   "سيدنا علي",
+   "سيدنا عمر",
+   "سيدنا ابو بكر"
+  ],
+  "answer": 2,
+  "explanation": "سيدنا ابو بكر مڠݢنتيكن رسول الله ﷺ سباݢاي امام ڤد ماس ساكيتڽ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-27",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤرجنجين يڠ مڠمبڠكن شعار إسلام ______",
+  "options": [
+   "حديبية",
+   "انفاق",
+   "قربان"
+  ],
+  "answer": 0,
+  "explanation": "ڤرجنجين حديبية مڽببكن شعار إسلام بركمبڠ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-28",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عقيدة يڠ دأجركن اوليه رسول الله ﷺ ______",
+  "options": [
+   "القرءان دان السنة",
+   "مڠساكن الله",
+   "قربان"
+  ],
+  "answer": 1,
+  "explanation": "عقيدة يڠ دأجركن اياله مڠساكن الله (توحيد).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-29",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سيستم معاملات يڠ دڤركنلكن اوليه رسول الله ﷺ ______",
+  "options": [
+   "حديبية",
+   "مڠساكن الله",
+   "انفاق"
+  ],
+  "answer": 2,
+  "explanation": "انفاق (تولوڠ منولوڠ) اداله سيستم معاملات يڠ دڤركنلكن اوليه رسول الله ﷺ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-30",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عبادة يڠ دلاكوكن ڤد 10 ذوالحجة ______",
+  "options": [
+   "انفاق",
+   "قربان",
+   "القرءان دان السنة"
+  ],
+  "answer": 1,
+  "explanation": "قربان دلاكوكن ڤد 10 ذوالحجة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-sirah-pat2024-31",
+  "exam": "Darjah 5",
+  "subject": "Sirah",
+  "topic": "Sirah",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤݢڠن اورڠ إسلام سلاما-لاما ______",
+  "options": [
+   "حديبية",
+   "القرءان دان السنة",
+   "مڠساكن الله"
+  ],
+  "answer": 1,
+  "explanation": "القرءان دان السنة اياله ڤݢڠن اورڠ إسلام سلاما-لاما.",
+  "source": "PAT 2024",
+  "perlu_semak": true
  }
 ]
