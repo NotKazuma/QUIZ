@@ -1183,5 +1183,685 @@
   "explanation": "مد لازم دباچ انم حركة.",
   "source": "PAT 2023",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-01",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين إستعاذة؟",
+  "options": [
+   "ممينتا كباءيقن",
+   "مموهون كصيحتن",
+   "مموهون ڤرليندوڠن",
+   "مڠهارڤكن ڤمبيلاءن"
+  ],
+  "answer": 2,
+  "explanation": "إستعاذة ڤد بهاس برمقصود مموهون ڤرليندوڠن (دري شيطان).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-02",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممباچ إستعاذة كتيك ممولاكن باچاءن؟",
+  "options": [
+   "واجب",
+   "حرام",
+   "مكروه",
+   "تيدق واجب"
+  ],
+  "answer": 3,
+  "explanation": "ممباچ إستعاذة سبلوم ممولاكن باچاءن حكومڽ سنة، ماك تيدق واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-03",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممباچ بسملة ڤد ڤرمولاءن الفاتحة؟",
+  "options": [
+   "سنة",
+   "مكروه",
+   "هاروس",
+   "واجب"
+  ],
+  "answer": 3,
+  "explanation": "بسملة اداله ايات ڤرتام سورة الفاتحة، ماك حكوم ممباچڽ واجب.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-04",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم ممباچ بسملة كتيك ممولاكن سموا ڤربواتن؟",
+  "options": [
+   "هاروس",
+   "سنة",
+   "مكروه",
+   "واجب"
+  ],
+  "answer": 1,
+  "explanation": "ممباچ بسملة كتيك ممولاكن سسواتو ڤربواتن حكومڽ سنة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-05",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه حكوم ال تعريف؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "ال تعريف اد دوا حكوم: ال قمرية (إظهار) دان ال شمسية (إدغام).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-06",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي مد ڤد بهاس؟",
+  "options": [
+   "ڤرتموان",
+   "ڤمبهاكين",
+   "ڤرتمبهن",
+   "ڤمبهاروان"
+  ],
+  "answer": 2,
+  "explanation": "مد ڤد بهاس برمقصود ڤرتمبهن (ڤنجڠ).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-07",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاكين مد؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "مد تربهاݢي دوا: مد اصلي دان مد فرعي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-08",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه بهاكين حركة مد؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "حركة مد تربهاݢي امڤت: 2، 4، 5 دان 6 حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-09",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مد جائز منفصل برلاكو كتيك مد اصلي برتمو همزة دالم",
+  "options": [
+   "ساتو ڤركاتاءن",
+   "دوا كلمة",
+   "باچاءن وقف",
+   "باچاءن سكتة"
+  ],
+  "answer": 1,
+  "explanation": "مد جائز منفصل برلاكو اڤابيلا مد اصلي برتمو همزة دالم دوا كلمة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-10",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة مد جائز منفصل كتيك وصل اداله",
+  "options": [
+   "دوا حركة",
+   "ليم حركة",
+   "امڤت اتاو انم حركة",
+   "امڤت اتاو ليم حركة"
+  ],
+  "answer": 3,
+  "explanation": "مد جائز منفصل دباچ امڤت اتاو ليم حركة كتيك وصل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-11",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف سبلوم اخير يڠ ترداڤت ڤد مد عارض للسكون اياله",
+  "options": [
+   "اليف، واو اتاو ياء",
+   "اليف، باء اتاو تاء",
+   "ياء، نون اتاو واو",
+   "هاء، واو اتاو لام"
+  ],
+  "answer": 0,
+  "explanation": "حروف سبلوم اخير ڤد مد عارض للسكون اياله حروف مد: اليف، واو اتاو ياء.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-12",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم ممباچ مد عارض للسكون دڠن قدر دوا اتاو امڤت اتاو انم حركة اياله",
+  "options": [
+   "واجب",
+   "سنة",
+   "هاروس",
+   "مكروه"
+  ],
+  "answer": 2,
+  "explanation": "مد عارض للسكون بوليه دباچ دوا، امڤت اتاو انم حركة؛ حكومڽ هاروس.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-13",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "مد لين هاروس دباچ دڠن قدر",
+  "options": [
+   "دوا اتاو امڤت حركة",
+   "تيݢ اتاو ليم حركة",
+   "دوا اتاو امڤت اتاو ليم حركة",
+   "دوا اتاو امڤت اتاو انم حركة"
+  ],
+  "answer": 3,
+  "explanation": "مد لين (كتيك وقف) هاروس دباچ دوا، امڤت اتاو انم حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-14",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "همزة براد سبلوم حروف مد دأول ڤركاتاءن اياله ڤڠرتين مد",
+  "options": [
+   "بَدَل",
+   "لِين",
+   "جَائِز",
+   "عارض للسكون"
+  ],
+  "answer": 0,
+  "explanation": "همزة سبلوم حروف مد دالم ساتو كلمة اداله مد بدل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-15",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة مد بدل اياله",
+  "options": [
+   "دوا حركة",
+   "امڤت حركة",
+   "دوا دان امڤت حركة",
+   "دوا دان ليم حركة"
+  ],
+  "answer": 0,
+  "explanation": "مد بدل دباچ دوا حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-16",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انتارا بهاكين مد لازم اياله",
+  "options": [
+   "مد فرعي",
+   "مد لين",
+   "مد تمكين",
+   "مد لازم حرفي"
+  ],
+  "answer": 3,
+  "explanation": "مد لازم تربهاݢي كڤد مد لازم كلمي دان مد لازم حرفي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-17",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤرياتاءن مڠناءي مد لازم كلمي كچوالي",
+  "options": [
+   "حروف مد برتمو سكون اصلي",
+   "حروف مد دأدغامكن",
+   "ءَآلْـَٔنَ... چونتوه مد لازم كلمي",
+   "تربهاݢي كڤد تيݢ بهاكين"
+  ],
+  "answer": 3,
+  "explanation": "مد لازم كلمي تربهاݢي كڤد دوا (مثقل دان مخفف)، بوكن تيݢ.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-18",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله چونتوه مد لازم حرفي مثقل كچوالي",
+  "options": [
+   "الٓمّ",
+   "طسٓمّ",
+   "الٓمٓر",
+   "الٓر"
+  ],
+  "answer": 3,
+  "explanation": "الٓر اداله مد لازم حرفي مخفف؛ الٓمّ، طسٓمّ دان الٓمٓر مڠاندوڠي مثقل (حروف براد إدغام).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-19",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه بهاكين مد صلة؟ i. مد اصلي  ii. مد لازم حرفي  iii. مد صلة طويلة  iv. مد صلة قصيرة",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "مد صلة تربهاݢي دوا: مد صلة طويلة دان مد صلة قصيرة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-20",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چونتوه مد صلة قصيرة؟ i. مَا حَوْلَهُۥ ذَهَبَ ٱللَّهُ  ii. إِنَّهُۥ كَانَ فَٰحِشَةً  iii. وَلَدٌ وَوَرِثَهُۥٓ أَبَوَاهُ  iv. أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "ii دان iv"
+  ],
+  "answer": 0,
+  "explanation": "هاء ضمير يڠ تيدق دإيكوتي همزة دباچ مد صلة قصيرة (i دان ii)؛ يڠ دإيكوتي همزة (iii دان iv) اداله مد صلة طويلة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-21",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة مد تمكين اياله دوا حركة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، مد تمكين دباچ دوا حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-22",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَلَا ٱلضَّآلِّينَ اداله چونتوه مد لازم كلمي مثقل.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ٱلضَّآلِّينَ اداله مد لازم كلمي مثقل (حروف مد برتمو حروف برتشديد دالم ساتو كلمة).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-23",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ مد صلة قصيرة اداله امڤت حركة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، مد صلة قصيرة دباچ دوا حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-24",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا وقف لازم اياله ميم كچيل (م).",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، تندا وقف لازم اياله ميم كچيل (م) دان واجب برهنتي.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-25",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا (قلى) برمقصود وَصْلُ أَوْلَى.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، قلى برمقصود وَقْفٌ أَوْلَى؛ وَصْلٌ أَوْلَى دتندا دڠن صلى.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-26",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ حركة مد عِوَض",
+  "options": [
+   "دوا حركة",
+   "امڤت حركة",
+   "انم حركة"
+  ],
+  "answer": 0,
+  "explanation": "مد عوض دباچ دوا حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-27",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ مد فرق",
+  "options": [
+   "دوا حركة",
+   "امڤت حركة",
+   "انم حركة"
+  ],
+  "answer": 2,
+  "explanation": "مد فرق دباچ انم حركة.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-28",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر ڤنجڠ مد لازم كتيك وصل",
+  "options": [
+   "دوا حركة",
+   "ليم حركة",
+   "انم حركة"
+  ],
+  "answer": 2,
+  "explanation": "مد لازم دباچ انم حركة كتيك وصل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-29",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين مد لازم",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 2,
+  "explanation": "مد لازم تربهاݢي كڤد امڤت: كلمي مثقل، كلمي مخفف، حرفي مثقل دان حرفي مخفف.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-30",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "قدر حركة مد صلة طويلة كتيك وصل",
+  "options": [
+   "دوا اتاو تيݢ",
+   "تيݢ اتاو امڤت",
+   "امڤت اتاو ليم"
+  ],
+  "answer": 2,
+  "explanation": "مد صلة طويلة دباچ امڤت اتاو ليم حركة كتيك وصل.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-31",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ممبرهنتيكن باچاءن ڤد حروف \"و\" يڠ برتندا ماتي سبلوم باريس اتس ______",
+  "options": [
+   "مد فرق",
+   "مد لين",
+   "صلى"
+  ],
+  "answer": 1,
+  "explanation": "مد لين اياله حروف واو اتاو ياء ماتي يڠ سبلومڽ باريس اتس، دباچ كتيك وقف.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-32",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم مد يڠ ترجادي اڤابيلا وقف ڤد حروف يڠ بارباريس دوا دأتس ______",
+  "options": [
+   "مد لازم",
+   "مد فرق",
+   "مد عوض"
+  ],
+  "answer": 2,
+  "explanation": "مد عوض ترجادي اڤابيلا وقف ڤد حروف يڠ بارباريس دوا دأتس (تنوين فتح).",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-33",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ال تعريف دهولوءي اوليه همزة استفهام ______",
+  "options": [
+   "مد فرق",
+   "صلى",
+   "مد عوض"
+  ],
+  "answer": 0,
+  "explanation": "مد فرق ترجادي اڤابيلا ال تعريف دهولوءي اوليه همزة استفهام.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-34",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حروف مد يڠ برتمو سكون اصلي كتيك وصل دان وقف ______",
+  "options": [
+   "مد لين",
+   "مد لازم",
+   "مد فرق"
+  ],
+  "answer": 1,
+  "explanation": "مد لازم اياله حروف مد يڠ برتمو سكون اصلي كتيك وصل دان وقف.",
+  "source": "PAT 2024",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tajwid-pat2024-35",
+  "exam": "Darjah 5",
+  "subject": "Tajwid",
+  "topic": "Tajwid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تندا يڠ منونجوقكن وَصْلُ أَوْلَى (باچاءن سمبوڠ لبيه اوتام) ______",
+  "options": [
+   "مد لازم",
+   "مد عوض",
+   "صلى"
+  ],
+  "answer": 2,
+  "explanation": "تندا صلى برمقصود وَصْلٌ أَوْلَى (باچاءن سمبوڠ لبيه اوتام).",
+  "source": "PAT 2024",
+  "perlu_semak": true
  }
 ]
