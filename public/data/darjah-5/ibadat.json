@@ -1786,5 +1786,624 @@
   "explanation": "ممنديكن جنازه شهيد حكومڽ حرام؛ بكيندا دكبومي دڠن ڤاكاءيڽ.",
   "source": "PAT 2024",
   "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-01",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين صلاة قصر؟",
+  "options": [
+   "ممينديقكن صلاة",
+   "صلاة برجماعه",
+   "مڠهيمڤونكن وقتو",
+   "جاءوه ڤرجالنن"
+  ],
+  "answer": 0,
+  "explanation": "صلاة قصر برمقصود ممينديقكن صلاة 4 ركعة كڤد 2 ركعة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-02",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "براڤاكه قدر مرحلة باكي مسافير صلاة قصر؟",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "مسافير هاروس مڠقصركن صلاة جك ڤرجالنن سجاوه دوا مرحلة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-03",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكمه ملاكوكن صلاة جمعة؟",
+  "options": [
+   "راس سديه",
+   "كورڠ علمو",
+   "ملمهكن ايمان",
+   "كماجوان اومت"
+  ],
+  "answer": 3,
+  "explanation": "صلاة جمعة ممبينا ڤرساودارائن دان كماجوان اومت؛ ڤركارا يڠ لاءين بوكن حكمهڽ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-04",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه شرط صح دوا خطبة؟",
+  "options": [
+   "موالاة",
+   "دودوق",
+   "وقتو عصر",
+   "برحدث"
+  ],
+  "answer": 0,
+  "explanation": "موالاة (برتروسن) اداله ساله ساتو شرط صح دوا خطبة؛ دودوق دان برحدث بوكن شرط، دان وقتوڽ اداله وقتو ظهر.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-05",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلاكه ماسوق وقتو صلاة هاري راي؟",
+  "options": [
+   "جماعه رامي",
+   "وقتو صبح",
+   "ماتاهاري تربيت",
+   "كلينچير ماتاهاري"
+  ],
+  "answer": 2,
+  "explanation": "وقتو صلاة هاري راي بوليه دمولاكن ستله ماتاهاري تربيت هيڠݢ كلينچير ماتاهاري.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-06",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه حكوم تكبير مقيد ڤد هاري راي؟",
+  "options": [
+   "واجب",
+   "سنة",
+   "مكروه",
+   "حرام"
+  ],
+  "answer": 1,
+  "explanation": "تكبير مقيد ڤد هاري راي حكومڽ سنة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-07",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت يڠ افضل دلاكوكن صلاة سنة هاري راي اياله",
+  "options": [
+   "دروميه",
+   "دڤادڠ",
+   "دمسجد",
+   "دسوراو"
+  ],
+  "answer": 2,
+  "explanation": "صلاة هاري راي لبيه افضل دلاكوكن دمسجد.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-08",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه صلاة كسوف دان خسوف منجاديكن ماءنسي سنتياس",
+  "options": [
+   "كفور",
+   "برسديه",
+   "برشكور",
+   "بركمبيرا"
+  ],
+  "answer": 2,
+  "explanation": "صلاة كسوف دان خسوف ممبوات ماءنسي سنتياس مڠيڠتي كبسرن الله دان برشكور؛ كفور بوكن حكمهڽ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-09",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة كسوف دان خسوف سنة دلقساناكن باكي اورڠ يڠ",
+  "options": [
+   "كيلا",
+   "مشريك",
+   "مرديك",
+   "كافر"
+  ],
+  "answer": 2,
+  "explanation": "صلاة كسوف دان خسوف دسنتكن باكي اورڠ يڠ مكلف؛ اورڠ كيلا، مشريك دان كافر تيدق دسنتكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-10",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "استسقاء برمقصود ممينتا",
+  "options": [
+   "اءير",
+   "ماكن",
+   "معاف",
+   "دوءيت"
+  ],
+  "answer": 0,
+  "explanation": "استسقاء برمقصود ممينتا اءير (هوجن).",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-11",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جك ايڠين منداڤتكن هوجن، سنة منونايكن صلاة",
+  "options": [
+   "خوف",
+   "ضحى",
+   "استسقاء",
+   "استخارة"
+  ],
+  "answer": 2,
+  "explanation": "صلاة استسقاء دتونايكن اونتوق ممينتا هوجن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-12",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبلوم مموهون هوجن، افضل امام ميروه اورڠ راماي",
+  "options": [
+   "برتوبة",
+   "برتكبير",
+   "براقرار",
+   "برديري"
+  ],
+  "answer": 0,
+  "explanation": "سبلوم صلاة استسقاء، امام مڽوروه اورڠ راماي برتوبة دان ممبواڠ كزاليمن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-13",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا مڠيڠتي ماتي سام اد دهاتي اتاو",
+  "options": [
+   "دلفظكن",
+   "دتلقينكن",
+   "ددعاءكن",
+   "دأمڤونكن"
+  ],
+  "answer": 0,
+  "explanation": "مڠيڠتي ماتي بوليه دلاكوكن دهاتي اتاو دلفظكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-14",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤركارا يڠ واجب دلاكوكن كأتس اورڠ يڠ ماتي شهيد كران برڤرڠ كچوالي",
+  "options": [
+   "دكافنكن",
+   "دتانمكن",
+   "دكبوميكن",
+   "دصلاتكن"
+  ],
+  "answer": 3,
+  "explanation": "جنازه شهيد تيدق دمنديكن دان تيدق دصلاتكن؛ ايا دكافن (دڠن ڤاكاءيڽ) دان دكبوميكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-15",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله ڤركارا يڠ واجب دلاكوكن كڤد انق يڠ ماتي ككوكورن دان سمڤورنا كجادينڽ كچوالي",
+  "options": [
+   "دكافنكن",
+   "دصلاتكن",
+   "دمنديكن",
+   "دكبوميكن"
+  ],
+  "answer": 1,
+  "explanation": "انق يڠ ماتي ككوكورن (تياد تندا هيدوڤ) واجب دمنديكن، دكافنكن دان دكبوميكن؛ تيدق دصلاتكن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-16",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دأنتارا توجوان دبوات ليڠ قبور. i. منكه باءو جنازه  ii. موده دليهت واريث  iii. بوليه دسيرم اءير  iv. مڠيلقكن دبوڠكر بيناتڠ",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i دان iv",
+   "ii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ليڠ قبور دبوات اونتوق منكه باءو جنازه دان مڠيلقكن دبوڠكر اوليه بيناتڠ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-17",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "تمڤت يڠ تيدق حرام ممينديكن جنازه اداله. i. جوهر  ii. مكة  iii. سلاڠور  iv. بيت المقدس",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i دان iv",
+   "ii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "حرام ممينديكن جنازه كتمڤت لاءين كچوالي كمكة، مدينة اتاو بيت المقدس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-18",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكوم صلاة هاري راي سنة مؤكدة.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، صلاة هاري راي حكومڽ سنة مؤكدة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-19",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايسي خطبة صلاة كرهان ميروه جماعه ملاكوكن معصية.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، خطبة صلاة كرهان مڠانجوركن جماعه برتوبة، برصدقه دان مڠيڠتي الله.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-20",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "امام ممبهاكيكن تنترا كڤد دوا كومڤولن دالم صلاة الْخَوْف.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، دالم صلاة خوف امام ممبهاكي جماعه كڤد دوا كومڤولن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-21",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سنة منتلقينكن جنازه يڠ سوده بالغ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، سنة منتلقينكن جنازه اورڠ يڠ سوده بالغ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-22",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس ممبري تعزية سلڤس برلاكو كماتين تيݢ هاري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، تعزية بوليه دبري سلاما تيݢ هاري سلڤس كماتين.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-23",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة وقتو كدوا دلاكوكن دالم وقتو ڤرتام",
+  "options": [
+   "جمع قصر",
+   "جمع تأخير",
+   "جمع تقديم"
+  ],
+  "answer": 2,
+  "explanation": "جمع تقديم اياله منونايكن صلاة وقتو كدوا دالم وقتو ڤرتام.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-24",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ركعة صلاة هاري راي يڠ دلاكوكن 7 كالي تكبير",
+  "options": [
+   "ركعة ڤرتام",
+   "ركعة كدوا",
+   "ركعة كتيݢ"
+  ],
+  "answer": 0,
+  "explanation": "ڤد ركعة ڤرتام صلاة هاري راي دلاكوكن 7 كالي تكبير، دان ڤد ركعة كدوا 5 كالي.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-25",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "جومله باچاءن تسبيح ركوع ڤرتام ڤد ركعة ڤرتام صلاة كسوف دان خسوف",
+  "options": [
+   "توجوه ڤولوه",
+   "لاڤن ڤولوه",
+   "سراتوس"
+  ],
+  "answer": 2,
+  "explanation": "تسبيح ركوع ڤرتام ڤد ركعة ڤرتام صلاة كسوف دان خسوف دباچ كيرا-كيرا سراتوس.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-26",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حكمه صلاة استسقاء",
+  "options": [
+   "مڠرتكن ڤرڤادوان",
+   "منيمبولكن راس بوڠكق"
+  ],
+  "answer": 0,
+  "explanation": "صلاة استسقاء مڠرتكن ڤرڤادوان دان مڽدركن كلمهن ديري ڤد الله.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-27",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "كدودوقن يڠ افضل كتيك ممباريڠكن جنازه",
+  "options": [
+   "دلامبوڠ تڠه",
+   "دلامبوڠ كيري",
+   "دلامبوڠ كانن"
+  ],
+  "answer": 2,
+  "explanation": "جنازه لبيه افضل دباريڠكن ڤد لامبوڠ كانن دان موكڽ كأره قبلة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-28",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صلاة 4 ركعة بوليه دقصركن كڤد ______",
+  "options": [
+   "2 ركعة",
+   "مسافير",
+   "رسول الله"
+  ],
+  "answer": 0,
+  "explanation": "صلاة 4 ركعة بوليه دقصركن كڤد 2 ركعة.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-29",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "هاروس منونايكن صلاة جمع كران هوجن باكي اورڠ يڠ ______",
+  "options": [
+   "مسافير",
+   "صلاة الْخَوْف",
+   "جنازه للاكي"
+  ],
+  "answer": 0,
+  "explanation": "صلاة جمع هاروس باكي اورڠ يڠ مسافير.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-30",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دأنتارا حكمه صلاة هاري راي داڤت ممنوهي تونتوتن سنة ______",
+  "options": [
+   "رسول الله",
+   "2 ركعة",
+   "صلاة الْخَوْف"
+  ],
+  "answer": 0,
+  "explanation": "ملقساناكن صلاة هاري راي ممنوهي تونتوتن سنة رسول الله ﷺ.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-31",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دلقساناكن كتيك كتاكوتن دان ككچاوان مڠهادڤي سرڠن اياله ڤڠرتين ______",
+  "options": [
+   "صلاة الْخَوْف",
+   "مسافير",
+   "2 ركعة"
+  ],
+  "answer": 0,
+  "explanation": "صلاة خوف دلاكوكن كتيك كتاكوتن دان ككچاوان مڠهادڤي سرڠن موسوه.",
+  "source": "PAT 2025",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-ibadat-pat2025-32",
+  "exam": "Darjah 5",
+  "subject": "Ibadat",
+  "topic": "Ibadat",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اورڠ يڠ ماتي سماس احرام دلارڠ منوتوڤ كڤالان كتيك كافن جك ______",
+  "options": [
+   "جنازه للاكي",
+   "رسول الله",
+   "2 ركعة"
+  ],
+  "answer": 0,
+  "explanation": "جنازه للاكي يڠ ماتي سماس احرام دلارڠ دتوتوڤ كڤالاڽ كتيك كافن.",
+  "source": "PAT 2025",
+  "perlu_semak": true
  }
 ]
