@@ -1,5 +1,546 @@
 [
  {
+  "id": "darjah-5-tauhid-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي دليل اجمالي؟",
+  "options": [
+   "ريڠكس",
+   "سمڤورنا",
+   "ترڤرينچي",
+   "ساتو ڤرساتو"
+  ],
+  "answer": 0,
+  "explanation": "دليل إجمالي اياله دليل سچارا ريڠكس.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه دليل اوڠكڤن يڠ مڠاندوڠي دوا مقدمه دان ساتو نتيجه؟",
+  "options": [
+   "اجمالي",
+   "تفصيلي",
+   "برهان",
+   "شبهة"
+  ],
+  "answer": 2,
+  "explanation": "برهان اياله دليل ڤنچارين عقل يڠ مڠاندوڠي دوا مقدمه دان ساتو نتيجه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه دليل عقلي باكي صيفت وجود الله تعالى؟",
+  "options": [
+   "بهارو عالم اين",
+   "كلام الله تعالى",
+   "سمڤورنا عالم",
+   "الله برصيفت اسا"
+  ],
+  "answer": 0,
+  "explanation": "اداڽ عالم اين بهارو اداله دليل عقلي باكي وجود الله.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه عنصور عالم اين؟",
+  "options": [
+   "عرض",
+   "جرم",
+   "جس",
+   "جرم دان عرض"
+  ],
+  "answer": 3,
+  "explanation": "عالم برتركيب دري عنصور جرم دان عرض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ارتي تَسَلْسُل ڤد ايستيلهڽ؟",
+  "options": [
+   "برڤوسيڠ",
+   "بركابوڠ",
+   "برڤيسه",
+   "برهوبوڠ اتاو برسامبوڠ"
+  ],
+  "answer": 3,
+  "explanation": "تسلسل برمقصود برهوبوڠ اتاو برسامبوڠ (رنتاين).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي صيفت بقاء اياله",
+  "options": [
+   "ككل",
+   "سديا",
+   "بيناس",
+   "وجود"
+  ],
+  "answer": 0,
+  "explanation": "بقاء برمقصود ككل (تيدق بيناس).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه معنا الاستغناء؟",
+  "options": [
+   "محل",
+   "توڠݢل",
+   "بركهندق",
+   "كاي مطلق"
+  ],
+  "answer": 3,
+  "explanation": "الاستغناء برمقصود كاي مطلق (تيدق برحاجت كڤد يڠ لاءين).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ارتي صيفت وحدانية اياله",
+  "options": [
+   "رامي",
+   "بربيلڠ-بيلڠ",
+   "دوا",
+   "اسا (توڠݢل)"
+  ],
+  "answer": 3,
+  "explanation": "وحدانية برمقصود اسا (توڠݢل).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت مستحيل باكي قدرة اياله",
+  "options": [
+   "ترڤقسا",
+   "لمه",
+   "جاهيل",
+   "تولي"
+  ],
+  "answer": 1,
+  "explanation": "مستحيل باكي قدرة اياله لمه (عجز).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون باكي صيفت بصر اياله",
+  "options": [
+   "فكق",
+   "بوتا",
+   "تولي",
+   "بيسو"
+  ],
+  "answer": 1,
+  "explanation": "لاون صيفت بصر اياله بوتا (عمى).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "دليل نقلي صيفت سمع الله تعالى اياله",
+  "options": [
+   "إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ",
+   "قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ",
+   "عَلِمَ ٱلْغَيْبِ وَٱلشَّهَدَةِ",
+   "إِنَّ ٱللَّهَ لَغَنِيٌّ عَنِ ٱلْعَالَمِينَ"
+  ],
+  "answer": 0,
+  "explanation": "إِنَّنِي مَعَكُمَا أَسْمَعُ وَأَرَىٰ اداله دليل نقلي باكي صيفت سمع دان بصر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت واجب الله يڠ كليم بلس اياله",
+  "options": [
+   "كونه مريدا",
+   "كونه سميعا",
+   "كونه قادرا",
+   "كونه حيا"
+  ],
+  "answer": 0,
+  "explanation": "درڤد دوا ڤولوه صيفت واجب، يڠ كليم بلس اياله كونه مريدا (قدرة 7، إرادة 8، ... كونه قادرا 14، كونه مريدا 15).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت واجب يڠ ترماسوق دالم صيفت معنوية اياله. i. وحدانية  ii. قدرة  iii. كونه بصيرا  iv. كونه متكلما",
+  "options": [
+   "i دان ii",
+   "ii دان iii",
+   "i دان iii",
+   "iii دان iv"
+  ],
+  "answer": 3,
+  "explanation": "كونه بصيرا دان كونه متكلما اداله صيفت معنوية؛ وحدانية صيفت سلبية دان قدرة صيفت معاني.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله صيفت٢ معنوية كچوالي",
+  "options": [
+   "كونه قادرا",
+   "كونه مريدا",
+   "كونه حيا",
+   "سميعا"
+  ],
+  "answer": 3,
+  "explanation": "سميعا (سمع) اداله صيفت معاني؛ كونه قادرا، كونه مريدا دان كونه حيا اداله صيفت معنوية.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "عالم ترجادي دڠن سنديري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، عالم بهارو دان دجاديكن اوليه الله، تيدق ترجادي دڠن سنديري.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله منچيڤتا لاڠيت دان بومي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، الله ﷻ يڠ منچيڤتا لاڠيت دان بومي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله تعالى بركهندق كڤد تمڤت برديري.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، الله برصيفت قيامه بنفسه، ماك تيدق برحاجت كڤد تمڤت برديري.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ستياڤ يڠ بهارو بوليه اد دڠن سنديريڽ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ستياڤ يڠ بهارو ممرلوكن ڤنچيڤتا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "وَٱللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ",
+  "options": [
+   "سمع",
+   "بصر",
+   "كلام"
+  ],
+  "answer": 1,
+  "explanation": "ايات اين دليل باكي صيفت بصر.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "لاون صيفت حياة",
+  "options": [
+   "ماتي",
+   "لمه",
+   "جاهيل"
+  ],
+  "answer": 0,
+  "explanation": "لاون (مستحيل) باكي صيفت حياة اياله ماتي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت مستحيل الله تعالى",
+  "options": [
+   "ساتو",
+   "سڤولوه",
+   "دوا ڤولوه"
+  ],
+  "answer": 2,
+  "explanation": "صيفت مستحيل باكي الله تعالى اد دوا ڤولوه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بوليه اد دان بوليه تياد",
+  "options": [
+   "حوادث",
+   "ممكن",
+   "مستحيل"
+  ],
+  "answer": 1,
+  "explanation": "ممكن برمقصود بوليه اد دان بوليه تياد.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت معاني",
+  "options": [
+   "قدرة",
+   "كونه عالما"
+  ],
+  "answer": 0,
+  "explanation": "قدرة اداله صيفت معاني؛ كونه عالما اداله صيفت معنوية.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤچهن كليمة معنا ______",
+  "options": [
+   "كليمة معاني",
+   "صيفت عدمية",
+   "صيفت سلبية"
+  ],
+  "answer": 0,
+  "explanation": "معاني اياله ڤچهن (جمع) كليمة معنا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "حقيقت صيفت معاني ______",
+  "options": [
+   "صيفت ثبوتية",
+   "صيفت عدمية",
+   "صيفت سلبية"
+  ],
+  "answer": 0,
+  "explanation": "صيفت معاني دسبوت جوݢ صيفت ثبوتية.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باكي صيفت سلبية ______",
+  "options": [
+   "صيفت ثبوتية",
+   "صيفت عدمية",
+   "صيفت وجودية"
+  ],
+  "answer": 1,
+  "explanation": "صيفت سلبية دسبوت جوݢ صيفت عدمية.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "نام لاءين باكي صيفت نفسية ______",
+  "options": [
+   "صيفت وجودية",
+   "صيفت عدمية",
+   "صيفت سلبية"
+  ],
+  "answer": 0,
+  "explanation": "صيفت نفسية دسبوت جوݢ صيفت وجودية.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-tauhid-ppt2022-28",
+  "exam": "Darjah 5",
+  "subject": "Tauhid",
+  "topic": "Tauhid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "صيفت يڠ دساندركن كڤد منفيكن اتاو منيدقكن ______",
+  "options": [
+   "صيفت وجودية",
+   "صيفت ثبوتية",
+   "صيفت سلبية"
+  ],
+  "answer": 2,
+  "explanation": "صيفت سلبية دساندركن كڤد منفيكن (منيدقكن) ككورڠن ڤد ذات الله.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-tauhid-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Tauhid",
