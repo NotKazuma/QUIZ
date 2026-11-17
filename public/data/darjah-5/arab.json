@@ -1,5 +1,626 @@
 [
  {
+  "id": "darjah-5-arab-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَيُّ رَقْمٍ \"خَمْسُونَ\" مِمَّا يَأْتِي؟",
+  "options": [
+   "٥٠",
+   "٣٠",
+   "٤٠",
+   "٢٠"
+  ],
+  "answer": 0,
+  "explanation": "خَمْسُونَ = ٥٠.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مَا عَدَدُ \"١٠٠\" فِي الكَلِمَةِ؟",
+  "options": [
+   "عَشَرَةٌ",
+   "مِائَةٌ",
+   "عِشْرُونَ",
+   "ثَلَاثُونَ"
+  ],
+  "answer": 1,
+  "explanation": "١٠٠ = مِائَةٌ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "حَوِّلْ \"٣٠\" فِي الكَلِمَةِ.",
+  "options": [
+   "ثَلَاثُونَ",
+   "مِائَةٌ وَعَشَرَةٌ",
+   "مِائَةٌ وَعِشْرُونَ",
+   "مِائَةٌ"
+  ],
+  "answer": 0,
+  "explanation": "٣٠ = ثَلَاثُونَ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِخْتَرْ فِعْلَ المَاضِي مِنَ الكَلِمَاتِ الآتِيَةِ.",
+  "options": [
+   "اِرْجِعْ",
+   "رَجَعْنَا",
+   "يَرْجِعُ",
+   "يَرْجِعَانِ"
+  ],
+  "answer": 1,
+  "explanation": "رَجَعْنَا فِعْلٌ مَاضٍ؛ اِرْجِعْ فِعْلُ أَمْرٍ، وَيَرْجِعُ وَيَرْجِعَانِ فِعْلَانِ مُضَارِعَانِ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "صَرِّفِ الفِعْلَ المَاضِيَ \"هِيَ\" + ذَهَبَ.",
+  "options": [
+   "ذَهَبَتَا",
+   "ذَهَبَا",
+   "ذَهَبَتْ",
+   "ذَهَبْنَ"
+  ],
+  "answer": 2,
+  "explanation": "هِيَ ذَهَبَتْ (لِلْغَائِبَةِ المُفْرَدَةِ).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اُكْتُبْ ضَمِيرَ الكَلِمَةِ \"ذَهَبْتَ\".",
+  "options": [
+   "أَنْتُمَا",
+   "أَنْتُمْ",
+   "أَنْتَ",
+   "أَنْتُنَّ"
+  ],
+  "answer": 2,
+  "explanation": "ذَهَبْتَ لِلْمُخَاطَبِ المُفْرَدِ، وَضَمِيرُهُ أَنْتَ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَيْنَ لَعِبَ الطَّالِبُ كُرَةَ القَدَمِ؟",
+  "options": [
+   "المَطْعَمُ",
+   "المَلْعَبُ",
+   "الإِدَارَةُ",
+   "المَطْبَخُ"
+  ],
+  "answer": 1,
+  "explanation": "يَلْعَبُ الطَّالِبُ كُرَةَ القَدَمِ فِي المَلْعَبِ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فَاطِمَةُ هِيَ مُمَرِّضَةٌ ______.",
+  "options": [
+   "جَهْلٌ",
+   "كَسَلٌ",
+   "غَضَبٌ",
+   "مَاهِرَةٌ"
+  ],
+  "answer": 3,
+  "explanation": "مَاهِرَةٌ صِفَةٌ مُنَاسِبَةٌ لِلْمُمَرِّضَةِ؛ جَهْلٌ وَكَسَلٌ وَغَضَبٌ لَا تُنَاسِبُ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"طَبِيبٌ\" فِي اللُّغَةِ المَلَايُوِيَّةِ ______.",
+  "options": [
+   "ڤوليس",
+   "دوكتور",
+   "كورو",
+   "عسكر"
+  ],
+  "answer": 1,
+  "explanation": "طَبِيبٌ = doktor (دوكتور).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "المِثَالُ لِلطَّعَامِ الصِّحِّيِّ ______.",
+  "options": [
+   "مِلْحٌ",
+   "السُّكَّرُ",
+   "الفَوَاكِهُ",
+   "الحَلْوَى"
+  ],
+  "answer": 2,
+  "explanation": "الفَوَاكِهُ مِنَ الطَّعَامِ الصِّحِّيِّ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِخْتَرْ ضَمِيرًا لِلْغَائِبِ ______.",
+  "options": [
+   "هَذَا",
+   "ذَلِكَ",
+   "هَذِهِ",
+   "هُمْ"
+  ],
+  "answer": 3,
+  "explanation": "هُمْ ضَمِيرٌ لِلْغَائِبِينَ؛ هَذَا وَذَلِكَ وَهَذِهِ أَسْمَاءُ إِشَارَةٍ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "المِثَالُ مِنَ الضَّمِيرِ المُتَكَلِّمِ ______.",
+  "options": [
+   "أَنْتَ",
+   "أَنْتُمْ",
+   "نَحْنُ",
+   "هُوَ"
+  ],
+  "answer": 2,
+  "explanation": "نَحْنُ ضَمِيرُ المُتَكَلِّمِينَ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الأَرْنَبُ وَالسُّلَحْفَاةُ ______ إِلَى الغَابَةِ.",
+  "options": [
+   "يَذْهَبُونَ",
+   "يَذْهَبْنَ",
+   "نَذْهَبُ",
+   "يَذْهَبَانِ"
+  ],
+  "answer": 3,
+  "explanation": "الأَرْنَبُ وَالسُّلَحْفَاةُ اثْنَانِ، فَالفِعْلُ لَهُمَا يَذْهَبَانِ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَيْنَ يَقَعُ شَاطِئُ \"اير ڤاڤن\"؟",
+  "options": [
+   "موار",
+   "تڠكق",
+   "باتو ڤاهت",
+   "مرسيڠ"
+  ],
+  "answer": 3,
+  "explanation": "شَاطِئُ اير ڤاڤن (Pantai Air Papan) يَقَعُ فِي مرسيڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسْمَاءُ الشَّوَاطِئِ مِمَّا يَأْتِي إِلَّا ______.",
+  "options": [
+   "اير ڤاڤن",
+   "ڤابوڠ",
+   "ديسارو",
+   "كونوڠ اروڠ"
+  ],
+  "answer": 3,
+  "explanation": "كونوڠ اروڠ جَبَلٌ (gunung) لَيْسَ شَاطِئًا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "أَسْمَاءُ الجُزُرِ مِمَّا يَأْتِي إِلَّا ______.",
+  "options": [
+   "جيتي مرسيڠ",
+   "تيومان",
+   "كوكوڤ",
+   "سيبو"
+  ],
+  "answer": 0,
+  "explanation": "جيتي مرسيڠ (jeti Mersing) مَرْفَأٌ لَيْسَ جَزِيرَةً؛ تيومان وَكوكوڤ وَسيبو جُزُرٌ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "عَيِّنْ فِعْلَ الأَمْرِ. i. اُكْتُبْ  ii. اُكْتُبَا  iii. اُكْتُبُوا  iv. كَتَبَ",
+  "options": [
+   "i ، ii",
+   "ii ، iii",
+   "i ، ii ، iii",
+   "iii ، iv"
+  ],
+  "answer": 2,
+  "explanation": "اُكْتُبْ وَاُكْتُبَا وَاُكْتُبُوا أَفْعَالُ أَمْرٍ؛ كَتَبَ فِعْلٌ مَاضٍ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "تَصْرِيفُ فِعْلِ الأَمْرِ \"كَتَبَ\" (أَنْتِ، أَنْتُنَّ). i. اُكْتُبِي  ii. اُكْتُبْنَ  iii. كَتَبَتْ  iv. كَتَبْتُمْ",
+  "options": [
+   "i ، ii",
+   "i ، ii ، iii",
+   "ii ، iii ، iv",
+   "i ، iii"
+  ],
+  "answer": 0,
+  "explanation": "فِعْلُ الأَمْرِ لِأَنْتِ: اُكْتُبِي، وَلِأَنْتُنَّ: اُكْتُبْنَ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"١٠١\" هِيَ مِائَةٌ وَوَاحِدٌ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "صَحِيحٌ، ١٠١ = مِائَةٌ وَوَاحِدٌ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"١٢٠\" هِيَ مِائَةٌ وَعَشَرَةٌ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "خَطَأٌ، ١٢٠ = مِائَةٌ وَعِشْرُونَ؛ أَمَّا مِائَةٌ وَعَشَرَةٌ فَهِيَ ١١٠.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "ذَهَبْتُ مَعَ أُمِّي إِلَى المَرْكَزِ التِّجَارِيِّ.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "صَحِيحٌ، ذَهَبْتُ فِعْلٌ مَاضٍ لِلْمُتَكَلِّمِ وَالجُمْلَةُ صَحِيحَةٌ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هُوَ ذَهَبْتُ إِلَى مَدِينَةِ جُوهُور بَاهْرُو.",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 1,
+  "explanation": "خَطَأٌ، ذَهَبْتُ لِلْمُتَكَلِّمِ فَلَا يُنَاسِبُ الضَّمِيرَ هُوَ؛ وَالصَّحِيحُ: هُوَ ذَهَبَ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "مُسْتَشْفَى هِيَ \"هوسفيتل\".",
+  "options": [
+   "صَحِيحٌ",
+   "خَطَأٌ"
+  ],
+  "answer": 0,
+  "explanation": "صَحِيحٌ، مُسْتَشْفَى = هوسفيتل (hospital).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "نَحْنُ ______",
+  "options": [
+   "نَدْخُلُ",
+   "تَدْخُلُ",
+   "يَدْخُلُ"
+  ],
+  "answer": 0,
+  "explanation": "نَحْنُ نَدْخُلُ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَلْبَسُونَ ______",
+  "options": [
+   "هُوَ",
+   "هُمْ",
+   "هُمَا"
+  ],
+  "answer": 1,
+  "explanation": "يَلْبَسُونَ لِجَمْعِ الغَائِبِينَ، وَضَمِيرُهُمْ هُمْ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "فِعْلُ الأَمْرِ ______",
+  "options": [
+   "كَتَبَ",
+   "كَتَبُوا",
+   "اُكْتُبْ"
+  ],
+  "answer": 2,
+  "explanation": "اُكْتُبْ فِعْلُ أَمْرٍ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "يَا جَمِيلَةُ ______",
+  "options": [
+   "صَلُّوا",
+   "اِفْتَحَا",
+   "اِقْرَئِي"
+  ],
+  "answer": 2,
+  "explanation": "جَمِيلَةُ مُؤَنَّثَةٌ مُفْرَدَةٌ، فَفِعْلُ الأَمْرِ لَهَا اِقْرَئِي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-28",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "\"مِائَتَانِ\" فِي اللُّغَةِ المَلَايُوِيَّةِ ______",
+  "options": [
+   "دوا راتوس",
+   "ديسارو",
+   "مَاهِر"
+  ],
+  "answer": 0,
+  "explanation": "مِائَتَانِ = دوا راتوس (dua ratus).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-29",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "ذَهَبْنَا إِلَى الدُّكَّانِ ______",
+  "options": [
+   "الأَزْهَار",
+   "مَاهِر",
+   "دوا راتوس"
+  ],
+  "answer": 0,
+  "explanation": "دُكَّانُ الأَزْهَارِ = kedai bunga.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-30",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "الطَّالِبَانِ لَعِبَا كُرَةَ القَدَمِ فِي ______",
+  "options": [
+   "المَلْعَب",
+   "الأَزْهَار",
+   "ديسارو"
+  ],
+  "answer": 0,
+  "explanation": "لَعِبَ الطَّالِبَانِ كُرَةَ القَدَمِ فِي المَلْعَبِ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-31",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "هُوَ طَبِيبٌ ______",
+  "options": [
+   "مَاهِر",
+   "المَلْعَب",
+   "الأَزْهَار"
+  ],
+  "answer": 0,
+  "explanation": "هُوَ طَبِيبٌ مَاهِرٌ (doktor yang mahir).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-arab-ppt2022-32",
+  "exam": "Darjah 5",
+  "subject": "Bahasa Arab",
+  "topic": "Bahasa Arab",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "arab",
+  "question": "اِسْمُ شَاطِئٍ ______",
+  "options": [
+   "ديسارو",
+   "دوا راتوس",
+   "مَاهِر"
+  ],
+  "answer": 0,
+  "explanation": "شَاطِئُ ديسارو (Pantai Desaru) اسْمُ شَاطِئٍ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-arab-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Bahasa Arab",
