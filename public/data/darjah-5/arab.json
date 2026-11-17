@@ -2033,7 +2033,7 @@
   "type": "objektif",
   "difficulty": "mudah",
   "script": "arab",
-  "question": "الكَلِمَةُ \"جورورواة\" بِاللُّغَةِ العَرَبِيَّةِ.",
+  "question": "الكَلِمَةُ \"جورورواوت\" بِاللُّغَةِ العَرَبِيَّةِ.",
   "options": [
    "دَوَاءٌ",
    "طَبِيبٌ",
@@ -2041,7 +2041,7 @@
    "مُمَرِّضَةٌ"
   ],
   "answer": 3,
-  "explanation": "جورورواة (jururawat) = مُمَرِّضَةٌ.",
+  "explanation": "جورورواوت (jururawat) = مُمَرِّضَةٌ.",
   "source": "PAT 2025",
   "perlu_semak": true
  },
