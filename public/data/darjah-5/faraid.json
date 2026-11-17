@@ -1,5 +1,647 @@
 [
  {
+  "id": "darjah-5-faraid-ppt2022-01",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤاكه ڤڠرتين الْفُرُوض دري سكي بهاس؟",
+  "options": [
+   "ڤمبهاكين",
+   "كتنتوان",
+   "ڤوساك",
+   "لبيهن"
+  ],
+  "answer": 1,
+  "explanation": "الفروض ڤد بهاس برمقصود كتنتوان (تقدير).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-02",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث٢ يڠ منريما هرتا ڤوساك دڠن چارا فرض سباݢايمان كتتڤن شرع.",
+  "options": [
+   "اَصْحَابُ الْفُرُوض",
+   "الْفُرُوض",
+   "الْحَجْبُ",
+   "عصبة"
+  ],
+  "answer": 0,
+  "explanation": "اصحاب الفروض اياله واريث٢ يڠ منريما ڤوساك دڠن بهاكين يڠ دتنتوكن اوليه شرع.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-03",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "شرط سوامي منداڤت ڤوساك بهاكين فَرْضُ ½.",
+  "options": [
+   "اد انق للاكي",
+   "تياد انق ڤرمڤوان",
+   "اد ايبو",
+   "تياد باڤ"
+  ],
+  "answer": 1,
+  "explanation": "سوامي منداڤت ½ جك تياد انق اتاو چوچو (فروع واريث)؛ جك اد، بهاكينڽ ¼.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-04",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن واريث يڠ منريما ڤوساك فَرْضُ ¼.",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 0,
+  "explanation": "¼ دتريما اوليه دوا واريث: سوامي (جك اد فروع واريث) دان ايستري (جك تياد فروع واريث).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-05",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين ايستري جك سي ماتي اد منيڠݢلكن انق للاكي.",
+  "options": [
+   "½",
+   "⅓",
+   "¼",
+   "⅛"
+  ],
+  "answer": 3,
+  "explanation": "ايستري منداڤت ⅛ جك سي ماتي منيڠݢلكن انق اتاو چوچو.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-06",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤنريما ڤوساك فَرْضُ ثُلُثَان.",
+  "options": [
+   "دوا اورڠ چوچو ڤرمڤوان",
+   "دوا اورڠ چوچو للاكي",
+   "دوا اورڠ اديق براديق للاكي",
+   "دوا اورڠ اديق براديق ڤرمڤوان سأيبو"
+  ],
+  "answer": 0,
+  "explanation": "⅔ دتريما اوليه دوا اورڠ چوچو ڤرمڤوان (درڤد انق للاكي) اتاو لبيه؛ چوچو للاكي دان ساودارا للاكي اداله عصبة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-07",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله سأورڠ واريث يڠ منريما بهاكين فَرْضُ سُدُس.",
+  "options": [
+   "سوامي",
+   "باڤ",
+   "ايستري",
+   "انق للاكي"
+  ],
+  "answer": 1,
+  "explanation": "باڤ منداڤت ⅙ جك اد انق للاكي؛ سوامي منداڤت ½ اتاو ¼، ايستري ¼ اتاو ⅛ دان انق للاكي اداله عصبة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-08",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ تيدق دتتڤكن قدر ڤوساك يڠ اكن دتريما.",
+  "options": [
+   "اَصْحَابُ الْفُرُوض",
+   "عصبة",
+   "الْفُرُوض",
+   "عَوْل"
+  ],
+  "answer": 1,
+  "explanation": "عصبة اياله واريث يڠ تيدق دتتڤكن قدر ڤوساكڽ؛ مريك منريما باقي هرتا.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-09",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "چارا واريث عصبة بوليه منداڤت ڤوساك اد",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 1,
+  "explanation": "عصبة تربهاݢي تيݢ: عصبة بنفسه، عصبة بغيره دان عصبة مع غيره.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-10",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "الله منتڤكن بهاكين سأورڠ انق للاكي مڽاماءي بهاكين دوا اورڠ",
+  "options": [
+   "ايبو",
+   "باڤ",
+   "انق ڤرمڤوان",
+   "چوچو ڤرمڤوان"
+  ],
+  "answer": 2,
+  "explanation": "الله مڽاماكن بهاكين سأورڠ انق للاكي دڠن بهاكين دوا اورڠ انق ڤرمڤوان (للذكر مثل حظ الأنثيين).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-11",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ مڠهابيسي هرتا دڠن سنديريڽ اداله مقصود عصبة",
+  "options": [
+   "بِنَفْسِه",
+   "بِغَيْرِه",
+   "مَعَ غَيْرِه",
+   "مَعَ نَفْسِه"
+  ],
+  "answer": 0,
+  "explanation": "عصبة بنفسه اياله واريث للاكي يڠ مڠهابيسي هرتا دڠن سنديريڽ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-12",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "انق ڤرمڤوان منداڤت عصبة بِغَيْرِه كران اد",
+  "options": [
+   "ايبو",
+   "باڤ",
+   "انق للاكي",
+   "چوچو ڤرمڤوان"
+  ],
+  "answer": 2,
+  "explanation": "انق ڤرمڤوان منداڤت عصبة بغيره اڤابيلا برسام انق للاكي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-13",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سسأورڠ ترهالڠ درڤد منداڤت ڤوساك اداله ڤڠرتين",
+  "options": [
+   "اَصْحَابُ الْفُرُوض",
+   "الْفُرُوض",
+   "الْحَجْبُ",
+   "عصبة"
+  ],
+  "answer": 2,
+  "explanation": "الحجب برمقصود ترهالڠ (ترديندڠ) درڤد منداڤت ڤوساك.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-14",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اڤابيلا سي ماتي منيڠݢلكن فُرُوعُ وَارِث، بهاكين سوامي بركورڠ درڤد ½ كڤد",
+  "options": [
+   "⅓",
+   "¼",
+   "⅙",
+   "⅛"
+  ],
+  "answer": 1,
+  "explanation": "سوامي منداڤت ½ جك تياد فروع واريث، دان بركورڠ كڤد ¼ جك اد فروع واريث.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-15",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ تيدق ترهالڠ منداڤت ڤوساك انتارا",
+  "options": [
+   "سوامي",
+   "ساودارا للاكي",
+   "داتوق",
+   "نينيق"
+  ],
+  "answer": 0,
+  "explanation": "سوامي تيدق ڤرنه ترهالڠ منداڤت ڤوساك؛ ساودارا للاكي، داتوق دان نينيق بوليه ترهالڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-16",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "برايكوت اداله بهاكين عصبة كچوالي عصبة",
+  "options": [
+   "بِنَفْسِه",
+   "بِغَيْرِه",
+   "مَعَ غَيْرِه",
+   "مَعَ نَفْسِه"
+  ],
+  "answer": 3,
+  "explanation": "عصبة تربهاݢي كڤد بنفسه، بغيره دان مع غيره؛ «مع نفسه» تيدق اد.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-17",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت بوكن ترديندڠ دڠن سبب صيفت؟",
+  "options": [
+   "ممبونوه سي ماتي",
+   "برلاءينن اكام",
+   "مرديك",
+   "كسامرن وقتو ماتي"
+  ],
+  "answer": 2,
+  "explanation": "ڤڠهالڠ ڤوساك سبب صيفت انتاراڽ ممبونوه، برلاءينن اكام دان همبا؛ مرديك (بيبس) بوكن ڤڠهالڠ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-18",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ماناكه انتارا برايكوت چارا ممڤوساكاءي هرتا؟ i. فرض  ii. حجاب  iii. عصبة  iv. بركوڠسي",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "ii دان iii",
+   "ii دان iv"
+  ],
+  "answer": 1,
+  "explanation": "چارا ممڤوساكاءي هرتا اياله دڠن فرض اتاو عصبة.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-19",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو منداڤت بهاكين ⅓ اڤابيلا سي ماتي تيدق منيڠݢلكن. i. انق للاكي  ii. انق ڤرمڤوان  iii. چوچو للاكي درڤد انق للاكي  iv. چوچو للاكي درڤد انق ڤرمڤوان",
+  "options": [
+   "i دان ii",
+   "i دان iii",
+   "i ، ii دان iii",
+   "ii ، iii دان iv"
+  ],
+  "answer": 2,
+  "explanation": "ايبو منداڤت ⅓ جك سي ماتي تيدق منيڠݢلكن انق للاكي، انق ڤرمڤوان اتاو چوچو للاكي درڤد انق للاكي.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-20",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ساله سأورڠ واريث يڠ منريما ڤوساك فَرْضُ ¼ اياله باڤ.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، باڤ منداڤت ⅙ (جك اد انق للاكي) دان عصبة، بوكن ¼؛ ¼ دتريما اوليه سوامي اتاو ايستري.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-21",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ايبو منداڤت بهاكين ⅓ جك سي ماتي منيڠݢلكن انق للاكي.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 1,
+  "explanation": "ساله، ايبو منداڤت ⅙ جك اد انق للاكي؛ ⅓ جك تياد فروع واريث.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-22",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اد كالاث واريث عصبة تيدق منريما اڤ٢ بهاكين.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، جك هرتا تله حبس اوليه اصحاب الفروض، عصبة تيدق منداڤت اڤ٢.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-23",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "اديق براديق ڤرمڤوان سباڤ منداڤت عصبة جك برسام انق ڤرمڤوان.",
+  "options": [
+   "بتول",
+   "ساله"
+  ],
+  "answer": 0,
+  "explanation": "بتول، ساودارا ڤرمڤوان سباڤ منداڤت عصبة مع غيره اڤابيلا برسام انق ڤرمڤوان.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-24",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بيلڠن واريث يڠ منريما بهاكين ½",
+  "options": [
+   "تيݢ",
+   "امڤت",
+   "ليم"
+  ],
+  "answer": 2,
+  "explanation": "واريث يڠ منداڤت ½ اد ليم: سوامي، انق ڤرمڤوان، چوچو ڤرمڤوان، ساودارا ڤرمڤوان سأيبو سباڤ دان ساودارا ڤرمڤوان سباڤ.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-25",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤنريما ڤوساك بهاكين ¼",
+  "options": [
+   "سوامي",
+   "انق للاكي",
+   "باڤ"
+  ],
+  "answer": 0,
+  "explanation": "سوامي منداڤت ¼ جك اد فروع واريث (انق اتاو چوچو).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-26",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين ڤوساك داتوق",
+  "options": [
+   "⅓",
+   "¼",
+   "⅙"
+  ],
+  "answer": 2,
+  "explanation": "داتوق منداڤت ⅙ سباݢاي بهاكين فرض.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-27",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين عَصَبَة",
+  "options": [
+   "دوا",
+   "تيݢ",
+   "امڤت"
+  ],
+  "answer": 1,
+  "explanation": "عصبة تربهاݢي تيݢ: بنفسه، بغيره دان مع غيره.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-28",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "سبب برلاكو الْحَجْبُ",
+  "options": [
+   "صيفت",
+   "ڤنديديقن",
+   "كچنتيقن"
+  ],
+  "answer": 0,
+  "explanation": "الحجب برلاكو كران سبب صيفت (ممبونوه، برلاءينن اكام دان همبا).",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-29",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين يڠ دتتڤكن اوليه شرع كڤد واريث ترتنتو ______",
+  "options": [
+   "الْفُرُوض",
+   "⅔",
+   "همبا"
+  ],
+  "answer": 0,
+  "explanation": "الفروض اياله بهاكين يڠ دتتڤكن اوليه شرع كڤد واريث ترتنتو.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-30",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "بهاكين فَرْضُ يڠ دڤرولهي دوا اورڠ انق ڤرمڤوان اتاو لبيه ______",
+  "options": [
+   "⅔",
+   "باڤ",
+   "حِرْمَان"
+  ],
+  "answer": 0,
+  "explanation": "دوا اورڠ انق ڤرمڤوان اتاو لبيه منداڤت ⅔.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-31",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "واريث يڠ منداڤت ڤوساك دڠن جالن عصبة بِنَفْسِه ______",
+  "options": [
+   "باڤ",
+   "همبا",
+   "⅔"
+  ],
+  "answer": 0,
+  "explanation": "باڤ منداڤت ڤوساك دڠن جالن عصبة بنفسه.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-32",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ڤركارا يڠ مڠهالڠ سسأورڠ منداڤت هرتا دڠن سبب صيفت ______",
+  "options": [
+   "همبا",
+   "الْفُرُوض",
+   "⅔"
+  ],
+  "answer": 0,
+  "explanation": "همبا (ڤرهمباءن) مڠهالڠ سسأورڠ منداڤت هرتا دڠن سبب صيفت.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
+  "id": "darjah-5-faraid-ppt2022-33",
+  "exam": "Darjah 5",
+  "subject": "Faraid",
+  "topic": "Faraid",
+  "type": "objektif",
+  "difficulty": "mudah",
+  "script": "jawi",
+  "question": "ترهالڠ سام سكالي درڤد ممڤوساكاءي هرتا ______",
+  "options": [
+   "حِرْمَان",
+   "باڤ",
+   "⅔"
+  ],
+  "answer": 0,
+  "explanation": "حرمان برمقصود ترهالڠ سام سكالي درڤد منداڤت ڤوساك.",
+  "source": "PPT 2022",
+  "perlu_semak": true
+ },
+ {
   "id": "darjah-5-faraid-pat2022-01",
   "exam": "Darjah 5",
   "subject": "Faraid",
